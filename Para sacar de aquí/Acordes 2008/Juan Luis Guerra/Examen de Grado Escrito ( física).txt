@@ -1,0 +1,56 @@
+﻿      4.   Relacione con líneas el concepto y las fórmulas:  (    3  puntos)  
+
+
+          Cantidad de calor                                              Af  =    Ai   T  + Ai
+       
+          Cambio de área                                                  Lf  =     li    T  +  li
+                                                        
+          Dilatación lineal                                                 E  x I
+
+          Dilatación cúbica                                               Q  = mc   T
+
+          Potencia                                                              Af  -  Ai
+
+          Dilatación superficial                                          Vf   =     Vi    T  +  Vi    
+
+    5. Si  l caloría  = 4.18 joules .     (     2 puntos)
+Convierta  520   calorías a joules 
+
+           
+            Convierta 4500 Joules a calorías
+  
+
+       6.   Resuelva el siguiente circuito:                  Determinar : (  3 puntos)
+                                                                                a) La resistencia equivalente
+                                                                                b) La corriente en cada resistor
+                                                                                c)  La corriente total
+
+
+
+
+
+
+      
+                                                                         
+
+
+
+
+    6. Resuelva el siguiente ejercicio:     (   3 puntos) 
+En un circuito hay una tensión de 220 voltios y circula una corriente de 45 amperes de intensidad, Calcular su resistencia.    
+
+
+
+
+
+
+
+         Alumno: ………………..
+
+
+
+
+
+
+
+

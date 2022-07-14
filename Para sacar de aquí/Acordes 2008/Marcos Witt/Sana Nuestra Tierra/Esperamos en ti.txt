@@ -1,0 +1,55 @@
+Esperamos en ti
+Artista: Marcos Witt
+Album: Sana Nuestra Tierra
+Aportada por: 
+Tipo de transcripcion: crd
+Idioma: Español
+Clase: Adoración
+
+esperamos en ti
+artista: marcos witt
+album: sana nuestra tierra
+tipografia original: abadi mt condensed light, arial narrow
+
+ 
+ 
+estribillo:
+       A         
+sea tu misericordia
+D                          A                         E
+sobre nosotros segun esperamos en ti
+       A  
+sea tu benevolencia
+D                              A                         E
+sobre los pueblos segun esperamos en ti
+ 
+coro:
+dmaj7     E         F#m7   D 
+espera - mos en ti
+         A              F#m7           E     E/G#
+en tu amor y en    tu         bondad
+dmaj7     E       c#/f    F#m7     b7/d#
+espera - mos     en       ti
+        A/E           E                 F#m7     b7/d#
+por amor de tu nombre salvanos
+       A               E                 d/a      A
+por amor de tu nombre 
+
+
+{Definimos Dmaj7.. cuerda base 1 cuerdas x x 0 2 2 2}
+{Definimos Fm7.. cuerda base 1 cuerdas x x 1 1 1 1}
+{Definimos A/D.... cuerda base 1 cuerdas x x 0 2 2 0}
+{Definimos A/D...... cuerda base 9 cuerdas x x 0 1 2 1}
+{Definimos A/G. cuerda base 1 cuerdas 3 x 2 2 2 0}
+{Definimos B7/add11. cuerda base 1 cuerdas 0 0 4 4 4 0}
+{Definimos B7/add11.. cuerda base 1 cuerdas 0 2 1 2 0 2}
+{Definimos E/Gb. cuerda base 1 cuerdas 0 2 2 1 0 2}
+{Definimos E/Gb.. cuerda base 1 cuerdas 0 x 4 1 0 0}
+{Definimos C/F. cuerda base 1 cuerdas x 3 3 0 1 0}
+{Definimos C/F.. cuerda base 1 cuerdas x x 3 0 1 0}
+{Definimos D/B. cuerda base 2 cuerdas x 0 3 3 2 1}
+{Definimos D/B.. cuerda base 1 cuerdas x 2 0 2 0 2}
+
+
+
+

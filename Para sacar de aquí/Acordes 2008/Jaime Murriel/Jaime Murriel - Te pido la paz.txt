@@ -1,0 +1,47 @@
+﻿Te pido de la paz
+Por: Jaime Murriel
+
+Intro:
+//E A2//
+
+ESTROFA:
+  E          G#m        A2    (E)
+//Ayúdame a mirar con tus ojos
+     F#m      A/F    B
+yo quiero sentir tu corazón
+     G#m         B               C#
+no quiero vivir mas siendo insensible,
+    F7#m     A/F           B7   B/A  B
+tanta necesidad por Jesucristo//
+
+CORO I:
+            E  B       C#m      C#
+Te pido la paz   para mi ciudad
+            F#m A      B
+te pido perdón    por mi ciudad
+            E   B             C#m  C#
+ahora me humillo  y busco tu rostro
+     F#m       A          B
+a quien iré Señor sino a ti
+
+CORO II:
+            E  B       C#m      C#
+Te pido la paz   para mi ciudad
+            F#m A      B
+te pido perdón    por mi ciudad
+            E   B             C#m  C#
+ahora me humillo  y busco tu rostro
+     F#m       A          
+a quien iré Señor 
+     F#m       A        
+a quien iré Señor 
+     F#m       A          E
+a quien iré Señor sino a ti
+
+Final:
+A2 E A2
+
+escala /EADGBE/
+A2=002200
+A/F=102220
+B/A=004440

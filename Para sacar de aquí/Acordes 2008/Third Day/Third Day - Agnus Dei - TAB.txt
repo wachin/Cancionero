@@ -1,0 +1,122 @@
+﻿Title:Agnus Dei
+Artist: Third Day
+Album: Rocketown Rec. Exodus Compilation
+Author: M. W. Smith & 1990 O'Ryan Music, Inc. (ASCAP)
+
+After the drum and bass intro, strum a C chord and play with the
+feedback for four measures. Then play the riffs below. There is no
+timing significance in this tab. Guitar 1 is an acoustic, while guitars
+2&3 are electric. During this part guitars 1&3 play a c chord, while
+guitar 2 plays R1. Guitar 3 has a clean distortion here.
+
+Gui2  C
+R1 D------5-----5-(5)/7\3--
+   A--3-3---3-3------------
+
+During this part guitar 3 plays R3 while guitar 1 plays the F chord.
+
+Gui2  F
+R2 D------10-----10---10---10-----10---10---10/--
+   A--8-8----8-8----8----8----8-8----8----8------   
+
+Listen for the rhythm and the timing to bend the note up.
+
+Gui3  F
+R3 G--5--
+
+The first time the repeat is done on the verse guitar 2 comes in.
+
+Gui2  C F     C                     F
+R4 D----3/5/7-----5-----5-(5)/7\3---3/5/7--
+   A--3-------3-3---3-3-----------3--------
+
+The second time the verse is played guitar 2 plays R5. Guitars 1&3 play
+the chords. Guitar 3 uses a distortion, tremolo, and phase sound.
+
+Gui2  F     C                                    F
+R5 D--3/5/7-----5-----5-(5)/7\3---5-(5)/7\5\3-2~-3/5/7--
+   A--------3-3---3-3-----------3-----------------------
+
+      C
+   D------5-----5-(5)/7\3----
+   A--3-3---3-3-----------3--
+
+The interlude after the first verse is R6. During this part guitar 3 is
+tacet, I couldn't hear a guitar 3. Guitar 1 plays a C chord.
+
+Gui2  C
+R6 A--3/5/7/8/10/12/17--15~--17--19~\
+
+
+The pause before the second chorus is a 6/8 measure. The second time
+the chorus is played guitar 2 plays R7.
+
+Gui2  C                             G         F
+R7 E-----15--------15--------15-----------15~------13~-------13~--
+   B--13----13~-13----13~-13----13~-15-15-----13--------13--------
+   G---------------------------------------------14--------14-----
+
+When playing the Fm and the Ab6 in the second chorus substitute R8 for
+R7(the F chord part).
+
+Gui2  F         Fm & Ab6
+R8 E--------13~-------13~--
+   B--13--------13---------
+   G-----14--------13------
+
+When playing the C chord right before the guitar solo guitar 2 plays R9.
+
+Gui2  C
+R9 E--------15----15----15-----------15----15----15\--
+   B--13-13----13----13----13--13-13----13----13------
+
+Verse:
+C     F     C     F     C   (repeat)
+F      
+
+Chorus:
+C     G
+F     *1
+C     G
+F     *2     (C)  
+
+*1 means: the third time this particular line is played, guitar 1 plays a Fm. Guitar 3 plays the Ab6. Then play Rhy.Fig.1 and solo. *2 means: the second time this particular line is played, guitar 1 plays a Fm. Guitar 3 plays the Ab6. PLay this where the *'s lie. Guitar 3 uses a distortion and phase sound in the chorus.
+ This is the outro part during the guitar solo. The C5 and Ab6 didn't come from me but from the song "This Song was Meant for You". Guitar 3 uses a distortion and phase sound for the outro.
+
+Rhy.Fig.1  Gui3  Ab    Bb     C5          Ab6
+              G--5-----/7-----5--       E-----
+              D--6-----/8-----5--       B--6--
+              A--6-----/8-----x--       G--5--
+              E--4-----/6-----8--       D--6--
+                                        A--x--
+           Gui1  Ab    Bb    C          E--4--
+              E--------------0--
+              B--------3-----1--        ~ = vibrato
+              G--1-----3-----0--        r = return
+              D--1-----3-----2--        h = hammer-on
+              A--x-----1-----3--        p = pull-off
+              E--4--------------
+
+Guitar solo: Gui2
+E----------------------------------------------------------------------
+B-------------------------------------------15b17r15--13~--------------
+G--12*12--10\9--/12-10-9--8-10-12/13-12-------------------12-10-9------
+D-------------------------x--x--x--x--x--------------------------------
+A-------------------------6--8-10/11-10--15----------------------------
+E----------------------------------------------------------------------
+           
+E-------------------------------------------------15-------------------
+B----------------------------------------------------------------------
+G--10-8-7-8\7-5--10~--8-7--12~--8-10-12/13-12-12~----10~-10~--7*7------
+D---x-x-x-x-x-x-----------------x--x--x--x--x--------------------------
+A---8-6-5-6\5-3-----------------6--8-10/11-10--------------------------
+E----------------------------------------------------------------------
+              
+E-------------------------------------13p12----------------------------
+B-------------------------------------------13----15b17r15-15*15--13~--
+G--5\----------------10*10-8-7-10~-9-----------12----------------------
+D-----/10~-10~-8h10~---------------------------------------------------
+A----------------------------------------------------------------------
+E----------------------------------------------------------------------
+The *'s mean to bend up a 1/4 and return to the next stated fret. He uses a wah and muffles a lot. You will have to figure out the rhythm for the octave bars yourself. Just like to say that Third Day is the BEST band out there. I plan to give more tabs from the band. Hope you enjoy.-Kent-
+http://www.christianguitar.org/csongs501/Third-Day

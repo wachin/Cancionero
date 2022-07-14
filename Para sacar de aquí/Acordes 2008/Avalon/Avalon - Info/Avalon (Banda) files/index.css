@@ -1,0 +1,152 @@
+@media print {#content { background: white } } /* Fondo blanco al imprimir */
+
+a { text-decoration: none}  /* Los enlaces no van subrayados */
+a:hover { text-decoration: underline}
+
+/* "editar" en minúscula en algunas páginas especiales */
+body.page-Especial_RedireccionesDobles a.new,
+body.page-Especial_Artilugios h2 a,
+body.page-Especial_Desambiguaciones ol.special li a[href *="/w/index.php"] { text-transform: lowercase }
+
+/* Ocultar título y categorías en la Portada*/
+body.page-Wikipedia_Portada h1.firstHeading, body.page-Wikipedia_Portada#catlinks { display:none; }
+
+.citado {
+   padding: 5px 10px;
+/* border: 1px dashed #AAA; */
+   background-color: #F9F9F9;
+}
+
+div.alreadyloggedin {color: red; font-weight: bold} /* Aviso rojo en ([[MediaWiki:Alreadyloggedin]])  */
+
+form#userlogin {
+  float: left;
+  padding: 1em 1em .7em 1em;
+  background-color: #ffffe6;
+  border: 2px solid #fc6;
+  color: #000;
+  margin-right: 2em;
+}
+form#userlogin table {
+  float: left;
+  background-color: #ffffe6;
+  color: #000;
+}
+
+
+li.destacado {
+  list-style-image: url("http://upload.wikimedia.org/wikipedia/en/d/d4/Monobook-bullet-star.png");
+  list-style-type: square;
+  margin-left: 2px;
+}
+
+li.bueno {
+  list-style-image: url("http://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Art%C3%ADculo_bueno.svg/10px-Art%C3%ADculo_bueno.svg.png");
+  list-style-type: square;
+  margin-left: 2px;
+}
+
+
+p.error {font-weight: bold}
+
+/* redondeo de esquinas en ciertos navegadores */
+.pBody { 
+   padding: 0.3em 0.1em;
+   -moz-border-radius-topright: 0.5em;
+}
+.portlet h5 {
+   background-color: #e0e3e6;
+   border: thin solid silver;
+   -moz-border-radius-topright: 0.5em;
+}
+
+/* CSS de tablas */
+table.metadata {
+   border: 1px solid #aaaaaa;
+   display: none; /* A definir por cada usuario */
+}
+.metadata-label {color: #aaaaaa}
+
+
+.searchbox .searchboxInput {background-color: transparent}
+
+
+#content {-moz-border-radius-topleft: 0.5em}
+#coordinates {  
+    position: absolute;
+    z-index: 1;
+    border: none;
+    background: none;
+    right: 20px;
+    top: 3.7em;
+    float: right;
+    margin: 0.0em;
+    padding: 0.0em;
+    line-height: 1.5em;
+    text-align: right;
+    text-indent: 0;
+    font-size: 85%;
+    text-transform: none;
+    white-space: nowrap;
+}
+
+#siteNotice {margin-top: 5px; margin-bottom: -.5em} /* Donations link to be uncommented during fundraising drives */
+
+#ca-edit a {font-weight: bold !important} /* Bold 'edit this page' link to encourage newcomers */
+
+#mw-dismissable-notice {background: transparent}
+
+#pt-login {font-weight: bold; font-size: 110%}
+
+
+/* CSS para cosas plegables */
+
+div.BoxenVerschmelzen,
+div.NavFrame {
+    margin: 0px;
+    padding: 2px;
+    border: 1px solid #aaaaaa;
+    text-align: center;
+    border-collapse: collapse;
+    font-size: 95%;
+}
+div.BoxenVerschmelzen div.NavFrame {
+    border-style: none;
+    border-style: hidden;
+}
+div.NavFrame + div.NavFrame {
+    border-top-style: none;
+    border-top-style: hidden;
+}
+div.NavPic {
+    background-color: #ffffff;
+    margin: 0px;
+    padding: 2px;
+    float: left;
+    display: none;
+}
+div.NavFrame div.NavHead {
+    height: 1.6em;
+    font-weight: bold;
+    font-size: 100%;
+    background-color: #efefef;
+}
+div.NavFrame p {
+    font-size: 100%;
+}
+div.NavFrame div.NavContent {
+     font-size: 100%;
+}
+div.NavFrame div.NavContent p {
+     font-size: 100%;
+}
+div.NavEnd {
+     margin: 0px;
+     padding: 0px;
+     line-height: 1px;
+     clear: both;
+}
+.NavToggle {
+    font-size: x-small;
+    float:right;
+}
