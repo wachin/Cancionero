@@ -1,0 +1,3 @@
+http://repo.antixlinux.com/bullseye/pool/main/f/fonts-iosevka/
+
+

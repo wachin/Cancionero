@@ -1,0 +1,16 @@
+
+
+
+Creador online de diagramas dibujo de acordes de guitarra
+
+Guitar Chord Diagram Creator
+
+Generador de acordes de guitarra en linea:
+
+Chartz
+An easy way to generate guitar chord charts without watermarks
+https://explosion-scratch.github.io/chartz/
+
+codigo fuente:
+https://github.com/Explosion-Scratch/chartz
+ 

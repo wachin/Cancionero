@@ -1,0 +1,10 @@
+
+
+La carpeta:
+
+Fonts
+
+Copiarla en Android a la raíz del Almacenamiento Interno, son para que las pueda usar WPS Office en Android:
+ https://play.google.com/store/apps/details?id=cn.wps.moffice_eng
+
+Porque este cancionero usa esas fuentes

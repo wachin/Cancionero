@@ -1,0 +1,18 @@
+Package: fonts-iosevka
+Version: 1.14.1a-2~lboulard
+Architecture: all
+Maintainer: Laurent Boulard <laurent.boulard@gmail.com>
+Installed-Size: 8345
+Section: fonts
+Priority: optional
+Multi-Arch: foreign
+Homepage: https://be5invis.github.io/Iosevka/
+Description: Iosevka is a slender monospace sans-serif typeface
+ Concept
+ Iosevka is a slender monospace sans-serif and slab-serif typeface inspired by
+ Pragmata Pro, M+ and PF DIN Mono, designed to be the ideal font for
+ programming.
+ .
+ Open Source
+ Iosevka is completely generated from its source code. You can build your own
+ variant by adjusting its parameters.
