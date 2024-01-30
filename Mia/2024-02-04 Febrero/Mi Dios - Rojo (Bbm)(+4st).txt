@@ -1,75 +1,75 @@
 Mi Dios
-Rojo
+Rojo (Bbm)(+4 semitonos)
+Poner el capotraste en la 1ra.
 
 INTRO x2
-Bbm F# C# Ab
+Am F C G
 
 VERSO I
-Bbm        F#        C#
+Am         F         C
 Dios de milagros y amor,
- Bbm      F#        C#
+ Am       F         C
 Sanas y das salvación
-        Ebm        Ab
+        Dm         G
 Incomparable eres Tú.
 
 VERSO II
-Bbm         F#       C#
+Am          F        C
 Brillas en la oscuridad
- Bbm         F#       C#
+ Am          F        C
 Clamamos por tu libertad
-        Ebm        Ab
+        Dm         G
 Incomparable eres Tú
 
 CORO
- Bbm
+ Am
 Mi Dios es grande,
- F#
+ F
 mi Dios es fuerte
-C#
+C
 Nadie es igual,
-          Ab
+          G
 nadie le hace frente
- Bbm
+ Am
 Dios sana y salva,
-      F#
+      F
 con Gloria se exalta
-    C#       Ab
+    C        G
 Mi Dios, mi Dios
 
 INTRO x1
-Bbm F# C# Ab
+Am  F C G
 
 VERSO II
-Bbm         F#       C#
+Am          F        C
 Brillas en la oscuridad
- Bbm         F#       C#
+ Am          F        C
 Clamamos por tu libertad
-      Ebm          Ab
+      Dm           G
 Incomparable eres Tú
 
 CORO x2
 
 INTRO x2
-Bbm F# C# Ab
+Am  F C G
 
 INTERLUDIO  x2
- Bbm
+ Am
 Y si Dios con nosotros,
-    F#
+ F
 ¿Quién pues contra nosotros?
-C#
+C
   Y si Dios nos levanta,
-Ab/C
+G
 ¿Quién pues nos detendrá?
 
 INTRO x2
-Bbm F# C# Ab
+Am F C G
 
 CORO x2
 
 INTERLUDIO  x2
 
 INTRO x2
-Bbm F# C# Ab
-
+Am F C G
 
