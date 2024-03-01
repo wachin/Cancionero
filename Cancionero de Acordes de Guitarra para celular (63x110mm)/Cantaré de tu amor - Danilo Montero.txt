@@ -1,6 +1,6 @@
 Cantaré de tu amor
 Danilo Montero
-BMP 80
+BMP 83
 
 INTRO
 C F C F C F C F
@@ -26,13 +26,13 @@ tu reino vino a mi vida
 y ahora vivo para ti
 
 CORO
-C                G
+C         G
 Cantaré de tu amor
-      Am        G      F
+      Am        G        F
 rendiré mi corazón ante tí
-C                G
+C          G
 tu serás, mi pasión
-         Am         G          F
+       Am           G          F
 y mis pasos se guiarán con tu voz
 
 PUENTE X1
@@ -53,19 +53,17 @@ CORO
 
 PUENTE X1
 
-D A Bm G
-D A Bm G
-
-D 
+SOLO
+D A Bm G D A Bm G 
 
 CORO
-D                A
+D         A
 Cantaré de tu amor
       Bm        A        G
 rendiré mi corazón ante tí
-D                A
+D          A
 tu serás, mi pasión
-         Bm         A          G
+         Bm         A        G
 y mis pasos se guiarán con tu voz
 
 PUENTE X1
@@ -74,20 +72,10 @@ mi Jesús y mi Rey
         G             A
 de tu gran amor cantaré
 
-D                A
-Cantaré de tu amor
-      Bm        A        G
-rendiré mi corazón ante tí
-D                A
-tu serás, mi pasión
-         Bm         A          G
-y mis pasos se guiarán con tu voz
+CORO
 
 PUENTE X3
-      Em       A
-mi Jesús y mi Rey
-        G             A
-de tu gran amor cantaré
+    
 
 PUENTE X1 FIN
       Em       A
