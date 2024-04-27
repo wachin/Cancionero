@@ -1,34 +1,75 @@
-﻿
-Perfume a tus pies
+ Perfume a tus pies
 Jaz Jacob
+ 
+ INTRO
+A B E
 
-E                    B                  A
-Cuando pienso en tu amor y en tu fidelidad
-                B                       E
-No puedo hacer más que postrarme y adorar
-                          B                           A
-Cuando pienso en como he sido y hasta donde me has traído
-              B
+VERSO
+E                    B 
+Cuando pienso en tu amor
+               A
+y en tu fidelidad
+                B   
+No puedo hacer más 
+                    E
+que postrarme y adorar
+                          B   
+Cuando pienso en como he sido 
+                        A
+y hasta donde me has traído
+               B
 Me asombro de Ti
 
-C#m        B          A  C#m    B              A   B
-Y no me quiero conformar, he probado y quiero más
+PRE-CORO
+C#m           B          A     C#m  
+   Y no me quiero conformar 
+       B             A         B E
+he probado y quiero más
 
-E                           B                            C#m
-Yo quiero enamorarme más de Ti, enséñame a amarte y a vivir
-                 B             A                   B           E
-Conforme a tu Justicia y tu verdad, con mi vida quiero adorar
-                                B                              C#m
-Con todo lo que tengo y lo que soy, todo lo que he sido te lo doy
-             B        A             B          A
-Que mi vida sea para ti como un perfume a tus pies
+CORO
+                             B  
+Yo quiero enamorarme más de Ti, 
+                         C#m
+enséñame a amarte y a vivir
+                  B             A  
+Conforme a tu Justicia y tu verdad, 
+                       B  E
+con mi vida quiero adorar
+                                B  
+Con todo lo que tengo y lo que soy, 
+                            C#m
+todo lo que he sido te lo doy
+             B       A   
+Que mi vida sea para ti 
+                   B    A
+como un perfume a tus pies
 
-E                    B                          A
-Cuando pienso en tu cruz y en todo lo que has dado
-              B                    E
-Tu sangre por mi, por llevar mi pecado
-                     B                             A
-Cuando pienso en tu mano, que hasta aquí hemos llegado
+VERSO II
+E                    B  
+Cuando pienso en tu cruz 
+                        A
+y en todo lo que has dado
+              B 
+Tu sangre por mi, 
+                   E
+por llevar mi pecado
+                     B   
+Cuando pienso en tu mano, 
+                          A
+que hasta aquí hemos llegado
               B
 Por tu fidelidad
+
+PRE-CORO
+C#m           B          A     C#m  
+   Y no me quiero conformar 
+       B             A     
+he probado y quiero más
+C#m           B          A     C#m  
+   Y no me quiero conformar 
+       B             A         B E
+he probado y quiero más
+
+CORO
+
 
