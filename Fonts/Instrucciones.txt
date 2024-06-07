@@ -1,5 +1,7 @@
 
 
+Fuentes en Android
+
 La carpeta:
 
 Fonts
@@ -8,3 +10,19 @@ Copiarla en Android a la raíz del Almacenamiento Interno, son para que las pued
  https://play.google.com/store/apps/details?id=cn.wps.moffice_eng
 
 Porque este cancionero usa esas fuentes
+
+
+Fuentes en Linux
+
+Copiarlas dentro de la carpeta:
+
+.fonts
+
+sino existe crearla
+
+En ambos casos reiniciar WPS Office para que reconozca las letras
+
+
+Fuentes en Windows
+
+Instalelas como se instalana en Windows
