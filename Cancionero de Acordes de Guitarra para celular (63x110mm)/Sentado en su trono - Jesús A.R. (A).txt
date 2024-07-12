@@ -1,41 +1,50 @@
+Sentado en su trono
+Jesús Adrián Romero (A)
 
+Acordes:
+Asus2  = 002200
 
-A E Bm7 F#m7 Esus4 E7 A E Bm7 F#m7 Esus4 E7 
+Intro: 
+A E Bm F#m7 E
+A E Bm F#m7 Esus2 E
 
-Intro: A E Bm F#m7 E
-
+VERSO x2
  A                            F#m
 Sentado en su trono rodeado de luz
-D               Bm7           Esus4 E
+D               Bm7           Esus2 E
 A la diestra del Padre gobierna Jesús
 A                              F#m7
 Con ojos de fuego con rostro de sol
-D             Bm7              Esus4 E
-Cuando abre su boca es trueno Su voz.(x2)
+D             Bm7              Esus2 E
+Cuando abre su boca es trueno Su voz
+              
+CORO x2
+ A     E Bm               F#m        E
+Poderoso   en majestad y reino, poderoso
+ A     E Bm                 F#m        Esus2 E
+Poderoso   en potestad e imperio, poderoso
 
-              [coro]
-
-A       E     Bm          F#m          E
-Poderoso    en majestad y reino, poderoso
-A      E    Bm         F#m        Esus4 E
-Poderoso  en potestad e imperio, poderoso [x2]
-
-             [Estrofa 2]
-
+VERSO II X1
 A                         F#m7
 Un gran arcoíris corona su ser
-D          Bm        Esus4   E
+D          Bm        Esus2   E
 El es el cordero que pudo vencer
 A                            F#m
 El es el primero, el es el postrer
-  D     Bm              Esus4   E
+  D     Bm              Esus2   E
 Y arrojan coronas delante   de el
 
-              [coro](x3)
+CORO x2
 
-Bm           E       F#m
-Po  -   de - ro -    so !
-Bm           E       F#m  F#m7 / E
-Po  -   de - ro -    so !
-Bm           E       A  Am  A
-Po  -   de - ro -    so !
+CORO x1
+ A     E Bm               F#m        E
+Poderoso   en majestad y reino, poderoso
+ A     E Bm                 F#m      
+Poderoso   en potestad e imperio
+ Bm  E F#m
+Poderoso
+ Bm  E F#m
+Poderoso
+ Bm  E A
+Poderoso
+
