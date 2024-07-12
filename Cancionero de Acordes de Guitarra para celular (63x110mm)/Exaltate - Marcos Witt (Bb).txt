@@ -1,8 +1,10 @@
 Exaltate
 Marcos Witt
 
+Intro
 Bb Gm Eb Cm F
 
+VERSO 
 Bb                    Gm  F Gm
 Al borde de tu gran trono
    Eb     Cm7      F
@@ -12,6 +14,7 @@ tu reinas sobre principados
     Eb Cm7                F
 sentado  a la diestra de Dios
 
+CORO
   Bb                 Gm  F  Gm
 Exaltate ¡oh! Gran cordero
    Eb       Cm7   F
