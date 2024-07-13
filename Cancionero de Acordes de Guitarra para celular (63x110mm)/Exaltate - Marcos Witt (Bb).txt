@@ -1,19 +1,12 @@
 Exaltate
 Marcos Witt
 
-<<<<<<< HEAD
+INTRO
 Bb Gm Eb F
 Bb Gm Eb F Bb
 
-VERSO
-Bb                    Gm
-=======
-Intro
-Bb Gm Eb Cm F
-
 VERSO 
 Bb                    Gm  F Gm
->>>>>>> refs/remotes/origin/main
 Al borde de tu gran trono
    Eb     Cm7      F
 me postrare hoy a ti,
@@ -58,5 +51,5 @@ Exaltate ¡oh! Gran cordero
 tu vives hoy y viviras.
    Bb               Gm  F  Gm
 Coronate con mi alabanza
-    Eb              F    
+    Eb              Bb
 tu nombre es el Vencedor
