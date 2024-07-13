@@ -4,32 +4,32 @@ BPM 72 en los VERSOS
 BPM 144 en los COROS
 
 VERSO I
-C
+Bb                     
 El esplendor de un Rey
-G    Am
+F    Gm
  vestido en Majestad
+                    Eb
+La Tierra alegre está
                     F
 La Tierra alegre está
-                    G
-La Tierra alegre está
 
-   C
+   Bb                  
 Cubierto está de luz
-G     Am
+F     Gm
  venció a la oscuridad
-                F
+                Eb
 Y tiembla a Su voz
-              G
+              F
 Tiembla a Su voz
 
 CORO x1
-       C
+       Bb
 Cuán Grande es Dios
-                Am
+                Gm
 Cántale, Cuán grande es Dios
-              F
+              Eb
 Y todos lo verán
-       G         C
+       F         Bb
 Cuán grande es Dios
 
 VERSO I
@@ -37,57 +37,57 @@ VERSO I
 CORO x2
 
 VERSO II
- C
+ Bb               
 Día a día El está
-G       Am
+F       Gm
  y el tiempo está en El
+                Eb
+Principio y el fin
                 F
 Principio y el fin
-                G
-Principio y el fin
 
-     C
+     Bb                 
 La Trinidad en Dios
-G    Am
+F    Gm
  El Padre, Hijo, Espíritu
-               F
+               Eb
 Cordero y el León
-               G
+               F
 Cordero y el León
 
 CORO x2
 
 PUENTE x2
-             C
+             Bb
 Y Tu Nombre sobre todo es
-         Am
+         Gm
 Tu eres Digno de alabar
-      F
+      Eb
 Y mi ser dirá
-       G        C
+       F        Bb
 Cuan grande es Dios
 
 CORO x4
 
 SOLO
-C  Am F  G C
+Bb Gm Eb F Bb
 
 CORO x1
 
 SOLO
-C  Am F  G C
+Bb Gm Eb F Bb
 
-        C     F           C
+        Bb    Eb          Bb
 Mi corazón entona la canción
-               G  F
+               F  Eb
 cuán grande es El
-               C  G
+               Bb F
 cuán grande es El
-        C     F           C
+        Bb    Eb          Bb
 Mi corazón entona la canción
-               G  F
+               F  Eb
 cuán grande es El
-                C
+                Bb
 cuán grande es El
 
 Youtu: https://youtu.be/yhSQZHZZy08?si=950rpwNlU5HmRStg

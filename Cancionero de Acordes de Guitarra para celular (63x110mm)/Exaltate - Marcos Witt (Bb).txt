@@ -1,11 +1,19 @@
 Exaltate
 Marcos Witt
 
+<<<<<<< HEAD
 Bb Gm Eb F
 Bb Gm Eb F Bb
 
 VERSO
 Bb                    Gm
+=======
+Intro
+Bb Gm Eb Cm F
+
+VERSO 
+Bb                    Gm  F Gm
+>>>>>>> refs/remotes/origin/main
 Al borde de tu gran trono
    Eb     Cm7      F
 me postrare hoy a ti,
