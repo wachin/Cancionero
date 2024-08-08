@@ -6,7 +6,7 @@ Bm
 
 VERSO I
    Bm                  G
-La única Razón de mi adoración
+La única razón de mi adoración
   D           A
 Eres tú mi Jesús
    Bm              G
@@ -16,7 +16,7 @@ Eres tú Mi Señor
 
 VERSO II
        Bm          G
-Mi única verdad esta en Ti
+Mi única verdad está en Ti
          D              A
 Eres mi luz y mi salvación
        Bm           G
@@ -29,14 +29,16 @@ CORO
 Tu Eres Todo poderoso
        D             A
 Eres Grande y Majestuoso
-       Bm           G
-Eres Fuerte e Invencible
+       Bm          G
+Eres Fuerte, Invencible
           D          A           
 Y no hay nadie como Tú
 
-SOLO
+VERSO I
 
-CORO
+VERSO II
+
+CORO X2
          C#m       A
 Tu Eres Todo poderoso
        E             B
@@ -45,6 +47,11 @@ Eres Grande y Majestuoso
 Eres Fuerte e Invencible
           E          B
 Y no hay nadie como Tú
+
+SOLO
+
+CORO x4
+
 
 
 
