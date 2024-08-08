@@ -29,24 +29,12 @@ CORO
 Tu Eres Todo poderoso
        D             A
 Eres Grande y Majestuoso
-<<<<<<<< HEAD:Cancionero de Acordes de Guitarra para celular (63x110mm)/Eres Todopoderoso V2.txt
-       Bm         G
-Eres Fuerte Invencible
-========
        Bm          G
 Eres Fuerte, Invencible
->>>>>>>> refs/remotes/origin/main:Cancionero de Acordes de Guitarra para celular (63x110mm)/Eres Todopoderoso (Am).txt
           D          A           
 Y no hay nadie como Tú
 
 VERSO I
-<<<<<<<< HEAD:Cancionero de Acordes de Guitarra para celular (63x110mm)/Eres Todopoderoso V2.txt
-
-VERSO II
-
-SOLO
-========
->>>>>>>> refs/remotes/origin/main:Cancionero de Acordes de Guitarra para celular (63x110mm)/Eres Todopoderoso (Am).txt
 
 VERSO II
 
