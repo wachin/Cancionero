@@ -1,14 +1,22 @@
 Habitación
 En Espíritu y en Verdad
 
-  D                        G                     D
-Eterno y sublime Rey, El Cielo no te puede contener
-   Bm                G        D              A            D
-Habitas en lo alto Dios, La tierra es el estrado de tus pies
-  D                        G                     D
-Eterno y sublime Rey, El Cielo no te puede contener
-   Bm                G        D              A            D
-Habitas en lo alto Dios, La tierra es el estrado de tus pies
+  D
+Eterno y sublime Rey,
+     G                     D
+El Cielo no te puede contener
+   Bm                G
+Habitas en lo alto Dios,
+     D              A            D
+La tierra es el estrado de tus pies
+  D
+Eterno y sublime Rey,
+     G                     D
+El Cielo no te puede contener
+   Bm                G
+Habitas en lo alto Dios,
+     D              A            D
+La tierra es el estrado de tus pies
 
 CORO
              G              D
@@ -21,10 +29,14 @@ Un mejor lugar en donde puedas descansar?
 Que sea un santuario para ti?
 
 VERSO 2.
-D                     G                     D
-Soberano Creador, En luz inalcanzable tú estás
-    Bm                G     D            A           D
-Formaste todo con tu voz El universo en tus manos está
+D
+Soberano Creador,
+    G                     D
+En luz inalcanzable tú estás
+    Bm                G
+Formaste todo con tu voz
+   D            A           D
+El universo en tus manos está
 
 CORO
              G              D
@@ -46,13 +58,13 @@ Un mejor lugar en donde puedas descansar?
 Que sea un santuario para ti?
 
 SOLO
-D 
-G Bm G D 
+D
+G Bm G D
 
         G           Bm  G  D
 un santuario para mi    Oh
    D
-Uh Uh 
+Uh Uh
 
 PUENTE
 A            Bm        G         D
@@ -92,12 +104,12 @@ Vamos a construir una habitación
 Un mejor lugar en donde puedas descansar
                G              D/F#
 Vamos a construir una habitación
-Asus4           A          G A  Bm  
-Seremos un santuario para ti Oh Oh  
+Asus4           A          G A  Bm
+Seremos un santuario para ti Oh Oh
        G             D
 Un santuario para ti
 
-G Bm G D 
+G Bm G D
 
 D
 
@@ -107,7 +119,6 @@ Vamos a construir una habitación
 Un mejor lugar en donde puedas descansar
                G              D/F#
 Vamos a construir una habitación
-Asus4           A          G  
-Seremos un santuario para ti 
-
+Asus4           A          G
+Seremos un santuario para ti
 
