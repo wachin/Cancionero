@@ -2,7 +2,7 @@
 
 export NNN_PLUG='f:finder;o:execonbash;p:launch;v:imgview'
 
-konsole -p tabtitle='PFSLE' -e nnn "auto-push-script.sh"
+konsole -p tabtitle='Cancionero' -e nnn "auto-push-script.sh"
 
 # export NNN_PLUG='f:finder;o:execonbash;p:launch;v:imgview'
 
