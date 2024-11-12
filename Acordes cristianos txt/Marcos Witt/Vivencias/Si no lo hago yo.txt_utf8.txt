@@ -1,0 +1,163 @@
+﻿Si no lo hago yo
+Artista: Marcos Witt
+Album: Vivencias
+Aportada por: 
+Tipo de transcripcion: tab
+Idioma: Español
+Clase: Alabanza
+
+acordes utilizados en este tema:
+             
+                 strings
+                (654321) 
+                --------
+  mi       =     022100
+  la(add)2 =     x02200
+  si7      =     x21202
+  lamaj7   =     x02120
+  la/g     =     302220
+  si       =     x24442
+  sol#     =     466544
+  do#m7    =     x46454
+  fa#m7    =     242222
+  mim      =     022000
+  remaj7   =     xx0222
+  sim      =     x24432
+  domaj7   =     x32000
+  lam7     =     x02010
+  sol      =     320003
+  la       =     x02220
+  re       =     xx0232
+  re7      =     xx0212
+  do(add)2 =     x32033
+
+(introdución instrumental)
+>> acordes de la introdución:
+ mi - la(add)2 - si7
+ mi - la(add)2 - si7 - la(add)2 - mi
+
+
+>>tablatura de la introdución:
+
+    1e|----2--3--4----2--3--4/4--7--12--11--9--7--5/--2--3--4/4--7--12--11--9--7--5--4/4--5--7--5--4--0-|
+    2b|--0--------0-------------------------------------------------------------------------------------|
+    3g|-------------------------------------------------------------------------------------------------|
+    4d|-------------------------------------------------------------------------------------------------|
+    5a|-------------------------------------------------------------------------------------------------|
+    6e|-------------------------------------------------------------------------------------------------|
+
+    ******************************************************************************
+
+(verso uno)
+
+   lamaj7                           la/g                      
+>> por la ventana del mundo y puedo ver>
+     si                                     mi      sol# >>> 1e|-------------|
+las cosas que viven aquellos que mueren sin él>              2b|--1-2---4-5--|  
+do#m7                               la    lamaj7             3g|-------------|
+es cuando pienso que yo no puedo callar ya más>              4d|-------------| 
+  la(add)2    si7                                            5a|-------------|
+llevaré su verdad>>                                          6e|-------------|
+
+
+
+(coro)
+
+     mi                                lamaj7
+>>si no lo hago yo > ¿entonces quién lo hará?>
+                fa#m7                 si
+si no me levanto yo> ¿quién se levantará?>
+    mi                               lamaj7
+si no me atrevo A hablar> nunca conocerán>
+              fa#m7               si
+que hay algo mejor> si no lo hago yo>
+             mi
+¿entonces quién?>>
+
+
+>>instrumental de guitarra para comenzar el verso dos:
+
+ 1e|-2--3--4/4--7--12--11--9--7--5--4|
+ 2b|---------------------------------|
+ 3g|---------------------------------|
+ 4d|---------------------------------|
+ 5a|---------------------------------|
+ 6e|---------------------------------|
+
+
+
+(verso dos)
+
+     lamaj7                          la/g
+>>paseándome por las calles yo puedo ver>
+ si                                       mi      sol#  >>> 1e|-------------|
+niños hambrientos, gente angustiada y sin fe>               2b|--1-2---4-5--|  
+do#m7                                 la    lamaj7          3g|-------------|
+es cuando pienso que que no puedo esconderme más>           4d|-------------| 
+    la(add)2    si7                                         5a|-------------|
+no me puedo esperar>>                                       6e|-------------|
+
+
+
+(coro)
+
+     mi                                lamaj7
+>>si no lo hago yo > ¿entonces quién lo hará?>
+                fa#m7                 si
+si no me levanto yo> ¿quién se levantará?>
+    mi                               lamaj7
+si no me atrevo A hablar> nunca conocerán>
+              fa#m7               si
+que hay algo mejor> si no lo hago yo>
+             mi
+¿entonces quién?>>
+
+
+
+(puente)
+
+          mim    remaj7         sim 
+>>es cuestión de tomar una decisión>
+     domaj7       lam7
+de llevar su compasión>
+     si7        remaj7
+A un mundo de dolor>>
+
+(instrumental) >> sol - re - la - sim - sol - re - la>>
+sube 1y 1/2 tono (sol) 
+
+
+(coro)
+
+     sol                                domaj7
+>>si no lo hago yo > ¿entonces quién lo hará?>
+                 lam7                 re
+si no me levanto yo> ¿quién se levantará?>
+   sol                               domaj7
+si no me atrevo A hablar> nunca conocerán>
+              lam7                re
+que hay algo mejor> si no lo hago yo>
+             sol
+¿entonces quién?>>
+  
+
+  (instrumental final)
+  >> acordes del final:
+   sol - do(add)2 - re7
+   sol - do(add)2 - re7 - sol
+
+  >>tablatura del final:
+
+     1e|--5--6--7/7--10--15--14--12--10--8/--5--6--7/7--10--15--14--12--10--8--7-|
+     2b|-------------------------------------------------------------------------|
+     3g|-------------------------------------------------------------------------|
+     4d|-------------------------------------------------------------------------|
+     5a|-------------------------------------------------------------------------|
+     6e|-------------------------------------------------------------------------|
+
+
+   terminar en sol.
+
+
+© 2001 canzion 
+

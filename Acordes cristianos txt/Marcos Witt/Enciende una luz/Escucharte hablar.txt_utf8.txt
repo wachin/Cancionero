@@ -1,0 +1,60 @@
+﻿Escucharte hablar
+Artista: Marcos Witt
+Album: Enciende una luz
+Aportada por: 
+Tipo de transcripcion: tab
+Idioma: Español
+Clase: Adoración
+Midi disponible:  Escuchalo aqui!
+
+intro: 
+
+
+bass and guitar 
+  G               D          C                        D 
+6----------------------------------------------------------] 
+5----------------------------------------------------------] 
+4----------------------------------------------------------] 
+3----------------------------------------------------------] 
+2-----------------------------3-3--5--7-5-3--------5-3-----] 
+1--3--5--7--5---3--2-2--5-5--------------------3-3-----5---] 
+  G  A  B  A   G f#f#  A A   D D  E F# E D    G G E D A             
+
+
+
+first riff 
+
+G                         D 
+quiero escuchar tu dulce voz 
+   C                        D 
+rompiendo el silencio en mi ser 
+ G                       D 
+y se que me haria extremecer 
+     C             D         
+me haria llorar o reir 
+  C                  D                 
+y caeria rendido ante ti 
+
+
+chorus: 
+
+ G            D 
+y no podria estar ante ti 
+    C      
+escuchandote hablar 
+    D 
+sin llorar como un nino 
+  G          D 
+y pasaria el tiempo asi 
+    C 
+sin querer nada mas 
+     D                      G 
+nada mas que escucharte hablar 
+
+
+
+chords used: 
+C = 0 3 2 0 1 0 
+D = 0 0 0 2 3 2 
+G = 3 2 0 0 0 
+

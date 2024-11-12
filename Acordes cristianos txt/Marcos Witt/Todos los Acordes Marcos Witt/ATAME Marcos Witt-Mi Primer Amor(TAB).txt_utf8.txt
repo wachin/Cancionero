@@ -1,0 +1,123 @@
+﻿ATAME: Marcos Witt/Mi Primer Amor
+
+      Marcos Witt 
+      Mi Primer Amor (TAB) Colaboración de Daniel Toledo 
+      eltoledo_XXI@hotmail.com 
+       mwit1112 
+      calidad      texto    
+Intro: Dmaj7 &#8211; A/C#(x2) Bm7 &#8211; D/E - E &#8211; 
+
+ESTROFA:
+  A              E/G#  
+           OH Jesús,       
+E----------------4---------
+A-0------------------------
+D---2--------------2-------
+G--------------------------
+B-----0-0_2----------0-0_2-
+e--------------------------
+
+     F#m7                      E   D
+ mis pasos me han llevado  tan le&#8212;-jos de Ti.
+E----2-------------------------0------------/
+A------------------------------|------------/
+D-------2----------------------|----0-------/
+G------------4--------2----2---|--1-|-------/
+B------------------------------|-0--|-------/
+e-----------------------0------0----2-------/
+
+  A               E/G#  
+           Mi alma         
+E-----------------4---------
+A-0-------------------------
+D---2---------------2-------
+G---------------------------
+B-----0-0_2-----------0-0_2-
+e---------------------------
+
+         F#m7                     E     D
+ se ha secado en el desierto  dentro de mi.
+E--------2---------------------------------/
+A------------------------------------------/
+D------------2--------------------2-----0--/
+G----------------4-----2-----2----1-----2--/
+B---------------------------------0-----3--/
+e--------------------------0------------2--/
+
+    Dmaj7   A/C#         Dmaj7                     
+Y escúchame mi Jesús, el amor de mi vida,                         
+   A/C#                 Bm7        Aadd9/C# - E   A
+la luz de mi existir no puedo -  vivir   -    sin Ti.
+
+CORO:	
+             Amaj7            Bm7
+ Mi Primer Amor,     te adoraré por siempre
+    D               F      A
+ yo quiero estar pegado a Ti.
+          Amaj7          Bm7       D     Dm            
+ Llévame hoy al Santo lugar Jesús, donde    te conocí.
+	 
+Acordes:   A         E/G#      F#m7     E &#8211; D   
+         E-----------4---------2-------   -   -/
+         A-0---------------------------   -   -/
+         D---2---------2---------2-----   -   -/
+         G-------------------------4-2-cortes--/
+         B-----0-0_2-----0-0_2---------   -   -/
+         e-----------------------------   -   -/
+bajo:                                   E   D   
+
+Acordes:   A         E         F#m7        E    D
+         E-----------4---------2-----------0------/
+         A-0-------------------------------|------/
+         D---2---------2---------2---------|----0-/
+         G-------------------------4-2---2-|--1-|-/
+         B-----0-0_2-----0-0_2-------------|-0--|-/
+         e-----------------------------0---0----2-/
+bajo:      A         G#        F           E    D  
+
+
+
+Acordes:   A         E         F#m7        E   D     
+         E-----------4---------2-----------------/   
+         A-0-------------------------------------/   
+         D---2---------2---------2-----------2-0-/   
+         G-------------------------4-2---2&#8212;-1--2-/   
+         B-----0-0_2-----0-0_2-------------0---3-/   
+         e-----------------------------0-------2-/   
+bajo:      A         G#        F#          E   D     
+
+Acordes:   Dmaj7    A              Bm7     A  E   A   
+         E-------------------     -----------   -   -/
+         A-5-----5--4-----4--     -2-------4-   -   -/
+         D-|-----|--|-----|--     -|-------2-   &#8211;   -/
+         G-|-----4--|-----2--     -2-----2-2-acordes-/
+         B-2---2----0---0----     -----0---0-   -   -/
+         e---2--------0------(x2) ---0-----0-   -   -/
+bajo:      D        C#              B       C# E   A    
+
+	
+(se repite el CORO dos veces suave y dos veces fuerte)
+
+final: Dmaj7 &#8211; A/C#(x2) Bm7 &#8211; D/E - E &#8211; Aadd9	
+
+ACORDES:
+EADGBe
+X42200 Aadd9/C#
+4X245X E/G#
+242222 F#m7
+XX0222 Dmaj7
+0X2232 D/E
+X4222X A/C#
+X24232 Bm7      
+X02120 Amaj7
+X02200 Aadd9
+
+
+      Este fichero es trabajo propio de su transcriptor y representa su 
+      interpretación personal de la canción. El usuario se compromete a utilizar 
+      este material únicamente para su aprendizaje y estudio personal. Para 
+      poder incluir este fichero en otro sitio Web, es necesario mencionar la 
+      procedencia del mismo (www.atame.org) así como el nombre y correo del 
+      transcriptor. 
+
+
