@@ -1,0 +1,82 @@
+﻿Nuevas Alturas
+Artista: Alas de águila
+Album: Nuevas alturas
+Aportada por: 
+Tipo de transcripcion: crd
+Idioma: Español
+Clase: 
+
+intro: sol-do-sol-re=x3
+
+
+sol              do  
+veo un horizonte frente A mí,
+sol                    re
+hay mil alternativas A escoger.
+sol               do             sol     re 
+no sé qué pasará conmigo en estos días.
+
+
+sol                do
+me pone un poco triste recordar,
+sol                      re
+el futuro de una mala decisión.
+sol             do            re
+¿por qué vivir atrapado en el ayer?
+
+
+coro:
+do             re
+vamos olvidando el pasado
+     do                 re
+pues el tiene cosas nuevas para mí.
+sol             do          
+vamos hacia nuevas alturas
+re                    sol
+activando la fe y el amor.
+
+
+puente: sol-do-sol-re
+
+
+sol               do
+comunicación con el creador,
+sol                      re
+me da luz verde para continuar.
+sol                 do           re
+no quiero ser victima de la indecisión.
+sol                  do
+pues vaya que tenemos libertad,
+sol                  re
+para cada sueño conquistar.
+sol             do            re
+¿por que vivir atrapado en el temor?
+
+
+sol-do-sol-re=x3
+
+sol         do          re
+la decadencia de la sociedad,
+sol          do            re
+nos va envolviendo en una mediocridad.
+sol           do               re
+hoy quiero dar un salto hacia la integridad
+do                    re                 sol
+y alcanzar todo lo que cristo tiene para mí.
+
+sol-do-re=x2
+
+sol             do          
+vamos hacia nuevas alturas
+re                    sol
+activando la fe y el amor.
+
+sol-do-sol-re
+sol             do          
+vamos hacia nuevas alturas
+re                    sol
+activando la fe y el amor.
+
+final=sol-do-sol-re-sol.
+
+

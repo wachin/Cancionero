@@ -1,0 +1,2880 @@
+﻿					LISTADO DE ACORDES
+
+
+NOMENCLATURAS
+
+0= INDICA EN DONDE SE DEBE PISAR LA CUERDA
+X= INDICA QUE ESA CUERDA NO SE DEBE PISAR NI TOCAR
+
+                                    \O_X__O/ <- LAS O INDICA QUE LA CUERDA SUENA AL AIRE
+NUMERO DEL TRASTE EN QUE EMPIEZA -> 2|OOOO| <- INDICA CEJILLA
+EL ACORDE EN ESTE CASO DESDE EL 2.   ||||||
+					       |O||||
+					       ||||O|
+  						 A = LA
+
+
+
+
+\OO___O/         \ X_____/            \O__O_O/         \X_____/
+1||||||           1||||||             1||||O|          2OOOOOO
+ ||OOO|            |O|||O              ||O|||           ||||O|
+ ||||||            ||||||              |O||||           ||O|||
+ ||||||            ||OOO|              ||||||           |O||||
+
+ A  =LA            B  =SI              C  =DO           D  =RE
+
+
+\O_X__O/         \ ___OO_/           \ O_____/        \ _OO___/
+2|OOOO|           1||O|||             3OOOOOO          1||||||
+ ||||||            |O||||              ||||||           O||O|O
+ |O||||            O||||O              ||OOO|           ||||O|
+ ||||O|            ||||||              ||||||           ||||||
+
+ A  =LA            B#5=SI#5            C  =DO           D  =RE
+
+
+\______/         \ _X_OO_/           \ ___O_O/        \ XOO___/
+5OOOOOO           1||O|||             1||||O|          1||||||
+ |||O||            ||||||              ||O|||           |||O|O
+ |OO|||            O||||O              OO||||           ||||O|
+ ||||||            ||||||              ||||||           ||||||
+
+ A  =LA            B#5=SI#5            C  =DO           D  =RE
+
+
+\XO___O/         \ _X__O_/           \ _X_O_O/        \ XO____/
+1||||||           1||O|||             1||||O|          1||||||
+ ||OOO|            O||O|O              ||O|||           |||O|O
+ ||||||            ||||||              O|||||           ||||O|
+ ||||||            ||||||              ||||||           ||O|||
+
+ A  =LA            B/A=SI/LA           C  =DO           D  =RE
+
+
+\X__XX_/         \ XO__O_/           \ X__O_O/        \ XXO___/
+4OOOOOO           1||O|||             1||||O|          1||||||
+ |||||O            |||O|O              ||O|||           |||O|O
+ ||||||            ||||||              |O||||           ||||O|
+ ||O|||            ||||||              ||||||           ||||||
+
+ A  =LA            B/A=SI/LA           C  =DO           D  =RE
+
+
+\XO____/         \ X___O_/           \ X____O/        \ XXO___/
+1|||||O           1||O|||             3OOOOOO          5OOOOOO
+ |||OO|            |O|O|O              ||||||           ||||||
+ ||O|||            ||||||              ||OOO|           |||OO|
+ ||||||            ||||||              ||||||           ||||||
+
+ A#5=LA#5          B/A=SI/LA           C  =DO           D  =RE
+
+
+\XOX___/         \ X_____/           \ X____O/        \ XXO___/
+1|||||O           1||||||             1|||OO|          1||||||
+ |||OO|            |O|O|O              ||O|||           |||||O
+ ||||||            ||||||              |O||||           |||OO|
+ ||||||            ||O|O|              ||||||           ||||||
+
+ A#5=LA#5          B/A=SI/LA           C#5=DO#5         D#5=RE#5
+
+
+\XO___O/         \ XX____/            \XX__XO/        \ XO____/
+1|||O||           1||||||             4OOOOOO          2OOOOOO
+ ||O|O|            ||||||              |||O||           ||||O|
+ ||||||            ||||||              ||||||           ||OO||
+ ||||||            ||OOOO              ||||||           ||||||
+
+ A/A=LA/LAb        B/A=SI/LAb          Cb5=DOb5         D/B=RE/SI
+
+
+\OO___O/         \ X_____/           \ OO_O__/        \ X_O_O_/
+1||||||           1||||||             1||||O|          1||||||
+ ||O|O|            |OO||O              ||O|||           |O|O|O
+ ||||||            ||||||              |||||O           ||||||
+ |||O||            |||OO|              ||||||           ||||||
+
+ A/B=LA/SI         B/E=SI/MI           C/A=DO/LA        D/B=RE/SI
+
+
+\XO__OO/         \ XX___O/           \ XO_O_O/        \ X_O___/
+5OOOOOO           1||||||             1||||O|          1||||||
+ |||O||            ||||||              ||O|||           |O|O|O
+ ||O|||            ||||||              ||||||           ||||O|
+ ||||||            ||OOO|              ||||||           ||||||
+
+ A/B=LA/SI         B/E=SI/MI           C/A=DO/LA        D/B=RE/SI
+
+
+\XOO__O/         \ X___X_/           \ XO____/        \ X_____/
+1||||||           1||||||             1||||O|          1||||||
+ |||OO|            |O|||O              ||OO||           |O|O|O
+ ||||||            ||||||              |||||O           ||||O|
+ ||||||            ||OO||              ||||||           ||O|||
+
+ A/D=LA/RE         B5 =SI5             C/A=DO/LA        D/B=RE/SI
+
+
+\XXO__O/         \ XX____/           \ XO____/        \ XXO_O_/
+1||||||           1||||||             5OOOOOO          1||||||
+ |||OO|            ||||||              ||||||           |||O|O
+ ||||||            ||||||              ||||||           ||||||
+ ||||||            ||OOOO              |||||O           ||||||
+
+ A/D=LA/RE         B6 =SI6             C/A=DO/LA        D/B=RE/SI
+
+
+\XXO___/         \ _X__O_/           \ O__OOO/        \ XOO___/
+5OOOOOO           1||O|||             1||||||          1||||O|
+ |||O||            O||O|O              ||O|||           |||O|O
+ ||||||            ||||||              |O||||           ||||||
+ ||||||            ||||||              ||||||           ||||||
+
+ A/D=LA/RE         B7 =SI7             C/B=DO/SI        D/C=RE/DO
+
+
+\XXO___/         \ XO__O_/           \ X__O_O/        \ X_X___/
+9OOOOOO           1||O|||             1||||O|          1||||||
+ ||||O|            |||O|O              |OO|||           |||O|O
+ ||||||            ||||||              ||||||           |O||O|
+ ||||||            ||||||              ||||||           ||||||
+
+ A/D=LA/RE         B7 =SI7             C/B=DO/SI        D/C=RE/DO
+
+
+\_X___O/         \ X___O_/           \ X_____/        \ XXO___/
+1||||||           1||O|||             3OOOOOO          1||||||
+ ||OOO|            |O|O|O              |||O||           |||OOO
+ O|||||            ||||||              ||O|||           ||||||
+ ||||||            ||||||              ||||O|           ||||||
+
+ A/G=LA/SOL        B7 =SI7             C/B=DO/SI        D/D=RE/REb
+
+
+\XO_O_O/         \ X_____/           \ X_____/        \ OOO___/
+1||||||           1||||||             3OOOOOO          1||||||
+ ||O|O|            |O|O|O              ||||||           |||O|O
+ ||||||            ||||||              ||O|O|           ||||O|
+ ||||||            ||O|O|              ||||||           ||||||
+
+ A/G=LA/SOL        B7 =SI7             C/B=DO/SIb       D/E=RE/MI
+
+
+\XO____/         \ OO___O/           \ _XOO_O/        \ OO___O/
+1||||||           1||||||             1||||O|          1||||||
+ ||OOO|            ||||||              ||||||           |||O||
+ |||||O            ||||||              O|||||           ||||O|
+ ||||||            ||OOO|              ||||||           ||O|||
+
+ A/G=LA/SOL        B7/ad= SI7/add11    C/D=DO/RE        D/E=RE/MI
+
+
+\OX___O/         \ O___O_/           \ X_OO_O/        \ _XO__O/
+1||||||           1||O|||             1||||O|          1||||||
+ |||OO|            |O|O|O              ||||||           O||O||
+ ||||||            ||||||              |O||||           ||||O|
+ ||O|||            ||||||              ||||||           ||||||
+
+ A/G=LA/SOLb       B7/ad= SI7/add11    C/D=DO/RE        D/E=RE/MI
+
+
+\_X___O/         \ XO__OO/           \ X__O_O/        \ XO____/
+1||||||           1||||||             1||||||          1||||||
+ O|OOO|            ||||||              ||O|||           ||OO|O
+ ||||||            ||||||              |O||O|           ||||O|
+ ||||||            ||OO||              ||||||           ||||||
+
+ A/G=LA/SOLb       B7sus= SI7sus4      C/D=DO/RE        D/E=RE/MI
+
+
+\XO___O/         \ X_____/           \ X__O__/        \ XX____/
+1||||||           2OOOOOO             1||||||          1||||||
+ |||OO|            ||||||              ||O|||           ||OO|O
+ ||||||            ||O|||              |O||OO           ||||O|
+ ||O|||            ||||O|              ||||||           ||||||
+
+ A/G=LA/SOLb       B7sus= SI7sus4      C/D=DO/RE        D/E=RE/MI
+
+
+\XX____/         \ _X_OOO/           \ XXOO_O/        \ X____O/
+1||||||           1||O|||             1||||O|          2OOOOOO
+ ||OOOO            ||||||              ||||||           ||||O|
+ ||||||            O|||||              ||||||           ||O|||
+ ||||||            ||||||              ||||||           |O||||
+
+ A/G=LA/SOLb       Baug/= SIaug/MI     C/D=DO/RE        D/E=RE/MI
+
+
+\___XX_/         \ XX_OOO/           \ XXO___/        \ X___XO/
+5OOOOOO           1||O|||             3OOOOOO          7OOOOOO
+ ||||||            ||||||              ||||||           ||||||
+ |OO|||            ||||||              |||OO|           |OO|||
+ ||||||            ||||||              ||||||           ||||||
+
+ A5 =LA5           Baug/= SIaug/MI     C/D=DO/RE        D/E=RE/MI
+
+
+\XO__XO/         \ ______/           \ X____O/        \ _X_O__/
+1||||||           1OO|||O            10OOOOOO          3OOOOOO
+ ||OO||            ||||||              ||||||           ||O|||
+ ||||||            ||OOO|              ||OO||           O||||O
+ ||||||            ||||||              ||||O|           ||||||
+
+ A5 =LA5           Bb =SIb             C/D=DO/RE        D/G=RE/SOL
+
+
+\___XXO/         \ X_____/           \ X___XO/        \ _XO___/
+5OOOOOO           1|O|||O             5OOOOOO          1||||||
+ ||||||            ||||||              ||||||           |||O|O
+ |OO|||            ||OOO|              ||||||           O|||O|
+ ||||||            ||||||              ||||||           ||||||
+
+ A5 =LA5           Bb =SIb             C/D=DO/RE        D/G=RE/SOL
+
+
+\OO____/         \ XXO___/           \ X__O_O/        \ ____X_/
+1||||||           1|||||O             1||||O|          5OOOOOO
+ ||OOOO            ||||||              ||||||           ||||||
+ ||||||            |||OO|              |OO|||           ||OO||
+ ||||||            ||||||              ||||||           ||||||
+
+ A6 =LA6           Bb =SIb             C/F=DO/FA        D5 =RE5
+
+
+\OX___O/         \ XXO___/           \ XX_O_O/        \ XOO___/
+1||||||           1||||||             1||||O|          2OOOOOO
+ |||OO|            |||||O              ||||||           ||||O|
+ ||||||            |||OO|              ||O|||           ||||||
+ ||O|||            ||||||              ||||||           |||||O
+
+ A6 =LA6           Bb#=SIb#5           C/F=DO/FA        D5 =RE5
+
+
+\_X___O/         \ XXO_XO/           \ X___X_/        \ XO____/
+1||||||           1||||||             3OOOOOO          1||||||
+ O|OOO|            ||||||              ||||||           |||||O
+ ||||||            |||O||              ||OO||           ||||O|
+ ||||||            ||||||              ||||||           ||OO||
+
+ A6 =LA6           Bbb=SIbb5           C5 =DO5          D6 =RE6
+
+
+\XO___O/         \ ______/           \ OO_O__/        \ X_O_O_/
+1||||||           1OO|||O             1||||O|          1||||||
+ |||OO|            |||O||              ||O|||           |O|O|O
+ ||||||            ||O|O|              |||||O           ||||||
+ ||O|||            ||||||              ||||||           ||||||
+
+ A6 =LA6           Bb/=SIb/LA          C6 =DO6          D6 =RE6
+
+
+\XX____/         \ X_____/           \ XO_O_O/        \ X_____/
+1||||||           1|O|O|O             1||||O|          1||||||
+ ||OOOO            ||||||              ||O|||           |O|O|O
+ ||||||            ||O|O|              ||||||           ||||O|
+ ||||||            ||||||              ||||||           ||O|||
+
+ A6 =LA6           Bb/=SIb/LAb         C6 =DO6          D6 =RE6
+
+
+\OO_O__/         \ XX____/           \ XO____/        \ XXO_O_/
+1||||||           1||||||             1||||O|          1||||||
+ ||O|OO            ||||||              ||OO||           |||O|O
+ ||||||            ||OOO|              |||||O           ||||||
+ ||||||            |||||O              ||||||           ||||||
+
+ A6/=LA6/7         Bb/=SIb/LAb         C6 =DO6          D6 =RE6
+
+
+\___O_O/         \ XXO___/           \ XO____/        \ OO____/
+3OOOOOO           6OOOOOO             5OOOOOO          1||||||
+ ||O|||            ||||||              ||||||           ||O||O
+ OO||||            ||||||              ||||||           ||||O|
+ ||||||            ||||||              |||||O           |||O||
+
+ A6/7s= LA6/7sus   Bb/=SIb/REb         C6 =DO6          D6/ad= RE6/add9
+
+
+\XO_O__/         \ X____O/           \ X____O/        \ O_O_O_/
+1||||||           1|O||||             5OOOOOO          1||||||
+ ||O||O            ||||||              ||||||           |O|O|O
+ ||||O|            ||OOO|              ||O|||           ||||||
+ ||||||            ||||||              ||||O|           ||||||
+
+ A6/7s= LA6/7sus   Bb/=SIb/MI          C6/ad= DO6/add9  D6/ad= RE6/add9
+
+
+\_X___O/         \ ______/           \ X_____/        \ XOO___/
+1||||||           3OOOOOO             3OOOOOO          1||||O|
+ ||OOO|            ||||||              ||||||           |||O|O
+ O|||||            |O||||              ||O|O|           ||||||
+ ||||||            ||||||              ||||||           ||||||
+
+ A7 =LA7           Bb/=SIb/SOL         C7 =DO7          D7 =RE7
+
+
+\XO_O_O/         \ XX____/           \ X_____/        \ X_X___/
+1||||||           1||||||             3OOOOOO          1||||||
+ ||O|O|            ||||||              ||||||           |||O|O
+ ||||||            ||OOOO              ||O|||           |O||O|
+ ||||||            ||||||              ||||O|           ||||||
+
+ A7 =LA7           Bb/=SIb/SOL         C7sus= DO7sus4   D7 =RE7
+
+
+\XO____/         \ ___XX_/           \ O_X___/        \ X_____/
+1||||||           6OOOOOO             1||||||          5OOOOOO
+ ||OOO|            ||||||              |||||O           ||||||
+ |||||O            |OO|||              |O|OO|           ||O|O|
+ ||||||            ||||||              ||||||           ||||||
+
+ A7 =LA7           Bb5=SIb5            C9(b5= DO9(b5)   D7 =RE7
+
+
+\_O_O__/         \ ______/           \ _XOO_O/        \ XXO___/
+1O||||O           3OOOOOO             1||||O|          1||||O|
+ ||||O|            ||||||              ||||||           |||O||
+ ||O|||            |O||||              O|||||           |||||O
+ ||||||            ||||||              ||||||           ||||||
+
+ A7(#5= LA7(#5)    Bb6=SIb6            Cad=DOadd9       D7sus= RE7sus4
+
+
+\XOOO_O/         \ XX____/           \ X_OO_O/        \ OOO___/
+1||||||           1||||||             1||||O|          1||||O|
+ ||||O|            ||||||              ||||||           |||O|O
+ ||||||            ||OOOO              |O||||           ||||||
+ ||||||            ||||||              ||||||           ||||||
+
+ A7/ad= LA7/add11  Bb6=SIb6            Cad=DOadd9       D9 =RE9
+
+
+\XO_O_O/         \ X_____/           \ X__O_O/        \ _XO__O/
+1||||||           1||||||             1||||||          1||||O|
+ ||O|||            ||||||              ||O|||           O||O||
+ ||||O|            |OOOOO              |O||O|           ||||||
+ ||||||            ||||||              ||||||           ||||||
+
+ A7sus= LA7sus4    Bb6/a= SIb6/add9    Cad=DOadd9       D9 =RE9
+
+
+\XO_O__/         \ X_____/           \ X__O__/        \ X____O/
+1||||||           1|O|O|O             1||||||          5OOOOOO
+ ||O|||            ||||||              ||O|||           ||||||
+ ||||OO            ||O|O|              |O||OO           ||O|O|
+ ||||||            ||||||              ||||||           ||||||
+
+ A7sus= LA7sus4    Bb7=SIb7            Cad=DOadd9       D9 =RE9
+
+
+\XO____/         \ XX____/           \ XXOO_O/        \ O_X___/
+1||||||           1||||||             1||||O|          1||||||
+ ||OO||            ||||||              ||||||           |||||O
+ ||||OO            ||OOO|              ||||||           |O|OO|
+ ||||||            |||||O              ||||||           ||||||
+
+ A7sus= LA7sus4    Bb7=SIb7            Cad=DOadd9       D9(#5= RE9(#5)
+
+
+\_XOO_O/         \ X_____/           \ XXO___/        \ OOO___/
+3OOOOOO           1|O|O|O             3OOOOOO          1||||||
+ ||||||            ||||||              ||||||           |||O|O
+ O|||||            ||O|||              |||OO|           ||||O|
+ ||||||            ||||O|              ||||||           ||||||
+
+ A7sus= LA7sus4    Bb7su= SIb7sus4     Cad=DOadd9       Dad=REadd9
+
+
+\XOOOXO/         \ X____O/           \ X____O/        \ OO___O/
+1||||||           1|O||||            10OOOOOO          1||||||
+ ||||||            ||||||              ||||||           |||O||
+ ||||||            ||OOO|              ||OO||           ||||O|
+ ||||||            ||||||              ||||O|           ||O|||
+
+ A7sus= LA7sus4    Bbadd= SIbadd#11    Cad=DOadd9       Dad=REadd9
+
+
+\OO___O/         \ _X___O/           \ X__O_O/        \ _XO__O/
+1||||||           1||||||             1||||||          1||||||
+ ||O|O|            O|||||              ||O|||           O||O||
+ ||||||            |||OO|              |O||O|           ||||O|
+ |||O||            ||O|||              ||||||           ||||||
+
+ Aad=LAadd9        Bbaug= SIbaug/MI    Cad=DOadd9       Dad=REadd9
+
+
+\XO__OO/         \ X_X__O/           \ X___XO/        \ XO____/
+6OOOOOO           1||||||             5OOOOOO          1||||||
+ ||O|||            ||||O|              ||||||           ||OO|O
+ ||||||            |O|O||              ||||||           ||||O|
+ ||||||            ||||||              ||||||           ||||||
+
+ Aad=LAadd9        Bbdim= SIbdim/DO    Cad=DOadd9       Dad=REadd9
+
+
+\XXO___/         \ XXO__O/           \ XX____/        \ XX____/
+1|||||O           1||||||             1||O|O|          1||||||
+ |||OO|            ||||O|              |||O|O           ||OO|O
+ ||||||            |||O||              ||||||           ||||O|
+ ||||||            ||||||              ||||||           ||||||
+
+ Aaug/= LAaug/RE   Bbdim= SIbdim/RE    Cdim/= DOdim/LA  Dad=REadd9
+
+
+\_O_O__/         \ X__O_O/           \ XX____/        \ X____O/
+1O||||O           1|O||||             1||OOO|          2OOOOOO
+ ||||O|            ||O|O|              |||||O           ||||O|
+ ||O|||            ||||||              ||||||           ||O|||
+ ||||||            ||||||              ||||||           |O||||
+
+ Aaug/= LAaug/SOL  Bbdim= SIbdim/SOL   Cdim/= DOdim/LAb Dad=REadd9
+
+
+\______/         \ XX____/           \ XX____/        \ X___XO/
+4OOOOOO           1||||||             4OOOOOO          7OOOOOO
+ |||O||            ||O|O|              |||O||           ||||||
+ |OO|||            |||O|O              ||||||           |O||||
+ ||||||            ||||||              ||||||           ||||||
+
+ Ab =LAb           Bbdim= SIbdim/SOL   Cdim/= DOdim/LAb Dad=REadd9
+
+
+\X____O/         \ ______/           \ X_____/        \ _X___O/
+1|||OO|           1||||||             2OOOOOO          1||||||
+ ||O|||            O|O|OO              ||||||           O|||||
+ |O||||            |||O||              ||O|O|           |||OO|
+ ||||||            |O||||              |O|O||           ||O|||
+
+ Ab#=LAb#5         Bbdim= SIbdim/SOLb  Cdim/= DOdim/RE  Daug/= REaug/MI
+
+
+\XX____/         \ XX___O/           \ XX____/        \ ______/
+1||O|O|           1||||||             1||O|O|          4OOOOOO
+ |||O||            ||||O|              |||O|O           ||||||
+ ||||||            |||O||              ||||||           ||OOO|
+ |||||O            ||O|||              ||||||           ||||||
+
+ Ab/=LAb/LA        Bbdim= SIbdim/SOLb  Cdi=DOdim7       Db =REb
+
+
+\X_____/         \ X__O_O/           \ X_____/        \ X_____/
+8OOOOOO           1|O||||             3OOOOOO          1|||O|O
+ ||||O|            ||O|O|              ||||O|           ||||O|
+ ||O|||            ||||||              ||OO||           ||O|||
+ ||||||            ||||||              ||||||           |O||||
+
+ Ab/=LAb/FA        Bbdim= SIbdim7      Cm =DOm          Db =REb
+
+
+\XX____/         \ XX____/           \ XX____/        \ X_____/
+1||OOOO           1||||||             3OOOOOO          4OOOOOO
+ ||||||            ||O|O|              ||||O|           ||||||
+ ||||||            |||O|O              ||OO||           ||OOO|
+ ||||||            ||||||              ||||||           ||||||
+
+ Ab/=LAb/FA        Bbdim= SIbdim7      Cm =DOm          Db =REb
+
+
+\XX____/         \ ______/           \ XX____/        \ XX____/
+1||OOO|           1OO|||O             1||O|O|          1|||O|O
+ |||||O            ||||O|              |||O||           ||||O|
+ ||||||            ||OO||              |||||O           ||O|||
+ ||||||            ||||||              ||||||           ||||||
+
+ Ab/=LAb/SOLb      Bbm=SIbm            Cm/=DOm/LA       Db =REb
+
+
+\XX____/         \ X_____/           \ X_____/        \ XX____/
+4OOOOOO           1|O|O|O             3OOOOOO          4OOOOOO
+ |||O||            ||||O|              ||||O|           ||||||
+ ||||||            ||O|||              ||O|||           ||OOO|
+ ||||||            ||||||              ||||||           ||||||
+
+ Ab/=LAb/SOLb      Bbm/A= SIbm/LAb     Cm/=DOm/SIb      Db =REb
+
+
+\___XX_/         \ XXO___/           \ XX____/        \ XO____/
+4OOOOOO           6OOOOOO             1||O|O|          1|||||O
+ ||||||            ||||||              |||O||           |||OO|
+ |OO|||            ||||||              |||||O           ||O|||
+ ||||||            ||||||              ||||||           ||||||
+
+ Ab5=LAb5          Bbm=SIbm/RE         Cm6=DOm6         Db#=REb#5
+
+
+\X_____/         \ XX____/           \ X_____/        \ XOX___/
+8OOOOOO           1||||||             3OOOOOO          1|||||O
+ ||||O|            ||||OO              ||||O|           |||OO|
+ ||O|||            ||OO||              ||O|||           ||||||
+ ||||||            ||||||              ||||||           ||||||
+
+ Ab6=LAb6          Bbm/G= SIbm/SOLb    Cm7=DOm7         Db#=REb#5
+
+
+\XX____/         \ X_____/           \ O__OOO/        \ XX_O__/
+1||OOOO           1|O|O|O             1||||||          1|||||O
+ ||||||            ||||O|              ||O|||           ||||O|
+ ||||||            ||O|||              |O||||           ||O|||
+ ||||||            ||||||              ||||||           ||||||
+
+ Ab6=LAb6          Bbm=SIbm7           Cma=DOmaj7       Dbb=REbb5
+
+
+\XX____/         \ ______/           \ X__O_O/        \ X___O_/
+1||OOO|           1OO|||O             1||||O|          1||||||
+ |||||O            |||O||              |OO|||           ||||||
+ ||||||            ||O|O|              ||||||           ||O|||
+ ||||||            ||||||              ||||||           |O|O|O
+
+ Ab7=LAb7          Bbmaj= SIbmaj7      Cma=DOmaj7       Db/=REb/SI
+
+
+\XX____/         \ X_____/           \ X_____/        \ X_____/
+4OOOOOO           3OOOOOO             3OOOOOO          1|O|O|O
+ |||O||            ||||||              |||O||           ||||O|
+ ||||||            |||||O              ||O|O|           ||O|||
+ ||||||            ||||||              ||||||           ||||||
+
+ Ab7=LAb7          Bbmaj= SIbmaj9      Cma=DOmaj7       Db/=REb/SIb
+
+
+\O_O_OO/         \ XX____/           \ X_OOOO/        \ X_____/
+1|||O||           1||||OO             1||||||          1|||O|O
+ |O||||            ||||||              ||||||           ||||O|
+ ||||||            ||OO||              |O||||           |OO|||
+ ||||||            ||||||              ||||||           ||||||
+
+ Abdim= LAbdim/MI  Bbsus= SIbsus2      Cma=DOmaj9       Db/=REb/DO
+
+
+\O____O/         \ X_____/           \ X__O__/        \ X_____/
+1|||O||           3OOOOOO             1||||OO          4OOOOOO
+ |OO|||            ||||||              ||||||           |||O||
+ ||||O|            ||O|||              |OO|||           ||O|O|
+ ||||||            ||||O|              ||||||           ||||||
+
+ Abdim= LAbdim/MI  Bbsus= SIbsus2/SOL  Csu=DOsus        Db/=REb/DO
+
+
+\X_O__O/         \ X_____/           \ XX_O__/        \ X___X_/
+1|||O||           1|O|O|O             1||||OO          4OOOOOO
+ |O||||            ||||||              ||||||           ||||||
+ ||||O|            ||O|||              ||O|||           ||OO||
+ ||||||            ||||O|              ||||||           ||||||
+
+ Abdim= LAbdim/MI  Bbsus= SIbsus4/LAb  Csu=DOsus        Db5=REb5
+
+
+\XXO_OO/         \ ______/           \ X___X_/        \ X_____/
+1|||O||           1O||||O             3OOOOOO          1|O|O|O
+ ||||||            |O|O||              ||||||           ||||O|
+ ||||||            ||O|O|              |OOO||           ||O|||
+ ||||||            ||||||              ||||||           ||||||
+
+ Abdim= LAbdim/MI  Bdim/= SIdim/LA     Csu=DOsus2       Db6=REb6
+
+
+\XXO___/         \ X_O_O_/           \ X_OO__/        \ X___O_/
+1||||||           1|||||O             1||||||          1||||||
+ ||||||            |O|O||              ||||||           ||||||
+ ||||||            ||||||              |O||OO           ||O|||
+ |||OOO            ||||||              ||||||           |O|O|O
+
+ Abdim= LAbdim/MIb Bdim/= SIdim/LA     Csu=DOsus2       Db7=REb7
+
+
+\X_O_O_/         \ XXO_O_/           \ X_____/        \ XXO___/
+1|||O|O           1|||||O             3OOOOOO          1|||||O
+ |O||||            |||O||              ||||||           |||OO|
+ ||||||            ||||||              ||OO||           ||||||
+ ||||||            ||||||              ||||||           ||||||
+
+ Abdim= LAbdim/FA  Bdim/= SIdim/LA     Csu=DOsus2       Dbaug= REbaug/RE
+
+
+\XXO_O_/         \ X_O_O_/           \ XXO___/        \ _O_O__/
+1|||O|O           1|||O|O             1||||O|          1O||||O
+ ||||||            |O||||              |||O||           ||||O|
+ ||||||            ||||||              |||||O           ||O|||
+ ||||||            ||||||              ||||||           ||||||
+
+ Abdim= LAbdim/FA  Bdim/= SIdim/LAb    Csus2= DOsus2/LA Dbaug= REbaug/SOL
+
+
+\XX____/         \ XXO_O_/           \ __OOO_/        \ _X___O/
+1||||||           1|||O|O             1||||||          1||||||
+ ||||||            ||||||              ||||||           ||OOO|
+ ||O|O|            ||||||              OO|||O           O|||||
+ |||O|O            ||||||              ||||||           ||||||
+
+ Abdim= LAbdim/FA  Bdim/= SIdim/LAb    Csus2= DOsus2/SI Dbdim= REbdim/LA
+
+
+\X_O_O_/         \ XX____/           \ X_OOO_/        \ XO_O_O/
+1|||O|O           1||||||             1||||||          1||||||
+ |O||||            ||||||              ||||||           ||O|O|
+ ||||||            ||O|O|              |O|||O           ||||||
+ ||||||            |||O|O              ||||||           ||||||
+
+ Abdim= LAbdim7    Bdim/= SIdim/LAb    Csus2= DOsus2/SI Dbdim= REbdim/LA
+
+
+\XXO_O_/         \ _XOOO_/           \ _XOO_O/        \ XO____/
+1|||O|O           1O|||||             1||||O|          1||||||
+ ||||||            ||||||              ||||||           ||OOO|
+ ||||||            |||||O              O|||||           |||||O
+ ||||||            ||||||              ||||||           ||||||
+
+ Abdim= LAbdim7    Bdim/= SIdim/SOL    Csus2= DOsus2/MI Dbdim= REbdim/LA
+
+
+\XX____/         \ __OOO_/           \ X_OO_O/        \ O__O_O/
+1||||||           1|||||O             1||||O|          1||||||
+ ||||||            |O||||              ||||||           |OO|O|
+ ||O|O|            O|||||              |O||||           ||||||
+ |||O|O            ||||||              ||||||           ||||||
+
+ Abdim= LAbdim7    Bdim/= SIdim/SOL    Csus2= DOsus2/MI Dbdim= REbdim/SI
+
+
+\XX____/         \ XXOOO_/           \ X__O_O/        \ X__O_O/
+4OOOOOO           1|||||O             1||||||          1|O||||
+ ||||||            ||||||              ||O|||           ||O|O|
+ ||O|||            ||||||              |O||O|           ||||||
+ ||||||            ||||||              ||||||           ||||||
+
+ Abm=LAbm          Bdim/= SIdim/SOL    Csus2= DOsus2/MI Dbdim= REbdim/SIb
+
+
+\XXO___/         \ X_O_O_/           \ X__O__/        \ XX____/
+1||||||           1|||O|O             1||||||          1||||||
+ ||||||            |O||||              ||O|||           ||O|O|
+ ||||||            ||||||              |O||OO           |||O|O
+ |||OOO            ||||||              ||||||           ||||||
+
+ Abm=LAbm/RE       Bdi=SIdim7          Csus2= DOsus2/MI Dbdim= REbdim/SIb
+
+
+\O___OO/         \ XXO_O_/           \ XXOO_O/        \ _XOO_O/
+1||OO||           1|||O|O             1||||O|          1||||||
+ |O||||            ||||||              ||||||           ||||O|
+ ||||||            ||||||              ||||||           O|||||
+ ||||||            ||||||              ||||||           ||||||
+
+ Abm=LAbm/MI       Bdi=SIdim7          Csus2= DOsus2/MI Dbdim= REbdim/RE
+
+
+\OX___O/         \ XX____/           \ XXO___/        \ XXOO_O/
+4OOOOOO           1||||||             3OOOOOO          1||||||
+ ||||||            ||||||              ||||||           ||||O|
+ ||O|||            ||O|O|              |||OO|           ||||||
+ ||||||            |||O|O              ||||||           ||||||
+
+ Abm=LAbm/MI       Bdi=SIdim7          Csus2= DOsus2/MI Dbdim= REbdim/RE
+
+
+\XX__OO/         \ ______/           \ X____O/        \ X__O_O/
+1||OO||           1||||||            10OOOOOO          1|O||||
+ ||||||            OO|||O              ||||||           ||O|O|
+ ||||||            ||||O|              ||OO||           ||||||
+ ||||||            ||OO||              ||||O|           ||||||
+
+ Abm=LAbm/MI       Bm =SIm             Csus2= DOsus2/MI Dbdim= REbdim7
+
+
+\XX____/         \ X_____/           \ X___XO/        \ XX____/
+1||||||           1||||||             5OOOOOO          1||||||
+ ||||||            |O|||O              ||||||           ||O|O|
+ ||||||            ||||O|              ||||||           |||O|O
+ ||OOOO            ||OO||              ||||||           ||||||
+
+ Abm/G= LAbm/SOLb  Bm =SIm             Csus2= DOsus2/MI Dbdim= REbdim7
+
+
+\XX____/         \ XXO___/           \ __OO__/        \ X_____/
+1||||||           1||||||             1||||OO          4OOOOOO
+ ||||||            |||||O              ||||||           ||||O|
+ ||||||            ||||O|              OO||||           ||OO||
+ ||OOOO            |||O||              ||||||           ||||||
+
+ Abm=LAbm7         Bm =SIm             Csus2= DOsus2/FA Dbm=REbm
+
+
+\XX____/         \ XO____/           \ _X____/        \ XX___O/
+4OOOOOO           1||||||             1||||OO          1|||O||
+ ||||||            |||||O              |||O||           ||O|O|
+ ||OO||            ||||O|              O|O|||           ||||||
+ ||||||            ||OO||              ||||||           ||||||
+
+ Abs=LAbsus        Bm/=SIm/LA          Csus4= DOsus4/LA Dbm=REbm
+
+
+\X_____/         \ X_O_O_/           \ XX____/        \ X___XO/
+1|O|O|O           1||||||             1||||O|          4OOOOOO
+ ||||||            |O|O|O              |||O||           ||||||
+ ||O|||            ||||||              ||O||O           ||OO||
+ ||||O|            ||||||              ||||||           ||||||
+
+ Absus= LAbsus2/FA Bm/=SIm/LA          Csus4= DOsus4/LA Dbm=REbm
+
+
+\XX____/         \ X_O___/           \ X__OO_/        \ XO___O/
+1||O|O|           1||||||             1||||||          1|||O||
+ |||O||            |O|O|O              ||||||           ||O|O|
+ ||||||            ||||O|              |OO||O           ||||||
+ |||||O            ||||||              ||||||           ||||||
+
+ Adim/= LAdim/LAb  Bm/=SIm/LA          Csus4= DOsus4/SI Dbm=REbm/LA
+
+
+\O_X__O/         \ X_____/           \ X_____/        \ O____O/
+1||||||           1||||||             3OOOOOO          1|||O||
+ |||O||            |O|O|O              ||||||           |OO|O|
+ |O||||            ||||O|              ||O|||           ||||||
+ ||||O|            ||O|||              ||||O|           ||||||
+
+ Adim/= LAdim/MI   Bm/=SIm/LA          Csus4= DOsus4/SIbDbm=REbm/SI
+
+
+\XX____/         \ XXO_O_/           \ __OO__/        \ X_____/
+1||O|OO           1||||||             1||||OO          4OOOOOO
+ |||O||            |||O|O              ||||||           ||||O|
+ ||||||            ||||||              OO||||           ||O|||
+ ||||||            ||||||              ||||||           ||||||
+
+ Adim/= LAdim/FA   Bm/=SIm/LA          Csus4= DOsus4/RE Dbm=REbm/SI
+
+
+\XX____/         \ __OOO_/           \ X__O_O/        \ O____O/
+3OOOOOO           1||||||             1||||O|          1|||O||
+ ||||O|            OO||||              ||||||           |OO|O|
+ |||O||            |||||O              |OO|||           ||||||
+ ||||||            ||||||              ||||||           ||||||
+
+ Adim/= LAdim/FA   Bm/=SIm/SOL         Csus4= DOsus4/MI Dbm=REbm7
+
+
+\XX____/         \ __OO__/           \ XX_O_O/        \ X_____/
+1||O|O|           1||||||             1||||O|          4OOOOOO
+ |||O||            OO||||              ||||||           ||||O|
+ |||||O            ||||OO              ||O|||           ||O|||
+ ||||||            ||||||              ||||||           ||||||
+
+ Adim/= LAdim/SOL  Bm/=SIm/SOL         Csus4= DOsus4/MI Dbm=REbm7
+
+
+\XX____/         \ __OOO_/                            \ O__O_O/
+1||O|O|           1||||||                              1||||||
+ |||O|O            |O|||O                               |OO|O|
+ ||||||            O|||||                               ||||||
+ ||||||            ||||||                               ||||||
+
+ Adim/= LAdim/SOLb Bm/=SIm/SOL                          Dbm7(= REbm7(b5)
+
+
+\XX____/         \ XX____/                            \ X_____/
+1||O|O|           1||||||                              1|||O|O
+ |||O|O            ||||||                               ||||O|
+ ||||||            ||||OO                               |OO|||
+ ||||||            ||OO||                               ||||||
+
+ Adi=LAdim7        Bm/=SIm/SOL                          Dbmaj= REbmaj7
+
+
+\XO___O/         \ XO____/                            \ X_____/
+1||||O|           1||||||                              4OOOOOO
+ ||OO||            |||||O                               |||O||
+ ||||||            ||||O|                               ||O|O|
+ ||||||            ||OO||                               ||||||
+
+ Am =LAm           Bm7=SIm7                             Dbmaj= REbmaj7
+
+
+\XO____/         \ X_O_O_/                            \ XX____/
+5OOOOOO           1||||||                              4OOOOOO
+ ||||||            |O|O|O                               ||||||
+ ||O|||            ||||||                               ||OO||
+ ||||||            ||||||                               ||||||
+
+ Am =LAm           Bm7=SIm7                             Dbsus= REbsus2
+
+
+\X____O/         \ X_O___/                            \ XX____/
+1||||O|           1||||||                              1||||||
+ ||OO||            |O|O|O                               ||||O|
+ |O||||            ||||O|                               |||O||
+ ||||||            ||||||                               ||O||O
+
+ Am =LAm           Bm7=SIm7                             Dbsus= REbsus4/SIb
+
+
+\OO__OO/         \ X_____/                            \ X_O_O_/
+5OOOOOO           1||||||                              1|||O|O
+ ||||||            |O|O|O                               |O||||
+ ||O|||            ||||O|                               ||||||
+ ||||||            ||O|||                               ||||||
+
+ Am/=LAm/SI        Bm7=SIm7                             Ddim/= REdim/SI
+
+
+\X___OO/         \ XXO__O/                            \ XXO_O_/
+1||||||           1||||||                              1|||O|O
+ ||OO||            |||OO|                               ||||||
+ |O||||            ||||||                               ||||||
+ ||||||            ||||||                               ||||||
+
+ Am/=LAm/SI        Bm7=SIm7                             Ddim/= REdim/SI
+
+
+\XXO__O/         \ ______/                            \ XX____/
+1||||O|           1O||||O                              1||||||
+ |||O||            |O|O||                               ||||||
+ ||||||            ||O|O|                               ||O|O|
+ ||||||            ||||||                               |||O|O
+
+ Am/=LAm/RE        Bm7(b= SIm7(b5)                      Ddim/= REdim/SI
+
+
+\XXO___/         \ X_O_O_/                            \ X_____/
+5OOOOOO           1|||||O                              1|O|O|O
+ ||||||            |O|O||                               ||||||
+ ||||||            ||||||                               ||O|O|
+ ||||||            ||||||                               ||||||
+
+ Am/=LAm/RE        Bm7(b= SIm7(b5)                      Ddim/= REdim/SIb
+
+
+\O_X__O/         \ XXO_O_/                            \ XX____/
+1||||||           1|||||O                              1||||||
+ |||O||            |||O||                               ||||||
+ |O||||            ||||||                               ||OOO|
+ ||||O|            ||||||                               |||||O
+
+ Am/=LAm/MIb       Bm7(b= SIm7(b5)                      Ddim/= REdim/SIb
+
+
+\OO___O/         \ OO____/                            \ XXO___/
+1||||O|           1||||||                              1|||OOO
+ |||O||            ||O||O                               ||||||
+ ||O|||            ||||O|                               ||||||
+ ||||||            |||O||                               ||||||
+
+ Am/=LAm/FA        Bm7/a= SIm7/add11                    Ddim/= REdim/DO
+
+
+\_____O/         \ O_O_O_/                            \ X_O_O_/
+1O|||O|           1||||||                              1|||O|O
+ |||O||            |O|O|O                               |O||||
+ |OO|||            ||||||                               ||||||
+ ||||||            ||||||                               ||||||
+
+ Am/=LAm/FA        Bm7/a= SIm7/add11                    Ddi=REdim7
+
+
+\_X___O/         \ X_____/                            \ XXO_O_/
+1O|||O|           1||||||                              1|||O|O
+ ||OO||            |O|||O                               ||||||
+ ||||||            ||OO||                               ||||||
+ ||||||            ||||O|                               ||||||
+
+ Am/=LAm/FA        Bmaj7= SImaj7/#11                    Ddi=REdim7
+
+
+\XX____/         \ ___XXO/                            \ XX____/
+1||||OO           7OOOOOO                              1||||||
+ ||OO||            ||||||                               ||||||
+ ||||||            |OO|||                               ||O|O|
+ ||||||            ||||||                               |||O|O
+
+ Am/=LAm/FA        Bsu=SIsus                            Ddi=REdim7
+
+
+\XX___O/         \ X___XO/                            \ XOO___/
+1||||O|           1||||||                              1|||||O
+ |||O||            |O||||                               |||O||
+ ||O|||            ||||||                               ||||O|
+ ||||||            ||OO||                               ||||||
+
+ Am/=LAm/FA        Bsu=SIsus                            Dm =REm
+
+
+\OO_O__/         \ X___X_/                            \ ______/
+1||||O|           1||||||                              7OOOOOO
+ ||O|||            |||||O                               ||||O|
+ |||||O            ||||||                               ||OO||
+ ||||||            |OOO||                               ||||||
+
+ Am/=LAm/SOL       Bsu=SIsus2                           Dm =REm
+
+
+\XO_O_O/         \ XX____/                            \ ______/
+1||||O|           1||||||                              1O||||O
+ ||O|||            ||||OO                               |O|O||
+ ||||||            ||||||                               ||O|O|
+ ||||||            ||OO||                               ||||||
+
+ Am/=LAm/SOL       Bsu=SIsus2                           Dm/=REm/SI
+
+
+\XO____/         \ X___XO/                            \ X_O_O_/
+1||||O|           1||||||                              1|||||O
+ ||OO||            ||||||                               |O|O||
+ |||||O            ||||||                               ||||||
+ ||||||            |OOO||                               ||||||
+
+ Am/=LAm/SOL       Bsus2= SIsus2/MI                     Dm/=REm/SI
+
+
+\XO____/         \ XO__OO/                            \ XXO_O_/
+5OOOOOO           1||||||                              1|||||O
+ ||||||            ||||||                               |||O||
+ ||||||            ||||||                               ||||||
+ |||||O            ||OO||                               ||||||
+
+ Am/=LAm/SOL       Bsus4= SIsus4/LA                     Dm/=REm/SI
+
+
+\XO____/         \ X_____/                            \ ______/
+1||||O|           2OOOOOO                              1OO|||O
+ ||OO|O            ||||||                               |||O||
+ ||||||            ||O|||                               ||O|O|
+ ||||||            ||||O|                               ||||||
+
+ Am/=LAm/SOLb      Bsus4= SIsus4/LA                     Dm/=REm/SIb
+
+
+\XX____/         \ O___O_/                            \ X_____/
+1||||O|           1|||O||                              5OOOOOO
+ ||OO|O            |OO||O                               ||||O|
+ ||||||            ||||||                               ||O|||
+ ||||||            ||||||                               ||||||
+
+ Am/=LAm/SOLb      Bsus4= SIsus4/LAb                    Dm/=REm/DO
+
+
+\XO____/         \ OX__OO/                            \ XXO___/
+1||||O|           1|||O||                              1||||OO
+ ||OO|O            ||||||                               |||O||
+ ||||||            ||||||                               ||||||
+ ||||||            ||O|||                               ||||||
+
+ Am6=LAm6          Bsus4= SIsus4/LAb                    Dm/=REm/DO
+
+
+\XX____/         \ ____OO/                            \ XXO___/
+1||||O|           1|||O||                              5OOOOOO
+ ||OO|O            OOO|||                               ||||O|
+ ||||||            ||||||                               ||||||
+ ||||||            ||||||                               ||||||
+
+ Am6=LAm6          Bsus4= SIsus4/LAb                    Dm/=REm/DO
+
+
+\OO_O__/         \ X___XO/                            \ XXO___/
+1||||O|           1||||||                              1|||||O
+ ||O|||            ||||||                               |||OO|
+ |||||O            ||||||                               ||||||
+ ||||||            |OOO||                               ||||||
+
+ Am7=LAm7          Bsus4= SIsus4/REb                    Dm/=REm/REb
+
+
+\XO_O_O/         \ X_____/                            \ XX___O/
+1||||O|           1||||||                              6OOOOOO
+ ||O|||            |OO||O                               ||OO||
+ ||||||            ||||||                               ||||||
+ ||||||            |||OO|                               ||||||
+
+ Am7=LAm7          Bsus4= SIsus4/MIb                    Dm/=REm/MI
+
+
+\XO____/         \ XX___O/                            \ X_O_O_/
+1||||O|           1||||||                              1|||||O
+ ||OO||            ||||||                               |O|O||
+ |||||O            ||||||                               ||||||
+ ||||||            ||OOO|                               ||||||
+
+ Am7=LAm7          Bsus4= SIsus4/MIb                    Dm6=REm6
+
+
+\XO____/         \ O__OO_/                            \ XXO_O_/
+5OOOOOO           1||||||                              1|||||O
+ ||||||            |OO||O                               |||O||
+ ||||||            ||||||                               ||||||
+ |||||O            ||||||                               ||||||
+
+ Am7=LAm7          Bsus4= SIsus4/SOL                    Dm6=REm6
+
+
+\XX____/         \ O__OOO/                            \ X_____/
+1||O|O|           1||||||                              5OOOOOO
+ |||O||            |O||||                               ||||O|
+ |||||O            ||||||                               ||O|||
+ ||||||            ||O|||                               ||||||
+
+ Am7(b= LAm7(b5)   Bsus4= SIsus4/SOL                    Dm7=REm7
+
+
+\X____O/         \ OX_OOO/                            \ XXO___/
+5OOOOOO           1||||||                              1||||OO
+ ||||||            ||||||                               |||O||
+ ||O|||            ||||||                               ||||||
+ ||||O|            ||O|||                               ||||||
+
+ Am7/a= LAm7/add11 Bsus4= SIsus4/SOL                    Dm7=REm7
+
+
+\XO___O/         \ ___OOO/                            \ XXO___/
+1|||O||           1||||||                              5OOOOOO
+ ||O|O|            OOO|||                               ||||O|
+ ||||||            ||||||                               ||||||
+ ||||||            ||||||                               ||||||
+
+ Ama=LAmaj7        Bsus4= SIsus4/SOL                    Dm7=REm7
+
+
+\XO____/                                              \ XXO___/
+5OOOOOO                                                1|||OOO
+ ||O|||                                                 ||||||
+ |||||O                                                 ||||||
+ ||||||                                                 ||||||
+
+ Amin/= LAmin/maj9                                      Dm7(b= REm7(b5)
+
+
+\OO___O/                                              \ _XO___/
+1||||||                                                1||||OO
+ ||OO||                                                 |||O||
+ ||||O|                                                 O|||||
+ ||||||                                                 ||||||
+
+ Asu=LAsus                                              Dm7/a= REm7/add11
+
+
+\XO___O/                                              \ XXO___/
+1||||||                                               14OOOOOO
+ ||OO||                                                 ||||||
+ ||||O|                                                 ||||||
+ ||||||                                                 ||||||
+
+ Asu=LAsus                                              Dma=REmaj7
+
+
+\____XO/                                              \ XXO___/
+5OOOOOO                                                1||||||
+ ||||||                                                 |||OOO
+ ||OO||                                                 ||||||
+ ||||||                                                 ||||||
+
+ Asu=LAsus                                              Dma=REmaj7
+
+
+\XOO__O/                                              \ XXO___/
+1||||||                                                1|||||O
+ |||O||                                                 |||OO|
+ ||||O|                                                 ||||||
+ ||||||                                                 ||||||
+
+ Asu=LAsus                                              Dmin/= REmin/maj7
+
+
+\OO__OO/                                              \ _XOO__/
+1||||||                                                3OOOOOO
+ ||OO||                                                 ||||||
+ ||||||                                                 O||||O
+ ||||||                                                 ||||||
+
+ Asu=LAsus2                                             Dsu=REsus
+
+
+\OO__OO/                                              \ _OOO__/
+1||||||                                                1||||||
+ ||O|||                                                 ||||||
+ ||||||                                                 O|||OO
+ |||O||                                                 ||||||
+
+ Asu=LAsus2                                             Dsu=REsus
+
+
+\O___OO/                                              \ XOOO__/
+1||||||                                                1||||||
+ |OOO||                                                 ||||||
+ ||||||                                                 ||||OO
+ ||||||                                                 ||||||
+
+ Asu=LAsus2                                             Dsu=REsus
+
+
+\XO__OO/                                              \ XXO___/
+1||||||                                                1||||||
+ ||OO||                                                 |||O||
+ ||||||                                                 ||||OO
+ ||||||                                                 ||||||
+
+ Asu=LAsus2                                             Dsu=REsus
+
+
+\XX__OO/                                              \ ____XO/
+1||||||                                                5OOOOOO
+ ||OO||                                                 ||||||
+ ||||||                                                 ||OO||
+ ||||||                                                 ||||||
+
+ Asu=LAsus2                                             Dsu=REsus2
+
+
+\XO__OO/                                              \ XOO__O/
+1|||O||                                                1||||||
+ ||O|||                                                 |||O||
+ ||||||                                                 ||||O|
+ ||||||                                                 ||||||
+
+ Asus2= LAsus2/LAb                                      Dsu=REsus2
+
+
+\OO__OO/                                              \ OO___O/
+5OOOOOO                                                1||||||
+ ||||||                                                 ||OO||
+ ||O|||                                                 ||||O|
+ ||||||                                                 ||||||
+
+ Asus2= LAsus2/DO                                       Dsu=REsus2
+
+
+\X___OO/                                              \ XO___O/
+1||||||                                                1||||||
+ ||OO||                                                 ||OO||
+ |O||||                                                 ||||O|
+ ||||||                                                 ||||||
+
+ Asus2= LAsus2/DO                                       Dsu=REsus2
+
+
+\O_O_OO/                                              \ XXO__O/
+1||||||                                                1||||||
+ |O|O||                                                 |||O||
+ ||||||                                                 ||||O|
+ ||||||                                                 ||||||
+
+ Asus2= LAsus2/RE                                       Dsu=REsus2
+
+
+\X_O__O/                                              \ _XO__O/
+1||||||                                                1||||||
+ |O|O||                                                 |||O||
+ ||||O|                                                 ||||O|
+ ||||||                                                 O|||||
+
+ Asus2= LAsus2/RE                                       Dsus2= REsus2/LAb
+
+
+\OO___O/                                              \ O_O_OO/
+1||||||                                                1||||||
+ ||O|O|                                                 |O|O||
+ ||||||                                                 ||||||
+ |||O||                                                 ||||||
+
+ Asus2= LAsus2/REb                                      Dsus2= REsus2/SI
+
+
+\XO__OO/                                              \ X_O__O/
+6OOOOOO                                                1||||||
+ ||O|||                                                 |O|O||
+ ||||||                                                 ||||O|
+ ||||||                                                 ||||||
+
+ Asus2= LAsus2/REb                                      Dsus2= REsus2/SI
+
+
+\X___OO/                                              \ O_X__O/
+1||O|||                                                1|O||||
+ |O|O||                                                 |||O||
+ ||||||                                                 ||||O|
+ ||||||                                                 ||||||
+
+ Asus2= LAsus2/MIb                                      Dsus2= REsus2/SIb
+
+
+\OO__OO/                                              \ XXO__O/
+1||||||                                                1||||O|
+ |||O||                                                 |||O||
+ ||O|||                                                 ||||||
+ ||||||                                                 ||||||
+
+ Asus2= LAsus2/FA                                       Dsus2= REsus2/DO
+
+
+\XO_OOO/                                              \ XXO___/
+1||||||                                                5OOOOOO
+ ||O|||                                                 ||||||
+ ||||||                                                 ||||||
+ ||||||                                                 ||||||
+
+ Asus2= LAsus2/SOL                                      Dsus2= REsus2/DO
+
+
+\XO___O/                                              \ XOO__O/
+4OOOOOO                                                1||||||
+ ||O|O|                                                 |||OO|
+ ||||||                                                 ||||||
+ ||||||                                                 ||||||
+
+ Asus2= LAsus2/SOL                                      Dsus2= REsus2/REb
+
+
+\XO__OO/                                              \ XXO__O/
+1||||||                                                1||||||
+ ||||||                                                 |||OO|
+ ||||||                                                 ||||||
+ ||OO||                                                 ||||||
+
+ Asus2= LAsus2/SOLb                                     Dsus2= REsus2/REb
+
+
+\X_____/                                              \ XXO___/
+2OOOOOO                                                5OOOOOO
+ ||||||                                                 |||O||
+ ||O|||                                                 ||||||
+ ||||O|                                                 ||||||
+
+ Asus2= LAsus2/SOLb                                     Dsus2= REsus2/REb
+
+
+\_XO__O/                                              \ XXO___/
+1||||||                                                9OOOOOO
+ |||O||                                                 ||||O|
+ ||||O|                                                 ||||||
+ O|||||                                                 ||||||
+
+ Asus4= LAsus4/LAb                                      Dsus2= REsus2/REb
+
+
+\O_O_OO/                                              \ XX___O/
+1||||||                                                6OOOOOO
+ |O|O||                                                 ||OO||
+ ||||||                                                 ||||||
+ ||||||                                                 ||||||
+
+ Asus4= LAsus4/SI                                       Dsus2= REsus2/FA
+
+
+\O_X__O/                                              \ XO_O_O/
+1|O||||                                                1||||||
+ |||O||                                                 ||O|||
+ ||||O|                                                 ||||O|
+ ||||||                                                 ||||||
+
+ Asus4= LAsus4/SIb                                      Dsus2= REsus2/SOL
+
+
+\XXO__O/                                              \ XO_O__/
+1||||O|                                                1||||||
+ |||O||                                                 ||O|||
+ ||||||                                                 ||||OO
+ ||||||                                                 ||||||
+
+ Asus4= LAsus4/DO                                       Dsus2= REsus2/SOL
+
+
+\XXO___/                                              \ XO____/
+5OOOOOO                                                1||||||
+ ||||||                                                 ||OO||
+ ||||||                                                 ||||OO
+ ||||||                                                 ||||||
+
+ Asus4= LAsus4/DO                                       Dsus2= REsus2/SOL
+
+
+\XOO__O/                                              \ _XOO_O/
+1||||||                                                3OOOOOO
+ |||OO|                                                 ||||||
+ ||||||                                                 O|||||
+ ||||||                                                 ||||||
+
+ Asus4= LAsus4/REb                                      Dsus2= REsus2/SOL
+
+
+\XXO__O/                                              \ XOOOXO/
+1||||||                                                1||||||
+ |||OO|                                                 ||||||
+ ||||||                                                 ||||||
+ ||||||                                                 ||||||
+
+ Asus4= LAsus4/REb                                      Dsus2= REsus2/SOL
+
+
+\XXO___/                                              \ OOO___/
+5OOOOOO                                                1||||||
+ |||O||                                                 |||O|O
+ ||||||                                                 ||||O|
+ ||||||                                                 ||||||
+
+ Asus4= LAsus4/REb                                      Dsus2= REsus2/SOLb
+
+
+\XXO___/                                              \ OO___O/
+9OOOOOO                                                1||||||
+ ||||O|                                                 |||O||
+ ||||||                                                 ||||O|
+ ||||||                                                 ||O|||
+
+ Asus4= LAsus4/REb                                      Dsus2= REsus2/SOLb
+
+
+\XX___O/                                              \ _XO__O/
+6OOOOOO                                                1||||||
+ ||OO||                                                 O||O||
+ ||||||                                                 ||||O|
+ ||||||                                                 ||||||
+
+ Asus4= LAsus4/FA                                       Dsus2= REsus2/SOLb
+
+
+\XO_O_O/                                              \ XO____/
+1||||||                                                1||||||
+ ||O|||                                                 ||OO|O
+ ||||O|                                                 ||||O|
+ ||||||                                                 ||||||
+
+ Asus4= LAsus4/SOL                                      Dsus2= REsus2/SOLb
+
+
+\XO_O__/                                              \ XX____/
+1||||||                                                1||||||
+ ||O|||                                                 ||OO|O
+ ||||OO                                                 ||||O|
+ ||||||                                                 ||||||
+
+ Asus4= LAsus4/SOL                                      Dsus2= REsus2/SOLb
+
+
+\XO____/                                              \ X____O/
+1||||||                                                2OOOOOO
+ ||OO||                                                 ||||O|
+ ||||OO                                                 ||O|||
+ ||||||                                                 |O||||
+
+ Asus4= LAsus4/SOL                                      Dsus2= REsus2/SOLb
+
+
+\XOOOXO/                                              \ X___XO/
+1||||||                                                7OOOOOO
+ ||||||                                                 ||||||
+ ||||||                                                 |O||||
+ ||||||                                                 ||||||
+
+ Asus4= LAsus4/SOL                                      Dsus2= REsus2/SOLb
+
+
+\OOO___/                                              \ _OOOO_/
+1||||||                                                1||||||
+ |||O|O                                                 ||||||
+ ||||O|                                                 O||||O
+ ||||||                                                 ||||||
+
+ Asus4= LAsus4/SOLb                                     Dsus4= REsus4/SI
+
+
+\OO___O/                                              \ __O_O_/
+1||||||                                                1||||||
+ |||O||                                                 |O|O||
+ ||||O|                                                 O||||O
+ ||O|||                                                 ||||||
+
+ Asus4= LAsus4/SOLb                                     Dsus4= REsus4/SI
+
+
+\_XO__O/                                              \ XXO___/
+1||||||                                                1||||O|
+ O||O||                                                 |||O||
+ ||||O|                                                 |||||O
+ ||||||                                                 ||||||
+
+ Asus4= LAsus4/SOLb                                     Dsus4= REsus4/DO
+
+
+\XO____/                                              \ XO_O_O/
+1||||||                                                1||||||
+ ||OO|O                                                 ||O|||
+ ||||O|                                                 ||||O|
+ ||||||                                                 ||||||
+
+ Asus4= LAsus4/SOLb                                     Dsus4= REsus4/MI
+
+
+\XX____/                                              \ XO_O__/
+1||||||                                                1||||||
+ ||OO|O                                                 ||O|||
+ ||||O|                                                 ||||OO
+ ||||||                                                 ||||||
+
+ Asus4= LAsus4/SOLb                                     Dsus4= REsus4/MI
+
+
+\X____O/                                              \ XO____/
+2OOOOOO                                                1||||||
+ ||||O|                                                 ||OO||
+ ||O|||                                                 ||||OO
+ |O||||                                                 ||||||
+
+ Asus4= LAsus4/SOLb                                     Dsus4= REsus4/MI
+
+
+\X___XO/                                              \ _XOO_O/
+7OOOOOO                                                3OOOOOO
+ ||||||                                                 ||||||
+ |O||||                                                 O|||||
+ ||||||                                                 ||||||
+
+ Asus4= LAsus4/SOLb                                     Dsus4= REsus4/MI
+
+
+                                                      \ XOOOXO/
+                                                       1||||||
+                                                        ||||||
+                                                        ||||||
+                                                        ||||||
+
+                                                        Dsus4= REsus4/MI
+
+
+                                                      \ _X_O__/
+                                                       3OOOOOO
+                                                        ||O|||
+                                                        O||||O
+                                                        ||||||
+
+                                                        Dsus4= REsus4/SOLb
+
+
+                                                      \ _XO___/
+                                                       1||||||
+                                                        |||O|O
+                                                        O|||O|
+                                                        ||||||
+
+                                                        Dsus4= REsus4/SOLb
+__________________ _____________________________________________________
+\O___OO/         \ ______/           \ X_____/
+1|||O||           1O|||OO            10OOOOOO
+ |OO|||            |||O||              ||||||
+ ||||||            |OO|||              ||OOO|
+ ||||||            ||||||              ||||||
+
+ E  =MI            F  =FA              G  =SOL
+
+
+\X____O/         \ XO____/           \ __OOO_/
+4OOOOOO           1||||OO             1||||||
+ ||||O|            |||O||              |O||||
+ ||O|||            ||O|||              O||||O
+ |O||||            ||||||              ||||||
+
+ E  =MI            F  =FA              G  =SOL
+
+
+\X____O/         \ X_____/           \ __OO__/
+1|||OO|           1||||OO             1||||||
+ ||O|||            |||O||              |O||||
+ |O||||            |OO|||              O|||OO
+ ||||||            ||||||              ||||||
+
+ E#5=MI#5          F  =FA              G  =SOL
+
+
+\XO__OO/         \ XX____/           \ ______/
+1|||O||           1||||OO             3OOOOOO
+ ||O|||            |||O||              |||O||
+ ||||||            ||O|||              |OO|||
+ ||||||            ||||||              ||||||
+
+ E/A=MI/LA         F  =FA              G  =SOL
+
+
+\O_O_OO/         \ XO____/           \ _XOOO_/
+1|||O||           1|||||O             1||||||
+ |O||||            |||OO|              ||||||
+ ||||||            ||O|||              O||||O
+ ||||||            ||||||              ||||||
+
+ E/D=MI/RE         F#5=FA#5            G  =SOL
+
+
+\O____O/         \ XOX___/           \ X_____/
+1|||O||           1|||||O             3OOOOOO
+ |OO|||            |||OO|              |||O||
+ ||||O|            ||||||              |OO|||
+ ||||||            ||||||              ||||||
+
+ E/D=MI/RE         F#5=FA#5            G  =SOL
+
+
+\X_O__O/         \ X_____/           \ XXO___/
+1|||O||           5OOOOOO             1||||||
+ |O||||            ||||O|              ||||||
+ ||||O|            ||O|||              ||||OO
+ ||||||            ||||||              |||O||
+
+ E/D=MI/RE         F/D=FA/RE           G  =SOL
+
+
+\XXO_OO/         \ XXO___/           \ XXO___/
+1|||O||           1||||OO             7OOOOOO
+ ||||||            |||O||              ||||O|
+ ||||||            ||||||              ||||||
+ ||||||            ||||||              ||||||
+
+ E/D=MI/RE         F/D=FA/RE           G  =SOL
+
+
+\O____O/         \ XXO___/           \ ___OO_/
+1|||O||           5OOOOOO             1||O|||
+ |OO|O|            ||||O|              |O||||
+ ||||||            ||||||              O||||O
+ ||||||            ||||||              ||||||
+
+ E/D=MI/REb        F/D=FA/RE           G#5=SOL#5
+
+
+\X_____/         \ OO___O/           \ _X_OO_/
+4OOOOOO           1||||O|             1||O|||
+ ||||O|            |||O||              ||||||
+ ||O|||            ||O|||              O||||O
+ ||||||            ||||||              ||||||
+
+ E/D=MI/REb        F/E=FA/MI           G#5=SOL#5
+
+
+\O___OO/         \ _____O/           \ _OOOO_/
+1||OO||           1O|||O|             1||||||
+ |O||||            |||O||              ||||||
+ ||||||            |OO|||              O||||O
+ ||||||            ||||||              ||||||
+
+ E/E=MI/MIb        F/E=FA/MI           G/A=SOL/LA
+
+
+\OX___O/         \ _X___O/           \ __O_O_/
+4OOOOOO           1O|||O|             1||||||
+ ||||||            ||OO||              |O|O||
+ ||O|||            ||||||              O||||O
+ ||||||            ||||||              ||||||
+
+ E/E=MI/MIb        F/E=FA/MI           G/A=SOL/LA
+
+
+\XX__OO/         \ XX____/           \ __OOO_/
+1||OO||           1||||OO             1||||||
+ ||||||            ||OO||              ||||||
+ ||||||            ||||||              OO|||O
+ ||||||            ||||||              ||||||
+
+ E/E=MI/MIb        F/E=FA/MI           G/C=SOL/DO
+
+
+\O___O_/         \ XX___O/           \ X_OOO_/
+1|||O||           1||||O|             1||||||
+ |OO||O            |||O||              ||||||
+ ||||||            ||O|||              |O|||O
+ ||||||            ||||||              ||||||
+
+ E/G=MI/SOLb       F/E=FA/MI           G/C=SOL/DO
+
+
+\OX__OO/         \ XX____/           \ O_OOOO/
+1|||O||           1||O|OO             1||||||
+ ||||||            |||O||              |O||||
+ ||||||            ||||||              ||||||
+ ||O|||            ||||||              ||||||
+
+ E/G=MI/SOLb       F/E=FA/MIb          G/E=SOL/MI
+
+
+\____OO/         \ XX____/           \ O_OO_O/
+1|||O||           3OOOOOO             1||||||
+ OOO|||            ||||O|              |O||||
+ ||||||            |||O|O              ||||O|
+ ||||||            ||||||              ||||||
+
+ E/G=MI/SOLb       F/E=FA/MIb          G/E=SOL/MI
+
+
+\OO____/         \ _X____/           \ O__O_O/
+1||||||           1||||OO             1||||||
+ ||||||            |||O||              |OO|||
+ ||O|O|            O|O|||              ||||O|
+ |||O|O            ||||||              ||||||
+
+ E11/b= MI11/b9    F/G=FA/SOL          G/E=SOL/MI
+
+
+\O_XXXO/         \ XX____/           \ O__O__/
+1||||||           1||||O|             1||||||
+ |O||||            |||O||              |OO|||
+ ||||||            ||O||O              ||||OO
+ ||||||            ||||||              ||||||
+
+ E5 =MI5           F/G=FA/SOL          G/E=SOL/MI
+
+
+\X___XO/         \ ___XX_/           \ XXO___/
+7OOOOOO           1O||||O            12OOOOOO
+ ||||||            ||||||              ||||||
+ ||OO||            |OO|||              ||||||
+ ||||||            ||||||              ||||||
+
+ E5 =MI5           F5 =FA5             G/E=SOL/MI
+
+
+\O____O/         \ X_____/           \ XXO___/
+1|||O||           5OOOOOO             7OOOOOO
+ |OO|O|            ||||O|              ||||O|
+ ||||||            ||O|||              |||O||
+ ||||||            ||||||              ||||||
+
+ E6 =MI6           F6 =FA6             G/E=SOL/MI
+
+
+\X_____/         \ XXO___/           \ XX____/
+4OOOOOO           1||||OO             1||||||
+ ||||O|            |||O||              ||O|||
+ ||O|||            ||||||              ||||OO
+ ||||||            ||||||              |||O||
+
+ E6 =MI6           F6 =FA6             G/E=SOL/MI
+
+
+\O_O_OO/         \ XXO___/           \ OXOOOO/
+1|||O||           5OOOOOO             1||||||
+ |O||||            ||||O|              ||||||
+ ||||||            ||||||              ||||||
+ ||||||            ||||||              ||||||
+
+ E7 =MI7           F6 =FA6             G/E=SOL/MI
+
+
+\O____O/         \ _XO___/           \ X____O/
+1|||O||           1||||OO            10OOOOOO
+ |OO|||            |||O||              ||||||
+ ||||O|            O|||||              ||OOO|
+ ||||||            ||||||              ||||||
+
+ E7 =MI7           F6/ad= FA6/add9     G/E=SOL/MI
+
+
+\X_O__O/         \ XX____/           \ _XOOO_/
+1|||O||           1||O|OO             1O|||||
+ |O||||            |||O||              ||||||
+ ||||O|            ||||||              |||||O
+ ||||||            ||||||              ||||||
+
+ E7 =MI7           F7 =FA7             G/F=SOL/FA
+
+
+\XXO_OO/         \ XX____/           \ __OOO_/
+1|||O||           3OOOOOO             1|||||O
+ ||||||            ||||O|              |O||||
+ ||||||            |||O|O              O|||||
+ ||||||            ||||||              ||||||
+
+ E7 =MI7           F7 =FA7             G/F=SOL/FA
+
+
+\XOO_OO/         \ _X____/           \ XXOOO_/
+1|||O||           1||||OO             1|||||O
+ ||||||            |||O||              ||||||
+ ||||||            O|O|||              ||||||
+ ||||||            ||||||              ||||||
+
+ E7/ad= MI7/add11  Fad=FAadd9          G/F=SOL/FA
+
+
+\O_____/         \ XX____/           \ __OOO_/
+1|O|O|O           1||||O|             1||||||
+ ||||||            |||O||              OO||||
+ ||O|O|            ||O||O              |||||O
+ ||||||            ||||||              ||||||
+
+ E7/b9= MI7/b9(b5) Fad=FAadd9          G/G=SOL/SOLb
+
+
+\O_O_OO/         \ XXO___/           \ __OO__/
+1||||||           1|||||O             1||||||
+ |O|O||            |||OO|              OO||||
+ ||||||            ||||||              ||||OO
+ ||||||            ||||||              ||||||
+
+ E7sus= MI7sus4    Faug/= FAaug/RE     G/G=SOL/SOLb
+
+
+\O_O_O_/         \ _O_O__/           \ __OOO_/
+1|||O||           1O||||O             1||||||
+ |O|||O            ||||O|              |O|||O
+ ||||||            ||O|||              O|||||
+ ||||||            ||||||              ||||||
+
+ E9 =MI9           Faug/= FAaug/SOL    G/G=SOL/SOLb
+
+
+\__O_OO/         \ X_O_O_/           \ XX____/
+1|||O||           1|||O|O             1||||||
+ OO||||            |O||||              ||||||
+ ||||||            ||||||              ||||OO
+ ||||||            ||||||              ||OO||
+
+ E9 =MI9           Fdim/= FAdim/RE     G/G=SOL/SOLb
+
+
+\O___O_/         \ XXO_O_/           \ ___XX_/
+1|||O||           1|||O|O             3OOOOOO
+ |OO||O            ||||||              ||||||
+ ||||||            ||||||              |OO|||
+ ||||||            ||||||              ||||||
+
+ Ead=MIadd9        Fdim/= FAdim/RE     G5 =SOL5
+
+
+\OX__OO/         \ XX____/           \ _XOO__/
+1|||O||           1||||||             1||||||
+ ||||||            ||||||              ||||||
+ ||||||            ||O|O|              O|||OO
+ ||O|||            |||O|O              ||||||
+
+ Ead=MIadd9        Fdim/= FAdim/RE     G5 =SOL5
+
+
+\____OO/         \ X___O_/           \ O_OOOO/
+1|||O||           1||||||             1||||||
+ OOO|||            ||||||              |O||||
+ ||||||            ||O|||              ||||||
+ ||||||            |O|O|O              ||||||
+
+ Ead=MIadd9        Fdim/= FAdim/REb    G6 =SOL6
+
+
+\X_____/         \ X_O_O_/           \ O_OO_O/
+1|OO|||           1|||O|O             1||||||
+ ||||||            |O||||              |O||||
+ |||O|O            ||||||              ||||O|
+ ||||O|            ||||||              ||||||
+
+ Eb =MIb           Fdi=FAdim7          G6 =SOL6
+
+
+\XX____/         \ XXO_O_/           \ O__O_O/
+1||O|||           1|||O|O             1||||||
+ ||||||            ||||||              |OO|||
+ |||O|O            ||||||              ||||O|
+ ||||O|            ||||||              ||||||
+
+ Eb =MIb           Fdi=FAdim7          G6 =SOL6
+
+
+\XX____/         \ XX____/           \ O__O__/
+3OOOOOO           1||||||             1||||||
+ ||||O|            ||||||              |OO|||
+ ||O|||            ||O|O|              ||||OO
+ ||||||            |||O|O              ||||||
+
+ Eb =MIb           Fdi=FAdim7          G6 =SOL6
+
+
+\___OO_/         \ X_____/           \ XXO___/
+1||O|||           1|||OOO            12OOOOOO
+ |O||||            ||||||              ||||||
+ O||||O            |OO|||              ||||||
+ ||||||            ||||||              ||||||
+
+ Eb#=MIb#5         Fm =FAm             G6 =SOL6
+
+
+\_X_OO_/         \ XX____/           \ XXO___/
+1||O|||           1|||OOO             7OOOOOO
+ ||||||            ||||||              ||||O|
+ O||||O            ||O|||              |||O||
+ ||||||            ||||||              ||||||
+
+ Eb#=MIb#5         Fm =FAm             G6 =SOL6
+
+
+\X_____/         \ XXO___/           \ XX____/
+3OOOOOO           1|||OOO             1||||||
+ ||||O|            ||||||              ||O|||
+ ||O|||            ||||||              ||||OO
+ ||||||            ||||||              |||O||
+
+ Eb/=MIb/DO        Fm/=FAm/RE          G6 =SOL6
+
+
+\X_____/         \ X_____/           \ OXOOOO/
+6OOOOOO           1|||O|O             1||||||
+ |||O||            ||||O|              ||||||
+ ||O|O|            |OO|||              ||||||
+ ||||||            ||||||              ||||||
+
+ Eb/=MIb/RE        Fm/=FAm/REb         G6 =SOL6
+
+
+\X_____/         \ X_____/           \ X____O/
+1|OO|||           4OOOOOO            10OOOOOO
+ ||||O|            |||O||              ||||||
+ |||O|O            ||O|O|              ||OOO|
+ ||||||            ||||||              ||||||
+
+ Eb/=MIb/REb       Fm/=FAm/REb         G6 =SOL6
+
+
+\X_____/         \ X_____/           \ OOOOOO/
+6OOOOOO           8OOOOOO             1||||||
+ ||||||            ||||O|              ||||||
+ ||O|O|            ||O|||              ||||||
+ ||||||            ||||||              ||||||
+
+ Eb/=MIb/REb       Fm/=FAm/MIb         G6/ad= SOL6/add9
+
+
+\XX____/         \ XX____/           \ OOOOO_/
+1||O|||           1||OOOO             1||||||
+ ||||O|            ||||||              ||||||
+ |||O|O            ||||||              |||||O
+ ||||||            ||||||              ||||||
+
+ Eb/=MIb/REb       Fm/=FAm/MIb         G6/ad= SOL6/add9
+
+
+\XX___O/         \ XXO___/           \ _XO_OO/
+3OOOOOO           1|||OOO             1||||||
+ ||||O|            ||||||              |||O||
+ ||O|||            ||||||              O|||||
+ ||||||            ||||||              ||||||
+
+ Eb/=MIb/MI        Fm6=FAm6            G6/ad= SOL6/add9
+
+
+\X___X_/         \ X_____/           \ _XOOO_/
+6OOOOOO           8OOOOOO             1O|||||
+ ||||||            ||||O|              ||||||
+ ||OO||            ||O|||              |||||O
+ ||||||            ||||||              ||||||
+
+ Eb5=MIb5          Fm7=FAm7            G7 =SOL7
+
+
+\X_____/         \ XX____/           \ __OOO_/
+3OOOOOO           1||OOOO             1|||||O
+ ||||O|            ||||||              |O||||
+ ||O|||            ||||||              O|||||
+ ||||||            ||||||              ||||||
+
+ Eb6=MIb6          Fm7=FAm7            G7 =SOL7
+
+
+\X_____/         \ OO___O/           \ XXOOO_/
+1|OO|||           1||||O|             1|||||O
+ ||||O|            |||O||              ||||||
+ |||O|O            ||O|||              ||||||
+ ||||||            ||||||              ||||||
+
+ Eb7=MIb7          Fma=FAmaj7          G7 =SOL7
+
+
+\X_____/         \ _____O/           \ X_OOO_/
+6OOOOOO           1O|||O|             1|||||O
+ ||||||            |||O||              ||||||
+ ||O|O|            |OO|||              |O||||
+ ||||||            ||||||              ||||||
+
+ Eb7=MIb7          Fma=FAmaj7          G7/ad= SOL7/add11
+
+
+\XX____/         \ _X___O/           \ __OO__/
+1||O|||           1O|||O|             1||||OO
+ ||||O|            ||OO||              ||||||
+ |||O|O            ||||||              OO||||
+ ||||||            ||||||              ||||||
+
+ Eb7=MIb7          Fma=FAmaj7          G7sus= SOL7sus4
+
+
+\_X_OOO/         \ XX____/           \ XOOOO_/
+1||O|||           1||||OO             1|||||O
+ ||||||            ||OO||              ||||||
+ O|||||            ||||||              ||||||
+ ||||||            ||||||              ||||||
+
+ Ebaug= MIbaug/MI  Fma=FAmaj7          G9 =SOL9
+
+
+\XX_OOO/         \ XX___O/           \ X_____/
+1||O|||           1||||O|             1||||||
+ ||||||            |||O||              |O|O||
+ ||||||            ||O|||              ||O|OO
+ ||||||            ||||||              ||||||
+
+ Ebaug= MIbaug/MI  Fma=FAmaj7          G9 =SOL9
+
+
+\_X__O_/         \ O____O/           \ _OOOO_/
+1||O|||           1||||O|             1||||||
+ O||O|O            |O|O||              ||||||
+ ||||||            ||O|||              O||||O
+ ||||||            ||||||              ||||||
+
+ Ebdim= MIbdim/SI  Fmaj7= FAmaj7/#11   Gad=SOLadd9
+
+
+\XO__O_/         \ ____OO/           \ __O_O_/
+1||O|||           1O|||||             1||||||
+ |||O|O            |||O||              |O|O||
+ ||||||            |OO|||              O||||O
+ ||||||            ||||||              ||||||
+
+ Ebdim= MIbdim/SI  Fmaj7= FAmaj7/#11   Gad=SOLadd9
+
+
+\X___O_/         \ OO_O__/           \ _X_OOO/
+1||O|||           1||||O|             1||O|||
+ |O|O|O            ||||||              ||||||
+ ||||||            ||O||O              O|||||
+ ||||||            ||||||              ||||||
+
+ Ebdim= MIbdim/SI  Fma=FAmaj9          Gaug/= SOLaug/MI
+
+
+\X_____/         \ XX____/           \ XX_OOO/
+1||||||           1||||OO             1||O|||
+ |O|O|O            ||||||              ||||||
+ ||||||            ||OO||              ||||||
+ ||O|O|            ||||||              ||||||
+
+ Ebdim= MIbdim/SI  Fsu=FAsus           Gaug/= SOLaug/MI
+
+
+\XX____/         \ X__O__/           \ ______/
+1||O|O|           1||||OO             1||||||
+ |||O|O            ||||||              O|||OO
+ ||||||            |OO|||              |||O||
+ ||||||            ||||||              |OO|||
+
+ Ebdim= MIbdim/DO  Fsu=FAsus2          Gb =SOLb
+
+
+\XX____/         \ XX_O__/           \ X_____/
+1||O|O|           1||||OO             1||||||
+ |||O|O            ||||||              ||||OO
+ ||||||            ||O|||              |||O||
+ ||||||            ||||||              |OO|||
+
+ Ebdim= MIbdim7    Fsu=FAsus2          Gb =SOLb
+
+
+\XX____/         \ _X____/           \ XX____/
+1||||||           1||||OO             1||||||
+ |||||O            |||O||              ||||OO
+ |||O||            O|O|||              |||O||
+ ||O|O|            ||||||              ||O|||
+
+ Ebm=MIbm          Fsus2= FAsus2/LA    Gb =SOLb
+
+
+\XX____/         \ XX____/           \ XXO___/
+1||O|||           1||||O|             1||||||
+ ||||OO            |||O||              |||||O
+ |||O||            ||O||O              |||OO|
+ ||||||            ||||||              ||||||
+
+ Ebm/D= MIbm/REb   Fsus2= FAsus2/LA    Gb#=SOLb#5
+
+
+\XX____/         \ X__OO_/           \ XX____/
+1||O|||           1||||||             1||||||
+ ||||OO            ||||||              ||||O|
+ |||O||            |OO||O              |||O||
+ ||||||            ||||||              ||O||O
+
+ Ebm=MIbm7         Fsus2= FAsus2/SI    Gb/=SOLb/LAb
+
+
+\X_____/         \ X_____/           \ ______/
+6OOOOOO           3OOOOOO             1||||||
+ |||O||            ||||||              O|O|OO
+ ||O|O|            ||O|||              |||O||
+ ||||||            ||||O|              |O||||
+
+ Ebmaj= MIbmaj7    Fsus2= FAsus2/SIb   Gb/=SOLb/MI
+
+
+\X_____/         \ __OO__/           \ XX___O/
+1|O|O|O           1||||OO             1||||||
+ ||||||            ||||||              ||||O|
+ ||O|||            OO||||              |||O||
+ ||||O|            ||||||              ||O|||
+
+ Ebsus= MIbsus2/LAbFsus2= FAsus2/RE    Gb/=SOLb/MI
+
+
+\X_____/         \ X__O_O/           \ XX____/
+1|O|O|O           1||||O|             1||O|||
+ ||||||            ||||||              ||||OO
+ ||O|||            |OO|||              |||O||
+ ||||O|            ||||||              ||||||
+
+ Ebsus= MIbsus4/FA Fsus2= FAsus2/MI    Gb/=SOLb/MIb
+
+
+\X_____/         \ XX_O_O/           \ XX____/
+3OOOOOO           1||||O|             1||||||
+ ||||||            ||||||              ||||OO
+ ||O|O|            ||O|||              ||OO||
+ ||||||            ||||||              ||||||
+
+ Edim/= MIdim/DO   Fsus2= FAsus2/MI    Gb/=SOLb/FA
+
+
+\_XO__O/         \ X_____/           \ XX____/
+1||||||           3OOOOOO             1||O|||
+ ||||||            ||||||              ||||OO
+ O||OO|            ||O|||              |||O||
+ ||||||            ||||O|              ||||||
+
+ Edim/= MIdim/RE   Fsus4= FAsus4/SOL   Gb6=SOLb6
+
+
+\X__O_O/                             \ ______/
+1|O||||                               1||||||
+ ||O|O|                                O|O|OO
+ ||||||                                |||O||
+ ||||||                                |O||||
+
+ Edim/= MIdim/REb                      Gb7=SOLb7
+
+
+\XX____/                             \ XX___O/
+1||||||                               1||||||
+ ||O|O|                                ||||O|
+ |||O|O                                |||O||
+ ||||||                                ||O|||
+
+ Edim/= MIdim/REb                      Gb7=SOLb7
+
+
+\XX___O/                             \ _X___O/
+3OOOOOO                               1||||||
+ ||||O|                                O|||||
+ ||O|||                                |||OO|
+ ||||||                                ||O|||
+
+ Edim/= MIdim/MIb                      Gb7(#= SOLb7(#5)
+
+
+\X__O_O/                             \ XO___O/
+1|O||||                               1||||||
+ ||O|O|                                ||||O|
+ ||||||                                |||O||
+ ||||||                                ||O|||
+
+ Edi=MIdim7                            Gb7/#= SOLb7/#9
+
+
+\XX____/                             \ X___XO/
+1||||||                               1||||||
+ ||O|O|                                ||||||
+ |||O|O                                ||||||
+ ||||||                                |OOO||
+
+ Edi=MIdim7                            Gb7su= SOLb7sus4
+
+
+\O__OOO/                             \ XX____/
+1||||||                               1||||||
+ |OO|||                                ||||O|
+ ||||||                                |||O||
+ ||||||                                ||O||O
+
+ Em =MIm                               Gbadd= SOLbadd9
+
+
+\_X_OOO/                             \ _X___O/
+1||||||                               1||||||
+ ||O|||                                O|||||
+ O|||||                                |||OO|
+ ||||||                                ||O|||
+
+ Em =MIm                               Gbaug= SOLbaug/MI
+
+
+\X__XXO/                             \ XOO___/
+2OOOOOO                               1||||O|
+ ||||||                                |||O|O
+ ||||||                                ||||||
+ ||O|||                                ||||||
+
+ Em =MIm                               Gbdim= SOLbdim/RE
+
+
+\_X__OO/                             \ X_X___/
+1||||||                               1||||||
+ ||OO||                                |||O|O
+ O|||||                                |O||O|
+ ||||||                                ||||||
+
+ Em/=MIm/LA                            Gbdim= SOLbdim/RE
+
+
+\XO_OOO/                             \ X_____/
+1||||||                               5OOOOOO
+ ||O|||                                ||||||
+ ||||||                                ||O|O|
+ ||||||                                ||||||
+
+ Em/=MIm/LA                            Gbdim= SOLbdim/RE
+
+
+\XO___O/                             \ XO____/
+4OOOOOO                               1||||O|
+ ||O|O|                                ||OO|O
+ ||||||                                ||||||
+ ||||||                                ||||||
+
+ Em/=MIm/LA                            Gbdim= SOLbdim/MI
+
+
+\O__OOO/                             \ XX____/
+1||||||                               1||||O|
+ ||O|||                                ||OO|O
+ |O||||                                ||||||
+ ||||||                                ||||||
+
+ Em/=MIm/DO                            Gbdim= SOLbdim/MI
+
+
+\X__O_O/                             \ XX____/
+1||||O|                               1||O|O|
+ |OO|||                                |||O|O
+ ||||||                                ||||||
+ ||||||                                ||||||
+
+ Em/=MIm/DO                            Gbdim= SOLbdim/MIb
+
+
+\X_____/                             \ XX____/
+3OOOOOO                               1||O|O|
+ |||O||                                |||O|O
+ ||O|O|                                ||||||
+ ||||||                                ||||||
+
+ Em/=MIm/DO                            Gbdim= SOLbdim7
+
+
+\O_OOOO/                             \ ______/
+1||||||                               1||||||
+ |O||||                                O||OOO
+ ||||||                                ||||||
+ ||||||                                |OO|||
+
+ Em/=MIm/RE                            Gbm=SOLbm
+
+
+\O_OO_O/                             \ X_____/
+1||||||                               1||||||
+ |O||||                                |||OOO
+ ||||O|                                ||||||
+ ||||||                                |OO|||
+
+ Em/=MIm/RE                            Gbm=SOLbm
+
+
+\O__O_O/                             \ XX____/
+1||||||                               1||||||
+ |OO|||                                |||OOO
+ ||||O|                                ||||||
+ ||||||                                ||O|||
+
+ Em/=MIm/RE                            Gbm=SOLbm
+
+
+\O__O__/                             \ XXO___/
+1||||||                              14OOOOOO
+ |OO|||                                ||||||
+ ||||OO                                ||||||
+ ||||||                                ||||||
+
+ Em/=MIm/RE                            Gbm=SOLbm/RE
+
+
+\XXO___/                             \ XXO___/
+1OOOOOO                               1||||||
+ ||||||                                |||OOO
+ ||||||                                ||||||
+ ||||||                                ||||||
+
+ Em/=MIm/RE                            Gbm=SOLbm/RE
+
+
+\XXO___/                             \ OO____/
+7OOOOOO                               1||||||
+ ||||O|                                ||OOOO
+ |||O||                                ||||||
+ ||||||                                ||||||
+
+ Em/=MIm/RE                            Gbm=SOLbm/MI
+
+
+\XX____/                             \ OX___O/
+1||||||                               1||||||
+ ||O|||                                |||OO|
+ ||||OO                                ||||||
+ |||O||                                ||O|||
+
+ Em/=MIm/RE                            Gbm=SOLbm/MI
+
+
+\OXOOOO/                             \ _X___O/
+1||||||                               1||||||
+ ||||||                                O|OOO|
+ ||||||                                ||||||
+ ||||||                                ||||||
+
+ Em/=MIm/RE                            Gbm=SOLbm/MI
+
+
+\X____O/                             \ XO___O/
+1OOOOOO                               1||||||
+ ||||||                                |||OO|
+ ||OOO|                                ||||||
+ ||||||                                ||O|||
+
+ Em/=MIm/RE                            Gbm=SOLbm/MI
+
+
+\O__O_O/                             \ XX____/
+1||||||                               1||||||
+ |OO|O|                                ||OOOO
+ ||||||                                ||||||
+ ||||||                                ||||||
+
+ Em/=MIm/REb                           Gbm=SOLbm/MI
+
+
+\_X_OOO/                             \ OO____/
+1||O|||                               1||||||
+ ||||||                                ||OOOO
+ O|||||                                ||||||
+ ||||||                                ||||||
+
+ Em/=MIm/MIb                           Gbm=SOLbm7
+
+
+\XX_OOO/                             \ OX___O/
+1||O|||                               1||||||
+ ||||||                                |||OO|
+ ||||||                                ||||||
+ ||||||                                ||O|||
+
+ Em/=MIm/MIb                           Gbm=SOLbm7
+
+
+\O__OO_/                             \ _X___O/
+1||||||                               1||||||
+ |OO||O                                O|OOO|
+ ||||||                                ||||||
+ ||||||                                ||||||
+
+ Em/=MIm/SOLb                          Gbm=SOLbm7
+
+
+\O__OOO/                             \ XO___O/
+1||||||                               1||||||
+ |O||||                                |||OO|
+ ||||||                                ||||||
+ ||O|||                                ||O|||
+
+ Em/=MIm/SOLb                          Gbm=SOLbm7
+
+
+\OX_OOO/                             \ XX____/
+1||||||                               1||||||
+ ||||||                                ||OOOO
+ ||||||                                ||||||
+ ||O|||                                ||||||
+
+ Em/=MIm/SOLb                          Gbm=SOLbm7
+
+
+\___OOO/                             \ XO____/
+1||||||                               1||||O|
+ OOO|||                                ||OO|O
+ ||||||                                ||||||
+ ||||||                                ||||||
+
+ Em/=MIm/SOLb                          Gbm7(= SOLbm7(b5)
+
+
+\O__O_O/                             \ XX____/
+1||||||                               1||||O|
+ |OO|O|                                ||OO|O
+ ||||||                                ||||||
+ ||||||                                ||||||
+
+ Em6=MIm6                              Gbm7(= SOLbm7(b5)
+
+
+\O_OOOO/                             \ OO_O__/
+1||||||                               1||||||
+ |O||||                                ||O|OO
+ ||||||                                ||||||
+ ||||||                                ||||||
+
+ Em7=MIm7                              Gbm7/= SOLbm7/b9
+
+
+\O_OO_O/                             \ XX____/
+1||||||                               1||||||
+ |O||||                                ||||OO
+ ||||O|                                ||OO||
+ ||||||                                ||||||
+
+ Em7=MIm7                              Gbmaj= SOLbmaj7
+
+
+\O__O_O/                             \ X_____/
+1||||||                               1||||||
+ |OO|||                                ||||OO
+ ||||O|                                ||||||
+ ||||||                                |OOO||
+
+ Em7=MIm7                              Gbs=SOLbsus
+
+
+\O__O__/                             \ XX____/
+1||||||                               1||||||
+ |OO|||                                ||||O|
+ ||||OO                                |||O||
+ ||||||                                ||O||O
+
+ Em7=MIm7                              Gbsus= SOLbsus2/SIb
+
+
+\XXOOOO/                             \ X___XO/
+1||||||                               1||||||
+ ||||||                                ||||||
+ ||||||                                ||||||
+ ||||||                                |OOO||
+
+ Em7=MIm7                              Gbsus= SOLbsus4/MI
+
+
+\XXO___/                             \ X__O_O/
+1OOOOOO                               1|O||||
+ ||||||                                ||O|O|
+ ||||||                                ||||||
+ ||||||                                ||||||
+
+ Em7=MIm7                              Gdim/= SOLdim/MI
+
+
+\XXO___/                             \ XX____/
+7OOOOOO                               1||||||
+ ||||O|                                ||O|O|
+ |||O||                                |||O|O
+ ||||||                                ||||||
+
+ Em7=MIm7                              Gdim/= SOLdim/MI
+
+
+\XX____/                             \ X_____/
+1||||||                               1|OO|||
+ ||O|||                                ||||O|
+ ||||OO                                |||O|O
+ |||O||                                ||||||
+
+ Em7=MIm7                              Gdim/= SOLdim/MIb
+
+
+\OXOOOO/                             \ X_____/
+1||||||                               6OOOOOO
+ ||||||                                ||||||
+ ||||||                                ||O|O|
+ ||||||                                ||||||
+
+ Em7=MIm7                              Gdim/= SOLdim/MIb
+
+
+\X____O/                             \ XX____/
+1OOOOOO                               1||O|||
+ ||||||                                ||||O|
+ ||OOO|                                |||O|O
+ ||||||                                ||||||
+
+ Em7=MIm7                              Gdim/= SOLdim/MIb
+
+
+\_XO__O/                             \ X__O_O/
+1||||||                               1|O||||
+ ||||||                                ||O|O|
+ O||OO|                                ||||||
+ ||||||                                ||||||
+
+ Em7(b= MIm7(b5)                       Gdi=SOLdim7
+
+
+\OOOOOO/                             \ XX____/
+1||||||                               1||||||
+ ||||||                                ||O|O|
+ ||||||                                |||O|O
+ ||||||                                ||||||
+
+ Em7/a= MIm7/add11                     Gdi=SOLdim7
+
+
+\OOOOO_/                             \ ______/
+1||||||                               3OOOOOO
+ ||||||                                ||||||
+ |||||O                                |OO|||
+ ||||||                                ||||||
+
+ Em7/a= MIm7/add11                     Gm =SOLm
+
+
+\_XO_OO/                             \ XXO___/
+1||||||                               1||||||
+ |||O||                                ||||||
+ O|||||                                |||OOO
+ ||||||                                ||||||
+
+ Em7/a= MIm7/add11                     Gm =SOLm
+
+
+\O_OOO_/                             \ _XO__O/
+1||||||                               1||||||
+ |O|||O                                ||||||
+ ||||||                                O||OO|
+ ||||||                                ||||||
+
+ Em9=MIm9                              Gm/=SOLm/MI
+
+
+\O_OO__/                             \ X_____/
+1||||||                               6OOOOOO
+ |O|||O                                |||O||
+ ||||O|                                ||O|O|
+ ||||||                                ||||||
+
+ Em9=MIm9                              Gm/=SOLm/MIb
+
+
+\__OOOO/                             \ ______/
+1||||||                               3OOOOOO
+ OO||||                                ||||||
+ ||||||                                |O||||
+ ||||||                                ||||||
+
+ Em9=MIm9                              Gm/=SOLm/FA
+
+
+\O___OO/                             \ XX____/
+1||OO||                               1||||||
+ |O||||                                ||||||
+ ||||||                                ||OOOO
+ ||||||                                ||||||
+
+ Ema=MImaj7                            Gm/=SOLm/FA
+
+
+\OX___O/                             \ OO____/
+4OOOOOO                               1||||||
+ ||||||                                ||||||
+ ||O|||                                ||OOOO
+ ||||||                                ||||||
+
+ Ema=MImaj7                            Gm1=SOLm13
+
+
+\XX__OO/                             \ _XO__O/
+1||OO||                               1||||||
+ ||||||                                ||||||
+ ||||||                                O||OO|
+ ||||||                                ||||||
+
+ Ema=MImaj7                            Gm6=SOLm6
+
+
+\O___O_/                             \ ______/
+1||OO||                               3OOOOOO
+ |O|||O                                ||||||
+ ||||||                                |O||||
+ ||||||                                ||||||
+
+ Ema=MImaj9                            Gm7=SOLm7
+
+
+\_X___O/                             \ XX____/
+1||||||                               1||||||
+ ||||||                                ||||||
+ ||||||                                ||OOOO
+ O|OOO|                                ||||||
+
+ Ema=MImaj9                            Gm7=SOLm7
+
+
+\_X_OOO/                             \ X_____/
+1||O|||                               1||||||
+ ||||||                                ||||||
+ O|||||                                |OOOOO
+ ||||||                                ||||||
+
+ Emin/= MImin/maj7                     Gm7/a= SOLm7/add11
+
+
+\XX_OOO/                             \ ______/
+1||O|||                               3OOOOOO
+ ||||||                                ||||||
+ ||||||                                |O|||O
+ ||||||                                ||||||
+
+ Emin/= MImin/maj7                     Gm9=SOLm9
+
+
+\O__OOO/                             \ __OOO_/
+4OOOOOO                               1||||||
+ ||||||                                OO||||
+ |O||||                                |||||O
+ ||||||                                ||||||
+
+ Emin/= MImin/maj9                     Gma=SOLmaj7
+
+
+\OO__OO/                             \ __OO__/
+1||||||                               1||||||
+ ||OO||                                OO||||
+ ||||||                                ||||OO
+ ||||||                                ||||||
+
+ Esu=MIsus                             Gma=SOLmaj7
+
+
+\OO__OO/                             \ __OOO_/
+1||||||                               1||||||
+ ||O|||                                |O|||O
+ ||||||                                O|||||
+ |||O||                                ||||||
+
+ Esu=MIsus                             Gma=SOLmaj7
+
+
+\O___OO/                             \ XX____/
+1||||||                               1||||||
+ |OOO||                                ||||||
+ ||||||                                ||||OO
+ ||||||                                ||OO||
+
+ Esu=MIsus                             Gma=SOLmaj7
+
+
+\XO__OO/                             \ X_OO__/
+1||||||                               1||||||
+ ||OO||                                ||||||
+ ||||||                                |O||OO
+ ||||||                                ||||||
+
+ Esu=MIsus                             Gsu=SOLsus
+
+
+\XX__OO/                             \ X_____/
+1||||||                               3OOOOOO
+ ||OO||                                ||||||
+ ||||||                                ||OO||
+ ||||||                                ||||||
+
+ Esu=MIsus                             Gsu=SOLsus
+
+
+\___XXO/                             \ X_____/
+7OOOOOO                               3OOOOOO
+ ||||||                                ||||||
+ |OO|||                                |OOO||
+ ||||||                                ||||||
+
+ Esu=MIsus2                            Gsu=SOLsus
+
+
+\X___XO/                             \ _XOO__/
+1||||||                               3OOOOOO
+ |O||||                                ||||||
+ ||||||                                O||||O
+ ||OO||                                ||||||
+
+ Esu=MIsus2                            Gsu=SOLsus2
+
+
+\XO__OO/                             \ _OOO__/
+1||||||                               1||||||
+ ||||||                                ||||||
+ ||||||                                O|||OO
+ ||OO||                                ||||||
+
+ Esus2= MIsus2/LA                      Gsu=SOLsus2
+
+
+\X_____/                             \ XOOO__/
+2OOOOOO                               1||||||
+ ||||||                                ||||||
+ ||O|||                                ||||OO
+ ||||O|                                ||||||
+
+ Esus2= MIsus2/LA                      Gsu=SOLsus2
+
+
+\O___O_/                             \ XXO___/
+1|||O||                               1||||||
+ |OO||O                                |||O||
+ ||||||                                ||||OO
+ ||||||                                ||||||
+
+ Esus2= MIsus2/LAb                     Gsu=SOLsus2
+
+
+\OX__OO/                             \ _OOOO_/
+1|||O||                               1||||||
+ ||||||                                ||||||
+ ||||||                                O||||O
+ ||O|||                                ||||||
+
+ Esus2= MIsus2/LAb                     Gsus2= SOLsus2/SI
+
+
+\____OO/                             \ __O_O_/
+1|||O||                               1||||||
+ OOO|||                                |O|O||
+ ||||||                                O||||O
+ ||||||                                ||||||
+
+ Esus2= MIsus2/LAb                     Gsus2= SOLsus2/SI
+
+
+\X___XO/                             \ XXO___/
+1||||||                               1||||O|
+ ||||||                                |||O||
+ ||||||                                |||||O
+ |OOO||                                ||||||
+
+ Esus2= MIsus2/REb                     Gsus2= SOLsus2/DO
+
+
+\X_____/                             \ XO_O_O/
+1||||||                               1||||||
+ |OO||O                                ||O|||
+ ||||||                                ||||O|
+ |||OO|                                ||||||
+
+ Esus2= MIsus2/MIb                     Gsus2= SOLsus2/MI
+
+
+\XX___O/                             \ XO_O__/
+1||||||                               1||||||
+ ||||||                                ||O|||
+ ||||||                                ||||OO
+ ||OOO|                                ||||||
+
+ Esus2= MIsus2/MIb                     Gsus2= SOLsus2/MI
+
+
+\O__OO_/                             \ XO____/
+1||||||                               1||||||
+ |OO||O                                ||OO||
+ ||||||                                ||||OO
+ ||||||                                ||||||
+
+ Esus2= MIsus2/SOL                     Gsus2= SOLsus2/MI
+
+
+\O__OOO/                             \ _OOO_O/
+1||||||                               3OOOOOO
+ |O||||                                ||||||
+ ||||||                                O|||||
+ ||O|||                                ||||||
+
+ Esus2= MIsus2/SOL                     Gsus2= SOLsus2/MI
+
+
+\OX_OOO/                             \ _X_O__/
+1||||||                               3OOOOOO
+ ||||||                                ||O|||
+ ||||||                                O||||O
+ ||O|||                                ||||||
+
+ Esus2= MIsus2/SOL                     Gsus2= SOLsus2/SOLb
+
+
+\___OOO/                             \ _XO___/
+1||||||                               1||||||
+ OOO|||                                |||O|O
+ ||||||                                O|||O|
+ ||||||                                ||||||
+
+ Esus2= MIsus2/SOL                     Gsus2= SOLsus2/SOLb
+
+
+\XO__OO/                             \ XXO___/
+1|||O||                               1||||O|
+ ||O|||                                |||O||
+ ||||||                                |||||O
+ ||||||                                ||||||
+
+ Esus4= MIsus4/LAb                     Gsus4= SOLsus4/LA
+
+
+\OO__OO/                             \ __OOO_/
+5OOOOOO                               1||||||
+ ||||||                                ||||||
+ ||O|||                                OO|||O
+ ||||||                                ||||||
+
+ Esus4= MIsus4/DO                      Gsus4= SOLsus4/SI
+
+
+\X___OO/                             \ X_OOO_/
+1||||||                               1||||||
+ ||OO||                                ||||||
+ |O||||                                |O|||O
+ ||||||                                ||||||
+
+ Esus4= MIsus4/DO                      Gsus4= SOLsus4/SI
+
+
+\O_O_OO/                             \ _XOO_O/
+1||||||                               1||||O|
+ |O|O||                                ||||||
+ ||||||                                O|||||
+ ||||||                                ||||||
+
+ Esus4= MIsus4/RE                      Gsus4= SOLsus4/MI
+
+
+\X_O__O/                             \ X_OO_O/
+1||||||                               1||||O|
+ |O|O||                                ||||||
+ ||||O|                                |O||||
+ ||||||                                ||||||
+
+ Esus4= MIsus4/RE                      Gsus4= SOLsus4/MI
+
+
+\OO___O/                             \ X__O__/
+1||||||                               1||||||
+ ||O|O|                                ||O|||
+ ||||||                                |O||OO
+ |||O||                                ||||||
+
+ Esus4= MIsus4/REb                     Gsus4= SOLsus4/MI
+
+
+\XO__OO/                             \ XXOO_O/
+6OOOOOO                               1||||O|
+ ||O|||                                ||||||
+ ||||||                                ||||||
+ ||||||                                ||||||
+
+ Esus4= MIsus4/REb                     Gsus4= SOLsus4/MI
+
+
+\X___OO/                             \ XXO___/
+1||O|||                               3OOOOOO
+ |O|O||                                ||||||
+ ||||||                                |||OO|
+ ||||||                                ||||||
+
+ Esus4= MIsus4/MIb                     Gsus4= SOLsus4/MI
+
+
+\OO__OO/                             \ X____O/
+1||||||                              10OOOOOO
+ |||O||                                ||||||
+ ||O|||                                ||OO||
+ ||||||                                ||||O|
+
+ Esus4= MIsus4/FA                      Gsus4= SOLsus4/MI
+
+
+\_X__OO/                             \ X___XO/
+1||||||                               5OOOOOO
+ ||OO||                                ||||||
+ O|||||                                ||||||
+ ||||||                                ||||||
+
+ Esus4= MIsus4/SOL                     Gsus4= SOLsus4/MI
+
+
+\XO_OOO/                             \ __OO__/
+1||||||                               1||||OO
+ ||O|||                                ||||||
+ ||||||                                OO||||
+ ||||||                                ||||||
+
+ Esus4= MIsus4/SOL                     Gsus4= SOLsus4/FA
+
+
+\XO___O/
+4OOOOOO
+ ||O|O|
+ ||||||
+ ||||||
+
+ Esus4= MIsus4/SOL
+
+
+\XO__OO/
+1||||||
+ ||||||
+ ||||||
+ ||OO||
+
+ Esus4= MIsus4/SOLb
+
+
+\X_____/
+2OOOOOO
+ ||||||
+ ||O|||
+ ||||O|
+
+ Esus4= MIsus4/SOLb
+
+
+
+ALGUNA CORRECCION SERA BIEN RECIBIDA EN
+
+MAPEZ@USA.NET
+
+
+QUE DIOS Y LA VIRGEN OS BENDIGA.
+      _     _       _ _  _ _ _     ____ _____
+     /  |  /  |    /| || |__  |  /____//__   /
+    /   | / / |   / | || |_ / | //___     / /
+   /  / |/ /| |  / /| || |___/ / ___/    / / 
+  /  /| | / | | / /_| || |    / /___    / /____
+ /__/ |_ /  |_|/_/__|_|| |   /_____/   |______/  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
