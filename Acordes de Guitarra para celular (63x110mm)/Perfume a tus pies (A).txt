@@ -1,7 +1,7 @@
- Perfume a tus pies 
+Perfume a tus pies 
 Jaz Jacob 
 
- INTRO 
+INTRO 
 D E A 
  
 VERSO 
@@ -21,10 +21,10 @@ y hasta donde me has traído
 Me asombro de Ti 
  
 PRE-CORO 
-F#m           E          D     F#m 
+F#m           E          D  
    Y no me quiero conformar 
-       E             D         E A 
-he probado y quiero más 
+F#m       E             D     E A 
+   he probado y quiero más 
  
 CORO 
                              E 
@@ -61,13 +61,13 @@ que hasta aquí hemos llegado
 Por tu fidelidad 
  
 PRE-CORO 
-F#m           E          D     F#m 
+F#m           E          D    F#m 
    Y no me quiero conformar 
        E             D 
 he probado y quiero más 
-F#m           E          D     F#m 
+F#m           E          D    F#m 
    Y no me quiero conformar 
-       E             D         E A 
+       E             D        E A 
 he probado y quiero más 
  
 CORO 

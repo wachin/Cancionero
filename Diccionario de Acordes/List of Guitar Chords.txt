@@ -1,14 +1,16 @@
 
-C      = 032010
-C9     = 032033
-E      = 022100
-G7     = 320001
-A7sus4 = 002030
-Asus4  = 002230
-Asus2  = 002200
-A7     = 002020
-A      = 002220
-Bm7    = x24232
+C      032010
+C7     032310
+Cadd9  x32033
+E      022100
+G7     320001
+A7sus4 002030
+Asus4  002230
+Asus2  002200
+A7     002020
+A      002220
+Bm7    x24232
+Dm7    xx0211
 
 
 List of Guitar Chords
@@ -64,12 +66,12 @@ Diminished
 
 In popular music, "diminished" is usually synonymous with "diminished
 seventh", which is root-b3-b5-bb7 (yes, double-flatted seventh).
-So Cdim = Cdim7 = C-Eb-Gb-Bbb = C-Eb-Gb-A.
+So Cdim Cdim7 C-Eb-Gb-Bbb C-Eb-Gb-A.
 Cdim7 is often notated as "C-followed-by-a-raised-circle".
 
 A related chord, the half-diminished (also called "minor seventh/flat
 fifth", replaces the double-flatted seventh with a flatted seventh;
-thus, Cm7-5 (or Cm7b5) = C-Eb-Gb-Bb.  Cm7-5 is often notated as
+thus, Cm7-5 (or Cm7b5) C-Eb-Gb-Bb.  Cm7-5 is often notated as
 "C-followed-by-a-raised- circle-with-a-diagonal-slash-through-it".
 
 
@@ -89,7 +91,7 @@ God only knows what I'd be without you
 
 Due to the symmetry of the intervals, an augmented or
 diminished-seventh chord may be named after any note in it,
-so C+ = E+ = G#+ and Cdim = Ebdim = Gbdim = Adim.
+so C+ E+ G#+ and Cdim Ebdim Gbdim Adim.
 
 ---------
 
@@ -97,7 +99,7 @@ Suspended chords.
 
 A suspended chord typically means that the 3rd of the chord has been
 replaced by the 4th (Xsus4) (or, less commonly, by the 2nd in which
-case it is called Xsus2).  Xsus = Xsus4
+case it is called Xsus2).  Xsus Xsus4
 
 Try these chord progressions, both of which launched a zillion
 folk-rock hits circa 1965:

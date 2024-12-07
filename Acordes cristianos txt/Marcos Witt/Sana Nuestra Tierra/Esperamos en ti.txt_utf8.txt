@@ -1,0 +1,37 @@
+﻿Esperamos en ti
+Artista: Marcos Witt
+Album: Sana Nuestra Tierra
+Aportada por: 
+Tipo de transcripcion: crd
+Idioma: Español
+Clase: Adoración
+
+esperamos en ti
+artista: marcos witt
+album: sana nuestra tierra
+tipografia original: abadi mt condensed light, arial narrow
+
+ 
+ 
+estribillo:
+       A         
+sea tu misericordia
+D                          A                         E
+sobre nosotros segun esperamos en ti
+       A  
+sea tu benevolencia
+D                              A                         E
+sobre los pueblos segun esperamos en ti
+ 
+coro:
+dmaj7     E         F#m7   D 
+espera - mos en ti
+         A              F#m7           E     E/G#
+en tu amor y en    tu         bondad
+dmaj7     E       c#/f    F#m7     b7/d#
+espera - mos     en       ti
+        A/E           E                 F#m7     b7/d#
+por amor de tu nombre salvanos
+       A               E                 d/a      A
+por amor de tu nombre 
+
