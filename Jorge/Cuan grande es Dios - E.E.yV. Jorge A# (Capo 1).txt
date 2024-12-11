@@ -1,17 +1,14 @@
 Cuan grande es Dios, El (A#)
 En Espíritu y Verdad
-BPM 72 versos 144 Coro
-Original por C
-https://youtu.be/yhSQZHZZy08?si=950rpwNlU5HmRStg
-
-Para voz del Hno Jorge 1er traste:
+BPM (72 versos) (144 Coro)
+Para voz del Hno Jorge A# poner Capotraste en el 1er traste:
 
 VERSO I
 A                       E
 El esplendor de un Rey
     F#m
 vestido en Majestad
-                    D
+            E       D
 La Tierra alegre está
                     E
 La Tierra alegre está
@@ -20,17 +17,20 @@ A                     E
 Cubierto está de luz
      F#m
 venció a la oscuridad
-                D
+             E   D
 Y tiembla a Su voz
               E
 Tiembla a Su voz
+
+
+VERSO I
 
 CORO x2
        A
 Cuán Grande es Dios
       E         F#m
 Cántale, Cuán grande es Dios
-              D
+         E    D
 Y todos lo verán
        E         A
 Cuán grande es Dios
@@ -40,7 +40,7 @@ A                  E
 Día a día El está
       F#m
 Y el tiempo está en El
-                D
+          E     D
 Principio y el fin
                 E
 Principio y el fin
@@ -49,7 +49,7 @@ A                    E
 La Trinidad en Dios
     F#m
 El Padre, Hijo, Espíritu
-               D
+          E     D
 Cordero y el León
                E
 Cordero y el León
@@ -68,27 +68,27 @@ Y mi ser dirá
 Cuan grande es Dios
 
 CORO x4
-A E F#m D E A
+A E F#m E D E A
 
 SOLO
-A E F#m D E A
+A E F#m E D E A
 
 CORO x1
 
 SOLO
-A E F#m D E A
+A E F#m E D E A
 
 Cuan grande es El
-
 A     D           A
 Mi corazón entona la canción
-               E  D
+               E     D
 cuán grande es El
-               A  E
+               A   E
 cuán grande es El
+
         A     D           A
 Mi corazón entona la canción
-               E  D
+               E     D
 cuán grande es El
                 A
 cuán grande es El
