@@ -4,16 +4,14 @@
 INTRO:  G - Em7 - C - D/F#
 
 
-    G                            Am  C
+    G                            Am 
  //Algo está cayendo aquí
-                 D            G - F# 
+                 D            G 
 es tan fuerte sobre mí
- Em                     Am  C
+ Em                     Am 
 mis manos levantaré
-            D         G     (C)
+            D         G    
 y su Gloria tocaré//
-            D         G     D
-y su Gloria tocaré
 
 
 CORO:
