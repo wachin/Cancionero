@@ -1,13 +1,9 @@
 Sumergeme
 Jesus Adrián Romero
-- Capotraste en la 1ra
-
-Acordes
-Fmaj7 003210
-Dm7   xx0211
+Poner el Capotraste en la 1ra
 
 INTRO
-C Em Fmaj7 Dm7 C G
+C Em F Dm G
 
 VERSO I
     C                
