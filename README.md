@@ -32,3 +32,5 @@ La fuente iosevka está en la carpeta "Fonts" y allí las instrucciones
 También me animé mejor a usar Consolas porque si usted desea puede subir uno de los archivos .docx a la nube, puede ser en: OneDrive, Google Drive y desde allí los puede abrir online en Microsoft Office, Google Documentos y podría compartir el documento con alguien añadiendo el correo de la persona y configurando para que esa persona lo puede editar, y así, con la fuente Consolas que está disponible en esas plataformas se verá bien el documento
 
 Dios les bendiga
+
+.
