@@ -5,7 +5,7 @@ Poner el Capotraste en la 1ra
 INTRO
 A C#m D Bm E
 
-VERSO I
+VERSO
     A
 Cansado del camino,
    E
@@ -17,7 +17,6 @@ sin fuerzas he quedado
  E
 vengo a ti
 
-VERSO II
     A
 Luché como soldado,
      E
@@ -37,8 +36,22 @@ Espíritu, necesito refrescar este
  Bm             E
 seco corazón sediento de tí
 
-VERSO I
-
-VERSO II
+VERSO
 
 CORO
+
+FINAL
+        F#m 
+Sumergeme, 
+                      D
+en tu presencia Señor 
+               F#m
+hazlo, Sumergeme,
+                         D
+en el río de tu Espíritu
+        F#m  
+Sumergeme, 
+                   D E
+lo necesitamos Señor
+        A
+Sumergeme
