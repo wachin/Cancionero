@@ -1,6 +1,7 @@
 Sumergeme
 Jesus Adrián Romero
 
+VERSO
 Cansado del camino,
 sediento de tí
 un desierto he cruzado,
@@ -13,6 +14,7 @@ y aunque la lucha he ganado
 mi armadura he desgastado
 vengo a tí
 
+//CORO//
 Sumergeme en el río de tu
 Espíritu, necesito refrescar este
 seco corazón sediento de tí

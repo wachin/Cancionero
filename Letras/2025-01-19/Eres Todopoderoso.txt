@@ -1,15 +1,12 @@
 Eres Todopoderoso
 Danilo Montero
 
-INTRO
-
-VERSO I
+VERSO
 La única razón de mi adoración
 Eres tú mi Jesús
 El único motivo para vivir
 Eres tú Mi Señor
 
-VERSO II
 Mi única verdad está en Ti
 Eres mi luz y mi salvación
 Mi único amor eres Tu Señor
@@ -21,19 +18,13 @@ Eres Grande y Majestuoso
 Eres Fuerte, Invencible
 Y no hay nadie como Tú
 
-VERSO I
+VERSO
 
-VERSO II
-
-CORO X2
-Tu Eres Todo poderoso
-Eres Grande y Majestuoso
-Eres Fuerte Invencible
-Y no hay nadie como Tú
+//CORO//
 
 SOLO
 
-CORO x4
+//CORO//
 
 
 
