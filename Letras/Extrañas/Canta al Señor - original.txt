@@ -12,7 +12,7 @@ torre de fuerza y poder
 Todo mi ser, lo que soy,
 nunca cese de adorar
  
-CORO I
+CORO
 Cante al Señor toda la creación
 Honra y poder, majestad sea al Rey
 Incomparables promesas me das
@@ -25,9 +25,11 @@ Cante al Señor toda la creación
 Honra y poder, majestad sea al Rey
 Montes caerán y el mar rugirá,
 Al sonar de tu nombre
+
 Canto con gozo al mirar tu poder
 Por siempre yo te amaré y diré
 Incomparables promesas me das Señor
+
 son incomparables
 son incomparables
 Todo mi ser, lo que soy,
@@ -48,4 +50,4 @@ Por siempre yo te amaré y diré
 FINAL n
 Incomparables promesas me das
 Incomparables promesas me das
-Incomparables promesas me das, etc
+Incomparables promesas me das, etc 
