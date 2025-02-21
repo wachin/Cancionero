@@ -1,43 +1,37 @@
-Sumergeme (C) (versión fácil)
-Jesus Adrián Romero
+Sumergeme (F)
+Janani Romero
 
 INTRO
-C Em F Dm G
+F Am A# Gm C
 
-VERSO I
-    C
+VERSO
+    F
 Cansado del camino,
-   G
+   Am
 sediento de tí
-      Am
+      A#
 un desierto he cruzado,
-      F
+      Gm
 sin fuerzas he quedado
- G
+ C
 vengo a ti
 
-VERSO II
-    C
+    F
 Luché como soldado,
-     G
+     Am
 y a veces sufrí
-             Am
+             A#
 y aunque la lucha he ganado
-        F
+        Gm
 mi armadura he desgastado
- G
+ C
 vengo a tí
 
-CORO x2
-      C
+CORO
+      F
 Sumergeme en el río de tu
-   Em           F
+   Am          A#
 Espíritu, necesito refrescar este
- Dm             G
+ Gm              C
 seco corazón sediento de tí
 
-VERSO I
-
-VERSO II
-
-CORO
