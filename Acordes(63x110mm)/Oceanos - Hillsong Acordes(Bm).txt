@@ -1,87 +1,84 @@
-Océanos (donde mis pies pueden fallar)
+Océanos (Bm)
 Hillsong United
 
-https://acordes.lacuerda.net/hillsong_united/oceanos_donde_mis_pies_pueden_fallar.shtml
-
 INTRO
-Bm    A/C#     D      A      G
+Bm A D A G
 
 VERSO I:
-Bm         A/C#         D
+Bm         A           D
 Tu voz me llama a las aguas
       A        G
 Donde mis pies pueden fallar
-Bm            A/C#             D
+Bm            A               D
 Y ahí te encuentro en lo incierto
- A        G
+ A             G
 Caminaré sobre el mar
 
 CORO:
-G    D      A      G
-A tu nombre clamaré
-D        A        G
-En ti mis ojos fijaré
-
+G       D           A 
+Y a tu nombre clamaré
+G          D       A  
+ En ti mis ojos fijaré
+          G
 En tempestad
-    D              G
+       D            A
 Descansaré en tu poder
-  A  Bm  A/C#  D  A  Em
+           G        A     Bm A D
 Pues tuyo soy hasta el final
 
 VERSO II:
-Bm        A/C#         D
+Bm                   A     D
 Tu gracia abunda en la tormenta
- A       G
+      A             G
 Tu mano Dios, me guiará
-Bm      A/C#        D
-Cuando hay temor en mi camino
-A        G
+Bm                     A    D
+  Cuando hay temor en mi camino
+     A                 G
 Tú eres fiel y no cambiarás
 
-Instrumental:
-Bm  A/C#  D  A  Em
-Bm  G  D  A    Bm  G  D  A
-
-PUENTE:
-Bm              G
-Que tu Espíritu me guíe sin fronteras
-    D              A
-Más allá de las barreras A donde tú me llames
-Bm          G
-Tú me llevas más alla de lo soñado
- D                    A
-Donde puedo estar confiado
-Al estar en tu presencia   [3x]
-
-G             D
-Que tu Espíritu me guíe sin fronteras
-  A             G
-Más allá de las barreras A donde tú me llames
-G            D
-Tú me llevas más alla de lo soñado
-A          G
-Donde puedo estar confiado
-Al estar en tu presencia
-
-Bm      A/C#    D
-Que tu Espíritu me guíe sin fronteras
-   A                  Em
-Más allá de las barreras A donde tú me llames
-Bm     A/C#  D
-Tú me llevas más alla de lo soñado
-  A                  Em
-Donde puedo estar confiado
-Al estar en tu presencia  [2x]
-
-G    D        A
-A tu nombre clamaré
-G       D       A
-En ti mis ojos fijaré
-G
+CORO:
+G       D           A 
+Y a tu nombre clamaré
+G          D       A  
+ En ti mis ojos fijaré
+          G
 En tempestad
-    D          A
+       D            A
 Descansaré en tu poder
-  G   A   Bm             A/C#  D
+           G        A     Bm
 Pues tuyo soy hasta el final
 
-A  G  Bm A/C# D  D
+PUENTE x3
+Bm                   G
+Que tu Espíritu me guíe sin fronteras
+       D                    A
+Más allá de las barreras A donde tú me llames
+G                   D
+ Tú me llevas más allá de lo soñado
+        A
+Donde puedo estar confiado
+      Em
+Al estar en tu presencia
+
+Bm              A     D
+  Que tu Espíritu me guíe sin fronteras
+       A                    Em
+Más allá de las barreras A donde tú me llames
+Bm             A    D
+ Tú me llevas más allá de lo soñado
+        A
+Donde puedo estar confiado
+      Em                 Bm A D  A  Em
+Al estar en tu presencia
+
+Bm A D  A Em
+
+G      D         A
+ A tu nombre clamaré
+G          D       A
+ En ti mis ojos fijaré
+G          D        A
+  Descansaré en tu poder
+      G      A       Bm  
+tuyo soy hasta el final
+
