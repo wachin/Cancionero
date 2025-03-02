@@ -1,10 +1,8 @@
- 
 Levantate y Salvame
 Marcos Witt
-
 VERSO I
-Am                F              
-   Aunque un ejercito 
+Am                F
+   Aunque un ejercito
                C         G
 acampe contra mi no temere
 Am                     F
@@ -12,7 +10,7 @@ Am                     F
               C               G
 alrededor de mi, en Ti comfiare
 
-        F     G       Am   
+        F     G       Am
 No temere a diez mil gentes
            F            C   G
 que hagan sitio contra mi
@@ -22,9 +20,9 @@ aunque la tierra se estremezca
 mi salvacion esta en Ti
 
 CORO x2
-        F   G         Am 
+        F   G         Am
 Porque Tu eres mis escudo
- F     G    Am    
+ F     G    Am
 Tu mi fortaleza
  F   G       Am
 Tu eres mi gloria
@@ -33,11 +31,11 @@ quien levanta mi cabeza
 
 VERSO II
 Am                   F
-  Aunque aflijido este 
+  Aunque aflijido este
                 C          G
 Tu pensaras en mi, no temere
 Am                F
-   aunque mi corazon 
+   aunque mi corazon
                C               G
 estremecido esté, en Ti confiare
 
@@ -49,6 +47,7 @@ que se junte contra mi
 Tu eres mi Dios mi fortaleza
           F           G
 mi salvación esta en Ti
+
 
 CORO x2
 
