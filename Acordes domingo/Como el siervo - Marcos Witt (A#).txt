@@ -2,26 +2,26 @@ Como el siervo busca por las aguas
 Marcos Witt
 
 VERSO
-C#               A#m           Fm
+A#               Gm           Dm
 Como el ciervo busca por las aguas,
-      F#      C#         F#    G#
+      D#      A#         D#    F
 así clama mi alma por ti Señor.
-        C#        A#m          Fm
+        A#        Gm          Dm
 Día y noche yo tengo sed de ti
-   F#              G#
+   D#              F
 y solo a ti buscaré.
 
 CORO
-  C#   G#    F#       G#
+  A#   F    D#       F
 Lléname, lléname, Señor,
- C#    G#    F#          G#
+ A#    F    D#          F
 Dame más, más de tu amor;
-    F#     C#    F#       G#
+    D#     A#    D#       F
 Yo tengo sed, solo de ti,
-  F#   G#     C#
+  D#   F     A#
 lléname, Señor
 
-G# F# B
+F D# G#
 
 VERSO
 
