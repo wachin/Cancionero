@@ -3,34 +3,33 @@ Danilo Montero
 BMP 83
 
 INTRO
-C F C F C F C F
+C F C F 
+C F C F
  
-VERSO I
+VERSO
 F                     C
 Por mucho tiempo busque,
-F                C
+F               C
 una razon de vivir, 
 F        G          Am
 en medio de mil preguntas
-     Fm            G
+     F            G
 tu amor me respondio
-
-VERSO II
-F              C
+F             C
 Ahora veo la luz
 F                C
 y ya no tengo temor
 F         G         Am
 tu reino vino a mi vida
-          F        G
+           F       G
 y ahora vivo para ti
 
 CORO
-C         G
+      C         G
 Cantaré de tu amor
       Am        G        F
 rendiré mi corazón ante tí
-C          G
+      C          G
 tu serás, mi pasión
        Am           G          F
 y mis pasos se guiarán con tu voz
@@ -41,9 +40,7 @@ mi Jesús y mi Rey
         F             G
 de tu gran amor cantaré
 
-VERSO I
-
-VERSO II
+VERSO
 
 CORO
 
@@ -54,16 +51,23 @@ CORO
 PUENTE X1
 
 SOLO
-D A Bm G D A Bm G 
+ D        A      Bm 
+Cantaré e e con todo el corazón
+                  G 
+con toda nuestra vida
+     D                      A 
+ofreceremos nuestro amor a ti
+      Bm                   G 
+cantaremos de tu amor por siempre
 
 CORO
-D         A
+      D         A
 Cantaré de tu amor
       Bm        A        G
 rendiré mi corazón ante tí
-D          A
+      D          A
 tu serás, mi pasión
-         Bm         A        G
+         Bm         A          G
 y mis pasos se guiarán con tu voz
 
 PUENTE X1
@@ -76,7 +80,6 @@ CORO
 
 PUENTE X3
     
-
 PUENTE X1 FIN
       Em       A
 mi Jesús y mi Rey
