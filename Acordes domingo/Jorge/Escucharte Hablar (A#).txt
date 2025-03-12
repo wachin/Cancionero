@@ -1,26 +1,32 @@
 Escucharte Hablar
 Marcos Witt
-G                D
+INTRO
+A# F D# F
+A# F D# F
+
+VERSO
+A#                F
 Quiero escuchar tu dulce voz
-     C                       D
+     D#                       F
 rompiendo el silencio en mi ser
-G                  D
+A#                   F
 se que me haría estremecer
-      C             D
+      D#             F
 me haría llorar o reír
-      C      Am        D
+      D#                F
 y caería rendido ante Ti
 
-  G           D
+CORO
+   A#           F
 Y no podría estar ante Ti
-      C
+      Cm
 Escuchándote hablar
-        Am          D
+        F
 sin llorar como un niño
-   G           D
+   A#           F
 y pasaría el tiempo así
-        C
+        Cm
 sin querer nada mas
-      Am           D        G
+      D#                     A#         
 nada mas que escucharte hablar
 
