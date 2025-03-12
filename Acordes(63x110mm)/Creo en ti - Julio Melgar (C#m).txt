@@ -1,61 +1,52 @@
-Creo en ti (Bm)
-Julio Melgar y Marcela Gandara
+Creo en ti (Dm)
+Verito
+La origina del Julio Melgar y Marcela Gandara
+está por C#m, esta está subida 1 semitono.
 
 INTRO x2
-C#m A E B 
+Dm A# F C 
 
-VERSO
-   C#m                     A
+VERSO x2
+   Dm                     A#
 Quiero levantar a Ti mis manos
-        E                B
+        F                C
 Maravilloso Jesús, milagroso Señor,
-       C#m                  A
+       Dm                  A#
 solo llena este lugar de Tu presencia
-             E
+             F
 Y haz descender Tu poder
-             B
+             C
 A los que estamos aquí
 
-C#m A E B
-
-VERSO
-   C#m                     A
-Quiero levantar a Ti mis manos
-        E                B
-Maravilloso Jesús, milagroso Señor,
-       C#m                  A
-solo llena este lugar de Tu presencia
-             E
-Y haz descender Tu poder
-             B
-A los que estamos aquí
+SOLO
+Dm A# F C
 
 PRE-CORO
-        C#m   B A
+        Dm   C A#
 Creo en Ti, Jesús
-             C#m   B  A
+             Dm   C  A#
 Y en lo que harás en  mi
-        C#m   B A
+        Dm   C A#
 Creo en Ti, Jesús
-             C#m   B  A
+             Dm   C  A#
 Y en lo que harás en  mi
-    E      B
+    F      C
 En mi, en mi
 
 CORO
-        C#m
+        Dm
 Recibe Toda la gloria, recibe
- A
+ A#
 Toda la honra
-     E            B
+     F            C
 Precioso Hijo de Dios
-        C#m
+        Dm
 Recibe Toda la gloria, recibe
- A
+ A#
 Toda la honra
-     E            B
+     F            C
 Precioso Hijo de Dios
-          C#m A E B
+          Dm A# F C
 Hijo de Dios
 
 VERSO
@@ -63,3 +54,7 @@ VERSO
 PRE-CORO
 
 CORO x2
+
+--------------------------
+
+
