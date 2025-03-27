@@ -1,4 +1,4 @@
-Te doy gloria
+Te doy gloria (C)
 En Espíritu y en Verdad
 BPM 136
 
@@ -27,13 +27,8 @@ te doy gloria gloria
 a Ti Jesús
 
 VERSO
-C G Am F
-C G Am F
-C G Am F
 
 CORO x2
-C G Am F
-C G Am F
 
 PUENTE x4:
       F                G
@@ -42,5 +37,3 @@ Con una corona de espinos
 Te hiciste Rey por siempre
 
 CORO x4
-C G Am F
-C G Am F
