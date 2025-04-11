@@ -13,6 +13,40 @@ Bm7    x24232
 Dm7    xx0211
 
 
+
+
+C      032010
+C7     032310
+Cm     035543
+D      000232
+D7     000212
+Dm     000231
+E      022100
+F      133211
+F7     131211
+Fm     133111
+G      320033
+G7     320001
+Gm     355333
+A      002220
+A7     002020
+Am     002210
+B      224442
+B7     224242
+Bm     224432
+
+Notas:
+
+Los acordes como F, Gm, Bm normalmente requieren cejilla (usar el dedo índice acostado).
+
+Algunos cifrados como Cm, Fm, Gm, Bm también son acordes con cejilla.
+
+Si quieres versiones más fáciles (sin cejilla) de F, B o Bm, ¡también te puedo ayudar a escribirlos!
+
+
+
+
+
 List of Guitar Chords
 From: voith@soccer.sps.mot.com (Ray Voith)
 
