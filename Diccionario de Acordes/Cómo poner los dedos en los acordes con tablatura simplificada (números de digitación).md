@@ -1,6 +1,6 @@
 
 
-Cómo poner los dedos en los acordes con tablatura simplificada (números de digitación).md 🎸✨  
+# Cómo poner los dedos en los acordes con tablatura simplificada (números de digitación).md 🎸✨  
 
 Esta forma de describir los acordes como `002210`, `320033`, etc., se llama **"tablatura simplificada"** o simplemente **"números de digitación"**.
 
@@ -23,6 +23,8 @@ Es decir: **nadie en especial** la "inventó", **fue evolucionando** por necesid
 ### 📜 ¿Cómo funciona? Cómo poner los acordes en la guitarra
 - Cada número representa un **traste** en la guitarra donde debes poner el dedo.
 - El orden de izquierda a derecha es de la **6ª cuerda (la más gruesa, grave)** a la **1ª cuerda (la más delgada, aguda)**.
+
+Donde:
 - **0** = cuerda al aire (sin pisar).
 - **Número** = pisa ese traste.
 - **X** (cuando se usa) = no tocar esa cuerda.
