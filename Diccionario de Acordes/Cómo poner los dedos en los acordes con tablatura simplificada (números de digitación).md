@@ -399,3 +399,16 @@ ___
 5.  **Stack Exchange – Music Theory**
     
     -   [Music: Practice & Theory Stack Exchange - Tablature History](https://music.stackexchange.com/)
+    
+    
+___
+
+Gracias Matheus Moreira por posar para tomar las fotos de los acordes
+
+Por cierto, en mi repositorios de las canciones que tocamos en la Iglesia están unos Diccionarios de acordes:
+
+[https://github.com/wachin/Cancionero](https://github.com/wachin/Cancionero)
+
+en la carpeta: "Diccionario de acordes"
+
+[https://github.com/wachin/Cancionero/tree/main/Diccionario%20de%20Acordes](https://github.com/wachin/Cancionero/tree/main/Diccionario%20de%20Acordes)
