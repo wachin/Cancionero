@@ -4,26 +4,20 @@ Trinity (NL)
 F
 Que cantan conmigo pues 
 alabando al señor vamos
+
+VERSO I x2
               Bb        
 con mis manos y mi vida  
      C               F
-te alabo señor  te alabo señor
+te alabo señor  te alabo Señor
               Bb           
 con mis manos y mi vida  
-   C                 F
-te alabo bendito  señor, otra vez
+   C                F
+te alabo bendito Señor
 
-              Bb        
-con mis manos y mi vida  
-     C               F
-te alabo señor  te alabo señor
-              Bb           
-con mis manos y mi vida  
-   C                 F
-te alabo bendito  señor
-
+CORO
        Bb               F        
-porque tu has sido precioso para mi    
+Porque tu has sido precioso para mi    
      Gm               F
 precioso para mi precioso para mi
         Bb              F          
@@ -31,15 +25,13 @@ porque tu has sido precioso para mi
       Gm     C      F
 te alabo bendito Señor
 
-
-VERSO III x4
-
+VERSO II x4
       F
 Alabaré (alabaré), alabaré (alabaré)
     C           F
 alabaré a mi Señor
 
-VERSO IV 
+VERSO III
     F                  
 Yo tengo un amigo que me ama
    C       F
@@ -49,7 +41,7 @@ yo tengo un amigo que me ama
     C           F
 su nombre es Jesús
 
-VERSO V x2
+VERSO IV x2
              Bb
 no hay otro nombre
             F
@@ -60,6 +52,8 @@ solamente en Cristo
 solamente en rey
 
 G D7 G
+
+VERSO IV 
 
 Te alabarán Oh Jehová todos los reyes
                        D
