@@ -1,8 +1,7 @@
 Tu estás aquí (E)
 Jesús Adrián Romero
 
-INTRO
-E  C#m  A  B
+INTRO x2
 E  C#m  A  B
 
 VERSO
@@ -10,7 +9,7 @@ VERSO
 Aunque mis ojos
               C#m              A
 No te puedan ver, te puedo sentir
-                E
+                E  
 Sé que estás aquí
             E
 Aunque mis manos
@@ -46,7 +45,7 @@ B
 Aunque mis ojos
               C#m              A
 No te puedan ver, te puedo sentir
-                E
+                E 
 Sé que estás aquí
             E
 Aunque mis manos
@@ -62,8 +61,10 @@ C#m            B
 Tú estás aquí, Tú estás aquí
 C#m            B
 Tú estás aquí, Tú estás aquí
-C#m            B
-Tú estás aquí, Tú estás aquí
+C#m                      B
+Me deleito en Jesús, y en tu presencia
+C#m             B
+me deleito en ti, y en tu grandeza
 C#m            B
 Tú estás aquí, Tú estás aquí
 C#m            B
