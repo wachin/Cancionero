@@ -1,33 +1,33 @@
 
-INTRO:
-
+INTRO x3
 D A F#m  E
-
 
 Verso 1
 D          A                     F#m
 Todos necesitan amor que nunca falla
-    E
+     E
 Tu gracia y compasión
  D         A                   F#m
 Todos necesitan perdón y esperanza
-        E            D E D E
+        E           D E D E
 de un Dios que salva
 
 CORO
-A                    E
+  A                 E
 Cristo puede mover montes
-             D      A 
+            D       A 
 solo Dios puede salvar
           F#m     E
 mi Dios puede salvar
- A                        E
+ A                       E
 por siempre autor de salvación
-            D      A 
+          D          A 
 Jesús la muerte venció
-        F#m      E
+        F#m       E
 El la muerte venció
 
+INTRO x2
+D A F#m  E
 
 Verso 2
  D             A                 F#m
@@ -36,13 +36,23 @@ Aun con mis temores se que me aceptas
 lléname otra vez
  D               A                      F#m
 mi vida entera ofrezco para seguir tus pasos
-    E         D E D E
+   E         D E D E
 a Ti me rindo
 
-CORO:
+CORO
 
-PUENTE:
-D         A                E
-en la tierra tu luz brillará
-F#m       D        A               E
-Cantamos por la gloria de tu majestad
+SOLO
+D A E F#m  
+D A E F#m
+
+PUENTE
+D            A            E       F#m
+ En la tierra tu luz brillará Cantamos
+D            A          E      F#m
+ por la gloria de tu majestad Jesús
+ D            A            E       F#m
+ En la tierra tu luz brillará Cantamos
+D            A          E     
+ por la gloria de tu majestad 
+ 
+CORO
