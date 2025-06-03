@@ -66,3 +66,7 @@ Haciendo esto obtendríamos la siguiente tabla de acordes en el piano:
 ![acorde séptima dominante todos](https://miguitarraelectrica.com/wp-content/uploads/2021/09/acorde-septima-dominante-todos.png)
 
 Si vemos la imagen de arriba en detalle observaremos que algunos acordes en el piano aparecen repetidos, por ejemplo La#7 y Si♭7. Es decir, tocamos las mismas teclas pero realmente son 2 acordes con nombre diferente.
+
+# Revisar
+
+https://www.aprendepianoonline.com/acordes/dominantes/
