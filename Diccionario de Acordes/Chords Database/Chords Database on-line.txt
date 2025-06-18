@@ -1,0 +1,5 @@
+
+
+http://github.com/tombatossals/react-chords
+
+Entrar y allí buscar el acorde que se necesite y tomar una captura de pantalla por ejemplo con Knsip y copiar el acorde que uno quiera y ejemplo pegarlo en un archivo .docx 
