@@ -1,5 +1,7 @@
-Cara a Cara 
+Cara a Cara (B Capo 2)
 Majo Solís
+Poner en capotraste en el 2do traste.
+Nota: Los acordes en verde son dificiles de poner en la guitarra, se los puede omitir y no afectan la canción.
 
 A D A D 
 
@@ -7,11 +9,11 @@ A D A D
 Solamente una palabra
      F#m
 solamente una oracion
-         D             Bm         E
+         D             Bm        E
 cuando llegue a tu presencia o Señor
          C#
 no me importa en que lugar
-       F#m     E     D
+       F#m     E        D
 de la mesa me hagas sentar
         Bm     A    D
 o el color de mi corona
@@ -24,15 +26,15 @@ Solamente una palabra
 si esque aun me queda voz
       D           Bm             E
 y si logro articularla en tu presencia,
-        C#
+         C#
 no te quiero hacer preguntas
-       F#m  E   D
+       F#m  E    D
 solo una   peticion
-  Bm        A     D             E
+       Bm   A     D             E
 y si puede ser a solas mucho mejor
 
 CORO
-      Bm       E            C#m   F#m
+      Bm       E            C#m  F#m
 Solo dejame mirarte cara a cara
       D             E            C# F#m
 y perderme como un niño en tu mirada
@@ -46,7 +48,7 @@ porque estoy viendo al maestro
 cara a cara
 
          D           E        
-que se ahogue mi recuerdo
+Que se ahogue mi recuerdo
           C#m  F#m
 en tu  mira   da
          D             E     
