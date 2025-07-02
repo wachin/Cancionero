@@ -1,5 +1,6 @@
-Heme aquí
+Heme aquí (Am)
 Marco Barrientos
+
 INTRO
 Am
 
@@ -7,20 +8,22 @@ VERSO
  Am              Em   
 Te he dado mi Espíritu
  F             C
-para enviarte hoy
- Dm           G           E7           Am
-yo te sostendré, con mi diestra te guiaré.
- F        Dm    Bm            Esus4 E
-permaneceré contigo hasta el fin.
+para enviarte hoy,
+ F           G   
+yo te sostendré, 
+         E            Am
+con mi diestra te guiaré,
+ F        G                 E
+permaneceré contigo hasta el fin
 
 PRE-CORO X2
  F      G  
 Heme aquí, 
-   E7      Am
+   E      Am
 envíame a mi
- F        G           E7     Am
+ F        G           E      Am
 pon tu palabra en mi boca Señor
- F      G      Asus4 A
+ F      G      Am
 publicaré tu amor
 
 CORO x2
@@ -38,10 +41,8 @@ PRE-CORO X2
 CORO
 
 PUENTE
- F      G
-Heme aquí
- F      G
-Heme aquí  
+   F      G
+//Heme aquí//  
  F      G       Am
 Heme aquí mi Señor
 
