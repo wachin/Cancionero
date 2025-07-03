@@ -1,8 +1,7 @@
-Te daré lo mejor
+Te daré lo mejor (E)
 Jesús Adrián Romero
 
 ACORDES
-
 Asus2   002200
 Bsus2   024400
 G#sus4  446644 
@@ -20,20 +19,19 @@ E          Asus2      E
              Bsus2
 de nuestras vidas
 
-
 PRE CORO
-    F#m7               C#m
-Te entregaré mi amor entero,
-        Asus2              Bsus2
-los sueños que logré alcanzar
+F#m7               C#m
+ Te entregaré mi amor entero,
+Asus2               Bsus2
+ los sueños que logré alcanzar
 
 CORO
-     C#m     Asus2     E
+      C#m     Asus2     E
 Te daré lo mejor de mi vida,
-     C#m     Asus2    Bsus2
+      C#m     Asus2    Bsus2
 te daré lo mejor cada día
 
-G#sus4           G#       C#m
+G#sus4       G#              C#m
  Será mucho más que una canción,
        Asus2           F#m  Bsus2
 mi obediencia es mi mejor adoración
@@ -60,4 +58,4 @@ FINAL
     E              A      B
 ///  Te daré lo mejor de mi ///
   C#m      Bsus2   Asus2
-     Te daré lo mejor
+     Te daré lo mejor 
