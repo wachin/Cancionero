@@ -1,37 +1,43 @@
 Yo y mi casa
 Daniel Calveti
 
-Intro:  
+INTRO  
 G# D# Fm C#
 
-      G#             D#
+G#                    D#
 //Yo y mi casa te adoraremos
-                 Fm
+                      Fm
 Yo y mi casa te serviremos
-                 C#            Fm  D#
-Yo y mi casa te cantaremos, por siempre//
+                      C#   
+Yo y mi casa te cantaremos,
+     Fm   D#
+por siempre//
 
-     Fm             D#
+ Fm              D#
 Por qué tú eres digno y grande
-    Fm            D#
+ Fm               D#
 Porque has hecho maravillas
-    Fm             D#
+ Fm              D#
 Tus principios, son verdades
-    Fm         D#
+Fm           D#
 Y has traído alegría.
 
-Coro:
-
-     G#              C# Fm
+CORO
+G#                      C#     Fm
 //Esta casa te canta a ti
-             C#         D#
+                        C#  D#
 Esta casa declara: Tu Eres Santo
-  G#                 Fm   D#
+  G#                     Fm   D#
 Mi ofrenda es vivir por ti
-              C#   D#
+                      C#   D#
 Esta casa te canta a ti//
 
-          Fm  D# C#
+INTRO
+
+CORO
+
+FINAL
+               Fm  D# C#
 ///Te canta a Ti///
-          Fm  D#   G#
+               Fm  D#   G#
    Te canta a Ti   a Tí
