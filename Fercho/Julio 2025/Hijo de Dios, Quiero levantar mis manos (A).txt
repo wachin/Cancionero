@@ -1,6 +1,7 @@
-Quiero levantar mis manos (A)
+Hijo de Dios / Quiero levantar mis manos (A)
 Marcos Witt
 
+VERSO
 A                    C#m  
 Quiero levantar mis manos,
 F#                   Bm
@@ -15,16 +16,29 @@ Padre solo a ti te ofrezco,
 mi vida y mi corazón
 Bm                    E    
 Y me postro en tu presencia, 
-Bm        E     A
+Bm        E     
 En adoración
 
 CORO
-         C#m Em      D    Dm
+A          C#m Em        D    Dm
 Hijo de Dios   recibe hoy
           A  F#m    Bm   D    E 
 Toda la gloria, la honra y honor
 
-A          C#m Em      D    Dm
+A          C#m Em        D    Dm
   Hijo de Dios   recibe hoy
-          A  F#m    Bm   E    A
-Toda la gloria, la honra y honor
+          A  F#m    Bm    E    A
+Toda la gloria, la honra  y honor
+
+VERSO
+
+CORO
+
+FINAL
+          A  F#m    Bm    E    A  F
+Toda la gloria, la honra  y honor
+          A  F#m    Bm    E    F G A
+Toda la gloria, la honra  y hono o or
+
+
+
