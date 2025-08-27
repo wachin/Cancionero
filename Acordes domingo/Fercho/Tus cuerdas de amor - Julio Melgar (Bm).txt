@@ -6,6 +6,7 @@ Bm      224432
 G       320033
 D       000232
 A6/11   044220
+Bm0     004432
 
 INTRO X4
 Bm G D
@@ -21,11 +22,11 @@ Bm           G  D
 Esa es mi seguridad
      A           A7
 Tus cuerdas de amor
-               D A     Bm
-Cayeron sobre mí Oh Uh Oh
+               D A6/11   Bm0
+Cayeron sobre mí Oh   Uh Oh
      A           A7
 Tus cuerdas de amor
-               D  A    Bm
+               D A6/11   Bm0
 Cayeron sobre mí
 
 G
