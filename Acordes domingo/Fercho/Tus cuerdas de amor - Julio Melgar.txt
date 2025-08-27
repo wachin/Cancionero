@@ -1,4 +1,4 @@
-Tus cuerdas de amor
+Tus cuerdas de amor (Dm)
 Julio Melgar
 
 INTRO X4
@@ -13,14 +13,16 @@ Que tu promesa cumplirás
 Nada en ti se perderá
 Dm           Bb  F
 Esa es mi seguridad
-     C       F   C
+     C           C7
 Tus cuerdas de amor
-              F  C     Dm
+               F C     Dm
 Cayeron sobre mí Oh Uh Oh
-     C       Dm  C
+     C           C7
 Tus cuerdas de amor
-              F  C  Bb  Dm Bb
-Cayeron sobre mí.
+               F  C    Dm
+Cayeron sobre mí
+
+Bb
 
 CORO X2
                       F
@@ -48,7 +50,7 @@ Esa es mi seguridad.
 
  Dm                Bb    F
 Los velos están cayendo hoy
-Dm               Bb   F
+Dm                Bb  F
 Y puedo ver con claridad
  Dm                 Bb     F
 Mi fe se está encendiendo hoy
