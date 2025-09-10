@@ -1,0 +1,1651 @@
+# 📘 Diccionario de Acordes de Guitarra - Tutorial y Referencia
+
+Si estás comenzando desde cero, este archivo es para ti. Aquí aprenderás lo básico para entender cómo se forman y se leen los acordes de guitarra.
+
+## 🎸 ¿Cómo usar este diccionario?
+
+Cada línea representa un acorde y sigue este formato:
+
+**Ejemplo:**
+`A         or   Amaj      [0 0 2 2 2 0] (Db E  A) : Triada Mayor`
+
+- **A**: Nombre principal del acorde (en este caso, La Mayor).
+- **or Amaj**: Otra forma de escribir el mismo acorde.
+- **[0 0 2 2 2 0]**: Posición de los dedos en el traste. Cada número representa una cuerda (de la 6ª a la 1ª). 
+  - `0`: cuerda al aire.
+  - `x`: no se toca esa cuerda.
+  - `1, 2, 3...`: traste donde debes poner el dedo.
+- **(Db E  A)**: Las notas que suenan en el acorde.
+- **Triada Mayor**: Tipo de acorde.
+
+## 🧠 Conceptos Básicos
+
+- **Triada**: Un acorde de tres notas (base, tercera y quinta).
+- **Mayor**: Sonido alegre o brillante (ej: C, G, A).
+- **Menor (m)**: Sonido triste o melancólico (ej: Am, Dm, Em).
+- **7ma (7)**: Le da un sonido más tenso o de blues.
+- **sus4/sus2**: Acordes "suspendidos" que omiten la tercera.
+
+## 💡 Tip para Principiantes
+
+Empieza con acordes abiertos (que usan cuerdas al aire) como **C, G, D, A, E, Am, Em**. Son más fáciles de hacer y son la base de miles de canciones.
+
+¡Ahora sí, a practicar! 🎶
+
+---
+
+Acordes frecuentes:
+
+C       032010
+Cadd9   x32033
+C7      032310
+Cm      035543
+D       000232
+D7      000212
+Dm      000231
+Dm7     xx0211
+E       022100
+Em      022000
+F       133211
+F7      131211
+Fm      133111
+F#m7    242222
+F#m7    244252
+F#m     244222
+G       320033
+G7      320001
+Gm      355333
+G#sus4  446644 
+A       002220
+A7      002020
+A7sus4  002030
+Am      002210
+Asus4   002230
+Asus2   002200
+B       224442
+B7      224242
+Bm      224432
+Bm7     x24232
+Bsus2   024400
+Bsus2   x44422
+
+Notas:
+
+Los acordes como F, Gm, Bm normalmente requieren cejilla (usar el dedo índice acostado).
+
+Algunos cifrados como Cm, Fm, Gm, Bm también son acordes con cejilla.
+
+Si quieres versiones más fáciles (sin cejilla) de F, B o Bm, ¡también te puedo ayudar a escribirlos!
+
+# List of Guitar Chords
+From: voith@soccer.sps.mot.com (Ray Voith)
+
+Download from:
+http://www.cs.cmu.edu/~mfdias/random/guitar_tabs/List%20of%20Guitar%20Chords.txt
+
+Here's some of the more common chords (done with A as the root):
+
+A  B  C# D  E  F# G# A  B  C# D
+1  2  3  3  5  6  7  8  9  10 11
+
+major [A]: 1 3 5                            A C# E
+minor [Am]: 1 3b 5                          A C E
+seventh [A7]: 1 3 5 7b                      A C# E G
+minor seventh [Am7]: 1 3b 5 7b              A C E G
+major seventh [Amaj7 or AM7]: 1 3 5 7       A C# E G#
+sixth [A6]: 1 3 5 6                         A C# E F#
+minor sixth [Am6]: 1 3b 5 6                 A C E F#
+augmented [A+]: 1 3 5#                      A C# E#  (A C# F)
+augmented 7th [A7+]: 1 3 5# 7b              A C# E# G
+diminished [Adim]: 1 3b 5b                  A C Eb
+diminished 7th [Adim7 or Ao]: 1 3b 5b 7bb   A C Eb Gb
+                              1 3b 5b 6     A C Eb Gb
+seventh (flatted fifth) A7(5b): 1 3 5b 7b   A C# Eb G
+minor 7th (flatted 5th) A7(5b): 1 3b 5b 7b  A C Eb G
+ninth [A9]: 1 3 5 7b 9                      A C# E G B
+minor ninth [Am9]: 1 3b 5 7b 9              A C E G B
+major ninth [Amaj9 or AM9]: 1 3 5 7 9       A C# E G# B
+eleventh [A11]: 1 3 5 7b 9 11               A C# E G B D
+diminished 9th: 1 3 5 7b 9b                 A C# E G Bb
+added ninth [A(9) or A(2)]: 1 3 5 9         A C# E B (A B C# E)
+added fourth [A(4) or A(11)]: 1 3 5 11      A C# E D
+suspended [Asus or Asus4]: 1 4 5            A D E 
+suspended 9th [Asus9 or Asus2]: 1 2 5       A B E (A E B)
+7th suspended 4th [A7sus or A7sus4]: 1 4 5 7b    A D E G
+7th suspended 9th [A7sus2 or A7sus9]: 1 2 5 7b   A B E G
+fifth [A5 or A(no 3rd)]: 1 5                     A E
+.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+typically X/Y means "an X chord with a Y in the bass".
+Sometimes Y is part of the X chord but not the root (e.g., C/G)
+Sometimes it is not (e.g., Bb/C).
+
+C/D is a C chord with a D bass note (xx0010).
+A/B is an A chord with a B bass note (x22220).
+G/D is a G with a D bass (xx0003).  And so on.
+
+---------
+
+Diminished
+
+In popular music, "diminished" is usually synonymous with "diminished
+seventh", which is root-b3-b5-bb7 (yes, double-flatted seventh).
+So Cdim Cdim7 C-Eb-Gb-Bbb C-Eb-Gb-A.
+Cdim7 is often notated as "C-followed-by-a-raised-circle".
+
+A related chord, the half-diminished (also called "minor seventh/flat
+fifth", replaces the double-flatted seventh with a flatted seventh;
+thus, Cm7-5 (or Cm7b5) C-Eb-Gb-Bb.  Cm7-5 is often notated as
+"C-followed-by-a-raised- circle-with-a-diagonal-slash-through-it".
+
+
+PS: any Beach Boys ballad circa "Pet Sounds" makes extensive use of half-
+diminished chords, often with the flatted 5th or 7th in the bass:
+
+D/A       Bm6                  F#m
+I may not always love you
+   F#m7/E            D#m7-5/A
+But long as there are stars above you
+E/B       Cdim
+You never need to doubt it
+E/B       Bbm7-5
+I'll make you so sure about it
+A              E/G#        F#m           A/E  B/F#  C/G
+God only knows what I'd be without you
+
+Due to the symmetry of the intervals, an augmented or
+diminished-seventh chord may be named after any note in it,
+so C+ E+ G#+ and Cdim Ebdim Gbdim Adim.
+
+---------
+
+Suspended chords.
+
+A suspended chord typically means that the 3rd of the chord has been
+replaced by the 4th (Xsus4) (or, less commonly, by the 2nd in which
+case it is called Xsus2).  Xsus Xsus4
+
+Try these chord progressions, both of which launched a zillion
+folk-rock hits circa 1965:
+
+Asus (x02230) A (x02220) Asus2 (x02200) A
+
+or:
+
+Dsus (x00233) D (x00232) Dsus2 (x00230) D
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+A         or   Amaj      [0 0 2 2 2 0] (Db E  A) : Triada Mayor
+A         or   Amaj      [0 4 x 2 5 0] (Db E  A) : Triada Mayor
+A         or   Amaj      [5 7 7 6 5 5] (Db E  A) : Triada Mayor
+A         or   Amaj      [x 0 2 2 2 0] (Db E  A) : Triada Mayor
+A         or   Amaj      [x 4 7 x x 5] (Db E  A) : Triada Mayor
+A #5      or   Aaug      [x 0 3 2 2 1] (Db F  A) : Triada Aumentada
+A #5      or   Aaug      [x 0 x 2 2 1] (Db F  A) : Triada Aumentada
+A/Ab                     [x 0 2 1 2 0] (Db E  Ab A) : Triada Mayor (bajo alterado)
+A/B                      [0 0 2 4 2 0] (Db E  A  B) : Triada Mayor (bajo alterado)
+A/B                      [x 0 7 6 0 0] (Db E  A  B) : Triada Mayor (bajo alterado)
+A/D                      [x 0 0 2 2 0] (Db D  E  A) : Triada Mayor (bajo alterado)
+A/D                      [x x 0 2 2 0] (Db D  E  A) : Triada Mayor (bajo alterado)
+A/D                      [x x 0 6 5 5] (Db D  E  A) : Triada Mayor (bajo alterado)
+A/D                      [x x 0 9 10 9] (Db D  E  A) : Triada Mayor (bajo alterado)
+A/G                      [3 x 2 2 2 0] (Db E  G  A) : Triada Mayor (bajo alterado)
+A/G                      [x 0 2 0 2 0] (Db E  G  A) : Triada Mayor (bajo alterado)
+A/G                      [x 0 2 2 2 3] (Db E  G  A) : Triada Mayor (bajo alterado)
+A/Gb                     [0 0 2 2 2 2] (Db E  Gb A) : Triada Mayor (bajo alterado)
+A/Gb                     [0 x 4 2 2 0] (Db E  Gb A) : Triada Mayor (bajo alterado)
+A/Gb                     [2 x 2 2 2 0] (Db E  Gb A) : Triada Mayor (bajo alterado)
+A/Gb                     [x 0 4 2 2 0] (Db E  Gb A) : Triada Mayor (bajo alterado)
+A/Gb                     [x x 2 2 2 2] (Db E  Gb A) : Triada Mayor (bajo alterado)
+A5        or   A(no 3rd) [5 7 7 x x 5] (E  A): root and 5th (power chord)
+A5        or   A(no 3rd) [x 0 2 2 x 0] (E  A) : root and 5th (power chord)
+A5        or   A(no 3rd) [5 7 7 x x 0] (E  A) : root and 5th (power chord)
+A6                       [0 0 2 2 2 2] (Db E  Gb A) : Triada Mayor más 6ta
+A6                       [0 x 4 2 2 0] (Db E  Gb A) : Triada Mayor más 6ta
+A6                       [2 x 2 2 2 0] (Db E  Gb A) : Triada Mayor más 6ta
+A6                       [x 0 4 2 2 0] (Db E  Gb A) : Triada Mayor más 6ta
+A6                       [x x 2 2 2 2] (Db E  Gb A) : Triada Mayor más 6ta
+A6/7                     [0 0 2 0 2 2] (Db E  Gb G  A) : Triada Mayor más 6ta, 7ma menor
+A6/7 sus  or   A6/7 sus4 [5 5 4 0 3 0] (D  E  Gb G  A) : Triada sus4 más 6ta, 7ma menor
+A6/7 sus  or   A6/7 sus4 [x 0 2 0 3 2] (D  E  Gb G  A) : Triada sus4 más 6ta, 7ma menor
+A7        or   Adom 7    [3 x 2 2 2 0] (Db E  G  A) : Triada Mayor, 7ma menor
+A7        or   Adom 7    [x 0 2 0 2 0] (Db E  G  A) : Triada Mayor, 7ma menor
+A7        or   Adom 7    [x 0 2 2 2 3] (Db E  G  A) : Triada Mayor, 7ma menor
+A7(#5)                   [1 0 3 0 2 1] (Db F  G  A) : 7ma menor, 5ta aumentada
+A7/add11  or   A7/11     [x 0 0 0 2 0] (Db D  E  G  A) : Triada Mayor, 7ma menor, más 11ava
+A7sus4                   [x 0 2 0 3 0] (D  E  G  A) : Triada sus4, 7ma menor
+A7sus4                   [x 0 2 0 3 3] (D  E  G  A) : Triada sus4, 7ma menor
+A7sus4                   [x 0 2 2 3 3] (D  E  G  A) : Triada sus4, 7ma menor
+A7sus4                   [5 x 0 0 3 0] (D  E  G  A) : Triada sus4, 7ma menor
+A7sus4                   [x 0 0 0 x 0] (D  E  G  A) : Triada sus4, 7ma menor
+Aadd9     or   A2        [0 0 2 4 2 0] (Db E  A  B) : Triada Mayor más 9na
+Aadd9     or   A2        [x 0 7 6 0 0] (Db E  A  B) : Triada Mayor más 9na
+Aaug/D                   [x x 0 2 2 1] (Db D  F  A) : Triada Aumentada (bajo alterado)
+Aaug/G                   [1 0 3 0 2 1] (Db F  G  A) : Triada Aumentada (bajo alterado)
+Ab        or   Abmaj     [4 6 6 5 4 4] (C  Eb Ab) : Triada Mayor
+Ab #5     or   Abaug     [x 3 2 1 1 0] (C  E  Ab) : Triada Aumentada
+Ab/A                     [x x 1 2 1 4] (C  Eb Ab A) : Triada Mayor (bajo alterado)
+Ab/F                     [x 8 10 8 9 8] (C  Eb F  Ab) : Triada Mayor (bajo alterado)
+Ab/F                     [x x 1 1 1 1] (C  Eb F  Ab) : Triada Mayor (bajo alterado)
+Ab/Gb                    [x x 1 1 1 2] (C  Eb Gb Ab) : Triada Mayor (bajo alterado)
+Ab/Gb                    [x x 4 5 4 4] (C  Eb Gb Ab) : Triada Mayor (bajo alterado)
+Ab5       or   Ab(no 3rd)[4 6 6 x x 4] (Eb Ab): root and 5th (power chord)
+Ab6                      [x 8 10 8 9 8] (C  Eb F  Ab) : Triada Mayor más 6ta
+Ab6                      [x x 1 1 1 1] (C  Eb F  Ab) : Triada Mayor más 6ta
+Ab7       or   Abdom 7   [x x 1 1 1 2] (C  Eb Gb Ab) : Triada Mayor, 7ma menor
+Ab7       or   Abdom 7   [x x 4 5 4 4] (C  Eb Gb Ab) : Triada Mayor, 7ma menor
+Abdim/E                  [0 2 0 1 0 0] (D  E  Ab B) : Triada Disminuida (bajo alterado)
+Abdim/E                  [0 2 2 1 3 0] (D  E  Ab B) : Triada Disminuida (bajo alterado)
+Abdim/E                  [x 2 0 1 3 0] (D  E  Ab B) : Triada Disminuida (bajo alterado)
+Abdim/E                  [x x 0 1 0 0] (D  E  Ab B) : Triada Disminuida (bajo alterado)
+Abdim/Eb                 [x x 0 4 4 4] (D  Eb Ab B) : Triada Disminuida (bajo alterado)
+Abdim/F                  [x 2 0 1 0 1] (D  F  Ab B) : Triada Disminuida (bajo alterado)
+Abdim/F                  [x x 0 1 0 1] (D  F  Ab B) : Triada Disminuida (bajo alterado)
+Abdim/F                  [x x 3 4 3 4] (D  F  Ab B) : Triada Disminuida (bajo alterado)
+Abdim7                   [x 2 0 1 0 1] (D  F  Ab B) : Triada Disminuida, 7ma disminuida
+Abdim7                   [x x 0 1 0 1] (D  F  Ab B) : Triada Disminuida, 7ma disminuida
+Abdim7                   [x x 3 4 3 4] (D  F  Ab B) : Triada Disminuida, 7ma disminuida
+Abm                      [x x 6 4 4 4] (Eb Ab B) : Triada Menor
+Abm/D                    [x x 0 4 4 4] (D  Eb Ab B) : Triada Menor (bajo alterado)
+Abm/E                    [0 2 1 1 0 0] (Eb E  Ab B) : Triada Menor (bajo alterado)
+Abm/E                    [0 x 6 4 4 0] (Eb E  Ab B) : Triada Menor (bajo alterado)
+Abm/E                    [x x 1 1 0 0] (Eb E  Ab B) : Triada Menor (bajo alterado)
+Abm/Gb                   [x x 4 4 4 4] (Eb Gb Ab B) : Triada Menor (bajo alterado)
+Abm7                     [x x 4 4 4 4] (Eb Gb Ab B) : Triada Menor, 7ma menor
+Absus     or   Absus4    [x x 6 6 4 4] (Db Eb Ab) : sin 3ra pero con 4ta de una triada mayor
+Absus2/F                 [x 1 3 1 4 1] (Eb F  Ab Bb) : Triada sus2 (bajo alterado)
+Adim/Ab                  [x x 1 2 1 4] (C  Eb Ab A) : Triada Disminuida (bajo alterado)
+Adim/E                   [0 3 x 2 4 0] (C  Eb E  A) : Triada Disminuida (bajo alterado)
+Adim/F                   [x x 1 2 1 1] (C  Eb F  A) : Triada Disminuida (bajo alterado)
+Adim/F                   [x x 3 5 4 5] (C  Eb F  A) : Triada Disminuida (bajo alterado)
+Adim/G                   [x x 1 2 1 3] (C  Eb G  A) : Triada Disminuida (bajo alterado)
+Adim/Gb                  [x x 1 2 1 2] (C  Eb Gb A) : Triada Disminuida (bajo alterado)
+Adim7                    [x x 1 2 1 2] (C  Eb Gb A) : Triada Disminuida, 7ma disminuida
+Am                       [x 0 2 2 1 0] (C  E  A) : Triada Menor
+Am                       [x 0 7 5 5 5] (C  E  A) : Triada Menor
+Am                       [x 3 2 2 1 0] (C  E  A) : Triada Menor
+Am                       [8 12 x x x 0] (C  E  A) : Triada Menor
+Am/B                     [0 0 7 5 0 0] (C  E  A  B) : Triada Menor (bajo alterado)
+Am/B                     [x 3 2 2 0 0] (C  E  A  B) : Triada Menor (bajo alterado)
+Am/D                     [x x 0 2 1 0] (C  D  E  A) : Triada Menor (bajo alterado)
+Am/D                     [x x 0 5 5 5] (C  D  E  A) : Triada Menor (bajo alterado)
+Am/Eb                    [0 3 x 2 4 0] (C  Eb E  A) : Triada Menor (bajo alterado)
+Am/F                     [0 0 3 2 1 0] (C  E  F  A) : Triada Menor (bajo alterado)
+Am/F                     [1 3 3 2 1 0] (C  E  F  A) : Triada Menor (bajo alterado)
+Am/F                     [1 x 2 2 1 0] (C  E  F  A) : Triada Menor (bajo alterado)
+Am/F                     [x x 2 2 1 1] (C  E  F  A) : Triada Menor (bajo alterado)
+Am/F                     [x x 3 2 1 0] (C  E  F  A) : Triada Menor (bajo alterado)
+Am/G                     [0 0 2 0 1 3] (C  E  G  A) : Triada Menor (bajo alterado)
+Am/G                     [x 0 2 0 1 0] (C  E  G  A) : Triada Menor (bajo alterado)
+Am/G                     [x 0 2 2 1 3] (C  E  G  A) : Triada Menor (bajo alterado)
+Am/G                     [x 0 5 5 5 8] (C  E  G  A) : Triada Menor (bajo alterado)
+Am/Gb                    [x 0 2 2 1 2] (C  E  Gb A) : Triada Menor (bajo alterado)
+Am/Gb                    [x x 2 2 1 2] (C  E  Gb A) : Triada Menor (bajo alterado)
+Am6                      [x 0 2 2 1 2] (C  E  Gb A) : Triada Menor más 6ta
+Am6                      [x x 2 2 1 2] (C  E  Gb A) : Triada Menor más 6ta
+Am7                      [0 0 2 0 1 3] (C  E  G  A) : Triada Menor, 7ma menor
+Am7                      [x 0 2 0 1 0] (C  E  G  A) : Triada Menor, 7ma menor
+Am7                      [x 0 2 2 1 3] (C  E  G  A) : Triada Menor, 7ma menor
+Am7                      [x 0 5 5 5 8] (C  E  G  A) : Triada Menor, 7ma menor
+Am7(b5)   or   Ao7       [x x 1 2 1 3] (C  Eb G  A) : Triada Disminuida, 7ma menor : 7ma semidisminuida
+Am7/add11 or   Am7/11    [x 5 7 5 8 0] (C  D  E  G  A) : Triada Menor, 7ma menor, más 11ava
+Amaj7     or   A#7       [x 0 2 1 2 0] (Db E  Ab A) : Triada Mayor, 7ma mayor
+Amin/maj9                [x 0 6 5 5 7] (C  E  Ab A  B) : Triada Menor, 7ma mayor más 9na
+Asus      or   Asus4     [0 0 2 2 3 0] (D  E  A) : sin 3ra pero con 4ta de una triada mayor
+Asus      or   Asus4     [x 0 2 2 3 0] (D  E  A) : sin 3ra pero con 4ta de una triada mayor
+Asus      or   Asus4     [5 5 7 7 x 0] (D  E  A) : sin 3ra pero con 4ta de una triada mayor
+Asus      or   Asus4     [x 0 0 2 3 0] (D  E  A) : sin 3ra pero con 4ta de una triada mayor
+Asus2     or   Aadd9(no3)[0 0 2 2 0 0] (E  A  B) : sin 3ra pero con 2da de una triada mayor
+Asus2     or   Aadd9(no3)[0 0 2 4 0 0] (E  A  B) : sin 3ra pero con 2da de una triada mayor
+Asus2     or   Aadd9(no3)[0 2 2 2 0 0] (E  A  B) : sin 3ra pero con 2da de una triada mayor
+Asus2     or   Aadd9(no3)[x 0 2 2 0 0] (E  A  B) : sin 3ra pero con 2da de una triada mayor
+Asus2     or   Aadd9(no3)[x x 2 2 0 0] (E  A  B) : sin 3ra pero con 2da de una triada mayor
+Asus2/Ab                 [x 0 2 1 0 0] (E  Ab A  B) : Triada sus2 (bajo alterado)
+Asus2/C                  [0 0 7 5 0 0] (C  E  A  B) : Triada sus2 (bajo alterado)
+Asus2/C                  [x 3 2 2 0 0] (C  E  A  B) : Triada sus2 (bajo alterado)
+Asus2/D                  [0 2 0 2 0 0] (D  E  A  B) : Triada sus2 (bajo alterado)
+Asus2/D                  [x 2 0 2 3 0] (D  E  A  B) : Triada sus2 (bajo alterado)
+Asus2/Db                 [0 0 2 4 2 0] (Db E  A  B) : Triada sus2 (bajo alterado)
+Asus2/Db                 [x 0 7 6 0 0] (Db E  A  B) : Triada sus2 (bajo alterado)
+Asus2/Eb                 [x 2 1 2 0 0] (Eb E  A  B) : Triada sus2 (bajo alterado)
+Asus2/F                  [0 0 3 2 0 0] (E  F  A  B) : Triada sus2 (bajo alterado)
+Asus2/G                  [3 x 2 2 0 0] (E  G  A  B) : Triada sus2 (bajo alterado)
+Asus2/G                  [x 0 2 0 0 0] (E  G  A  B) : Triada sus2 (bajo alterado)
+Asus2/G                  [x 0 5 4 5 0] (E  G  A  B) : Triada sus2 (bajo alterado)
+Asus2/Gb                 [x 0 4 4 0 0] (E  Gb A  B) : Triada sus2 (bajo alterado)
+Asus2/Gb                 [x 2 4 2 5 2] (E  Gb A  B) : Triada sus2 (bajo alterado)
+Asus4/Ab                 [4 x 0 2 3 0] (D  E  Ab A) : Triada sus4 (bajo alterado)
+Asus4/B                  [0 2 0 2 0 0] (D  E  A  B) : Triada sus4 (bajo alterado)
+Asus4/Bb                 [0 1 x 2 3 0] (D  E  A  Bb) : Triada sus4 (bajo alterado)
+Asus4/C                  [x x 0 2 1 0] (C  D  E  A) : Triada sus4 (bajo alterado)
+Asus4/C                  [x x 0 5 5 5] (C  D  E  A) : Triada sus4 (bajo alterado)
+Asus4/Db                 [x 0 0 2 2 0] (Db D  E  A) : Triada sus4 (bajo alterado)
+Asus4/Db                 [x x 0 2 2 0] (Db D  E  A) : Triada sus4 (bajo alterado)
+Asus4/Db                 [x x 0 6 5 5] (Db D  E  A) : Triada sus4 (bajo alterado)
+Asus4/Db                 [x x 0 9 10 9] (Db D  E  A) : Triada sus4 (bajo alterado)
+Asus4/F                  [x x 7 7 6 0] (D  E  F  A) : Triada sus4 (bajo alterado)
+Asus4/G                  [x 0 2 0 3 0] (D  E  G  A) : Triada sus4 (bajo alterado)
+Asus4/G                  [x 0 2 0 3 3] (D  E  G  A) : Triada sus4 (bajo alterado)
+Asus4/G                  [x 0 2 2 3 3] (D  E  G  A) : Triada sus4 (bajo alterado)
+Asus4/G                  [x 0 0 0 x 0] (D  E  G  A) : Triada sus4 (bajo alterado)
+Asus4/Gb                 [0 0 0 2 3 2] (D  E  Gb A) : Triada sus4 (bajo alterado)
+Asus4/Gb                 [0 0 4 2 3 0] (D  E  Gb A) : Triada sus4 (bajo alterado)
+Asus4/Gb                 [2 x 0 2 3 0] (D  E  Gb A) : Triada sus4 (bajo alterado)
+Asus4/Gb                 [x 0 2 2 3 2] (D  E  Gb A) : Triada sus4 (bajo alterado)
+Asus4/Gb                 [x x 2 2 3 2] (D  E  Gb A) : Triada sus4 (bajo alterado)
+Asus4/Gb                 [x 5 4 2 3 0] (D  E  Gb A) : Triada sus4 (bajo alterado)
+Asus4/Gb                 [x 9 7 7 x 0] (D  E  Gb A) : Triada sus4 (bajo alterado)
+B         or   Bmaj      [x 2 4 4 4 2] (Eb Gb B) : Triada Mayor
+B #5      or   Baug      [3 2 1 0 0 3] (Eb G  B) : Triada Aumentada
+B #5      or   Baug      [x 2 1 0 0 3] (Eb G  B) : Triada Aumentada
+B #5      or   Baug      [x 2 x 0 0 3] (Eb G  B) : Triada Aumentada
+B/Ab                     [x 1 4 4 4 2] (Eb Gb Ab B) : Triada Mayor (bajo alterado)
+B/A                      [x 0 4 4 4 2] (Eb Gb A  B) : Triada Mayor (bajo alterado)
+B/A                      [x x 4 4 4 2] (Eb Gb A  B) : Triada Mayor (bajo alterado)
+B/C                      [x 2 1 0 0 1] (Eb Gb B  C) : Triada Mayor (bajo alterado)
+B/C                      [x 2 4 4 4 5] (Eb Gb B  C) : Triada Mayor (bajo alterado)
+B/D                      [x x 0 4 4 2] (D  Eb Gb B) : Triada Mayor (bajo alterado)
+B/D                      [x x 0 4 4 5] (D  Eb Gb B) : Triada Mayor (bajo alterado)
+B/Db                     [x 2 4 4 4 4] (Db Eb Gb B) : Triada Mayor (bajo alterado)
+B/E                      [0 2 2 4 0 2] (Eb E  Gb B) : Triada Mayor (bajo alterado)
+B/E                      [0 2 4 4 0 2] (Eb E  Gb B) : Triada Mayor (bajo alterado)
+B/E                      [x 2 4 4 0 2] (Eb E  Gb B) : Triada Mayor (bajo alterado)
+B/E                      [x x 4 4 0 2] (Eb E  Gb B) : Triada Mayor (bajo alterado)
+B/F                      [x 2 4 2 4 2] (Eb F  Gb B) : Triada Mayor (bajo alterado)
+B/F                      [x x 4 2 4 2] (Eb F  Gb B) : Triada Mayor (bajo alterado)
+B/G                      [x 2 4 4 4 0] (Eb Gb G  B) : Triada Mayor (bajo alterado)
+B/G                      [x x 0 4 4 0] (Eb Gb G  B) : Triada Mayor (bajo alterado)
+B/Gb                     [x 2 4 4 4 1] (Eb Gb Gb B) : Triada Mayor (bajo alterado)
+B5        or   B(no 3rd) [x 2 4 4 x 2] (Gb B): root and 5th (power chord)
+B6                       [x 2 4 4 4 4] (Db Eb Gb B) : Triada Mayor más 6ta
+B7        or   Bdom 7    [x 2 1 2 0 2] (Eb Gb Ab B) : Triada Mayor, 7ma menor
+B7        or   Bdom 7    [x 2 4 2 4 2] (Eb F  Gb B) : Triada Mayor, 7ma menor
+B7        or   Bdom 7    [x x 4 2 4 2] (Eb F  Gb B) : Triada Mayor, 7ma menor
+B7/add11  or   B7/11     [x 2 1 2 0 0] (Eb Gb Ab B  E) : Triada Mayor, 7ma menor, más 11ava
+B7/sus4                  [x 2 4 2 5 2] (E  Gb Ab B) : Triada sus4, 7ma menor
+B9                       [x 2 1 2 0 2] (Eb Gb Ab B  Db) : Triada Mayor, 7ma menor, más 9na
+B9                       [x 2 1 2 2 2] (Eb Gb Ab B  Db) : Triada Mayor, 7ma menor, más 9na
+Badd9     or   B2        [x 2 4 4 4 4] (Db Eb Gb B) : Triada Mayor más 9na
+Badd9     or   B2        [x 2 4 4 2 2] (Eb Gb B  Db) : Triada Mayor más 9na
+Badd9     or   B2        [x 4 4 4 4 4] (Db Eb Gb B) : Triada Mayor más 9na
+Baug/A                   [x 0 x 0 0 3] (Eb G  A  B) : Triada Aumentada (bajo alterado)
+Baug/D                   [x x 0 3 0 3] (Eb G  B  D) : Triada Aumentada (bajo alterado)
+Baug/D                   [x x 0 3 4 3] (Eb G  B  D) : Triada Aumentada (bajo alterado)
+Baug/E                   [0 2 1 0 0 3] (Eb G  B  E) : Triada Aumentada (bajo alterado)
+Baug/E                   [0 x x 0 0 3] (Eb G  B  E) : Triada Aumentada (bajo alterado)
+Baug/E                   [x 2 1 0 0 0] (Eb G  B  E) : Triada Aumentada (bajo alterado)
+Baug/E                   [x 2 1 0 0 x] (Eb G  B  E) : Triada Aumentada (bajo alterado)
+Baug/G                   [3 2 1 0 0 3] (Eb G  B  G) : Triada Aumentada (bajo alterado)
+Baug/G                   [x 2 1 0 0 3] (Eb G  B  G) : Triada Aumentada (bajo alterado)
+Baug/G                   [x 2 x 0 0 3] (Eb G  B  G) : Triada Aumentada (bajo alterado)
+Bb        or   Bbmaj     [x 1 3 3 3 1] (D  F  Bb) : Triada Mayor
+Bb #5     or   Bbaug     [x 1 0 3 3 2] (D  Gb Bb) : Triada Aumentada
+Bb/A                     [x 1 3 2 3 1] (D  F  A  Bb) : Triada Mayor (bajo alterado)
+Bb/A                     [x x 3 2 3 1] (D  F  A  Bb) : Triada Mayor (bajo alterado)
+Bb/D                     [x x 0 3 3 1] (D  F  Bb D) : Triada Mayor (bajo alterado)
+Bb/D                     [x x 0 3 3 4] (D  F  Bb D) : Triada Mayor (bajo alterado)
+Bb/E                     [x 1 0 3 0 1] (D  F  E  Bb) : Triada Mayor (bajo alterado)
+Bb/E                     [x 1 3 3 0 1] (D  F  E  Bb) : Triada Mayor (bajo alterado)
+Bb/E                     [x x 3 3 0 1] (D  F  E  Bb) : Triada Mayor (bajo alterado)
+Bb/F                     [x 1 3 1 3 1] (D  F  F  Bb) : Triada Mayor (bajo alterado)
+Bb/F                     [x x 3 1 3 1] (D  F  F  Bb) : Triada Mayor (bajo alterado)
+Bb/G                     [x 1 3 3 3 3] (D  F  G  Bb) : Triada Mayor (bajo alterado)
+Bb/G                     [x x 0 3 3 3] (D  F  G  Bb) : Triada Mayor (bajo alterado)
+Bb/Gb                    [x 1 3 3 3 2] (D  F  Gb Bb) : Triada Mayor (bajo alterado)
+Bb5       or   Bb(no 3rd)[x 1 3 3 x 1] (F  Bb): root and 5th (power chord)
+Bb6                      [x 1 3 3 3 3] (D  F  G  Bb) : Triada Mayor más 6ta
+Bb6                      [x x 0 3 3 3] (D  F  G  Bb) : Triada Mayor más 6ta
+Bb7       or   Bbdom 7   [x 1 3 1 3 1] (D  F  Ab Bb) : Triada Mayor, 7ma menor
+Bb7       or   Bbdom 7   [x x 3 1 3 1] (D  F  Ab Bb) : Triada Mayor, 7ma menor
+Bb7/add11 or   Bb7/11    [x 1 1 1 0 0] (D  F  Ab Bb  Eb) : Triada Mayor, 7ma menor, más 11ava
+Bb7/sus4                 [x 1 3 1 4 1] (Eb F  Ab Bb) : Triada sus4, 7ma menor
+Bb9                      [x 1 3 1 3 3] (D  F  Ab Bb  C) : Triada Mayor, 7ma menor, más 9na
+Bbaug/D                  [x x 0 3 3 2] (D  Gb Bb D) : Triada Aumentada (bajo alterado)
+Bbaug/G                  [x 1 0 3 3 2] (D  Gb Bb G) : Triada Aumentada (bajo alterado)
+Bbdim/E                  [x x 1 2 1 2] (E  Gb Bb B) : Triada Disminuida (bajo alterado)
+Bbdim/E                  [x x 4 5 4 5] (E  Gb Bb B) : Triada Disminuida (bajo alterado)
+Bbdim/F                  [x x 1 2 1 1] (E  Gb F  Bb) : Triada Disminuida (bajo alterado)
+Bbdim/F                  [x x 3 5 4 5] (E  Gb F  Bb) : Triada Disminuida (bajo alterado)
+Bbdim/G                  [x x 1 2 1 3] (E  Gb G  Bb) : Triada Disminuida (bajo alterado)
+Bbdim7                   [x x 1 2 1 2] (E  Gb Bb B) : Triada Disminuida, 7ma disminuida
+Bbdim7                   [x x 4 5 4 5] (E  Gb Bb B) : Triada Disminuida, 7ma disminuida
+Bbm                      [x 1 3 3 2 1] (D  Gb Bb) : Triada Menor
+Bbm/D                    [x x 0 3 2 1] (D  Gb Bb D) : Triada Menor (bajo alterado)
+Bbm/D                    [x x 0 3 2 4] (D  Gb Bb D) : Triada Menor (bajo alterado)
+Bbm/E                    [0 1 3 3 0 1] (D  Gb E  Bb) : Triada Menor (bajo alterado)
+Bbm/E                    [x 1 3 3 0 1] (D  Gb E  Bb) : Triada Menor (bajo alterado)
+Bbm/E                    [x x 3 3 0 1] (D  Gb E  Bb) : Triada Menor (bajo alterado)
+Bbm/F                    [x 1 3 1 2 1] (D  Gb F  Bb) : Triada Menor (bajo alterado)
+Bbm/F                    [x x 3 1 2 1] (D  Gb F  Bb) : Triada Menor (bajo alterado)
+Bbm/G                    [x 1 3 3 2 3] (D  Gb G  Bb) : Triada Menor (bajo alterado)
+Bbm/Gb                   [x 1 3 3 2 2] (D  Gb Gb Bb) : Triada Menor (bajo alterado)
+Bbm6                     [x 1 3 3 2 3] (D  Gb G  Bb) : Triada Menor más 6ta
+Bbm7                     [x 1 3 1 2 1] (D  Gb Ab Bb) : Triada Menor, 7ma menor
+Bbm7                     [x x 3 1 2 1] (D  Gb Ab Bb) : Triada Menor, 7ma menor
+Bbmaj7    or   Bb#7      [x 1 3 2 3 1] (D  F  A  Bb) : Triada Mayor, 7ma mayor
+Bbsus     or   Bbsus4    [x 1 3 3 4 1] (Eb F  Bb) : sin 3ra pero con 4ta de una triada mayor
+Bbsus2    or   Bbadd9(no3)[x 1 3 3 1 1] (F  Bb C) : sin 3ra pero con 2da de una triada mayor
+Bbsus2/D                 [x x 0 3 1 1] (D  F  Bb C) : Triada sus2 (bajo alterado)
+Bbsus2/Eb                [x 1 1 3 1 1] (Eb F  Bb C) : Triada sus2 (bajo alterado)
+Bbsus2/F                 [x 1 3 1 1 1] (F  F  Bb C) : Triada sus2 (bajo alterado)
+Bbsus2/G                 [x 1 3 3 1 3] (F  G  Bb C) : Triada sus2 (bajo alterado)
+Bbsus4/D                 [x x 0 3 4 1] (D  Eb F  Bb) : Triada sus4 (bajo alterado)
+Bbsus4/Eb                [x 1 1 3 4 1] (Eb Eb F  Bb) : Triada sus4 (bajo alterado)
+Bbsus4/F                 [x 1 3 1 4 1] (Eb F  F  Bb) : Triada sus4 (bajo alterado)
+Bbsus4/G                 [x 1 3 3 4 3] (Eb F  G  Bb) : Triada sus4 (bajo alterado)
+Bdim/A                   [x 0 4 5 4 5] (Eb Gb A  B) : Triada Disminuida (bajo alterado)
+Bdim/A                   [x x 1 2 0 2] (Eb Gb A  B) : Triada Disminuida (bajo alterado)
+Bdim/Ab                  [x 1 4 5 4 5] (Eb Gb Ab B) : Triada Disminuida (bajo alterado)
+Bdim/D                   [x x 0 5 4 5] (Eb Gb B  D) : Triada Disminuida (bajo alterado)
+Bdim/D                   [x x 3 5 4 5] (Eb Gb B  D) : Triada Disminuida (bajo alterado)
+Bdim/Db                  [x 2 4 5 4 5] (Db Eb Gb B) : Triada Disminuida (bajo alterado)
+Bdim/E                   [x 2 0 2 0 2] (Eb Gb B  E) : Triada Disminuida (bajo alterado)
+Bdim/E                   [x 2 0 2 3 2] (Eb Gb B  E) : Triada Disminuida (bajo alterado)
+Bdim/E                   [x x 0 2 0 2] (Eb Gb B  E) : Triada Disminuida (bajo alterado)
+Bdim/F                   [x 2 0 2 0 3] (Eb Gb F  B) : Triada Disminuida (bajo alterado)
+Bdim/F                   [x 2 3 2 4 2] (Eb Gb F  B) : Triada Disminuida (bajo alterado)
+Bdim/F                   [x x 0 2 0 3] (Eb Gb F  B) : Triada Disminuida (bajo alterado)
+Bdim/G                   [x 2 0 2 0 0] (Eb Gb G  B) : Triada Disminuida (bajo alterado)
+Bdim/G                   [x 2 0 2 0 x] (Eb Gb G  B) : Triada Disminuida (bajo alterado)
+Bdim/G                   [x x 0 2 0 0] (Eb Gb G  B) : Triada Disminuida (bajo alterado)
+Bdim/Gb                  [x 2 0 2 0 1] (Eb Gb Gb B) : Triada Disminuida (bajo alterado)
+Bdim/Gb                  [x x 0 2 0 1] (Eb Gb Gb B) : Triada Disminuida (bajo alterado)
+Bdim7                    [x 2 0 2 0 2] (Eb Gb Bb B) : Triada Disminuida, 7ma disminuida
+Bdim7                    [x x 0 2 0 2] (Eb Gb Bb B) : Triada Disminuida, 7ma disminuida
+Bm                       [x 2 4 4 3 2] (D  Gb B) : Triada Menor
+Bm                       [x x 4 4 3 2] (D  Gb B) : Triada Menor
+Bm/A                     [x 0 4 4 3 2] (D  Gb A  B) : Triada Menor (bajo alterado)
+Bm/A                     [x x 4 4 3 2] (D  Gb A  B) : Triada Menor (bajo alterado)
+Bm/C                     [x 2 1 4 3 2] (D  Gb B  C) : Triada Menor (bajo alterado)
+Bm/C                     [x 2 4 4 3 5] (D  Gb B  C) : Triada Menor (bajo alterado)
+Bm/D                     [x x 0 4 3 2] (D  Gb B  D) : Triada Menor (bajo alterado)
+Bm/D                     [x x 0 4 3 5] (D  Gb B  D) : Triada Menor (bajo alterado)
+Bm/Db                    [x 2 4 4 3 4] (Db D  Gb B) : Triada Menor (bajo alterado)
+Bm/E                     [0 2 2 4 0 2] (D  Gb B  E) : Triada Menor (bajo alterado)
+Bm/E                     [0 2 4 4 0 2] (D  Gb B  E) : Triada Menor (bajo alterado)
+Bm/E                     [x 2 4 4 0 2] (D  Gb B  E) : Triada Menor (bajo alterado)
+Bm/E                     [x x 4 4 0 2] (D  Gb B  E) : Triada Menor (bajo alterado)
+Bm/F                     [x 2 4 2 3 2] (D  F  Gb B) : Triada Menor (bajo alterado)
+Bm/F                     [x x 4 2 3 2] (D  F  Gb B) : Triada Menor (bajo alterado)
+Bm/G                     [x 2 4 4 3 0] (D  Gb G  B) : Triada Menor (bajo alterado)
+Bm/G                     [x x 0 4 3 0] (D  Gb G  B) : Triada Menor (bajo alterado)
+Bm/Gb                    [x 2 4 4 3 1] (D  Gb Gb B) : Triada Menor (bajo alterado)
+Bm6                      [x 2 4 4 3 4] (Db D  Gb B) : Triada Menor más 6ta
+Bm7                      [x 2 4 2 3 2] (D  Gb A  B) : Triada Menor, 7ma menor
+Bm7                      [x x 4 2 3 2] (D  Gb A  B) : Triada Menor, 7ma menor
+Bm7(b5)   or   Bo7       [x 2 0 2 0 2] (D  Gb A  B) : Triada Disminuida, 7ma menor : 7ma semidisminuida
+Bm7(b5)   or   Bo7       [x x 0 2 0 2] (D  Gb A  B) : Triada Disminuida, 7ma menor : 7ma semidisminuida
+Bmaj7     or   B#7       [x 2 1 3 0 2] (Eb Gb Bb B) : Triada Mayor, 7ma mayor
+Bmin/maj9                [x 2 0 3 0 2] (D  Gb Bb B  Db) : Triada Menor, 7ma mayor más 9na
+Bsus      or   Bsus4     [x 2 4 4 5 2] (E  Gb B) : sin 3ra pero con 4ta de una triada mayor
+Bsus      or   Bsus4     [x x 4 4 5 2] (E  Gb B) : sin 3ra pero con 4ta de una triada mayor
+Bsus2     or   Badd9(no3)[x 2 4 4 2 2] (Gb B  Db) : sin 3ra pero con 2da de una triada mayor
+Bsus2     or   Badd9(no3)[x 4 4 4 2 2] (Gb B  Db) : sin 3ra pero con 2da de una triada mayor
+Bsus2/A                  [x 0 4 4 2 2] (Gb A  B  Db) : Triada sus2 (bajo alterado)
+Bsus2/A                  [x x 4 4 2 2] (Gb A  B  Db) : Triada sus2 (bajo alterado)
+Bsus2/C                  [x 2 1 4 2 2] (Gb B  C  Db) : Triada sus2 (bajo alterado)
+Bsus2/C                  [x 2 4 4 2 5] (Gb B  C  Db) : Triada sus2 (bajo alterado)
+Bsus2/D                  [x x 0 4 2 2] (Gb B  D  Db) : Triada sus2 (bajo alterado)
+Bsus2/D                  [x x 0 4 2 5] (Gb B  D  Db) : Triada sus2 (bajo alterado)
+Bsus2/Db                 [x 2 4 4 2 4] (Db Gb B  Db) : Triada sus2 (bajo alterado)
+Bsus2/E                  [0 2 2 4 2 2] (Gb B  Db E) : Triada sus2 (bajo alterado)
+Bsus2/E                  [0 2 4 4 2 2] (Gb B  Db E) : Triada sus2 (bajo alterado)
+Bsus2/E                  [x 2 4 4 2 0] (Gb B  Db E) : Triada sus2 (bajo alterado)
+Bsus2/E                  [x 2 4 4 2 x] (Gb B  Db E) : Triada sus2 (bajo alterado)
+Bsus2/F                  [x 2 4 2 2 2] (Gb F  B  Db) : Triada sus2 (bajo alterado)
+Bsus2/G                  [x 2 4 4 2 0] (Gb G  B  Db) : Triada sus2 (bajo alterado)
+Bsus2/G                  [x x 0 4 2 0] (Gb G  B  Db) : Triada sus2 (bajo alterado)
+Bsus2/Gb                 [x 2 4 4 2 1] (Gb Gb B  Db) : Triada sus2 (bajo alterado)
+Bsus4/A                  [x 0 4 4 5 2] (E  Gb A  B) : Triada sus4 (bajo alterado)
+Bsus4/A                  [x x 4 4 5 2] (E  Gb A  B) : Triada sus4 (bajo alterado)
+Bsus4/C                  [x 2 4 4 5 5] (E  Gb B  C) : Triada sus4 (bajo alterado)
+Bsus4/D                  [x x 0 4 5 2] (E  Gb B  D) : Triada sus4 (bajo alterado)
+Bsus4/D                  [x x 0 4 5 5] (E  Gb B  D) : Triada sus4 (bajo alterado)
+Bsus4/Db                 [x 2 4 4 5 4] (Db E  Gb B) : Triada sus4 (bajo alterado)
+Bsus4/E                  [0 2 2 4 5 2] (E  Gb B  E) : Triada sus4 (bajo alterado)
+Bsus4/E                  [0 2 4 4 5 2] (E  Gb B  E) : Triada sus4 (bajo alterado)
+Bsus4/E                  [x 2 4 4 5 0] (E  Gb B  E) : Triada sus4 (bajo alterado)
+Bsus4/E                  [x 2 4 4 5 x] (E  Gb B  E) : Triada sus4 (bajo alterado)
+Bsus4/F                  [x 2 4 2 5 2] (E  F  Gb B) : Triada sus4 (bajo alterado)
+Bsus4/G                  [x 2 4 4 5 0] (E  Gb G  B) : Triada sus4 (bajo alterado)
+Bsus4/G                  [x x 0 4 5 0] (E  Gb G  B) : Triada sus4 (bajo alterado)
+Bsus4/Gb                 [x 2 4 4 5 1] (E  Gb Gb B) : Triada sus4 (bajo alterado)
+C         or   Cmaj      [0 3 2 0 1 0] (C  E  G) : Triada Mayor
+C         or   Cmaj      [3 3 2 0 1 0] (C  E  G) : Triada Mayor
+C         or   Cmaj      [x 3 2 0 1 0] (C  E  G) : Triada Mayor
+C         or   Cmaj      [x 3 5 5 5 3] (C  E  G) : Triada Mayor
+C #5      or   Caug      [x 3 2 1 1 0] (C  F  G) : Triada Aumentada
+C #5      or   Caug      [x 3 x 1 1 0] (C  F  G) : Triada Aumentada
+C/B                      [0 3 2 0 0 0] (C  E  G  B) : Triada Mayor (bajo alterado)
+C/B                      [x 2 0 0 1 0] (C  E  G  B) : Triada Mayor (bajo alterado)
+C/B                      [x 2 0 0 1 3] (C  E  G  B) : Triada Mayor (bajo alterado)
+C/B                      [x 2 0 0 x 0] (C  E  G  B) : Triada Mayor (bajo alterado)
+C/B                      [x 3 2 0 0 0] (C  E  G  B) : Triada Mayor (bajo alterado)
+C/B                      [x x 0 0 1 0] (C  E  G  B) : Triada Mayor (bajo alterado)
+C/B                      [x x 2 0 1 0] (C  E  G  B) : Triada Mayor (bajo alterado)
+C/Bb                     [x 3 2 0 1 1] (C  E  G  Bb) : Triada Mayor (bajo alterado)
+C/D                      [x x 0 0 1 2] (C  D  E  G) : Triada Mayor (bajo alterado)
+C/D                      [x x 0 0 1 5] (C  D  E  G) : Triada Mayor (bajo alterado)
+C/D                      [x x 0 5 5 3] (C  D  E  G) : Triada Mayor (bajo alterado)
+C/D                      [x x 0 9 10 8] (C  D  E  G) : Triada Mayor (bajo alterado)
+C/E                      [0 0 2 0 1 0] (C  E  G  E) : Triada Mayor (bajo alterado)
+C/E                      [x 0 2 0 1 0] (C  E  G  E) : Triada Mayor (bajo alterado)
+C/E                      [x 0 5 5 5 8] (C  E  G  E) : Triada Mayor (bajo alterado)
+C/E                      [x 3 2 0 1 0] (C  E  G  E) : Triada Mayor (bajo alterado)
+C/E                      [x x 2 0 1 0] (C  E  G  E) : Triada Mayor (bajo alterado)
+C/F                      [1 3 2 0 1 0] (C  E  F  G) : Triada Mayor (bajo alterado)
+C/F                      [1 x 2 0 1 0] (C  E  F  G) : Triada Mayor (bajo alterado)
+C/F                      [x 3 2 0 1 1] (C  E  F  G) : Triada Mayor (bajo alterado)
+C/F                      [x 3 3 0 1 0] (C  E  F  G) : Triada Mayor (bajo alterado)
+C/F                      [x x 2 0 1 1] (C  E  F  G) : Triada Mayor (bajo alterado)
+C/G                      [3 3 2 0 1 3] (C  E  G  G) : Triada Mayor (bajo alterado)
+C/G                      [3 3 2 0 x 0] (C  E  G  G) : Triada Mayor (bajo alterado)
+C/G                      [x 3 2 0 1 3] (C  E  G  G) : Triada Mayor (bajo alterado)
+C/G                      [x 3 2 0 x 0] (C  E  G  G) : Triada Mayor (bajo alterado)
+C/G                      [x x 0 0 1 3] (C  E  G  G) : Triada Mayor (bajo alterado)
+C5        or   C(no 3rd) [x 3 5 5 x 3] (G  C): root and 5th (power chord)
+C6                       [x 3 2 0 1 3] (C  E  G  A) : Triada Mayor más 6ta
+C6                       [x 3 2 0 x 0] (C  E  G  A) : Triada Mayor más 6ta
+C6                       [x x 0 0 1 3] (C  E  G  A) : Triada Mayor más 6ta
+C6/7                     [x x 0 0 1 1] (C  E  G  A  Bb) : Triada Mayor más 6ta, 7ma menor
+C6/7 sus  or   C6/7 sus4 [x x 0 0 1 1] (C  D  G  A  Bb) : Triada sus4 más 6ta, 7ma menor
+C7        or   Cdom 7    [x 3 2 3 1 0] (C  E  G  Bb) : Triada Mayor, 7ma menor
+C7        or   Cdom 7    [x 3 2 3 1 3] (C  E  G  Bb) : Triada Mayor, 7ma menor
+C7        or   Cdom 7    [x x 0 3 1 0] (C  E  G  Bb) : Triada Mayor, 7ma menor
+C7(#5)                   [x 3 2 1 1 1] (C  F  G  Bb) : 7ma menor, 5ta aumentada
+C7/add11  or   C7/11     [x x 0 3 1 1] (C  E  G  Bb  D) : Triada Mayor, 7ma menor, más 11ava
+C7/sus4                  [x 3 3 3 1 0] (C  F  G  Bb) : Triada sus4, 7ma menor
+C7/sus4                  [x 3 3 3 1 1] (C  F  G  Bb) : Triada sus4, 7ma menor
+C7/sus4                  [x 3 3 3 1 3] (C  F  G  Bb) : Triada sus4, 7ma menor
+C7/sus4                  [x x 0 3 1 1] (C  F  G  Bb) : Triada sus4, 7ma menor
+Cadd9     or   C2        [x 3 2 0 3 0] (C  E  G  D) : Triada Mayor más 9na
+Cadd9     or   C2        [x 3 0 0 3 0] (C  E  G  D) : Triada Mayor más 9na
+Caug/B                   [x 2 1 1 1 0] (C  F  G  B) : Triada Aumentada (bajo alterado)
+Caug/B                   [x x 1 1 1 0] (C  F  G  B) : Triada Aumentada (bajo alterado)
+Caug/E                   [x 3 2 1 1 0] (C  F  G  E) : Triada Aumentada (bajo alterado)
+Caug/E                   [x 3 x 1 1 0] (C  F  G  E) : Triada Aumentada (bajo alterado)
+Caug/G                   [x 3 2 1 1 0] (C  F  G  G) : Triada Aumentada (bajo alterado)
+Caug/G                   [x 3 x 1 1 0] (C  F  G  G) : Triada Aumentada (bajo alterado)
+Cdim/B                   [x 2 0 1 0 0] (C  Eb Gb B) : Triada Disminuida (bajo alterado)
+Cdim/B                   [x 2 2 1 3 0] (C  Eb Gb B) : Triada Disminuida (bajo alterado)
+Cdim/B                   [x x 0 1 0 0] (C  Eb Gb B) : Triada Disminuida (bajo alterado)
+Cdim/D                   [x x 0 4 4 4] (C  Eb Gb D) : Triada Disminuida (bajo alterado)
+Cdim/E                   [x 2 0 1 0 1] (C  Eb Gb E) : Triada Disminuida (bajo alterado)
+Cdim/E                   [x x 0 1 0 1] (C  Eb Gb E) : Triada Disminuida (bajo alterado)
+Cdim/E                   [x x 3 4 3 4] (C  Eb Gb E) : Triada Disminuida (bajo alterado)
+Cdim/Eb                  [x x 0 4 4 4] (C  Eb Gb Eb) : Triada Disminuida (bajo alterado)
+Cdim/F                   [x 2 0 1 0 2] (C  Eb Gb F) : Triada Disminuida (bajo alterado)
+Cdim/G                   [x 2 0 1 0 3] (C  Eb Gb G) : Triada Disminuida (bajo alterado)
+Cdim/Gb                  [x 2 0 1 0 1] (C  Eb Gb Gb) : Triada Disminuida (bajo alterado)
+Cdim7                    [x 2 0 1 0 1] (C  Eb Gb Bbb) : Triada Disminuida, 7ma disminuida
+Cdim7                    [x x 0 1 0 1] (C  Eb Gb Bbb) : Triada Disminuida, 7ma disminuida
+Cdim7                    [x x 3 4 3 4] (C  Eb Gb Bbb) : Triada Disminuida, 7ma disminuida
+Cm                       [x 3 5 5 4 3] (C  Eb G) : Triada Menor
+Cm                       [x x 5 5 4 3] (C  Eb G) : Triada Menor
+Cm/B                     [x 2 0 0 1 3] (C  Eb G  B) : Triada Menor (bajo alterado)
+Cm/B                     [x 2 0 0 x 3] (C  Eb G  B) : Triada Menor (bajo alterado)
+Cm/B                     [x 2 1 0 1 3] (C  Eb G  B) : Triada Menor (bajo alterado)
+Cm/B                     [x x 0 0 1 3] (C  Eb G  B) : Triada Menor (bajo alterado)
+Cm/Bb                    [x 3 5 5 4 4] (C  Eb G  Bb) : Triada Menor (bajo alterado)
+Cm/D                     [x x 0 5 4 3] (C  D  Eb G) : Triada Menor (bajo alterado)
+Cm/E                     [0 0 5 5 4 3] (C  Eb G  E) : Triada Menor (bajo alterado)
+Cm/E                     [x 0 5 5 4 3] (C  Eb G  E) : Triada Menor (bajo alterado)
+Cm/E                     [x 3 5 5 4 0] (C  Eb G  E) : Triada Menor (bajo alterado)
+Cm/E                     [x x 5 5 4 0] (C  Eb G  E) : Triada Menor (bajo alterado)
+Cm/F                     [1 3 5 5 4 3] (C  Eb F  G) : Triada Menor (bajo alterado)
+Cm/F                     [1 x 5 5 4 3] (C  Eb F  G) : Triada Menor (bajo alterado)
+Cm/F                     [x 3 5 5 4 1] (C  Eb F  G) : Triada Menor (bajo alterado)
+Cm/F                     [x x 5 5 4 1] (C  Eb F  G) : Triada Menor (bajo alterado)
+Cm/G                     [3 3 5 5 4 3] (C  Eb G  G) : Triada Menor (bajo alterado)
+Cm/G                     [x 3 5 5 4 3] (C  Eb G  G) : Triada Menor (bajo alterado)
+Cm/G                     [x x 0 0 1 3] (C  Eb G  G) : Triada Menor (bajo alterado)
+Cm/Gb                    [x 3 5 5 4 2] (C  Eb Gb G) : Triada Menor (bajo alterado)
+Cm6                      [x 3 5 5 4 5] (C  Eb G  A) : Triada Menor más 6ta
+Cm7                      [x 3 5 3 4 3] (C  Eb G  Bb) : Triada Menor, 7ma menor
+Cm7                      [x 3 5 3 4 5] (C  Eb G  Bb) : Triada Menor, 7ma menor
+Cm7                      [x x 0 3 1 3] (C  Eb G  Bb) : Triada Menor, 7ma menor
+Cm7(b5)   or   Co7       [x 3 4 3 4 3] (C  Eb Gb Bb) : Triada Disminuida, 7ma menor : 7ma semidisminuida
+Cmaj7     or   C#7       [0 3 2 0 0 0] (C  E  G  B) : Triada Mayor, 7ma mayor
+Cmaj7     or   C#7       [x 2 0 0 0 0] (C  E  G  B) : Triada Mayor, 7ma mayor
+Cmaj7     or   C#7       [x 2 0 0 0 3] (C  E  G  B) : Triada Mayor, 7ma mayor
+Cmaj7     or   C#7       [x 2 0 0 x 0] (C  E  G  B) : Triada Mayor, 7ma mayor
+Cmaj7     or   C#7       [x 3 2 0 0 0] (C  E  G  B) : Triada Mayor, 7ma mayor
+Cmaj7     or   C#7       [x x 0 0 0 0] (C  E  G  B) : Triada Mayor, 7ma mayor
+Cmaj7     or   C#7       [x x 2 0 1 0] (C  E  G  B) : Triada Mayor, 7ma mayor
+Cmin/maj9                [x 3 1 0 0 0] (C  Eb G  B  D) : Triada Menor, 7ma mayor más 9na
+Csus      or   Csus4     [x 3 3 0 1 1] (C  F  G) : sin 3ra pero con 4ta de una triada mayor
+Csus      or   Csus4     [x 3 3 0 1 3] (C  F  G) : sin 3ra pero con 4ta de una triada mayor
+Csus      or   Csus4     [x 3 5 5 6 3] (C  F  G) : sin 3ra pero con 4ta de una triada mayor
+Csus      or   Csus4     [x x 0 0 1 1] (C  F  G) : sin 3ra pero con 4ta de una triada mayor
+Csus2     or   Cadd9(no3)[x 3 0 0 3 3] (G  C  D) : sin 3ra pero con 2da de una triada mayor
+Csus2     or   Cadd9(no3)[x 3 5 5 3 3] (G  C  D) : sin 3ra pero con 2da de una triada mayor
+Csus2     or   Cadd9(no3)[x x 0 0 3 3] (G  C  D) : sin 3ra pero con 2da de una triada mayor
+Csus2/B                  [x 2 0 0 3 0] (G  C  D  B) : Triada sus2 (bajo alterado)
+Csus2/B                  [x 2 0 0 3 3] (G  C  D  B) : Triada sus2 (bajo alterado)
+Csus2/B                  [x x 0 0 3 0] (G  C  D  B) : Triada sus2 (bajo alterado)
+Csus2/D                  [x x 0 0 3 5] (G  C  D  D) : Triada sus2 (bajo alterado)
+Csus2/E                  [0 3 0 0 3 0] (G  C  D  E) : Triada sus2 (bajo alterado)
+Csus2/E                  [x 0 0 0 3 0] (G  C  D  E) : Triada sus2 (bajo alterado)
+Csus2/E                  [x 3 0 0 3 0] (G  C  D  E) : Triada sus2 (bajo alterado)
+Csus2/E                  [x x 0 0 3 0] (G  C  D  E) : Triada sus2 (bajo alterado)
+Csus2/F                  [1 3 0 0 3 0] (G  C  D  F) : Triada sus2 (bajo alterado)
+Csus2/F                  [1 x 0 0 3 0] (G  C  D  F) : Triada sus2 (bajo alterado)
+Csus2/G                  [3 3 0 0 3 3] (G  C  D  G) : Triada sus2 (bajo alterado)
+Csus2/G                  [x 3 0 0 3 3] (G  C  D  G) : Triada sus2 (bajo alterado)
+Csus2/G                  [x x 0 0 3 3] (G  C  D  G) : Triada sus2 (bajo alterado)
+Csus2/Gb                 [x 3 0 0 3 2] (G  C  D  Gb) : Triada sus2 (bajo alterado)
+Csus4/B                  [x 2 0 0 1 1] (C  F  G  B) : Triada sus4 (bajo alterado)
+Csus4/B                  [x 2 3 0 1 1] (C  F  G  B) : Triada sus4 (bajo alterado)
+Csus4/B                  [x x 0 0 1 1] (C  F  G  B) : Triada sus4 (bajo alterado)
+Csus4/D                  [x x 0 0 1 5] (C  F  G  D) : Triada sus4 (bajo alterado)
+Csus4/E                  [0 3 3 0 1 0] (C  F  G  E) : Triada sus4 (bajo alterado)
+Csus4/E                  [x 0 3 0 1 0] (C  F  G  E) : Triada sus4 (bajo alterado)
+Csus4/E                  [x 3 3 0 1 0] (C  F  G  E) : Triada sus4 (bajo alterado)
+Csus4/E                  [x x 3 0 1 0] (C  F  G  E) : Triada sus4 (bajo alterado)
+Csus4/F                  [1 3 3 0 1 0] (C  F  G  F) : Triada sus4 (bajo alterado)
+Csus4/F                  [1 x 3 0 1 0] (C  F  G  F) : Triada sus4 (bajo alterado)
+Csus4/G                  [3 3 3 0 1 3] (C  F  G  G) : Triada sus4 (bajo alterado)
+Csus4/G                  [x 3 3 0 1 3] (C  F  G  G) : Triada sus4 (bajo alterado)
+Csus4/G                  [x x 0 0 1 1] (C  F  G  G) : Triada sus4 (bajo alterado)
+Csus4/Gb                 [x 3 3 0 1 2] (C  F  G  Gb) : Triada sus4 (bajo alterado)
+D         or   Dmaj      [x x 0 2 3 2] (D  Gb A) : Triada Mayor
+D         or   Dmaj      [x 5 7 7 7 5] (D  Gb A) : Triada Mayor
+D #5      or   Daug      [x x 0 3 3 2] (D  G  A) : Triada Aumentada
+D #5      or   Daug      [x x 0 3 x 2] (D  G  A) : Triada Aumentada
+D/A                      [x 0 0 2 3 2] (D  Gb A  A) : Triada Mayor (bajo alterado)
+D/A                      [x x 0 2 3 2] (D  Gb A  A) : Triada Mayor (bajo alterado)
+D/B                      [x 2 0 2 0 2] (D  Gb A  B) : Triada Mayor (bajo alterado)
+D/B                      [x 2 0 2 3 2] (D  Gb A  B) : Triada Mayor (bajo alterado)
+D/B                      [x x 0 2 0 2] (D  Gb A  B) : Triada Mayor (bajo alterado)
+D/C                      [x x 0 2 1 2] (D  Gb A  C) : Triada Mayor (bajo alterado)
+D/C                      [x x 0 2 1 5] (D  Gb A  C) : Triada Mayor (bajo alterado)
+D/Db                     [x x 0 2 3 1] (Db D  Gb A) : Triada Mayor (bajo alterado)
+D/E                      [0 0 0 2 0 2] (D  Gb A  E) : Triada Mayor (bajo alterado)
+D/E                      [0 0 0 2 3 2] (D  Gb A  E) : Triada Mayor (bajo alterado)
+D/E                      [x 0 0 2 0 2] (D  Gb A  E) : Triada Mayor (bajo alterado)
+D/E                      [x 0 0 2 3 2] (D  Gb A  E) : Triada Mayor (bajo alterado)
+D/E                      [x x 0 2 0 2] (D  Gb A  E) : Triada Mayor (bajo alterado)
+D/F                      [x x 0 2 3 3] (D  F  Gb A) : Triada Mayor (bajo alterado)
+D/F                      [x x 0 2 3 5] (D  F  Gb A) : Triada Mayor (bajo alterado)
+D/G                      [x x 0 2 3 0] (D  Gb G  A) : Triada Mayor (bajo alterado)
+D/G                      [x x 0 2 3 5] (D  Gb G  A) : Triada Mayor (bajo alterado)
+D/Gb                     [x x 0 2 3 1] (D  Gb Gb A) : Triada Mayor (bajo alterado)
+D5        or   D(no 3rd) [x x 0 2 3 5] (A  D): root and 5th (power chord)
+D6                       [x x 0 2 0 2] (D  Gb A  B) : Triada Mayor más 6ta
+D7        or   Ddom 7    [x x 0 2 1 2] (D  Gb A  C) : Triada Mayor, 7ma menor
+D7        or   Ddom 7    [x x 0 2 1 5] (D  Gb A  C) : Triada Mayor, 7ma menor
+D7/add11  or   D7/11     [x x 0 2 1 0] (D  Gb A  C  E) : Triada Mayor, 7ma menor, más 11ava
+D7/sus4                  [x x 0 2 1 3] (D  G  A  C) : Triada sus4, 7ma menor
+D9                       [x 5 4 5 5 5] (D  Gb A  C  E) : Triada Mayor, 7ma menor, más 9na
+Dadd9     or   D2        [x 5 7 7 5 5] (D  Gb A  E) : Triada Mayor más 9na
+Dadd9     or   D2        [x x 0 2 0 0] (D  Gb A  E) : Triada Mayor más 9na
+Dadd9     or   D2        [x x 0 2 0 2] (D  Gb A  E) : Triada Mayor más 9na
+Dadd9     or   D2        [x x 0 2 0 5] (D  Gb A  E) : Triada Mayor más 9na
+Daug/A                   [x 0 0 3 3 2] (D  G  A  A) : Triada Aumentada (bajo alterado)
+Daug/A                   [x x 0 3 3 2] (D  G  A  A) : Triada Aumentada (bajo alterado)
+Daug/B                   [x 2 0 3 3 2] (D  G  A  B) : Triada Aumentada (bajo alterado)
+Daug/B                   [x x 0 3 0 2] (D  G  A  B) : Triada Aumentada (bajo alterado)
+Daug/C                   [x x 0 3 1 2] (D  G  A  C) : Triada Aumentada (bajo alterado)
+Daug/E                   [0 0 0 3 3 2] (D  G  A  E) : Triada Aumentada (bajo alterado)
+Daug/E                   [x 0 0 3 3 2] (D  G  A  E) : Triada Aumentada (bajo alterado)
+Daug/E                   [x x 0 3 3 2] (D  G  A  E) : Triada Aumentada (bajo alterado)
+Daug/G                   [x x 0 3 3 2] (D  G  A  G) : Triada Aumentada (bajo alterado)
+Daug/G                   [x x 0 3 x 2] (D  G  A  G) : Triada Aumentada (bajo alterado)
+Db        or   Dbmaj     [x 4 6 6 6 4] (Db F  Ab) : Triada Mayor
+Db #5     or   Dbaug     [x x 0 3 3 1] (Db G  Ab) : Triada Aumentada
+Db #5     or   Dbaug     [x x 0 3 x 1] (Db G  Ab) : Triada Aumentada
+Db/A                     [x 0 0 1 2 1] (Db F  Ab A) : Triada Mayor (bajo alterado)
+Db/A                     [x x 0 1 2 1] (Db F  Ab A) : Triada Mayor (bajo alterado)
+Db/B                      [x 2 0 1 0 1] (Db F  Ab B) : Triada Mayor (bajo alterado)
+Db/B                      [x 2 0 1 2 1] (Db F  Ab B) : Triada Mayor (bajo alterado)
+Db/B                      [x x 0 1 0 1] (Db F  Ab B) : Triada Mayor (bajo alterado)
+Db/C                      [x x 0 1 1 1] (Db F  Ab C) : Triada Mayor (bajo alterado)
+Db/C                      [x x 0 1 1 4] (Db F  Ab C) : Triada Mayor (bajo alterado)
+Db/D                      [x x 0 1 2 0] (Db D  F  Ab) : Triada Mayor (bajo alterado)
+Db/E                      [0 0 0 1 0 1] (Db F  Ab E) : Triada Mayor (bajo alterado)
+Db/E                      [0 0 0 1 2 1] (Db F  Ab E) : Triada Mayor (bajo alterado)
+Db/E                      [x 0 0 1 0 1] (Db F  Ab E) : Triada Mayor (bajo alterado)
+Db/E                      [x 0 0 1 2 1] (Db F  Ab E) : Triada Mayor (bajo alterado)
+Db/E                      [x x 0 1 0 1] (Db F  Ab E) : Triada Mayor (bajo alterado)
+Db/F                      [x x 0 1 2 2] (Db F  F  Ab) : Triada Mayor (bajo alterado)
+Db/F                      [x x 0 1 2 4] (Db F  F  Ab) : Triada Mayor (bajo alterado)
+Db/G                      [x x 0 1 2 0] (Db F  G  Ab) : Triada Mayor (bajo alterado)
+Db/G                      [x x 0 1 2 4] (Db F  G  Ab) : Triada Mayor (bajo alterado)
+Db/Gb                     [x x 0 1 2 1] (Db F  Gb Ab) : Triada Mayor (bajo alterado)
+Db5        or   Db(no 3rd) [x x 0 1 2 4] (Ab Db): root and 5th (power chord)
+Db6                       [x x 0 1 0 1] (Db F  Ab B) : Triada Mayor más 6ta
+Db7        or   Dbdom 7    [x x 0 1 1 1] (Db F  Ab C) : Triada Mayor, 7ma menor
+Db7        or   Dbdom 7    [x x 0 1 1 4] (Db F  Ab C) : Triada Mayor, 7ma menor
+Db7/add11  or   Db7/11     [x x 0 1 1 0] (Db F  Ab C  E) : Triada Mayor, 7ma menor, más 11ava
+Db7/sus4                  [x x 0 1 1 2] (Db Gb Ab C) : Triada sus4, 7ma menor
+Db9                       [x 4 3 4 4 4] (Db F  Ab C  E) : Triada Mayor, 7ma menor, más 9na
+Dbadd9     or   Db2        [x 4 6 6 4 4] (Db F  Ab E) : Triada Mayor más 9na
+Dbadd9     or   Db2        [x x 0 1 0 0] (Db F  Ab E) : Triada Mayor más 9na
+Dbadd9     or   Db2        [x x 0 1 0 1] (Db F  Ab E) : Triada Mayor más 9na
+Dbadd9     or   Db2        [x x 0 1 0 4] (Db F  Ab E) : Triada Mayor más 9na
+Dbaug/A                   [x 0 0 2 2 1] (Db G  Ab A) : Triada Aumentada (bajo alterado)
+Dbaug/A                   [x x 0 2 2 1] (Db G  Ab A) : Triada Aumentada (bajo alterado)
+Dbaug/B                   [x 2 0 2 2 1] (Db G  Ab B) : Triada Aumentada (bajo alterado)
+Dbaug/B                   [x x 0 2 0 1] (Db G  Ab B) : Triada Aumentada (bajo alterado)
+Dbaug/C                   [x x 0 2 1 1] (Db G  Ab C) : Triada Aumentada (bajo alterado)
+Dbaug/E                   [0 0 0 2 2 1] (Db G  Ab E) : Triada Aumentada (bajo alterado)
+Dbaug/E                   [x 0 0 2 2 1] (Db G  Ab E) : Triada Aumentada (bajo alterado)
+Dbaug/E                   [x x 0 2 2 1] (Db G  Ab E) : Triada Aumentada (bajo alterado)
+Dbaug/G                   [x x 0 2 2 1] (Db G  Ab G) : Triada Aumentada (bajo alterado)
+Dbaug/G                   [x x 0 2 x 1] (Db G  Ab G) : Triada Aumentada (bajo alterado)
+Dbdim/A                   [x 1 0 1 0 0] (Db E  Gb A) : Triada Disminuida (bajo alterado)
+Dbdim/A                   [x 1 2 1 3 0] (Db E  Gb A) : Triada Disminuida (bajo alterado)
+Dbdim/A                   [x x 0 1 0 0] (Db E  Gb A) : Triada Disminuida (bajo alterado)
+Dbdim/B                   [x x 0 5 5 5] (Db E  Gb B) : Triada Disminuida (bajo alterado)
+Dbdim/C                   [x 1 0 1 0 1] (Db E  Gb C) : Triada Disminuida (bajo alterado)
+Dbdim/C                   [x x 0 1 0 1] (Db E  Gb C) : Triada Disminuida (bajo alterado)
+Dbdim/C                   [x x 3 4 3 4] (Db E  Gb C) : Triada Disminuida (bajo alterado)
+Dbdim/D                   [x x 0 5 5 5] (Db E  Gb D) : Triada Disminuida (bajo alterado)
+Dbdim/E                   [x 1 0 1 0 2] (Db E  Gb E) : Triada Disminuida (bajo alterado)
+Dbdim/F                   [x 1 0 1 0 3] (Db E  Gb F) : Triada Disminuida (bajo alterado)
+Dbdim/Gb                  [x 1 0 1 0 1] (Db E  Gb Gb) : Triada Disminuida (bajo alterado)
+Dbdim7                    [x 1 0 1 0 1] (Db E  Gb Bbb) : Triada Disminuida, 7ma disminuida
+Dbdim7                    [x x 0 1 0 1] (Db E  Gb Bbb) : Triada Disminuida, 7ma disminuida
+Dbdim7                    [x x 3 4 3 4] (Db E  Gb Bbb) : Triada Disminuida, 7ma disminuida
+Dbm                       [x 4 6 6 5 4] (Db E  Ab) : Triada Menor
+Dbm                       [x x 6 6 5 4] (Db E  Ab) : Triada Menor
+Dbm/A                     [x 1 0 0 2 4] (Db E  Ab A) : Triada Menor (bajo alterado)
+Dbm/A                     [x 1 1 0 2 4] (Db E  Ab A) : Triada Menor (bajo alterado)
+Dbm/A                     [x x 0 0 2 4] (Db E  Ab A) : Triada Menor (bajo alterado)
+Dbm/Bb                    [x 4 6 6 5 5] (Db E  Ab Bb) : Triada Menor (bajo alterado)
+Dbm/C                     [x x 0 6 5 4] (Db C  E  Ab) : Triada Menor (bajo alterado)
+Dbm/D                     [0 0 6 6 5 4] (Db E  Ab D) : Triada Menor (bajo alterado)
+Dbm/D                     [x 0 6 6 5 4] (Db E  Ab D) : Triada Menor (bajo alterado)
+Dbm/D                     [x 4 6 6 5 0] (Db E  Ab D) : Triada Menor (bajo alterado)
+Dbm/D                     [x x 6 6 5 0] (Db E  Ab D) : Triada Menor (bajo alterado)
+Dbm/E                     [1 4 6 6 5 4] (Db E  Ab E) : Triada Menor (bajo alterado)
+Dbm/E                     [1 x 6 6 5 4] (Db E  Ab E) : Triada Menor (bajo alterado)
+Dbm/E                     [x 4 6 6 5 1] (Db E  Ab E) : Triada Menor (bajo alterado)
+Dbm/E                     [x x 6 6 5 1] (Db E  Ab E) : Triada Menor (bajo alterado)
+Dbm/F                     [x 4 6 6 5 4] (Db E  Ab F) : Triada Menor (bajo alterado)
+Dbm/F                     [x x 0 0 2 4] (Db E  Ab F) : Triada Menor (bajo alterado)
+Dbm/G                     [x 4 6 6 5 4] (Db E  Ab G) : Triada Menor (bajo alterado)
+Dbm/Gb                    [x 4 6 6 5 3] (Db E  Gb Ab) : Triada Menor (bajo alterado)
+Dbm6                      [x 4 6 6 5 6] (Db E  Ab B) : Triada Menor más 6ta
+Dbm7                      [x 4 6 4 5 4] (Db E  Ab C) : Triada Menor, 7ma menor
+Dbm7                      [x 4 6 4 5 6] (Db E  Ab C) : Triada Menor, 7ma menor
+Dbm7                      [x x 0 4 2 4] (Db E  Ab C) : Triada Menor, 7ma menor
+Dbm7(b5)   or   Dbo7       [x 4 5 4 5 4] (Db E  Gb C) : Triada Disminuida, 7ma menor : 7ma semidisminuida
+Dbmaj7     or   Db#7       [0 4 3 1 1 1] (Db F  Ab C) : Triada Mayor, 7ma mayor
+Dbmaj7     or   Db#7       [x 3 0 1 1 1] (Db F  Ab C) : Triada Mayor, 7ma mayor
+Dbmaj7     or   Db#7       [x 3 0 1 1 4] (Db F  Ab C) : Triada Mayor, 7ma mayor
+Dbmaj7     or   Db#7       [x 3 0 1 x 1] (Db F  Ab C) : Triada Mayor, 7ma mayor
+Dbmaj7     or   Db#7       [x 4 3 1 1 1] (Db F  Ab C) : Triada Mayor, 7ma mayor
+Dbmaj7     or   Db#7       [x x 0 1 1 1] (Db F  Ab C) : Triada Mayor, 7ma mayor
+Dbmaj7     or   Db#7       [x x 3 1 2 1] (Db F  Ab C) : Triada Mayor, 7ma mayor
+Dbmin/maj9                [x 4 2 1 1 1] (Db E  Ab C  E) : Triada Menor, 7ma mayor más 9na
+Dbsus      or   Dbsus4     [x 4 4 1 2 2] (Db Gb Ab) : sin 3ra pero con 4ta de una triada mayor
+Dbsus      or   Dbsus4     [x 4 4 1 2 4] (Db Gb Ab) : sin 3ra pero con 4ta de una triada mayor
+Dbsus      or   Dbsus4     [x 4 6 6 7 4] (Db Gb Ab) : sin 3ra pero con 4ta de una triada mayor
+Dbsus      or   Dbsus4     [x x 0 1 2 2] (Db Gb Ab) : sin 3ra pero con 4ta de una triada mayor
+Dbsus2     or   Dbadd9(no3)[x 4 0 1 2 4] (Ab Db E) : sin 3ra pero con 2da de una triada mayor
+Dbsus2     or   Dbadd9(no3)[x 4 6 6 4 4] (Ab Db E) : sin 3ra pero con 2da de una triada mayor
+Dbsus2     or   Dbadd9(no3)[x x 0 1 2 4] (Ab Db E) : sin 3ra pero con 2da de una triada mayor
+Dbsus2/B                  [x 3 0 1 2 1] (Ab Db E  B) : Triada sus2 (bajo alterado)
+Dbsus2/B                  [x 3 0 1 2 4] (Ab Db E  B) : Triada sus2 (bajo alterado)
+Dbsus2/B                  [x x 0 1 2 1] (Ab Db E  B) : Triada sus2 (bajo alterado)
+Dbsus2/C                  [x x 0 1 2 4] (Ab Db E  C) : Triada sus2 (bajo alterado)
+Dbsus2/D                  [0 4 0 1 2 1] (Ab Db E  D) : Triada sus2 (bajo alterado)
+Dbsus2/D                  [x 0 0 1 2 1] (Ab Db E  D) : Triada sus2 (bajo alterado)
+Dbsus2/D                  [x 4 0 1 2 1] (Ab Db E  D) : Triada sus2 (bajo alterado)
+Dbsus2/D                  [x x 0 1 2 1] (Ab Db E  D) : Triada sus2 (bajo alterado)
+Dbsus2/E                  [1 4 0 1 2 1] (Ab Db E  E) : Triada sus2 (bajo alterado)
+Dbsus2/E                  [1 x 0 1 2 1] (Ab Db E  E) : Triada sus2 (bajo alterado)
+Dbsus2/F                  [x 4 0 1 2 4] (Ab Db E  F) : Triada sus2 (bajo alterado)
+Dbsus2/F                  [x x 0 1 2 4] (Ab Db E  F) : Triada sus2 (bajo alterado)
+Dbsus2/Gb                 [x 4 0 1 2 3] (Ab Db E  Gb) : Triada sus2 (bajo alterado)
+Dbsus4/B                  [x 3 0 1 2 2] (Db Gb Ab B) : Triada sus4 (bajo alterado)
+Dbsus4/B                  [x 3 4 1 2 2] (Db Gb Ab B) : Triada sus4 (bajo alterado)
+Dbsus4/B                  [x x 0 1 2 2] (Db Gb Ab B) : Triada sus4 (bajo alterado)
+Dbsus4/C                  [x x 0 1 2 4] (Db Gb Ab C) : Triada sus4 (bajo alterado)
+Dbsus4/D                  [0 4 4 1 2 1] (Db Gb Ab D) : Triada sus4 (bajo alterado)
+Dbsus4/D                  [x 0 4 1 2 1] (Db Gb Ab D) : Triada sus4 (bajo alterado)
+Dbsus4/D                  [x 4 4 1 2 1] (Db Gb Ab D) : Triada sus4 (bajo alterado)
+Dbsus4/D                  [x x 4 1 2 1] (Db Gb Ab D) : Triada sus4 (bajo alterado)
+Dbsus4/E                  [1 4 4 1 2 1] (Db Gb Ab E) : Triada sus4 (bajo alterado)
+Dbsus4/E                  [1 x 4 1 2 1] (Db Gb Ab E) : Triada sus4 (bajo alterado)
+Dbsus4/F                  [x 4 4 1 2 4] (Db Gb Ab F) : Triada sus4 (bajo alterado)
+Dbsus4/F                  [x x 0 1 2 2] (Db Gb Ab F) : Triada sus4 (bajo alterado)
+Dbsus4/Gb                 [x 4 4 1 2 3] (Db Gb Ab Gb) : Triada sus4 (bajo alterado)
+Ddim/A                    [x 0 4 5 4 5] (D  Gb A  B) : Triada Disminuida (bajo alterado)
+Ddim/A                    [x x 1 2 0 2] (D  Gb A  B) : Triada Disminuida (bajo alterado)
+Ddim/B                    [x 2 0 2 0 2] (D  Gb A  B) : Triada Disminuida (bajo alterado)
+Ddim/B                    [x 2 0 2 3 2] (D  Gb A  B) : Triada Disminuida (bajo alterado)
+Ddim/B                    [x x 0 2 0 2] (D  Gb A  B) : Triada Disminuida (bajo alterado)
+Ddim/C                    [x x 0 2 1 2] (D  Gb A  C) : Triada Disminuida (bajo alterado)
+Ddim/C                    [x x 0 2 1 5] (D  Gb A  C) : Triada Disminuida (bajo alterado)
+Ddim/Db                   [x x 0 2 3 1] (Db D  Gb A) : Triada Disminuida (bajo alterado)
+Ddim/E                    [0 0 0 2 0 2] (D  Gb A  E) : Triada Disminuida (bajo alterado)
+Ddim/E                    [0 0 0 2 3 2] (D  Gb A  E) : Triada Disminuida (bajo alterado)
+Ddim/E                    [x 0 0 2 0 2] (D  Gb A  E) : Triada Disminuida (bajo alterado)
+Ddim/E                    [x 0 0 2 3 2] (D  Gb A  E) : Triada Disminuida (bajo alterado)
+Ddim/E                    [x x 0 2 0 2] (D  Gb A  E) : Triada Disminuida (bajo alterado)
+Ddim/F                    [x x 0 2 3 3] (D  F  Gb A) : Triada Disminuida (bajo alterado)
+Ddim/F                    [x x 0 2 3 5] (D  F  Gb A) : Triada Disminuida (bajo alterado)
+Ddim/G                    [x x 0 2 3 0] (D  Gb G  A) : Triada Disminuida (bajo alterado)
+Ddim/G                    [x x 0 2 3 5] (D  Gb G  A) : Triada Disminuida (bajo alterado)
+Ddim/Gb                   [x x 0 2 3 1] (D  Gb Gb A) : Triada Disminuida (bajo alterado)
+Ddim7                     [x 2 0 2 0 2] (D  Gb Bbb C) : Triada Disminuida, 7ma disminuida
+Ddim7                     [x x 0 2 0 2] (D  Gb Bbb C) : Triada Disminuida, 7ma disminuida
+Dm                        [x x 0 2 3 1] (D  F  A) : Triada Menor
+Dm                        [x 5 7 7 6 5] (D  F  A) : Triada Menor
+Dm/A                      [x 0 0 2 3 1] (D  F  A  A) : Triada Menor (bajo alterado)
+Dm/A                      [x x 0 2 3 1] (D  F  A  A) : Triada Menor (bajo alterado)
+Dm/B                      [x 2 0 2 0 1] (D  F  A  B) : Triada Menor (bajo alterado)
+Dm/B                      [x 2 0 2 3 1] (D  F  A  B) : Triada Menor (bajo alterado)
+Dm/B                      [x x 0 2 0 1] (D  F  A  B) : Triada Menor (bajo alterado)
+Dm/C                      [x x 0 2 1 1] (D  F  A  C) : Triada Menor (bajo alterado)
+Dm/C                      [x x 0 2 1 4] (D  F  A  C) : Triada Menor (bajo alterado)
+Dm/Db                     [x x 0 2 3 0] (Db D  F  A) : Triada Menor (bajo alterado)
+Dm/E                      [0 0 0 2 0 1] (D  F  A  E) : Triada Menor (bajo alterado)
+Dm/E                      [0 0 0 2 3 1] (D  F  A  E) : Triada Menor (bajo alterado)
+Dm/E                      [x 0 0 2 0 1] (D  F  A  E) : Triada Menor (bajo alterado)
+Dm/E                      [x 0 0 2 3 1] (D  F  A  E) : Triada Menor (bajo alterado)
+Dm/E                      [x x 0 2 0 1] (D  F  A  E) : Triada Menor (bajo alterado)
+Dm/F                      [x x 0 2 3 2] (D  F  F  A) : Triada Menor (bajo alterado)
+Dm/F                      [x x 0 2 3 4] (D  F  F  A) : Triada Menor (bajo alterado)
+Dm/G                      [x x 0 2 3 0] (D  F  G  A) : Triada Menor (bajo alterado)
+Dm/G                      [x x 0 2 3 4] (D  F  G  A) : Triada Menor (bajo alterado)
+Dm/Gb                     [x x 0 2 3 1] (D  F  Gb A) : Triada Menor (bajo alterado)
+Dm6                       [x x 0 2 0 1] (D  F  A  B) : Triada Menor más 6ta
+Dm7                       [x x 0 2 1 1] (D  F  A  C) : Triada Menor, 7ma menor
+Dm7                       [x x 0 2 1 4] (D  F  A  C) : Triada Menor, 7ma menor
+Dm7(b5)    or   Do7       [x x 0 2 1 2] (D  F  Ab C) : Triada Disminuida, 7ma menor : 7ma semidisminuida
+Dmaj7     or   D#7       [x x 0 2 2 2] (D  Gb A  Db) : Triada Mayor, 7ma mayor
+Dmin/maj9                 [x x 0 2 2 0] (D  F  A  Db  E) : Triada Menor, 7ma mayor más 9na
+Dsus      or   Dsus4      [x x 0 2 3 3] (D  G  A) : sin 3ra pero con 4ta de una triada mayor
+Dsus      or   Dsus4      [x x 0 2 3 5] (D  G  A) : sin 3ra pero con 4ta de una triada mayor
+Dsus2     or   Dadd9(no3) [x x 0 2 3 0] (A  D  E) : sin 3ra pero con 2da de una triada mayor
+Dsus2     or   Dadd9(no3) [x x 0 2 3 2] (A  D  E) : sin 3ra pero con 2da de una triada mayor
+Dsus2     or   Dadd9(no3) [x x 0 2 3 5] (A  D  E) : sin 3ra pero con 2da de una triada mayor
+Dsus2/A                   [x 0 0 2 3 0] (A  D  E  A) : Triada sus2 (bajo alterado)
+Dsus2/A                   [x x 0 2 3 0] (A  D  E  A) : Triada sus2 (bajo alterado)
+Dsus2/B                   [x 2 0 2 3 0] (A  D  E  B) : Triada sus2 (bajo alterado)
+Dsus2/B                   [x x 0 2 0 0] (A  D  E  B) : Triada sus2 (bajo alterado)
+Dsus2/C                   [x x 0 2 3 5] (A  D  E  C) : Triada sus2 (bajo alterado)
+Dsus2/Db                  [x x 0 2 3 1] (Db A  D  E) : Triada sus2 (bajo alterado)
+Dsus2/E                   [0 0 0 2 3 0] (A  D  E  E) : Triada sus2 (bajo alterado)
+Dsus2/E                   [x 0 0 2 3 0] (A  D  E  E) : Triada sus2 (bajo alterado)
+Dsus2/E                   [x x 0 2 3 0] (A  D  E  E) : Triada sus2 (bajo alterado)
+Dsus2/F                   [x x 0 2 3 2] (A  D  E  F) : Triada sus2 (bajo alterado)
+Dsus2/G                   [x x 0 2 3 0] (A  D  E  G) : Triada sus2 (bajo alterado)
+Dsus2/G                   [x x 0 2 3 5] (A  D  E  G) : Triada sus2 (bajo alterado)
+Dsus2/Gb                  [x x 0 2 3 1] (A  D  E  Gb) : Triada sus2 (bajo alterado)
+Dsus4/A                   [x 0 0 2 3 3] (D  G  A  A) : Triada sus4 (bajo alterado)
+Dsus4/A                   [x x 0 2 3 3] (D  G  A  A) : Triada sus4 (bajo alterado)
+Dsus4/B                   [x 2 0 2 3 3] (D  G  A  B) : Triada sus4 (bajo alterado)
+Dsus4/B                   [x x 0 2 0 3] (D  G  A  B) : Triada sus4 (bajo alterado)
+Dsus4/C                   [x x 0 2 3 5] (D  G  A  C) : Triada sus4 (bajo alterado)
+Dsus4/Db                  [x x 0 2 3 1] (Db D  G  A) : Triada sus4 (bajo alterado)
+Dsus4/E                   [0 0 0 2 3 3] (D  G  A  E) : Triada sus4 (bajo alterado)
+Dsus4/E                   [x 0 0 2 3 3] (D  G  A  E) : Triada sus4 (bajo alterado)
+Dsus4/E                   [x x 0 2 3 3] (D  G  A  E) : Triada sus4 (bajo alterado)
+Dsus4/F                   [x x 0 2 3 3] (D  G  A  F) : Triada sus4 (bajo alterado)
+Dsus4/G                   [x x 0 2 3 3] (D  G  A  G) : Triada sus4 (bajo alterado)
+Dsus4/G                   [x x 0 2 3 5] (D  G  A  G) : Triada sus4 (bajo alterado)
+Dsus4/Gb                  [x x 0 2 3 2] (D  G  A  Gb) : Triada sus4 (bajo alterado)
+E         or   Emaj      [0 2 2 1 0 0] (Eb Ab B) : Triada Mayor
+E         or   Emaj      [0 2 2 4 5 4] (Eb Ab B) : Triada Mayor
+E         or   Emaj      [x 7 6 4 5 4] (Eb Ab B) : Triada Mayor
+E         or   Emaj      [x x 2 4 5 4] (Eb Ab B) : Triada Mayor
+E #5      or   Eaug      [0 3 2 1 1 0] (Eb G  B) : Triada Aumentada
+E #5      or   Eaug      [0 3 x 1 1 0] (Eb G  B) : Triada Aumentada
+E/B                      [0 2 2 4 0 0] (Eb Ab B  B) : Triada Mayor (bajo alterado)
+E/B                      [x 2 2 4 0 0] (Eb Ab B  B) : Triada Mayor (bajo alterado)
+E/C                      [0 0 2 1 0 0] (Eb Ab B  C) : Triada Mayor (bajo alterado)
+E/C                      [x 0 2 1 0 0] (Eb Ab B  C) : Triada Mayor (bajo alterado)
+E/C                      [x 3 2 1 0 0] (Eb Ab B  C) : Triada Mayor (bajo alterado)
+E/C                      [x x 2 1 0 0] (Eb Ab B  C) : Triada Mayor (bajo alterado)
+E/D                      [0 2 0 1 0 0] (Eb Ab B  D) : Triada Mayor (bajo alterado)
+E/D                      [x 2 0 1 0 0] (Eb Ab B  D) : Triada Mayor (bajo alterado)
+E/D                      [x x 0 1 0 0] (Eb Ab B  D) : Triada Mayor (bajo alterado)
+E/Db                     [0 2 2 1 0 1] (Db Eb Ab B) : Triada Mayor (bajo alterado)
+E/Eb                     [0 2 2 1 0 0] (Eb Ab B  Eb) : Triada Mayor (bajo alterado)
+E/Eb                     [x 2 2 1 0 0] (Eb Ab B  Eb) : Triada Mayor (bajo alterado)
+E/F                      [0 2 2 1 1 0] (Eb Ab B  F) : Triada Mayor (bajo alterado)
+E/F                      [1 2 2 1 0 0] (Eb Ab B  F) : Triada Mayor (bajo alterado)
+E/F                      [1 x 2 1 0 0] (Eb Ab B  F) : Triada Mayor (bajo alterado)
+E/F                      [x 2 2 1 1 0] (Eb Ab B  F) : Triada Mayor (bajo alterado)
+E/F                      [x x 2 1 1 0] (Eb Ab B  F) : Triada Mayor (bajo alterado)
+E/G                      [0 2 2 1 0 3] (Eb Ab B  G) : Triada Mayor (bajo alterado)
+E/G                      [3 2 2 1 0 0] (Eb Ab B  G) : Triada Mayor (bajo alterado)
+E/G                      [3 x 2 1 0 0] (Eb Ab B  G) : Triada Mayor (bajo alterado)
+E/G                      [x 2 2 1 0 3] (Eb Ab B  G) : Triada Mayor (bajo alterado)
+E/G                      [x x 2 1 0 3] (Eb Ab B  G) : Triada Mayor (bajo alterado)
+E/Gb                     [0 2 2 1 0 2] (Eb Ab B  Gb) : Triada Mayor (bajo alterado)
+E/Gb                     [x 2 2 1 0 2] (Eb Ab B  Gb) : Triada Mayor (bajo alterado)
+E5        or   E(no 3rd) [0 2 2 x x 0] (B  E): root and 5th (power chord)
+E6                       [0 2 2 1 0 2] (Eb Ab B  Gb) : Triada Mayor más 6ta
+E6                       [x 2 2 1 0 2] (Eb Ab B  Gb) : Triada Mayor más 6ta
+E7        or   Edom 7    [0 2 0 1 0 0] (Eb Ab B  D) : Triada Mayor, 7ma menor
+E7        or   Edom 7    [x 2 0 1 0 0] (Eb Ab B  D) : Triada Mayor, 7ma menor
+E7        or   Edom 7    [x x 0 1 0 0] (Eb Ab B  D) : Triada Mayor, 7ma menor
+E7(#5)                   [0 3 0 1 1 0] (Eb G  B  D) : 7ma menor, 5ta aumentada
+E7/add11  or   E7/11     [0 0 0 1 0 0] (Eb Ab B  D  Gb) : Triada Mayor, 7ma menor, más 11ava
+E7/sus4                  [0 2 2 2 0 0] (Eb A  B  D) : Triada sus4, 7ma menor
+E7/sus4                  [x 2 2 2 0 0] (Eb A  B  D) : Triada sus4, 7ma menor
+E9                       [0 2 0 1 0 2] (Eb Ab B  D  Gb) : Triada Mayor, 7ma menor, más 9na
+E9                       [0 2 0 1 2 0] (Eb Ab B  D  Gb) : Triada Mayor, 7ma menor, más 9na
+Eadd9     or   E2        [0 2 2 1 0 2] (Eb Ab B  Gb) : Triada Mayor más 9na
+Eadd9     or   E2        [x 2 2 1 0 2] (Eb Ab B  Gb) : Triada Mayor más 9na
+Eaug/B                   [0 3 2 1 1 0] (Eb G  B  B) : Triada Aumentada (bajo alterado)
+Eaug/B                   [0 3 x 1 1 0] (Eb G  B  B) : Triada Aumentada (bajo alterado)
+Eaug/C                   [0 0 3 1 1 0] (Eb G  B  C) : Triada Aumentada (bajo alterado)
+Eaug/C                   [x 0 3 1 1 0] (Eb G  B  C) : Triada Aumentada (bajo alterado)
+Eaug/D                   [0 2 1 1 1 0] (Eb G  B  D) : Triada Aumentada (bajo alterado)
+Eaug/D                   [x 2 1 1 1 0] (Eb G  B  D) : Triada Aumentada (bajo alterado)
+Eaug/D                   [x x 1 1 1 0] (Eb G  B  D) : Triada Aumentada (bajo alterado)
+Eaug/Eb                  [0 3 2 1 1 0] (Eb G  B  Eb) : Triada Aumentada (bajo alterado)
+Eaug/Eb                  [0 3 x 1 1 0] (Eb G  B  Eb) : Triada Aumentada (bajo alterado)
+Eaug/G                   [0 3 2 1 1 0] (Eb G  B  G) : Triada Aumentada (bajo alterado)
+Eaug/G                   [0 3 x 1 1 0] (Eb G  B  G) : Triada Aumentada (bajo alterado)
+Eb        or   Ebmaj     [x x 1 3 4 3] (Eb G  Bb) : Triada Mayor
+Eb        or   Ebmaj     [x 6 8 8 8 6] (Eb G  Bb) : Triada Mayor
+Eb #5     or   Ebaug     [x x 1 0 0 3] (Eb G  B) : Triada Aumentada
+Eb/A                     [x 0 1 3 4 3] (Eb G  Bb A) : Triada Mayor (bajo alterado)
+Eb/A                     [x x 1 3 4 3] (Eb G  Bb A) : Triada Mayor (bajo alterado)
+Eb/Bb                    [x 1 1 3 0 3] (Eb G  Bb Bb) : Triada Mayor (bajo alterado)
+Eb/Bb                    [x 1 1 3 4 3] (Eb G  Bb Bb) : Triada Mayor (bajo alterado)
+Eb/Bb                    [x x 1 3 0 3] (Eb G  Bb Bb) : Triada Mayor (bajo alterado)
+Eb/C                     [x x 1 3 1 3] (Eb G  Bb C) : Triada Mayor (bajo alterado)
+Eb/C                     [x x 1 3 1 6] (Eb G  Bb C) : Triada Mayor (bajo alterado)
+Eb/D                     [x x 1 3 4 0] (Eb D  G  Bb) : Triada Mayor (bajo alterado)
+Eb/E                     [0 0 1 3 4 3] (Eb G  Bb E) : Triada Mayor (bajo alterado)
+Eb/E                     [x 0 1 3 4 3] (Eb G  Bb E) : Triada Mayor (bajo alterado)
+Eb/E                     [x x 1 3 4 3] (Eb G  Bb E) : Triada Mayor (bajo alterado)
+Eb/F                     [x x 1 3 4 4] (Eb F  G  Bb) : Triada Mayor (bajo alterado)
+Eb/F                     [x x 1 3 4 6] (Eb F  G  Bb) : Triada Mayor (bajo alterado)
+Eb/G                     [x x 1 3 4 0] (Eb G  G  Bb) : Triada Mayor (bajo alterado)
+Eb/G                     [x x 1 3 4 6] (Eb G  G  Bb) : Triada Mayor (bajo alterado)
+Eb/Gb                    [x x 1 3 4 2] (Eb G  Gb Bb) : Triada Mayor (bajo alterado)
+Eb5        or   Eb(no 3rd) [x x 1 3 4 6] (Bb Eb): root and 5th (power chord)
+Eb6                       [x x 1 3 0 3] (Eb G  Bb C) : Triada Mayor más 6ta
+Eb7        or   Ebdom 7    [x x 1 3 1 3] (Eb G  Bb Db) : Triada Mayor, 7ma menor
+Eb7        or   Ebdom 7    [x x 1 3 1 6] (Eb G  Bb Db) : Triada Mayor, 7ma menor
+Eb7/add11  or   Eb7/11     [x x 1 3 1 0] (Eb G  Bb Db  G) : Triada Mayor, 7ma menor, más 11ava
+Eb7/sus4                  [x x 1 3 2 3] (Eb Ab Bb Db) : Triada sus4, 7ma menor
+Eb9                       [x 6 5 6 6 6] (Eb G  Bb Db  F) : Triada Mayor, 7ma menor, más 9na
+Ebadd9     or   Eb2        [x 6 8 8 6 6] (Eb G  Bb F) : Triada Mayor más 9na
+Ebadd9     or   Eb2        [x x 1 3 0 0] (Eb G  Bb F) : Triada Mayor más 9na
+Ebadd9     or   Eb2        [x x 1 3 0 3] (Eb G  Bb F) : Triada Mayor más 9na
+Ebadd9     or   Eb2        [x x 1 3 0 6] (Eb G  Bb F) : Triada Mayor más 9na
+Ebaug/A                   [x 0 1 0 0 3] (Eb G  B  A) : Triada Aumentada (bajo alterado)
+Ebaug/A                   [x x 1 0 0 3] (Eb G  B  A) : Triada Aumentada (bajo alterado)
+Ebaug/Bb                  [x 1 1 0 0 3] (Eb G  B  Bb) : Triada Aumentada (bajo alterado)
+Ebaug/Bb                  [x x 1 0 0 3] (Eb G  B  Bb) : Triada Aumentada (bajo alterado)
+Ebaug/C                   [x x 1 0 1 3] (Eb G  B  C) : Triada Aumentada (bajo alterado)
+Ebaug/E                   [0 0 1 0 0 3] (Eb G  B  E) : Triada Aumentada (bajo alterado)
+Ebaug/E                   [x 0 1 0 0 3] (Eb G  B  E) : Triada Aumentada (bajo alterado)
+Ebaug/E                   [x x 1 0 0 3] (Eb G  B  E) : Triada Aumentada (bajo alterado)
+Ebaug/G                   [x x 1 0 0 3] (Eb G  B  G) : Triada Aumentada (bajo alterado)
+Ebdim/A                   [x 0 3 4 3 4] (Eb Gb A  B) : Triada Disminuida (bajo alterado)
+Ebdim/A                   [x x 2 3 0 3] (Eb Gb A  B) : Triada Disminuida (bajo alterado)
+Ebdim/Bb                  [x 1 0 3 0 3] (Eb Gb A  Bb) : Triada Disminuida (bajo alterado)
+Ebdim/Bb                  [x 1 0 3 3 3] (Eb Gb A  Bb) : Triada Disminuida (bajo alterado)
+Ebdim/Bb                  [x x 0 3 0 3] (Eb Gb A  Bb) : Triada Disminuida (bajo alterado)
+Ebdim/C                   [x x 0 3 1 3] (Eb Gb A  C) : Triada Disminuida (bajo alterado)
+Ebdim/C                   [x x 0 3 1 6] (Eb Gb A  C) : Triada Disminuida (bajo alterado)
+Ebdim/D                   [x x 0 3 3 0] (Eb D  Gb A) : Triada Disminuida (bajo alterado)
+Ebdim/E                   [0 0 0 3 0 3] (Eb Gb A  E) : Triada Disminuida (bajo alterado)
+Ebdim/E                   [0 0 0 3 3 3] (Eb Gb A  E) : Triada Disminuida (bajo alterado)
+Ebdim/E                   [x 0 0 3 0 3] (Eb Gb A  E) : Triada Disminuida (bajo alterado)
+Ebdim/E                   [x 0 0 3 3 3] (Eb Gb A  E) : Triada Disminuida (bajo alterado)
+Ebdim/E                   [x x 0 3 0 3] (Eb Gb A  E) : Triada Disminuida (bajo alterado)
+Ebdim/F                   [x x 0 3 3 4] (Eb F  Gb A) : Triada Disminuida (bajo alterado)
+Ebdim/F                   [x x 0 3 3 6] (Eb F  Gb A) : Triada Disminuida (bajo alterado)
+Ebdim/G                   [x x 0 3 3 0] (Eb Gb G  A) : Triada Disminuida (bajo alterado)
+Ebdim/G                   [x x 0 3 3 6] (Eb Gb G  A) : Triada Disminuida (bajo alterado)
+Ebdim/Gb                  [x x 0 3 3 2] (Eb Gb Gb A) : Triada Disminuida (bajo alterado)
+Ebdim7                    [x 1 0 3 0 3] (Eb Gb Bbb C) : Triada Disminuida, 7ma disminuida
+Ebdim7                    [x x 0 3 0 3] (Eb Gb Bbb C) : Triada Disminuida, 7ma disminuida
+Ebm                       [x x 1 3 4 2] (Eb Gb Bb) : Triada Menor
+Ebm                       [x 6 8 8 7 6] (Eb Gb Bb) : Triada Menor
+Ebm/A                     [x 0 1 3 4 2] (Eb Gb Bb A) : Triada Menor (bajo alterado)
+Ebm/A                     [x x 1 3 4 2] (Eb Gb Bb A) : Triada Menor (bajo alterado)
+Ebm/Bb                    [x 1 0 3 0 2] (Eb Gb Bb Bb) : Triada Menor (bajo alterado)
+Ebm/Bb                    [x 1 0 3 3 2] (Eb Gb Bb Bb) : Triada Menor (bajo alterado)
+Ebm/Bb                    [x x 0 3 0 2] (Eb Gb Bb Bb) : Triada Menor (bajo alterado)
+Ebm/C                     [x x 0 3 1 2] (Eb Gb Bb C) : Triada Menor (bajo alterado)
+Ebm/C                     [x x 0 3 1 5] (Eb Gb Bb C) : Triada Menor (bajo alterado)
+Ebm/D                     [x x 0 3 3 0] (Eb D  Gb Bb) : Triada Menor (bajo alterado)
+Ebm/E                     [0 0 0 3 0 2] (Eb Gb Bb E) : Triada Menor (bajo alterado)
+Ebm/E                     [0 0 0 3 3 2] (Eb Gb Bb E) : Triada Menor (bajo alterado)
+Ebm/E                     [x 0 0 3 0 2] (Eb Gb Bb E) : Triada Menor (bajo alterado)
+Ebm/E                     [x 0 0 3 3 2] (Eb Gb Bb E) : Triada Menor (bajo alterado)
+Ebm/E                     [x x 0 3 0 2] (Eb Gb Bb E) : Triada Menor (bajo alterado)
+Ebm/F                     [x x 0 3 3 3] (Eb F  Gb Bb) : Triada Menor (bajo alterado)
+Ebm/F                     [x x 0 3 3 5] (Eb F  Gb Bb) : Triada Menor (bajo alterado)
+Ebm/G                     [x x 0 3 3 0] (Eb Gb G  Bb) : Triada Menor (bajo alterado)
+Ebm/G                     [x x 0 3 3 5] (Eb Gb G  Bb) : Triada Menor (bajo alterado)
+Ebm/Gb                    [x x 0 3 3 2] (Eb Gb Gb Bb) : Triada Menor (bajo alterado)
+Ebm6                      [x x 0 3 0 2] (Eb Gb Bb C) : Triada Menor más 6ta
+Ebm7                      [x x 0 3 1 2] (Eb Gb Bb Db) : Triada Menor, 7ma menor
+Ebm7                      [x x 0 3 1 5] (Eb Gb Bb Db) : Triada Menor, 7ma menor
+Ebm7(b5)    or   Ebo7       [x x 0 3 1 3] (Eb Gb A  Db) : Triada Disminuida, 7ma menor : 7ma semidisminuida
+Ebmaj7     or   Eb#7       [x x 1 3 3 3] (Eb G  Bb D) : Triada Mayor, 7ma mayor
+Ebmin/maj9                [x x 0 3 3 0] (Eb Gb Bb D  F) : Triada Menor, 7ma mayor más 9na
+Ebsus      or   Ebsus4     [x x 1 3 4 4] (Eb Ab Bb) : sin 3ra pero con 4ta de una triada mayor
+Ebsus      or   Ebsus4     [x x 1 3 4 6] (Eb Ab Bb) : sin 3ra pero con 4ta de una triada mayor
+Ebsus2     or   Ebadd9(no3)[x x 1 3 4 0] (Bb Eb F) : sin 3ra pero con 2da de una triada mayor
+Ebsus2     or   Ebadd9(no3)[x x 1 3 4 3] (Bb Eb F) : sin 3ra pero con 2da de una triada mayor
+Ebsus2     or   Ebadd9(no3)[x x 1 3 4 6] (Bb Eb F) : sin 3ra pero con 2da de una triada mayor
+Ebsus2/A                  [x 0 1 3 4 0] (Bb Eb F  A) : Triada sus2 (bajo alterado)
+Ebsus2/A                  [x x 1 3 4 0] (Bb Eb F  A) : Triada sus2 (bajo alterado)
+Ebsus2/Bb                 [x 1 1 3 4 0] (Bb Eb F  Bb) : Triada sus2 (bajo alterado)
+Ebsus2/Bb                 [x x 1 3 0 0] (Bb Eb F  Bb) : Triada sus2 (bajo alterado)
+Ebsus2/C                  [x x 1 3 4 6] (Bb Eb F  C) : Triada sus2 (bajo alterado)
+Ebsus2/D                  [x x 1 3 4 0] (Bb Eb F  D) : Triada sus2 (bajo alterado)
+Ebsus2/E                  [0 0 1 3 4 0] (Bb Eb F  E) : Triada sus2 (bajo alterado)
+Ebsus2/E                  [x 0 1 3 4 0] (Bb Eb F  E) : Triada sus2 (bajo alterado)
+Ebsus2/E                  [x x 1 3 4 0] (Bb Eb F  E) : Triada sus2 (bajo alterado)
+Ebsus2/F                  [x x 1 3 4 3] (Bb Eb F  F) : Triada sus2 (bajo alterado)
+Ebsus2/G                  [x x 1 3 4 0] (Bb Eb F  G) : Triada sus2 (bajo alterado)
+Ebsus2/G                  [x x 1 3 4 6] (Bb Eb F  G) : Triada sus2 (bajo alterado)
+Ebsus2/Gb                 [x x 1 3 4 2] (Bb Eb F  Gb) : Triada sus2 (bajo alterado)
+Ebsus4/A                  [x 0 1 3 4 4] (Eb Ab Bb A) : Triada sus4 (bajo alterado)
+Ebsus4/A                  [x x 1 3 4 4] (Eb Ab Bb A) : Triada sus4 (bajo alterado)
+Ebsus4/Bb                 [x 1 1 3 4 4] (Eb Ab Bb Bb) : Triada sus4 (bajo alterado)
+Ebsus4/Bb                 [x x 1 3 0 4] (Eb Ab Bb Bb) : Triada sus4 (bajo alterado)
+Ebsus4/C                  [x x 1 3 4 6] (Eb Ab Bb C) : Triada sus4 (bajo alterado)
+Ebsus4/D                  [x x 1 3 4 0] (Eb D  Ab Bb) : Triada sus4 (bajo alterado)
+Ebsus4/E                  [0 0 1 3 4 4] (Eb Ab Bb E) : Triada sus4 (bajo alterado)
+Ebsus4/E                  [x 0 1 3 4 4] (Eb Ab Bb E) : Triada sus4 (bajo alterado)
+Ebsus4/E                  [x x 1 3 4 4] (Eb Ab Bb E) : Triada sus4 (bajo alterado)
+Ebsus4/F                  [x x 1 3 4 4] (Eb Ab Bb F) : Triada sus4 (bajo alterado)
+Ebsus4/G                  [x x 1 3 4 4] (Eb Ab Bb G) : Triada sus4 (bajo alterado)
+Ebsus4/G                  [x x 1 3 4 6] (Eb Ab Bb G) : Triada sus4 (bajo alterado)
+Ebsus4/Gb                 [x x 1 3 4 3] (Eb Ab Bb Gb) : Triada sus4 (bajo alterado)
+Edim/A                    [x 0 2 3 2 3] (Eb Gb A  B) : Triada Disminuida (bajo alterado)
+Edim/A                    [x x 0 1 0 0] (Eb Gb A  B) : Triada Disminuida (bajo alterado)
+Edim/B                    [x 2 0 2 0 2] (Eb Gb A  B) : Triada Disminuida (bajo alterado)
+Edim/B                    [x 2 0 2 3 2] (Eb Gb A  B) : Triada Disminuida (bajo alterado)
+Edim/B                    [x x 0 2 0 2] (Eb Gb A  B) : Triada Disminuida (bajo alterado)
+Edim/C                    [x x 0 2 1 2] (Eb Gb A  C) : Triada Disminuida (bajo alterado)
+Edim/C                    [x x 0 2 1 5] (Eb Gb A  C) : Triada Disminuida (bajo alterado)
+Edim/D                    [x x 0 2 3 0] (Eb D  Gb A) : Triada Disminuida (bajo alterado)
+Edim/Eb                   [0 0 0 2 0 2] (Eb Gb A  Eb) : Triada Disminuida (bajo alterado)
+Edim/Eb                   [0 0 0 2 3 2] (Eb Gb A  Eb) : Triada Disminuida (bajo alterado)
+Edim/Eb                   [x 0 0 2 0 2] (Eb Gb A  Eb) : Triada Disminuida (bajo alterado)
+Edim/Eb                   [x 0 0 2 3 2] (Eb Gb A  Eb) : Triada Disminuida (bajo alterado)
+Edim/Eb                   [x x 0 2 0 2] (Eb Gb A  Eb) : Triada Disminuida (bajo alterado)
+Edim/F                    [x x 0 2 3 3] (Eb F  Gb A) : Triada Disminuida (bajo alterado)
+Edim/F                    [x x 0 2 3 5] (Eb F  Gb A) : Triada Disminuida (bajo alterado)
+Edim/G                    [x x 0 2 3 0] (Eb Gb G  A) : Triada Disminuida (bajo alterado)
+Edim/G                    [x x 0 2 3 5] (Eb Gb G  A) : Triada Disminuida (bajo alterado)
+Edim/Gb                   [x x 0 2 3 2] (Eb Gb Gb A) : Triada Disminuida (bajo alterado)
+Edim7                     [x 2 0 2 0 2] (Eb Gb Bbb C) : Triada Disminuida, 7ma disminuida
+Edim7                     [x x 0 2 0 2] (Eb Gb Bbb C) : Triada Disminuida, 7ma disminuida
+Em                        [0 2 2 0 0 0] (Eb G  B) : Triada Menor
+Em                        [0 2 2 4 5 3] (Eb G  B) : Triada Menor
+Em                        [x 7 9 9 8 7] (Eb G  B) : Triada Menor
+Em                        [x x 2 4 5 3] (Eb G  B) : Triada Menor
+Em/B                      [0 2 2 4 0 0] (Eb G  B  B) : Triada Menor (bajo alterado)
+Em/B                      [x 2 2 4 0 0] (Eb G  B  B) : Triada Menor (bajo alterado)
+Em/C                      [0 0 2 0 0 0] (Eb G  B  C) : Triada Menor (bajo alterado)
+Em/C                      [x 0 2 0 0 0] (Eb G  B  C) : Triada Menor (bajo alterado)
+Em/C                      [x 3 2 0 0 0] (Eb G  B  C) : Triada Menor (bajo alterado)
+Em/C                      [x x 2 0 0 0] (Eb G  B  C) : Triada Menor (bajo alterado)
+Em/D                      [0 2 0 0 0 0] (Eb G  B  D) : Triada Menor (bajo alterado)
+Em/D                      [x 2 0 0 0 0] (Eb G  B  D) : Triada Menor (bajo alterado)
+Em/D                      [x x 0 0 0 0] (Eb G  B  D) : Triada Menor (bajo alterado)
+Em/Db                     [0 2 2 0 0 1] (Db Eb G  B) : Triada Menor (bajo alterado)
+Em/Eb                     [0 2 2 0 0 0] (Eb G  B  Eb) : Triada Menor (bajo alterado)
+Em/Eb                     [x 2 2 0 0 0] (Eb G  B  Eb) : Triada Menor (bajo alterado)
+Em/F                      [0 2 2 0 1 0] (Eb G  B  F) : Triada Menor (bajo alterado)
+Em/F                      [1 2 2 0 0 0] (Eb G  B  F) : Triada Menor (bajo alterado)
+Em/F                      [1 x 2 0 0 0] (Eb G  B  F) : Triada Menor (bajo alterado)
+Em/F                      [x 2 2 0 1 0] (Eb G  B  F) : Triada Menor (bajo alterado)
+Em/F                      [x x 2 0 1 0] (Eb G  B  F) : Triada Menor (bajo alterado)
+Em/G                      [0 2 2 0 0 3] (Eb G  B  G) : Triada Menor (bajo alterado)
+Em/G                      [3 2 2 0 0 0] (Eb G  B  G) : Triada Menor (bajo alterado)
+Em/G                      [3 x 2 0 0 0] (Eb G  B  G) : Triada Menor (bajo alterado)
+Em/G                      [x 2 2 0 0 3] (Eb G  B  G) : Triada Menor (bajo alterado)
+Em/G                      [x x 2 0 0 3] (Eb G  B  G) : Triada Menor (bajo alterado)
+Em/Gb                     [0 2 2 0 0 2] (Eb G  B  Gb) : Triada Menor (bajo alterado)
+Em/Gb                     [x 2 2 0 0 2] (Eb G  B  Gb) : Triada Menor (bajo alterado)
+Em6                       [0 2 2 0 0 2] (Eb G  B  Gb) : Triada Menor más 6ta
+Em6                       [x 2 2 0 0 2] (Eb G  B  Gb) : Triada Menor más 6ta
+Em7                       [0 2 0 0 0 0] (Eb G  B  D) : Triada Menor, 7ma menor
+Em7                       [x 2 0 0 0 0] (Eb G  B  D) : Triada Menor, 7ma menor
+Em7                       [x x 0 0 0 0] (Eb G  B  D) : Triada Menor, 7ma menor
+Em7(b5)    or   Eo7       [0 1 0 0 0 0] (Eb G  Bb D) : Triada Disminuida, 7ma menor : 7ma semidisminuida
+Emaj7     or   E#7       [0 2 1 1 0 0] (Eb Ab B  Eb) : Triada Mayor, 7ma mayor
+Emin/maj9                 [0 2 0 1 0 0] (Eb G  B  Eb  Gb) : Triada Menor, 7ma mayor más 9na
+Esus      or   Esus4      [0 2 2 2 0 0] (Eb A  B) : sin 3ra pero con 4ta de una triada mayor
+Esus      or   Esus4      [x 2 2 2 0 0] (Eb A  B) : sin 3ra pero con 4ta de una triada mayor
+Esus2     or   Eadd9(no3) [0 2 2 0 0 2] (Eb B  Gb) : sin 3ra pero con 2da de una triada mayor
+Esus2     or   Eadd9(no3) [x 2 2 0 0 2] (Eb B  Gb) : sin 3ra pero con 2da de una triada mayor
+Esus2/B                   [0 2 2 0 0 0] (Eb B  Gb B) : Triada sus2 (bajo alterado)
+Esus2/B                   [x 2 2 0 0 0] (Eb B  Gb B) : Triada sus2 (bajo alterado)
+Esus2/C                   [0 0 2 0 0 2] (Eb B  Gb C) : Triada sus2 (bajo alterado)
+Esus2/C                   [x 0 2 0 0 2] (Eb B  Gb C) : Triada sus2 (bajo alterado)
+Esus2/C                   [x 3 2 0 0 2] (Eb B  Gb C) : Triada sus2 (bajo alterado)
+Esus2/C                   [x x 2 0 0 2] (Eb B  Gb C) : Triada sus2 (bajo alterado)
+Esus2/D                   [0 2 0 0 0 2] (Eb B  Gb D) : Triada sus2 (bajo alterado)
+Esus2/D                   [x 2 0 0 0 2] (Eb B  Gb D) : Triada sus2 (bajo alterado)
+Esus2/D                   [x x 0 0 0 2] (Eb B  Gb D) : Triada sus2 (bajo alterado)
+Esus2/Db                  [0 2 2 0 0 1] (Db Eb B  Gb) : Triada sus2 (bajo alterado)
+Esus2/Eb                  [0 2 2 0 0 0] (Eb B  Gb Eb) : Triada sus2 (bajo alterado)
+Esus2/Eb                  [x 2 2 0 0 0] (Eb B  Gb Eb) : Triada sus2 (bajo alterado)
+Esus2/F                   [0 2 2 0 1 2] (Eb B  Gb F) : Triada sus2 (bajo alterado)
+Esus2/G                   [0 2 2 0 0 3] (Eb B  Gb G) : Triada sus2 (bajo alterado)
+Esus2/G                   [3 2 2 0 0 2] (Eb B  Gb G) : Triada sus2 (bajo alterado)
+Esus2/G                   [3 x 2 0 0 2] (Eb B  Gb G) : Triada sus2 (bajo alterado)
+Esus2/G                   [x 2 2 0 0 3] (Eb B  Gb G) : Triada sus2 (bajo alterado)
+Esus2/G                   [x x 2 0 0 3] (Eb B  Gb G) : Triada sus2 (bajo alterado)
+Esus2/Gb                  [0 2 2 0 0 2] (Eb B  Gb Gb) : Triada sus2 (bajo alterado)
+Esus2/Gb                  [x 2 2 0 0 2] (Eb B  Gb Gb) : Triada sus2 (bajo alterado)
+Esus4/B                   [0 2 2 2 0 0] (Eb A  B  B) : Triada sus4 (bajo alterado)
+Esus4/B                   [x 2 2 2 0 0] (Eb A  B  B) : Triada sus4 (bajo alterado)
+Esus4/C                   [0 0 2 2 0 0] (Eb A  B  C) : Triada sus4 (bajo alterado)
+Esus4/C                   [x 0 2 2 0 0] (Eb A  B  C) : Triada sus4 (bajo alterado)
+Esus4/C                   [x 3 2 2 0 0] (Eb A  B  C) : Triada sus4 (bajo alterado)
+Esus4/C                   [x x 2 2 0 0] (Eb A  B  C) : Triada sus4 (bajo alterado)
+Esus4/D                   [0 2 0 2 0 0] (Eb A  B  D) : Triada sus4 (bajo alterado)
+Esus4/D                   [x 2 0 2 0 0] (Eb A  B  D) : Triada sus4 (bajo alterado)
+Esus4/D                   [x x 0 2 0 0] (Eb A  B  D) : Triada sus4 (bajo alterado)
+Esus4/Db                  [0 2 2 2 0 1] (Db Eb A  B) : Triada sus4 (bajo alterado)
+Esus4/Eb                  [0 2 2 2 0 0] (Eb A  B  Eb) : Triada sus4 (bajo alterado)
+Esus4/Eb                  [x 2 2 2 0 0] (Eb A  B  Eb) : Triada sus4 (bajo alterado)
+Esus4/F                   [0 2 2 2 1 0] (Eb A  B  F) : Triada sus4 (bajo alterado)
+Esus4/G                   [0 2 2 2 0 3] (Eb A  B  G) : Triada sus4 (bajo alterado)
+Esus4/G                   [3 2 2 2 0 0] (Eb A  B  G) : Triada sus4 (bajo alterado)
+Esus4/G                   [3 x 2 2 0 0] (Eb A  B  G) : Triada sus4 (bajo alterado)
+Esus4/G                   [x 2 2 2 0 3] (Eb A  B  G) : Triada sus4 (bajo alterado)
+Esus4/G                   [x x 2 2 0 3] (Eb A  B  G) : Triada sus4 (bajo alterado)
+Esus4/Gb                  [0 2 2 2 0 2] (Eb A  B  Gb) : Triada sus4 (bajo alterado)
+Esus4/Gb                  [x 2 2 2 0 2] (Eb A  B  Gb) : Triada sus4 (bajo alterado)
+F         or   Fmaj      [1 3 3 2 1 1] (F  A  C) : Triada Mayor
+F         or   Fmaj      [x 8 10 10 10 8] (F  A  C) : Triada Mayor
+F         or   Fmaj      [x x 3 2 1 1] (F  A  C) : Triada Mayor
+F #5      or   Faug      [x x 3 2 2 1] (F  A  Db) : Triada Aumentada
+F/A                      [x 0 3 2 1 1] (F  A  C  A) : Triada Mayor (bajo alterado)
+F/A                      [x x 3 2 1 1] (F  A  C  A) : Triada Mayor (bajo alterado)
+F/B                       [x 2 3 2 1 1] (F  A  C  B) : Triada Mayor (bajo alterado)
+F/B                       [x 2 3 2 1 4] (F  A  C  B) : Triada Mayor (bajo alterado)
+F/B                       [x x 3 2 1 1] (F  A  C  B) : Triada Mayor (bajo alterado)
+F/C                       [x x 3 2 1 0] (F  A  C  C) : Triada Mayor (bajo alterado)
+F/C                       [x x 3 2 1 3] (F  A  C  C) : Triada Mayor (bajo alterado)
+F/D                       [x x 3 2 1 5] (F  A  C  D) : Triada Mayor (bajo alterado)
+F/E                       [0 0 3 2 1 1] (F  A  C  E) : Triada Mayor (bajo alterado)
+F/E                       [x 0 3 2 1 1] (F  A  C  E) : Triada Mayor (bajo alterado)
+F/E                       [x x 3 2 1 1] (F  A  C  E) : Triada Mayor (bajo alterado)
+F/F                       [1 3 3 2 1 1] (F  A  C  F) : Triada Mayor (bajo alterado)
+F/F                       [x x 3 2 1 1] (F  A  C  F) : Triada Mayor (bajo alterado)
+F/G                       [3 3 3 2 1 1] (F  A  C  G) : Triada Mayor (bajo alterado)
+F/G                       [x 3 3 2 1 1] (F  A  C  G) : Triada Mayor (bajo alterado)
+F/G                       [x x 3 2 1 1] (F  A  C  G) : Triada Mayor (bajo alterado)
+F/Gb                      [x 1 3 2 1 1] (F  A  C  Gb) : Triada Mayor (bajo alterado)
+F5        or   F(no 3rd) [1 3 3 x x 1] (C  F): root and 5th (power chord)
+F6                       [x x 3 2 1 3] (F  A  C  D) : Triada Mayor más 6ta
+F7        or   Fdom 7    [1 3 1 2 1 1] (F  A  C  Eb) : Triada Mayor, 7ma menor
+F7        or   Fdom 7    [x x 3 2 1 3] (F  A  C  Eb) : Triada Mayor, 7ma menor
+F7/add11  or   F7/11     [x x 3 2 1 1] (F  A  C  Eb  G) : Triada Mayor, 7ma menor, más 11ava
+F7/sus4                  [1 3 1 3 1 1] (F  Bb C  Eb) : Triada sus4, 7ma menor
+F9                       [x 8 7 8 8 8] (F  A  C  Eb  G) : Triada Mayor, 7ma menor, más 9na
+Fadd9     or   F2        [x x 3 2 1 3] (F  A  C  G) : Triada Mayor más 9na
+Faug/A                   [x x 3 2 2 1] (F  A  Db A) : Triada Aumentada (bajo alterado)
+Faug/B                   [x 2 3 2 2 1] (F  A  Db B) : Triada Aumentada (bajo alterado)
+Faug/C                   [x x 3 2 2 0] (F  A  Db C) : Triada Aumentada (bajo alterado)
+Faug/D                   [x x 3 2 2 5] (F  A  Db D) : Triada Aumentada (bajo alterado)
+Faug/E                   [0 0 3 2 2 1] (F  A  Db E) : Triada Aumentada (bajo alterado)
+Faug/E                   [x 0 3 2 2 1] (F  A  Db E) : Triada Aumentada (bajo alterado)
+Faug/E                   [x x 3 2 2 1] (F  A  Db E) : Triada Aumentada (bajo alterado)
+Faug/F                   [x x 3 2 2 1] (F  A  Db F) : Triada Aumentada (bajo alterado)
+Faug/G                   [x x 3 2 2 1] (F  A  Db G) : Triada Aumentada (bajo alterado)
+Faug/Gb                  [x 1 3 2 2 1] (F  A  Db Gb) : Triada Aumentada (bajo alterado)
+Fdim/A                   [x 0 4 5 4 5] (F  Ab B  C) : Triada Disminuida (bajo alterado)
+Fdim/A                   [x x 2 3 1 3] (F  Ab B  C) : Triada Disminuida (bajo alterado)
+Fdim/B                   [x 2 0 3 1 3] (F  Ab B  B) : Triada Disminuida (bajo alterado)
+Fdim/B                   [x 2 0 3 4 3] (F  Ab B  B) : Triada Disminuida (bajo alterado)
+Fdim/B                   [x x 0 3 1 3] (F  Ab B  B) : Triada Disminuida (bajo alterado)
+Fdim/C                   [x x 0 3 1 0] (F  Ab B  C) : Triada Disminuida (bajo alterado)
+Fdim/C                   [x x 0 3 1 3] (F  Ab B  C) : Triada Disminuida (bajo alterado)
+Fdim/D                   [x x 0 3 4 0] (F  D  Ab B) : Triada Disminuida (bajo alterado)
+Fdim/E                   [0 0 0 3 1 3] (F  Ab B  E) : Triada Disminuida (bajo alterado)
+Fdim/E                   [0 0 0 3 4 3] (F  Ab B  E) : Triada Disminuida (bajo alterado)
+Fdim/E                   [x 0 0 3 1 3] (F  Ab B  E) : Triada Disminuida (bajo alterado)
+Fdim/E                   [x 0 0 3 4 3] (F  Ab B  E) : Triada Disminuida (bajo alterado)
+Fdim/E                   [x x 0 3 1 3] (F  Ab B  E) : Triada Disminuida (bajo alterado)
+Fdim/F                   [x x 0 3 4 4] (F  F  Ab B) : Triada Disminuida (bajo alterado)
+Fdim/F                   [x x 0 3 4 6] (F  F  Ab B) : Triada Disminuida (bajo alterado)
+Fdim/G                   [x x 0 3 4 0] (F  Ab G  B) : Triada Disminuida (bajo alterado)
+Fdim/G                   [x x 0 3 4 6] (F  Ab G  B) : Triada Disminuida (bajo alterado)
+Fdim/Gb                  [x x 0 3 4 2] (F  Ab Gb B) : Triada Disminuida (bajo alterado)
+Fdim7                    [x 2 0 3 1 3] (F  Ab B  D) : Triada Disminuida, 7ma disminuida
+Fdim7                    [x x 0 3 1 3] (F  Ab B  D) : Triada Disminuida, 7ma disminuida
+Fm                       [1 3 3 1 1 1] (F  Ab C) : Triada Menor
+Fm                       [x 8 10 10 9 8] (F  Ab C) : Triada Menor
+Fm                       [x x 3 1 1 1] (F  Ab C) : Triada Menor
+Fm/A                     [x 0 3 1 1 1] (F  Ab C  A) : Triada Menor (bajo alterado)
+Fm/A                     [x x 3 1 1 1] (F  Ab C  A) : Triada Menor (bajo alterado)
+Fm/B                     [x 2 3 1 1 1] (F  Ab C  B) : Triada Menor (bajo alterado)
+Fm/B                     [x 2 3 1 1 4] (F  Ab C  B) : Triada Menor (bajo alterado)
+Fm/B                     [x x 3 1 1 1] (F  Ab C  B) : Triada Menor (bajo alterado)
+Fm/C                     [x x 3 1 1 0] (F  Ab C  C) : Triada Menor (bajo alterado)
+Fm/C                     [x x 3 1 1 3] (F  Ab C  C) : Triada Menor (bajo alterado)
+Fm/D                     [x x 3 1 1 5] (F  Ab C  D) : Triada Menor (bajo alterado)
+Fm/E                     [0 0 3 1 1 1] (F  Ab C  E) : Triada Menor (bajo alterado)
+Fm/E                     [x 0 3 1 1 1] (F  Ab C  E) : Triada Menor (bajo alterado)
+Fm/E                     [x x 3 1 1 1] (F  Ab C  E) : Triada Menor (bajo alterado)
+Fm/F                     [1 3 3 1 1 1] (F  Ab C  F) : Triada Menor (bajo alterado)
+Fm/F                     [x x 3 1 1 1] (F  Ab C  F) : Triada Menor (bajo alterado)
+Fm/G                     [3 3 3 1 1 1] (F  Ab C  G) : Triada Menor (bajo alterado)
+Fm/G                     [x 3 3 1 1 1] (F  Ab C  G) : Triada Menor (bajo alterado)
+Fm/G                     [x x 3 1 1 1] (F  Ab C  G) : Triada Menor (bajo alterado)
+Fm/Gb                    [x 1 3 1 1 1] (F  Ab C  Gb) : Triada Menor (bajo alterado)
+Fm6                      [x x 3 1 1 3] (F  Ab C  D) : Triada Menor más 6ta
+Fm7                      [1 3 1 1 1 1] (F  Ab C  Eb) : Triada Menor, 7ma menor
+Fm7                      [x x 3 1 1 3] (F  Ab C  Eb) : Triada Menor, 7ma menor
+Fm7(b5)    or   Fo7       [1 2 1 1 1 1] (F  Ab B  Eb) : Triada Disminuida, 7ma menor : 7ma semidisminuida
+Fmaj7     or   F#7       [1 3 2 2 1 1] (F  A  C  E) : Triada Mayor, 7ma mayor
+Fmin/maj9                [1 3 1 2 1 1] (F  Ab C  E  G) : Triada Menor, 7ma mayor más 9na
+Fsus      or   Fsus4     [1 3 3 3 1 1] (F  Bb C) : sin 3ra pero con 4ta de una triada mayor
+Fsus      or   Fsus4     [x x 3 3 1 1] (F  Bb C) : sin 3ra pero con 4ta de una triada mayor
+Fsus2     or   Fadd9(no3)[x x 3 3 1 1] (C  F  G) : sin 3ra pero con 2da de una triada mayor
+Fsus2     or   Fadd9(no3)[x 8 10 10 8 8] (C  F  G) : sin 3ra pero con 2da de una triada mayor
+Fsus2/A                  [x 0 3 3 1 1] (C  F  G  A) : Triada sus2 (bajo alterado)
+Fsus2/A                  [x x 3 3 1 1] (C  F  G  A) : Triada sus2 (bajo alterado)
+Fsus2/B                  [x 2 3 3 1 1] (C  F  G  B) : Triada sus2 (bajo alterado)
+Fsus2/B                  [x x 3 3 1 1] (C  F  G  B) : Triada sus2 (bajo alterado)
+Fsus2/C                  [x x 3 3 1 0] (C  F  G  C) : Triada sus2 (bajo alterado)
+Fsus2/C                  [x x 3 3 1 3] (C  F  G  C) : Triada sus2 (bajo alterado)
+Fsus2/D                  [x x 3 3 1 5] (C  F  G  D) : Triada sus2 (bajo alterado)
+Fsus2/E                  [0 0 3 3 1 1] (C  F  G  E) : Triada sus2 (bajo alterado)
+Fsus2/E                  [x 0 3 3 1 1] (C  F  G  E) : Triada sus2 (bajo alterado)
+Fsus2/E                  [x x 3 3 1 1] (C  F  G  E) : Triada sus2 (bajo alterado)
+Fsus2/F                  [1 3 3 3 1 1] (C  F  G  F) : Triada sus2 (bajo alterado)
+Fsus2/F                  [x x 3 3 1 1] (C  F  G  F) : Triada sus2 (bajo alterado)
+Fsus2/G                  [3 3 3 3 1 1] (C  F  G  G) : Triada sus2 (bajo alterado)
+Fsus2/G                  [x 3 3 3 1 1] (C  F  G  G) : Triada sus2 (bajo alterado)
+Fsus2/G                  [x x 3 3 1 1] (C  F  G  G) : Triada sus2 (bajo alterado)
+Fsus2/Gb                 [x 1 3 3 1 1] (C  F  G  Gb) : Triada sus2 (bajo alterado)
+Fsus4/A                  [1 3 3 3 1 1] (F  Bb C  A) : Triada sus4 (bajo alterado)
+Fsus4/A                  [x x 3 3 1 1] (F  Bb C  A) : Triada sus4 (bajo alterado)
+Fsus4/B                  [x 2 3 3 1 1] (F  Bb C  B) : Triada sus4 (bajo alterado)
+Fsus4/B                  [x x 3 3 1 1] (F  Bb C  B) : Triada sus4 (bajo alterado)
+Fsus4/C                  [x x 3 3 1 0] (F  Bb C  C) : Triada sus4 (bajo alterado)
+Fsus4/C                  [x x 3 3 1 3] (F  Bb C  C) : Triada sus4 (bajo alterado)
+Fsus4/D                  [x x 3 3 1 5] (F  Bb C  D) : Triada sus4 (bajo alterado)
+Fsus4/E                  [0 0 3 3 1 1] (F  Bb C  E) : Triada sus4 (bajo alterado)
+Fsus4/E                  [x 0 3 3 1 1] (F  Bb C  E) : Triada sus4 (bajo alterado)
+Fsus4/E                  [x x 3 3 1 1] (F  Bb C  E) : Triada sus4 (bajo alterado)
+Fsus4/F                  [1 3 3 3 1 1] (F  Bb C  F) : Triada sus4 (bajo alterado)
+Fsus4/F                  [x x 3 3 1 1] (F  Bb C  F) : Triada sus4 (bajo alterado)
+Fsus4/G                  [3 3 3 3 1 1] (F  Bb C  G) : Triada sus4 (bajo alterado)
+Fsus4/G                  [x 3 3 3 1 1] (F  Bb C  G) : Triada sus4 (bajo alterado)
+Fsus4/G                  [x x 3 3 1 1] (F  Bb C  G) : Triada sus4 (bajo alterado)
+Fsus4/Gb                 [x 1 3 3 1 1] (F  Bb C  Gb) : Triada sus4 (bajo alterado)
+F#        or   F#maj     [2 4 4 3 2 2] (F# A# C#) : Triada Mayor
+F#        or   F#maj     [x 9 11 11 11 9] (F# A# C#) : Triada Mayor
+F#        or   F#maj     [x x 4 3 2 2] (F# A# C#) : Triada Mayor
+F# #5     or   F#aug     [x x 4 3 3 2] (F# A# D) : Triada Aumentada
+F#/A#                    [x 1 4 3 2 2] (F# A# C# A#) : Triada Mayor (bajo alterado)
+F#/A#                    [x x 4 3 2 2] (F# A# C# A#) : Triada Mayor (bajo alterado)
+F#/B                     [x 2 4 3 2 2] (F# A# C# B) : Triada Mayor (bajo alterado)
+F#/B                     [x 2 4 3 2 5] (F# A# C# B) : Triada Mayor (bajo alterado)
+F#/B                     [x x 4 3 2 2] (F# A# C# B) : Triada Mayor (bajo alterado)
+F#/C                     [x x 4 3 2 1] (F# A# C# C) : Triada Mayor (bajo alterado)
+F#/C                     [x x 4 3 2 4] (F# A# C# C) : Triada Mayor (bajo alterado)
+F#/D                     [x x 4 3 2 6] (F# A# C# D) : Triada Mayor (bajo alterado)
+F#/E                     [0 0 4 3 2 2] (F# A# C# E) : Triada Mayor (bajo alterado)
+F#/E                     [x 0 4 3 2 2] (F# A# C# E) : Triada Mayor (bajo alterado)
+F#/E                     [x x 4 3 2 2] (F# A# C# E) : Triada Mayor (bajo alterado)
+F#/F                     [1 4 4 3 2 2] (F# A# C# F) : Triada Mayor (bajo alterado)
+F#/F                     [x x 4 3 2 2] (F# A# C# F) : Triada Mayor (bajo alterado)
+F#/G                     [3 4 4 3 2 2] (F# A# C# G) : Triada Mayor (bajo alterado)
+F#/G                     [x 4 4 3 2 2] (F# A# C# G) : Triada Mayor (bajo alterado)
+F#/G                     [x x 4 3 2 2] (F# A# C# G) : Triada Mayor (bajo alterado)
+F#/G#                    [x 2 4 3 2 2] (F# A# C# G#) : Triada Mayor (bajo alterado)
+F#5        or   F#(no 3rd) [2 4 4 x x 2] (C# F#): root and 5th (power chord)
+F#6                       [x x 4 3 2 4] (F# A# C# D#) : Triada Mayor más 6ta
+F#7        or   F#dom 7    [2 4 2 3 2 2] (F# A# C# E) : Triada Mayor, 7ma menor
+F#7        or   F#dom 7    [x x 4 3 2 4] (F# A# C# E) : Triada Mayor, 7ma menor
+F#7/add11  or   F#7/11     [x x 4 3 2 2] (F# A# C# E  G#) : Triada Mayor, 7ma menor, más 11ava
+F#7/sus4                  [2 4 2 4 2 2] (F# B  C# E) : Triada sus4, 7ma menor
+F#9                       [x 9 8 9 9 9] (F# A# C# E  G#) : Triada Mayor, 7ma menor, más 9na
+F#add9     or   F#2        [x x 4 3 2 4] (F# A# C# G#) : Triada Mayor más 9na
+F#aug/A#                  [x x 4 3 3 2] (F# A# D  A#) : Triada Aumentada (bajo alterado)
+F#aug/B                   [x 2 4 3 3 2] (F# A# D  B) : Triada Aumentada (bajo alterado)
+F#aug/C                   [x x 4 3 3 1] (F# A# D  C) : Triada Aumentada (bajo alterado)
+F#aug/D                   [x x 4 3 3 6] (F# A# D  D) : Triada Aumentada (bajo alterado)
+F#aug/E                   [0 0 4 3 3 2] (F# A# D  E) : Triada Aumentada (bajo alterado)
+F#aug/E                   [x 0 4 3 3 2] (F# A# D  E) : Triada Aumentada (bajo alterado)
+F#aug/E                   [x x 4 3 3 2] (F# A# D  E) : Triada Aumentada (bajo alterado)
+F#aug/F                   [x x 4 3 3 2] (F# A# D  F) : Triada Aumentada (bajo alterado)
+F#aug/G                   [x x 4 3 3 2] (F# A# D  G) : Triada Aumentada (bajo alterado)
+F#aug/G#                  [x 2 4 3 3 2] (F# A# D  G#) : Triada Aumentada (bajo alterado)
+F#dim/A                   [x 0 5 6 5 6] (F# A  C  D) : Triada Disminuida (bajo alterado)
+F#dim/A                   [x x 3 4 2 4] (F# A  C  D) : Triada Disminuida (bajo alterado)
+F#dim/B                   [x 2 0 4 2 4] (F# A  C  B) : Triada Disminuida (bajo alterado)
+F#dim/B                   [x 2 0 4 5 4] (F# A  C  B) : Triada Disminuida (bajo alterado)
+F#dim/B                   [x x 0 4 2 4] (F# A  C  B) : Triada Disminuida (bajo alterado)
+F#dim/C                   [x x 0 4 2 1] (F# A  C  C) : Triada Disminuida (bajo alterado)
+F#dim/C                   [x x 0 4 2 4] (F# A  C  C) : Triada Disminuida (bajo alterado)
+F#dim/D                   [x x 0 4 5 0] (F# D  A  C) : Triada Disminuida (bajo alterado)
+F#dim/E                   [0 0 0 4 2 4] (F# A  C  E) : Triada Disminuida (bajo alterado)
+F#dim/E                   [0 0 0 4 5 4] (F# A  C  E) : Triada Disminuida (bajo alterado)
+F#dim/E                   [x 0 0 4 2 4] (F# A  C  E) : Triada Disminuida (bajo alterado)
+F#dim/E                   [x 0 0 4 5 4] (F# A  C  E) : Triada Disminuida (bajo alterado)
+F#dim/E                   [x x 0 4 2 4] (F# A  C  E) : Triada Disminuida (bajo alterado)
+F#dim/F                   [x x 0 4 5 5] (F# F  A  C) : Triada Disminuida (bajo alterado)
+F#dim/F                   [x x 0 4 5 7] (F# F  A  C) : Triada Disminuida (bajo alterado)
+F#dim/G                   [x x 0 4 5 0] (F# A  G  C) : Triada Disminuida (bajo alterado)
+F#dim/G                   [x x 0 4 5 7] (F# A  G  C) : Triada Disminuida (bajo alterado)
+F#dim/G#                  [x x 0 4 5 3] (F# A  G# C) : Triada Disminuida (bajo alterado)
+F#dim7                    [x 2 0 4 2 4] (F# A  C  D#) : Triada Disminuida, 7ma disminuida
+F#dim7                    [x x 0 4 2 4] (F# A  C  D#) : Triada Disminuida, 7ma disminuida
+F#m                       [2 4 4 2 2 2] (F# A  C#) : Triada Menor
+F#m                       [x 9 11 11 10 9] (F# A  C#) : Triada Menor
+F#m                       [x x 4 2 2 2] (F# A  C#) : Triada Menor
+F#m/A#                    [x 1 4 2 2 2] (F# A  C# A#) : Triada Menor (bajo alterado)
+F#m/A#                    [x x 4 2 2 2] (F# A  C# A#) : Triada Menor (bajo alterado)
+F#m/B                     [x 2 4 2 2 2] (F# A  C# B) : Triada Menor (bajo alterado)
+F#m/B                     [x 2 4 2 2 5] (F# A  C# B) : Triada Menor (bajo alterado)
+F#m/B                     [x x 4 2 2 2] (F# A  C# B) : Triada Menor (bajo alterado)
+F#m/C                     [x x 4 2 2 1] (F# A  C# C) : Triada Menor (bajo alterado)
+F#m/C                     [x x 4 2 2 4] (F# A  C# C) : Triada Menor (bajo alterado)
+F#m/D                     [x x 4 2 2 6] (F# A  C# D) : Triada Menor (bajo alterado)
+F#m/E                     [0 0 4 2 2 2] (F# A  C# E) : Triada Menor (bajo alterado)
+F#m/E                     [x 0 4 2 2 2] (F# A  C# E) : Triada Menor (bajo alterado)
+F#m/E                     [x x 4 2 2 2] (F# A  C# E) : Triada Menor (bajo alterado)
+F#m/F                     [1 4 4 2 2 2] (F# A  C# F) : Triada Menor (bajo alterado)
+F#m/F                     [x x 4 2 2 2] (F# A  C# F) : Triada Menor (bajo alterado)
+F#m/G                     [3 4 4 2 2 2] (F# A  C# G) : Triada Menor (bajo alterado)
+F#m/G                     [x 4 4 2 2 2] (F# A  C# G) : Triada Menor (bajo alterado)
+F#m/G                     [x x 4 2 2 2] (F# A  C# G) : Triada Menor (bajo alterado)
+F#m/G#                    [x 2 4 2 2 2] (F# A  C# G#) : Triada Menor (bajo alterado)
+F#m6                      [x x 4 2 2 4] (F# A  C# D#) : Triada Menor más 6ta
+F#m7                      [2 4 2 2 2 2] (F# A  C# E) : Triada Menor, 7ma menor
+F#m7                      [x x 4 2 2 4] (F# A  C# E) : Triada Menor, 7ma menor
+F#m7(b5)    or   F#o7       [2 3 2 2 2 2] (F# A  C  E) : Triada Disminuida, 7ma menor : 7ma semidisminuida
+F#maj7     or   F##7       [2 4 3 3 2 2] (F# A# C# F) : Triada Mayor, 7ma mayor
+F#min/maj9                [2 4 2 3 2 2] (F# A  C# F  G#) : Triada Menor, 7ma mayor más 9na
+F#sus      or   F#sus4     [2 4 4 4 2 2] (F# B  C#) : sin 3ra pero con 4ta de una triada mayor
+F#sus      or   F#sus4     [x x 4 4 2 2] (F# B  C#) : sin 3ra pero con 4ta de una triada mayor
+F#sus2     or   F#add9(no3)[x x 4 4 2 2] (C# F# G#) : sin 3ra pero con 2da de una triada mayor
+F#sus2     or   F#add9(no3)[x 9 11 11 9 9] (C# F# G#) : sin 3ra pero con 2da de una triada mayor
+F#sus2/A#                 [x 1 4 4 2 2] (C# F# G# A#) : Triada sus2 (bajo alterado)
+F#sus2/A#                 [x x 4 4 2 2] (C# F# G# A#) : Triada sus2 (bajo alterado)
+F#sus2/B                  [x 2 4 4 2 2] (C# F# G# B) : Triada sus2 (bajo alterado)
+F#sus2/B                  [x x 4 4 2 2] (C# F# G# B) : Triada sus2 (bajo alterado)
+F#sus2/C                  [x x 4 4 2 1] (C# F# G# C) : Triada sus2 (bajo alterado)
+F#sus2/C                  [x x 4 4 2 4] (C# F# G# C) : Triada sus2 (bajo alterado)
+F#sus2/D                  [x x 4 4 2 6] (C# F# G# D) : Triada sus2 (bajo alterado)
+F#sus2/E                  [0 0 4 4 2 2] (C# F# G# E) : Triada sus2 (bajo alterado)
+F#sus2/E                  [x 0 4 4 2 2] (C# F# G# E) : Triada sus2 (bajo alterado)
+F#sus2/E                  [x x 4 4 2 2] (C# F# G# E) : Triada sus2 (bajo alterado)
+F#sus2/F                  [1 4 4 4 2 2] (C# F# G# F) : Triada sus2 (bajo alterado)
+F#sus2/F                  [x x 4 4 2 2] (C# F# G# F) : Triada sus2 (bajo alterado)
+F#sus2/G                  [3 4 4 4 2 2] (C# F# G# G) : Triada sus2 (bajo alterado)
+F#sus2/G                  [x 4 4 4 2 2] (C# F# G# G) : Triada sus2 (bajo alterado)
+F#sus2/G                  [x x 4 4 2 2] (C# F# G# G) : Triada sus2 (bajo alterado)
+F#sus2/G#                 [x 2 4 4 2 2] (C# F# G# G#) : Triada sus2 (bajo alterado)
+F#sus4/A#                 [2 4 4 4 2 2] (F# B  C# A#) : Triada sus4 (bajo alterado)
+F#sus4/A#                 [x x 4 4 2 2] (F# B  C# A#) : Triada sus4 (bajo alterado)
+F#sus4/B                  [x 2 4 4 2 2] (F# B  C# B) : Triada sus4 (bajo alterado)
+F#sus4/B                  [x x 4 4 2 2] (F# B  C# B) : Triada sus4 (bajo alterado)
+F#sus4/C                  [x x 4 4 2 1] (F# B  C# C) : Triada sus4 (bajo alterado)
+F#sus4/C                  [x x 4 4 2 4] (F# B  C# C) : Triada sus4 (bajo alterado)
+F#sus4/D                  [x x 4 4 2 6] (F# B  C# D) : Triada sus4 (bajo alterado)
+F#sus4/E                  [0 0 4 4 2 2] (F# B  C# E) : Triada sus4 (bajo alterado)
+F#sus4/E                  [x 0 4 4 2 2] (F# B  C# E) : Triada sus4 (bajo alterado)
+F#sus4/E                  [x x 4 4 2 2] (F# B  C# E) : Triada sus4 (bajo alterado)
+F#sus4/F                  [1 4 4 4 2 2] (F# B  C# F) : Triada sus4 (bajo alterado)
+F#sus4/F                  [x x 4 4 2 2] (F# B  C# F) : Triada sus4 (bajo alterado)
+F#sus4/G                  [3 4 4 4 2 2] (F# B  C# G) : Triada sus4 (bajo alterado)
+F#sus4/G                  [x 4 4 4 2 2] (F# B  C# G) : Triada sus4 (bajo alterado)
+F#sus4/G                  [x x 4 4 2 2] (F# B  C# G) : Triada sus4 (bajo alterado)
+F#sus4/G#                 [x 2 4 4 2 2] (F# B  C# G#) : Triada sus4 (bajo alterado)
+G         or   Gmaj      [3 2 0 0 0 3] (G  B  D) : Triada Mayor
+G         or   Gmaj      [3 2 0 0 3 3] (G  B  D) : Triada Mayor
+G         or   Gmaj      [x 10 12 12 12 10] (G  B  D) : Triada Mayor
+G         or   Gmaj      [x x 0 0 0 3] (G  B  D) : Triada Mayor
+G #5      or   Gaug      [3 2 1 0 0 3] (G  B  Eb) : Triada Aumentada
+G #5      or   Gaug      [3 2 x 0 0 3] (G  B  Eb) : Triada Aumentada
+G/B                      [x 2 0 0 0 3] (G  B  D  B) : Triada Mayor (bajo alterado)
+G/B                      [x 2 0 0 3 3] (G  B  D  B) : Triada Mayor (bajo alterado)
+G/B                      [x x 0 0 0 3] (G  B  D  B) : Triada Mayor (bajo alterado)
+G/C                      [x 3 0 0 0 3] (G  B  D  C) : Triada Mayor (bajo alterado)
+G/C                      [x 3 0 0 3 3] (G  B  D  C) : Triada Mayor (bajo alterado)
+G/C                      [x x 0 0 0 3] (G  B  D  C) : Triada Mayor (bajo alterado)
+G/D                      [x x 0 0 0 5] (G  B  D  D) : Triada Mayor (bajo alterado)
+G/E                      [0 2 0 0 0 3] (G  B  D  E) : Triada Mayor (bajo alterado)
+G/E                      [x 0 0 0 0 3] (G  B  D  E) : Triada Mayor (bajo alterado)
+G/E                      [x 2 0 0 0 3] (G  B  D  E) : Triada Mayor (bajo alterado)
+G/E                      [x x 0 0 0 3] (G  B  D  E) : Triada Mayor (bajo alterado)
+G/F                      [1 3 0 0 0 3] (G  B  D  F) : Triada Mayor (bajo alterado)
+G/F                      [1 x 0 0 0 3] (G  B  D  F) : Triada Mayor (bajo alterado)
+G/F                      [x 3 0 0 0 3] (G  B  D  F) : Triada Mayor (bajo alterado)
+G/F                      [x x 0 0 0 3] (G  B  D  F) : Triada Mayor (bajo alterado)
+G/G                      [3 2 0 0 0 3] (G  B  D  G) : Triada Mayor (bajo alterado)
+G/G                      [x 2 0 0 0 3] (G  B  D  G) : Triada Mayor (bajo alterado)
+G/G                      [x x 0 0 0 3] (G  B  D  G) : Triada Mayor (bajo alterado)
+G/Gb                     [2 2 0 0 0 3] (G  B  D  Gb) : Triada Mayor (bajo alterado)
+G5        or   G(no 3rd) [3 5 5 x x 3] (D  G): root and 5th (power chord)
+G6                       [3 2 0 0 0 0] (G  B  D  E) : Triada Mayor más 6ta
+G6                       [x 2 0 0 0 0] (G  B  D  E) : Triada Mayor más 6ta
+G6                       [x x 0 0 0 0] (G  B  D  E) : Triada Mayor más 6ta
+G7        or   Gdom 7    [3 2 0 0 0 1] (G  B  D  F) : Triada Mayor, 7ma menor
+G7        or   Gdom 7    [x 2 0 0 0 1] (G  B  D  F) : Triada Mayor, 7ma menor
+G7        or   Gdom 7    [x x 0 0 0 1] (G  B  D  F) : Triada Mayor, 7ma menor
+G7(#5)                   [3 2 1 0 0 1] (G  B  Eb F) : 7ma menor, 5ta aumentada
+G7/add11  or   G7/11     [3 0 0 0 0 1] (G  B  D  F  C) : Triada Mayor, 7ma menor, más 11ava
+G7/sus4                  [3 3 0 0 1 1] (G  C  D  F) : Triada sus4, 7ma menor
+G9                       [3 2 0 0 0 3] (G  B  D  F  A) : Triada Mayor, 7ma menor, más 9na
+Gadd9     or   G2        [3 2 0 0 0 3] (G  B  D  A) : Triada Mayor más 9na
+Gadd9     or   G2        [x 2 0 0 0 3] (G  B  D  A) : Triada Mayor más 9na
+Gadd9     or   G2        [x x 0 0 0 3] (G  B  D  A) : Triada Mayor más 9na
+Gaug/B                   [3 2 1 0 0 3] (G  B  Eb B) : Triada Aumentada (bajo alterado)
+Gaug/B                   [3 2 x 0 0 3] (G  B  Eb B) : Triada Aumentada (bajo alterado)
+Gaug/C                   [3 0 1 0 0 3] (G  B  Eb C) : Triada Aumentada (bajo alterado)
+Gaug/C                   [x 0 1 0 0 3] (G  B  Eb C) : Triada Aumentada (bajo alterado)
+Gaug/D                   [3 2 1 0 0 3] (G  B  Eb D) : Triada Aumentada (bajo alterado)
+Gaug/D                   [3 2 x 0 0 3] (G  B  Eb D) : Triada Aumentada (bajo alterado)
+Gaug/E                   [0 2 1 0 0 3] (G  B  Eb E) : Triada Aumentada (bajo alterado)
+Gaug/E                   [x 0 1 0 0 3] (G  B  Eb E) : Triada Aumentada (bajo alterado)
+Gaug/E                   [x 2 1 0 0 3] (G  B  Eb E) : Triada Aumentada (bajo alterado)
+Gaug/E                   [x x 1 0 0 3] (G  B  Eb E) : Triada Aumentada (bajo alterado)
+Gaug/G                   [3 2 1 0 0 3] (G  B  Eb G) : Triada Aumentada (bajo alterado)
+Gaug/G                   [3 2 x 0 0 3] (G  B  Eb G) : Triada Aumentada (bajo alterado)
+Gb        or   Gbmaj     [2 4 4 3 2 2] (Gb Bb Db) : Triada Mayor
+Gb        or   Gbmaj     [x 9 11 11 11 9] (Gb Bb Db) : Triada Mayor
+Gb        or   Gbmaj     [x x 4 3 2 2] (Gb Bb Db) : Triada Mayor
+Gb #5     or   Gbaug     [x x 4 3 3 2] (Gb Bb D) : Triada Aumentada
+Gb/A                     [x 1 4 3 2 2] (Gb Bb Db A) : Triada Mayor (bajo alterado)
+Gb/A                     [x x 4 3 2 2] (Gb Bb Db A) : Triada Mayor (bajo alterado)
+Gb/Bb                    [x 2 4 3 2 2] (Gb Bb Db Bb) : Triada Mayor (bajo alterado)
+Gb/Bb                    [x 2 4 3 2 5] (Gb Bb Db Bb) : Triada Mayor (bajo alterado)
+Gb/Bb                    [x x 4 3 2 2] (Gb Bb Db Bb) : Triada Mayor (bajo alterado)
+Gb/C                     [x x 4 3 2 1] (Gb Bb Db C) : Triada Mayor (bajo alterado)
+Gb/C                     [x x 4 3 2 4] (Gb Bb Db C) : Triada Mayor (bajo alterado)
+Gb/D                     [x x 4 3 2 6] (Gb Bb Db D) : Triada Mayor (bajo alterado)
+Gb/E                     [0 0 4 3 2 2] (Gb Bb Db E) : Triada Mayor (bajo alterado)
+Gb/E                     [x 0 4 3 2 2] (Gb Bb Db E) : Triada Mayor (bajo alterado)
+Gb/E                     [x x 4 3 2 2] (Gb Bb Db E) : Triada Mayor (bajo alterado)
+Gb/F                     [1 4 4 3 2 2] (Gb Bb Db F) : Triada Mayor (bajo alterado)
+Gb/F                     [x x 4 3 2 2] (Gb Bb Db F) : Triada Mayor (bajo alterado)
+Gb/G                     [3 4 4 3 2 2] (Gb Bb Db G) : Triada Mayor (bajo alterado)
+Gb/G                     [x 4 4 3 2 2] (Gb Bb Db G) : Triada Mayor (bajo alterado)
+Gb/G                     [x x 4 3 2 2] (Gb Bb Db G) : Triada Mayor (bajo alterado)
+Gb/Ab                    [x 2 4 3 2 2] (Gb Bb Db Ab) : Triada Mayor (bajo alterado)
+Gb5        or   Gb(no 3rd) [2 4 4 x x 2] (Db Gb): root and 5th (power chord)
+Gb6                       [x x 4 3 2 4] (Gb Bb Db Eb) : Triada Mayor más 6ta
+Gb7        or   Gbdom 7    [2 4 2 3 2 2] (Gb Bb Db E) : Triada Mayor, 7ma menor
+Gb7        or   Gbdom 7    [x x 4 3 2 4] (Gb Bb Db E) : Triada Mayor, 7ma menor
+Gb7/add11  or   Gb7/11     [x x 4 3 2 2] (Gb Bb Db E  Ab) : Triada Mayor, 7ma menor, más 11ava
+Gb7/sus4                  [2 4 2 4 2 2] (Gb B  Db E) : Triada sus4, 7ma menor
+Gb9                       [x 9 8 9 9 9] (Gb Bb Db E  Ab) : Triada Mayor, 7ma menor, más 9na
+Gbadd9     or   Gb2        [x x 4 3 2 4] (Gb Bb Db Ab) : Triada Mayor más 9na
+Gbaug/A                   [x x 4 3 3 2] (Gb Bb D  A) : Triada Aumentada (bajo alterado)
+Gbaug/Bb                  [x 2 4 3 3 2] (Gb Bb D  Bb) : Triada Aumentada (bajo alterado)
+Gbaug/C                   [x x 4 3 3 1] (Gb Bb D  C) : Triada Aumentada (bajo alterado)
+Gbaug/D                   [x x 4 3 3 6] (Gb Bb D  D) : Triada Aumentada (bajo alterado)
+Gbaug/E                   [0 0 4 3 3 2] (Gb Bb D  E) : Triada Aumentada (bajo alterado)
+Gbaug/E                   [x 0 4 3 3 2] (Gb Bb D  E) : Triada Aumentada (bajo alterado)
+Gbaug/E                   [x x 4 3 3 2] (Gb Bb D  E) : Triada Aumentada (bajo alterado)
+Gbaug/F                   [x x 4 3 3 2] (Gb Bb D  F) : Triada Aumentada (bajo alterado)
+Gbaug/G                   [x x 4 3 3 2] (Gb Bb D  G) : Triada Aumentada (bajo alterado)
+Gbaug/Ab                  [x 2 4 3 3 2] (Gb Bb D  Ab) : Triada Aumentada (bajo alterado)
+Gbdim/A                   [x 0 5 6 5 6] (Gb A  C  D) : Triada Disminuida (bajo alterado)
+Gbdim/A                   [x x 3 4 2 4] (Gb A  C  D) : Triada Disminuida (bajo alterado)
+Gbdim/Bb                  [x 2 0 4 2 4] (Gb A  C  Bb) : Triada Disminuida (bajo alterado)
+Gbdim/Bb                  [x 2 0 4 5 4] (Gb A  C  Bb) : Triada Disminuida (bajo alterado)
+Gbdim/Bb                  [x x 0 4 2 4] (Gb A  C  Bb) : Triada Disminuida (bajo alterado)
+Gbdim/C                   [x x 0 4 2 1] (Gb A  C  C) : Triada Disminuida (bajo alterado)
+Gbdim/C                   [x x 0 4 2 4] (Gb A  C  C) : Triada Disminuida (bajo alterado)
+Gbdim/D                   [x x 0 4 5 0] (Gb D  A  C) : Triada Disminuida (bajo alterado)
+Gbdim/E                   [0 0 0 4 2 4] (Gb A  C  E) : Triada Disminuida (bajo alterado)
+Gbdim/E                   [0 0 0 4 5 4] (Gb A  C  E) : Triada Disminuida (bajo alterado)
+Gbdim/E                   [x 0 0 4 2 4] (Gb A  C  E) : Triada Disminuida (bajo alterado)
+Gbdim/E                   [x 0 0 4 5 4] (Gb A  C  E) : Triada Disminuida (bajo alterado)
+Gbdim/E                   [x x 0 4 2 4] (Gb A  C  E) : Triada Disminuida (bajo alterado)
+Gbdim/F                   [x x 0 4 5 5] (Gb F  A  C) : Triada Disminuida (bajo alterado)
+Gbdim/F                   [x x 0 4 5 7] (Gb F  A  C) : Triada Disminuida (bajo alterado)
+Gbdim/G                   [x x 0 4 5 0] (Gb A  G  C) : Triada Disminuida (bajo alterado)
+Gbdim/G                   [x x 0 4 5 7] (Gb A  G  C) : Triada Disminuida (bajo alterado)
+Gbdim/Ab                  [x x 0 4 5 3] (Gb A  Ab C) : Triada Disminuida (bajo alterado)
+Gbdim7                    [x 2 0 4 2 4] (Gb A  C  D#) : Triada Disminuida, 7ma disminuida
+Gbdim7                    [x x 0 4 2 4] (Gb A  C  D#) : Triada Disminuida, 7ma disminuida
+Gbm                       [2 4 4 2 2 2] (Gb A  Db) : Triada Menor
+Gbm                       [x 9 11 11 10 9] (Gb A  Db) : Triada Menor
+Gbm                       [x x 4 2 2 2] (Gb A  Db) : Triada Menor
+Gbm/Bb                    [x 1 4 2 2 2] (Gb A  Db Bb) : Triada Menor (bajo alterado)
+Gbm/Bb                    [x x 4 2 2 2] (Gb A  Db Bb) : Triada Menor (bajo alterado)
+Gbm/C                     [x 2 4 2 2 2] (Gb A  Db C) : Triada Menor (bajo alterado)
+Gbm/C                     [x 2 4 2 2 5] (Gb A  Db C) : Triada Menor (bajo alterado)
+Gbm/C                     [x x 4 2 2 2] (Gb A  Db C) : Triada Menor (bajo alterado)
+Gbm/D                     [x x 4 2 2 1] (Gb A  Db D) : Triada Menor (bajo alterado)
+Gbm/D                     [x x 4 2 2 4] (Gb A  Db D) : Triada Menor (bajo alterado)
+Gbm/E                     [x x 4 2 2 6] (Gb A  Db E) : Triada Menor (bajo alterado)
+Gbm/F                     [0 0 4 2 2 2] (Gb A  Db F) : Triada Menor (bajo alterado)
+Gbm/F                     [x 0 4 2 2 2] (Gb A  Db F) : Triada Menor (bajo alterado)
+Gbm/F                     [x x 4 2 2 2] (Gb A  Db F) : Triada Menor (bajo alterado)
+Gbm/G                     [1 4 4 2 2 2] (Gb A  Db G) : Triada Menor (bajo alterado)
+Gbm/G                     [x x 4 2 2 2] (Gb A  Db G) : Triada Menor (bajo alterado)
+Gbm/Ab                    [3 4 4 2 2 2] (Gb A  Db Ab) : Triada Menor (bajo alterado)
+Gbm/Ab                    [x 4 4 2 2 2] (Gb A  Db Ab) : Triada Menor (bajo alterado)
+Gbm/Ab                    [x x 4 2 2 2] (Gb A  Db Ab) : Triada Menor (bajo alterado)
+Gbm/A                     [x 2 4 2 2 2] (Gb A  Db A) : Triada Menor (bajo alterado)
+Gbm6                      [x x 4 2 2 4] (Gb A  Db Eb) : Triada Menor más 6ta
+Gbm7                      [2 4 2 2 2 2] (Gb A  Db E) : Triada Menor, 7ma menor
+Gbm7                      [x x 4 2 2 4] (Gb A  Db E) : Triada Menor, 7ma menor
+Gbm7(b5)    or   Gbo7       [2 3 2 2 2 2] (Gb A  C  E) : Triada Disminuida, 7ma menor : 7ma semidisminuida
+Gbmaj7     or   Gb#7       [2 4 3 3 2 2] (Gb Bb Db F) : Triada Mayor, 7ma mayor
+Gbmin/maj9                [2 4 2 3 2 2] (Gb A  Db F  Ab) : Triada Menor, 7ma mayor más 9na
+Gbsus      or   Gbsus4     [2 4 4 4 2 2] (Gb B  Db) : sin 3ra pero con 4ta de una triada mayor
+Gbsus      or   Gbsus4     [x x 4 4 2 2] (Gb B  Db) : sin 3ra pero con 4ta de una triada Mayor
+Gbsus2     or   Gbadd9(no3)[x x 4 4 2 2] (Db Gb Ab) : sin 3ra pero con 2da de una triada Mayor
+Gbsus2     or   Gbadd9(no3)[x 9 11 11 9 9] (Db Gb Ab) : sin 3ra pero con 2da de una triada Mayor
+Gbsus2/Bb                 [x 1 4 4 2 2] (Db Gb Ab Bb) : Triada sus2 (bajo alterado)
+Gbsus2/Bb                 [x x 4 4 2 2] (Db Gb Ab Bb) : Triada sus2 (bajo alterado)
+Gbsus2/C                  [x 2 4 4 2 2] (Db Gb Ab C) : Triada sus2 (bajo alterado)
+Gbsus2/C                  [x x 4 4 2 2] (Db Gb Ab C) : Triada sus2 (bajo alterado)
+Gbsus2/D                  [x x 4 4 2 1] (Db Gb Ab D) : Triada sus2 (bajo alterado)
+Gbsus2/D                  [x x 4 4 2 4] (Db Gb Ab D) : Triada sus2 (bajo alterado)
+Gbsus2/E                  [x x 4 4 2 6] (Db Gb Ab E) : Triada sus2 (bajo alterado)
+Gbsus2/F                  [0 0 4 4 2 2] (Db Gb Ab F) : Triada sus2 (bajo alterado)
+Gbsus2/F                  [x 0 4 4 2 2] (Db Gb Ab F) : Triada sus2 (bajo alterado)
+Gbsus2/F                  [x x 4 4 2 2] (Db Gb Ab F) : Triada sus2 (bajo alterado)
+Gbsus2/G                  [1 4 4 4 2 2] (Db Gb Ab G) : Triada sus2 (bajo alterado)
+Gbsus2/G                  [x x 4 4 2 2] (Db Gb Ab G) : Triada sus2 (bajo alterado)
+Gbsus2/Ab                 [3 4 4 4 2 2] (Db Gb Ab Ab) : Triada sus2 (bajo alterado)
+Gbsus2/Ab                 [x 4 4 4 2 2] (Db Gb Ab Ab) : Triada sus2 (bajo alterado)
+Gbsus2/Ab                 [x x 4 4 2 2] (Db Gb Ab Ab) : Triada sus2 (bajo alterado)
+Gbsus2/A                  [x 2 4 4 2 2] (Db Gb Ab A) : Triada sus2 (bajo alterado)
+Gbsus4/Bb                 [2 4 4 4 2 2] (Gb B  Db Bb) : Triada sus4 (bajo alterado)
+Gbsus4/Bb                 [x x 4 4 2 2] (Gb B  Db Bb) : Triada sus4 (bajo alterado)
+Gbsus4/C                  [x 2 4 4 2 2] (Gb B  Db C) : Triada sus4 (bajo alterado)
+Gbsus4/C                  [x x 4 4 2 2] (Gb B  Db C) : Triada sus4 (bajo alterado)
+Gbsus4/D                  [x x 4 4 2 1] (Gb B  Db D) : Triada sus4 (bajo alterado)
+Gbsus4/D                  [x x 4 4 2 4] (Gb B  Db D) : Triada sus4 (bajo alterado)
+Gbsus4/E                  [x x 4 4 2 6] (Gb B  Db E) : Triada sus4 (bajo alterado)
+Gbsus4/F                  [0 0 4 4 2 2] (Gb B  Db F) : Triada sus4 (bajo alterado)
+Gbsus4/F                  [x 0 4 4 2 2] (Gb B  Db F) : Triada sus4 (bajo alterado)
+Gbsus4/F                  [x x 4 4 2 2] (Gb B  Db F) : Triada sus4 (bajo alterado)
+Gbsus4/G                  [1 4 4 4 2 2] (Gb B  Db G) : Triada sus4 (bajo alterado)
+Gbsus4/G                  [x x 4 4 2 2] (Gb B  Db G) : Triada sus4 (bajo alterado)
+Gbsus4/Ab                 [3 4 4 4 2 2] (Gb B  Db Ab) : Triada sus4 (bajo alterado)
+Gbsus4/Ab                 [x 4 4 4 2 2] (Gb B  Db Ab) : Triada sus4 (bajo alterado)
+Gbsus4/Ab                 [x x 4 4 2 2] (Gb B  Db Ab) : Triada sus4 (bajo alterado)
+Gbsus4/A                  [x 2 4 4 2 2] (Gb B  Db A) : Triada sus4 (bajo alterado)
+Gdim/A                    [x 0 5 6 5 6] (G  Bb Db E) : Triada Disminuida (bajo alterado)
+Gdim/A                    [x x 2 3 0 3] (G  Bb Db E) : Triada Disminuida (bajo alterado)
+Gdim/B                    [x 2 0 3 0 3] (G  Bb Db B) : Triada Disminuida (bajo alterado)
+Gdim/B                    [x 2 0 3 3 3] (G  Bb Db B) : Triada Disminuida (bajo alterado)
+Gdim/B                    [x x 0 3 0 3] (G  Bb Db B) : Triada Disminuida (bajo alterado)
+Gdim/C                    [x x 0 3 1 3] (G  Bb Db C) : Triada Disminuida (bajo alterado)
+Gdim/C                    [x x 0 3 1 6] (G  Bb Db C) : Triada Disminuida (bajo alterado)
+Gdim/D                    [x x 0 3 3 0] (G  D  Bb Db) : Triada Disminuida (bajo alterado)
+Gdim/E                    [0 0 0 3 0 3] (G  Bb Db E) : Triada Disminuida (bajo alterado)
+Gdim/E                    [0 0 0 3 3 3] (G  Bb Db E) : Triada Disminuida (bajo alterado)
+Gdim/E                    [x 0 0 3 0 3] (G  Bb Db E) : Triada Disminuida (bajo alterado)
+Gdim/E                    [x 0 0 3 3 3] (G  Bb Db E) : Triada Disminuida (bajo alterado)
+Gdim/E                    [x x 0 3 0 3] (G  Bb Db E) : Triada Disminuida (bajo alterado)
+Gdim/F                    [x x 0 3 3 4] (G  F  Bb Db) : Triada Disminuida (bajo alterado)
+Gdim/F                    [x x 0 3 3 6] (G  F  Bb Db) : Triada Disminuida (bajo alterado)
+Gdim/G                    [x x 0 3 3 0] (G  Bb G  Db) : Triada Disminuida (bajo alterado)
+Gdim/G                    [x x 0 3 3 6] (G  Bb G  Db) : Triada Disminuida (bajo alterado)
+Gdim/Gb                   [x x 0 3 3 2] (G  Bb Gb Db) : Triada Disminuida (bajo alterado)
+Gdim7                     [x 2 0 3 0 3] (G  Bb Db E) : Triada Disminuida, 7ma disminuida
+Gdim7                     [x x 0 3 0 3] (G  Bb Db E) : Triada Disminuida, 7ma disminuida
+Gm                        [3 5 5 3 3 3] (G  Bb D) : Triada Menor
+Gm                        [x 10 12 12 11 10] (G  Bb D) : Triada Menor
+Gm                        [x x 0 3 3 3] (G  Bb D) : Triada Menor
+Gm/B                      [x 2 0 3 3 3] (G  Bb D  B) : Triada Menor (bajo alterado)
+Gm/B                      [x x 0 3 3 3] (G  Bb D  B) : Triada Menor (bajo alterado)
+Gm/C                      [x 3 0 3 3 3] (G  Bb D  C) : Triada Menor (bajo alterado)
+Gm/C                      [x x 0 3 3 3] (G  Bb D  C) : Triada Menor (bajo alterado)
+Gm/D                      [x x 0 3 3 5] (G  Bb D  D) : Triada Menor (bajo alterado)
+Gm/E                      [0 0 0 3 3 3] (G  Bb D  E) : Triada Menor (bajo alterado)
+Gm/E                      [x 0 0 3 3 3] (G  Bb D  E) : Triada Menor (bajo alterado)
+Gm/E                      [x x 0 3 3 3] (G  Bb D  E) : Triada Menor (bajo alterado)
+Gm/F                      [1 3 0 3 3 3] (G  Bb D  F) : Triada Menor (bajo alterado)
+Gm/F                      [1 x 0 3 3 3] (G  Bb D  F) : Triada Menor (bajo alterado)
+Gm/F                      [x 3 0 3 3 3] (G  Bb D  F) : Triada Menor (bajo alterado)
+Gm/F                      [x x 0 3 3 3] (G  Bb D  F) : Triada Menor (bajo alterado)
+Gm/G                      [3 5 5 3 3 3] (G  Bb D  G) : Triada Menor (bajo alterado)
+Gm/G                      [x x 0 3 3 3] (G  Bb D  G) : Triada Menor (bajo alterado)
+Gm/Gb                     [2 5 5 3 3 3] (G  Bb D  Gb) : Triada Menor (bajo alterado)
+Gm6                       [x x 0 3 0 3] (G  Bb D  E) : Triada Menor más 6ta
+Gm7                       [3 5 3 3 3 3] (G  Bb D  F) : Triada Menor, 7ma menor
+Gm7                       [x x 0 3 3 3] (G  Bb D  F) : Triada Menor, 7ma menor
+Gm7(b5)    or   Go7       [3 4 3 3 3 3] (G  Bb Db F) : Triada Disminuida, 7ma menor : 7ma semidisminuida
+Gmaj7     or   G#7       [3 2 0 0 0 2] (G  B  D  F#) : Triada Mayor, 7ma mayor
+Gmin/maj9                [3 5 3 3 3 3] (G  Bb D  F#  A) : Triada Menor, 7ma mayor más 9na
+Gsus      or   Gsus4     [3 3 0 0 1 1] (G  C  D) : sin 3ra pero con 4ta de una triada Mayor
+Gsus      or   Gsus4     [x x 0 0 1 1] (G  C  D) : sin 3ra pero con 4ta de una triada Mayor
+Gsus2     or   Gadd9(no3)[3 5 5 5 3 3] (D  G  A) : sin 3ra pero con 2da de una triada Mayor
+Gsus2     or   Gadd9(no3)[x x 0 0 3 3] (D  G  A) : sin 3ra pero con 2da de una triada Mayor
+Gsus2/B                  [x 2 0 0 3 3] (D  G  A  B) : Triada sus2 (bajo alterado)
+Gsus2/B                  [x x 0 0 3 3] (D  G  A  B) : Triada sus2 (bajo alterado)
+Gsus2/C                  [x 3 0 0 3 3] (D  G  A  C) : Triada sus2 (bajo alterado)
+Gsus2/C                  [x x 0 0 3 3] (D  G  A  C) : Triada sus2 (bajo alterado)
+Gsus2/D                  [x x 0 0 3 5] (D  G  A  D) : Triada sus2 (bajo alterado)
+Gsus2/E                  [0 0 0 0 3 3] (D  G  A  E) : Triada sus2 (bajo alterado)
+Gsus2/E                  [x 0 0 0 3 3] (D  G  A  E) : Triada sus2 (bajo alterado)
+Gsus2/E                  [x x 0 0 3 3] (D  G  A  E) : Triada sus2 (bajo alterado)
+Gsus2/F                  [1 3 0 0 3 3] (D  G  A  F) : Triada sus2 (bajo alterado)
+Gsus2/F                  [1 x 0 0 3 3] (D  G  A  F) : Triada sus2 (bajo alterado)
+Gsus2/G                  [3 5 5 5 3 3] (D  G  A  G) : Triada sus2 (bajo alterado)
+Gsus2/G                  [x x 0 0 3 3] (D  G  A  G) : Triada sus2 (bajo alterado)
+Gsus2/Gb                 [2 5 5 5 3 3] (D  G  A  Gb) : Triada sus2 (bajo alterado)
+Gsus4/B                  [3 3 0 0 1 1] (G  C  D  B) : Triada sus4 (bajo alterado)
+Gsus4/B                  [x x 0 0 1 1] (G  C  D  B) : Triada sus4 (bajo alterado)
+Gsus4/C                  [x 3 0 0 1 1] (G  C  D  C) : Triada sus4 (bajo alterado)
+Gsus4/C                  [x x 0 0 1 1] (G  C  D  C) : Triada sus4 (bajo alterado)
+Gsus4/D                  [x x 0 0 1 5] (G  C  D  D) : Triada sus4 (bajo alterado)
+Gsus4/E                  [0 0 0 0 1 1] (G  C  D  E) : Triada sus4 (bajo alterado)
+Gsus4/E                  [x 0 0 0 1 1] (G  C  D  E) : Triada sus4 (bajo alterado)
+Gsus4/E                  [x x 0 0 1 1] (G  C  D  E) : Triada sus4 (bajo alterado)
+Gsus4/F                  [1 3 0 0 1 1] (G  C  D  F) : Triada sus4 (bajo alterado)
+Gsus4/F                  [1 x 0 0 1 1] (G  C  D  F) : Triada sus4 (bajo alterado)
+Gsus4/G                  [3 3 0 0 1 1] (G  C  D  G) : Triada sus4 (bajo alterado)
+Gsus4/G                  [x x 0 0 1 1] (G  C  D  G) : Triada sus4 (bajo alterado)
+Gsus4/Gb                 [2 3 0 0 1 1] (G  C  D  Gb) : Triada sus4 (bajo alterado)
