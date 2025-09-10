@@ -69,6 +69,187 @@ Bm7     x24232
 Bsus2   024400
 Bsus2   x44422
 
+
+Acordes frecuentes extendidos:
+
+ACORDES MAYORES:
+C       032010
+C       335553   (versión con cejilla)
+C/E     x32010   (C con bajo en E)
+C/G     x32013   (C con bajo en G)
+D       000232
+D       xx0232
+D/F#    2x0232   (D con bajo en F#)
+D/A     x00232   (D con bajo en A)
+E       022100
+E       079997   (versión con cejilla)
+E/G#    4x2100   (E con bajo en G#)
+F       133211
+F       133211   (cejilla)
+F       xx3211   (versión fácil sin cejilla completa)
+F/A     x03211   (F con bajo en A)
+F/C     x33211   (F con bajo en C)
+G       320003
+G       320033
+G       3x0033
+G/B     x20033   (G con bajo en B)
+G/D     xx0033   (G con bajo en D)
+A       002220
+A       x02220
+A       577655   (versión con cejilla)
+A/C#    x42220   (A con bajo en C#)
+A/E     002220   (A con bajo en E)
+B       224442
+B       x24442
+B       799877   (versión con cejilla)
+B/D#    x64442   (B con bajo en D#)
+
+ACORDES MENORES:
+Cm      035543
+Cm      x35543   (cejilla)
+Cm/Eb   x05543   (Cm con bajo en Eb)
+Dm      000231
+Dm      xx0231
+Dm/F    xx0231   (Dm con bajo en F)
+Dm/A    x00231   (Dm con bajo en A)
+Em      022000
+Em      079900   (versión con cejilla)
+Em/G    355433   (Em con bajo en G)
+Em/B    7x9900   (Em con bajo en B)
+Fm      133111
+Fm      133111   (cejilla)
+Fm/Ab   x64444   (Fm con bajo en Ab)
+Fm/C    x31111   (Fm con bajo en C)
+Gm      355333
+Gm      355333   (cejilla)
+Gm/Bb   x13333   (Gm con bajo en Bb)
+Gm/D    xx5333   (Gm con bajo en D)
+Am      002210
+Am      x02210
+Am      577555   (versión con cejilla)
+Am/C    x32210   (Am con bajo en C)
+Am/E    002210   (Am con bajo en E)
+Bm      224432
+Bm      x24432
+Bm      799777   (versión con cejilla)
+Bm/D    xx4432   (Bm con bajo en D)
+
+ACORDES 7MA:
+C7      032310
+C7      353433   (cejilla)
+C7/E    x32310   (C7 con bajo en E)
+D7      000212
+D7      xx0212
+D7/A    x00212   (D7 con bajo en A)
+D7/F#   xx0212   (D7 con bajo en F#)
+E7      020100
+E7      079797   (cejilla)
+E7/G#   x22100   (E7 con bajo en G#)
+F7      131211
+F7      xx3211   (versión fácil)
+F7/A    x03211   (F7 con bajo en A)
+G7      320001
+G7      3x0001
+G7/B    x20001   (G7 con bajo en B)
+G7/F    xx0001   (G7 con bajo en F)
+A7      002020
+A7      x02020
+A7      575655   (cejilla)
+A7/C#   x42220   (A7 con bajo en C#)
+A7/E    002020   (A7 con bajo en E)
+B7       224242
+B7      x21202   (versión fácil)
+B7/D#   x44452   (B7 con bajo en D#)
+
+ACORDES SUSPENDIDOS:
+Csus2   x30013
+Csus4   x30113
+Dsus2   xx0230
+Dsus4   xx0233
+Esus2   022200
+Esus4   022200
+Fsus2   xx3011
+Fsus4   xx3011
+Gsus2   300033
+Gsus4   330013
+Asus2   x02200
+Asus4   x02230
+Bsus2   x24422
+Bsus4   x24442
+
+ACORDES CON 9NA:
+Cadd9   x32033
+C9      x32333
+Dadd9   xx0230
+D9      xx0232
+Eadd9   022102
+E9      020102
+Fadd9   xx3213
+F9      xx3211
+Gadd9   x32033
+G9      x32033
+Aadd9   x02420
+A9      x02420
+Badd9   x21342
+B9      x21202
+
+ACORDES CON CEJILLA FÁCILES (sin cejilla completa):
+F       xx3211   (versión fácil)
+Fm      xx3111   (versión fácil)
+B       224442   (versión fácil - requiere práctica)
+Bm      x24432   (versión fácil)
+Bb      x13331   (versión fácil de Si bemol)
+Eb      033431   (versión fácil de Mi bemol)
+
+ACORDES DIFERENTES:
+F#m     244222
+F#m7    242222
+F#m7    244252
+G#sus4  446644
+Bsus2   024400
+Bsus2   x44422
+A7sus4  002030
+
+ACORDES DE POWER CHORD (para rock):
+C5      x355xx
+D5      xx577x
+E5      022xxx
+F5      xx355x
+G5      355xxx
+A5      x022xx
+B5      x244xx
+
+ACORDES DIMINUIDOS:
+Cdim    xx3434
+Ddim    xx0101
+Edim    xx1202
+Fdim    xx1212
+Gdim    xx3454
+Adim    xx0101
+Bdim    xx2323
+
+ACORDES AUMENTADOS:
+Caug    x3211x
+Daug    xx0332
+Eaug    xx1000
+Faug    xx2112
+Gaug    xx0332
+Aaug    x03221
+Baug    x03221
+
+ACORDES DE JAZZ/ALTERADOS:
+Cm7     035343
+Cmaj7   x32000
+Dm7     xx0211
+Em7     022030
+Fmaj7   xx3210
+Gm7     353333
+Am7     x02010
+Bm7(b5) x2323x
+
+
+
+
 Notas:
 
 Los acordes como F, Gm, Bm normalmente requieren cejilla (usar el dedo índice acostado).
