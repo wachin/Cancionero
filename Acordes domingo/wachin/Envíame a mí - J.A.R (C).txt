@@ -3,20 +3,15 @@ Jesús Adrian Romero
 
 ACORDES
 C     032010
-Cadd9 032030
 F     133211
-F6    131231
 G     320033
 Am    x02210
 Em    022000	
 
 INTRO 
 
-C Cadd9 C 
-F F6 F
+C F C F 
 
-C Cadd9 C 
-F F6 F
 VERSO
 C           G    Am  
 La mies es mucha,  hay gran
@@ -34,7 +29,7 @@ vagan como ovejas sin pastor
 CORO x2
  C      G Am    
 Heme aquí         
-           F   G
+           F 
 envíame a mi
  C      G Am    
 Heme aquí         
@@ -44,6 +39,10 @@ envíame a mi
 yo iré por aquellos 
                G
 que vagan sin ti
+
+VERSO
+
+CORO X2
 
 FINAL
            F      C
