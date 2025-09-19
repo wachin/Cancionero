@@ -1,5 +1,6 @@
 El Señor es mi Pastor, Salmo 23
 Danilo Montero
+Para tocarla por C# poner el capo en la 1ra.
 
       C           Dm
 //El Señor es mi pastor
