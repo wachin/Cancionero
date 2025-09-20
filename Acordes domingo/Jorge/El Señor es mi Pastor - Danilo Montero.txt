@@ -2,6 +2,7 @@ El Señor es mi Pastor, Salmo 23
 
 Para tocarla por C# poner el capo en la 1ra.
 
+[VERSO]
       C           Dm
 //El Señor es mi pastor
  F  G          C
@@ -14,6 +15,7 @@ en pastos delicados
                   E
 Él me hará descansar
 
+[CORO]
         Am
 Junto a aguas de reposo
     Dm
@@ -25,6 +27,7 @@ me guiará por sendas de justicia
  D              G
 por amor de su nombre
 
+[FINAL]
         C            Dm
 //El Señor es mi pastor
    C   Am          C

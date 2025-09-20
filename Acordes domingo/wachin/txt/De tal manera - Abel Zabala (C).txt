@@ -1,10 +1,10 @@
 De tal manera
 Abel Zabala
 
-INTRO
+[INTRO]
 Am F G C F G
 
-VERSO
+[VERSO]
     C              G
 De tal manera me amo
         F         Am   G     
@@ -22,7 +22,7 @@ el precio de su grande amor
       F              G    C
 pero toda mi alma quiero dar
 
-CORO
+[CORO]
          Am     G   C
 Por su amor yo vivire
         Am     G    C
@@ -43,7 +43,7 @@ Por que El me murio
        F G       C  G 
 por mi  le seguiré
 
-VERSO
+[VERSO]
 C G
 F Am G     
 C G
@@ -54,7 +54,7 @@ F Am G
 C G
 F G  C
 
-CORO
+[CORO]
    Am G C
    Am G C
    Am G F

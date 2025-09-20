@@ -1,18 +1,17 @@
 Envíame a mí
 Jesús Adrian Romero
 
-ACORDES
+[ACORDES]
 C     032010
 F     133211
 G     320033
 Am    x02210
 Em    022000	
 
-INTRO 
-
+[INTRO]
 C F C F 
 
-VERSO
+[VERSO]
 C           G    Am  
 La mies es mucha,  hay gran
         Em
@@ -26,7 +25,7 @@ viven sin dirección
 F            C            G
 vagan como ovejas sin pastor
 
-CORO x2
+[CORO x2]
  C      G Am    
 Heme aquí         
            F 
@@ -40,10 +39,10 @@ yo iré por aquellos
                G
 que vagan sin ti
 
-VERSO
+[VERSO]
 
-CORO X2
+[CORO X2]
 
-FINAL
+[FINAL]
            F      C
 envíame a mi yo iré
