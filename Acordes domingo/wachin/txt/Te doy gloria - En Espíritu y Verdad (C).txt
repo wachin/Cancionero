@@ -2,7 +2,7 @@ Te doy gloria (C)
 En Espíritu y en Verdad
 BPM 136
 
-VERSO
+[VERSO]
 C                    G
 Cuan hermoso eres Jesús
            Am             F
@@ -16,7 +16,7 @@ la que me salvo, me rescato
       Am                      F
 un momento ahí, nos dio libertad
 
-CORO x2
+[CORO x2]
          C
 Te doy gloria gloria
          G
@@ -26,14 +26,14 @@ te doy gloria gloria
         F
 a Ti Jesús
 
-VERSO
+[VERSO]
 
-CORO x2
+[CORO x2]
 
-PUENTE x4:
+[PUENTE x4:]
       F                G
 Con una corona de espinos
       Am            C
 Te hiciste Rey por siempre
 
-CORO x4
+[CORO x4]
