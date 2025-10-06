@@ -1,80 +1,79 @@
-CON MANOS VACIAS (F)
-Jesús Adrián Romero
+CON MANOS VACIAS
 
 INTRO x2
-Dm C A# C F
-Dm C A# C
+C#m B A B E
+C#m B A B
 
 VERSO
-F                 A#
+E                 A
 Con manos vacías vengo a Ti
-C                   Dm        
+B                   C#m        
  no tengo nada que darte
-Gm                       Dm
+F#m                      C#m
 No hay nada de valor en mí
-A#           Gm   C
+A            F#m  B
 no puedo impresionarte
 
-F                          A#
+E                          A
 Te puedo entregar, mi corazon
-C                Dm
+B                C#m
 Que esta quebrantado
-Gm                Dm
+F#m               C#m
 Recibelo mi buen pastor
-A#         Gm    C
+A          F#m   B
 Tu puedes restaurarlo
 
 CORO
-A#        C                    Dm
+A         B                   C#m
 Pongo mi vida a tu servicio Señor,
-A#       C                     Dm
+A        B                     C#m
 no será mucho pero la entrego hoy,
-A#        C               Dm
+A         B               C#m
 y si mis manos hoy vacías están,
-Gm          Am             Dm    C      A#
+F#m         G#m            C#m   B      A
  puedes llenarlas con tu gran poder y amor
-C               Dm
+B               C#m
 Usa mis manos Señor
 
-C A# C
+B A B
 
 VERSO
 
 CORO
-A#        C                    Dm
+A         B                   C#m
 Pongo mi vida a tu servicio Señor,
-A#       C                     Dm
+A        B                     C#m
 no será mucho pero la entrego hoy,
-A#        C               Dm
+A         B               C#m
 y si mis manos hoy vacías están,
-Gm          Am             Dm    C      A#
+F#m         G#m            C#m   B      A
  puedes llenarlas con tu gran poder y amor
-C              Dm C F Am A# 
+B               C#m B E G#m A 
 Usa mis manos Señor
 
-A#        C                    Dm
+A         B                   C#m
 Pongo mi vida a tu servicio Señor,
-A#       C                     Dm
+A        B                     C#m
 no será mucho pero la entrego hoy,
-A#        C               Dm
+A         B               C#m
 y si mis manos hoy vacías están,
-Gm          Am             Dm    C      A#
+F#m         G#m            C#m   B      A
  puedes llenarlas con tu gran poder y amor
-C                Dm                      C
+B               C#m                      B
 Usa mis manos Señor(Usa mis manos Señor)
-                 A#                  
+                 A                  
 Usa mis manos Señor(Usa mis manos Señor)
-                  C
+                  B
 (Usa mis manos Señor)
-                   Dm                          
+                   C#m                          
 Usa mis manos, ¡Señor!(Usa mis manos)
-                C       
+                B       
 (usa mis manos, usa mis manos)
-F        C       A#        
+E        B       A        
 Usa mis manos, ¡Señor!
  
 Usa mis manos, usa mis manos
-C               
+B               
 Usa mis manos Señor
-                 Dm
+                 C#m
 Usa mis manos Señor
