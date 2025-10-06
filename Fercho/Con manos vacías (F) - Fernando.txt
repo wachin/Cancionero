@@ -3,42 +3,41 @@ CON MANOS VACIAS
 INTRO x2
 Dm A# Gm A# C
 
+F                A#
+Con manos vacías vengo a Ti
+Gm                 Dm
+no tengo nada que darte.
+A#                      Dm
+No hay nada de valor en mí
+A#       Gm          C
+no puedo impresionarte.
+F                  A#
+Te puedo entregar, mi corazon
+C                Dm
+Que esta quebrantado,
+A#       Gm        Dm
+Recibelo mi buen pastor,
+A#       Gm        C
+Tu puedes restaurarlo
 
-   F                A#
- //Con manos vacías vengo a Ti
-   Gm                 Dm
-   no tengo nada que darte.
-   A#                      Dm
-   No hay nada de valor en mí
-   A#       Gm          C
-   no puedo impresionarte.
-   F                  A#
-   Te puedo entregar, mi corazon
-   C                Dm
-   Que esta quebrantado,
-   A#       Gm        Dm
-   Recibelo mi buen pastor,
-   A#       Gm        C
-   Tu puedes restaurarlo//
+INTRO x2
+Dm A# Gm A# C
 
-  INTRO x2
-  Dm A# Gm A# C
+A#       C                  Dm
+Pongo mi vida a tu servicio Señor,
+A#       C                  Dm
+no será mucho pero la entrego hoy,
+A#       C                  Dm
+y si mis manos hoy vacías están,
+A#       Gm               Dm    C      A#
+puedes llenarlas con tu gran poder y amor.
 
-   A#       C                  Dm
-   Pongo mi vida a tu servicio Señor,
-   A#       C                  Dm
-   no será mucho pero la entrego hoy,
-   A#       C                  Dm
-   y si mis manos hoy vacías están,
-   A#       Gm           A#               C
-   puedes llenarlas con tu gran poder y amor.
+C               Dm
+//Usa mis manos Señor.//
 
-  C               Dm
- // Usa mis manos Señor.//
-
-  Dm
- //Usa mis manos
-   A#
-   Usa mis manos
-   C               Dm
-   Usa mis manos Señor//
+Dm
+//Usa mis manos
+A#
+Usa mis manos
+C               Dm
+Usa mis manos Señor//
