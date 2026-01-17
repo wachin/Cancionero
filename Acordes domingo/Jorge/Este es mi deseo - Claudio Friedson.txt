@@ -22,7 +22,7 @@ Te ala_baré,
  Em    D/F#  G        F C D
 Mi adora___ción eres tú
 
-CORO
+CORO x2
 G                D
 Hoy te rindo mi ser
                Am
@@ -34,8 +34,10 @@ Yo vivo para tí
 En cada palpitar
                           Am
 Mientras haya aliento en mi
-      C     D        C D
+      C     D        G
 Dios haz tu obra en mi
+
+Nota: Al repetir el coro otra vez al final no va G sino C D
 
 VERSO
 
