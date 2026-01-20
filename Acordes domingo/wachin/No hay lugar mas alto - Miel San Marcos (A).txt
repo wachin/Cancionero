@@ -10,11 +10,9 @@ a tus pies entrego lo que soy
 es lugar de mi seguridad
        F#m              D
 donde nadie me puede señalar
-
-PRE-CORO
-         D                      
-me perdonaste, me acercaste 
-         E               F#m  
+         D
+me perdonaste, me acercaste
+         E               F#m
 a tu presencia, me levantaste,
                    E
 hoy me postro a adorarte
@@ -22,8 +20,8 @@ hoy me postro a adorarte
 CORO x2
                  D           E
 No hay lugar más alto, más grande
-                  F#m    
-que estar a tus pies, 
+                  F#m
+que estar a tus pies,
                    A
 que estar a tus pies
 
@@ -32,22 +30,20 @@ VERSO
 CORO x3
 
 PUENTE x2
-     D           E        
-Y aquí permaneceré, 
+     D           E
+Y aquí permaneceré,
 A   E      F#m
 postrado a tus pies
-     D           E     
-y aquí permaneceré 
+     D           E
+y aquí permaneceré
                 F#m  A
-a los pies de Criso
+a los pies de Cristo
+
+CORO x2 (Guitarra  y fondo)
+
+SOLO
+D E F#m A
 
 CORO x2
 
-SOLO x2 (Acordes del puente)
-D E A E F#m
-D E F#m A
 
-Final
-D
-
- 
