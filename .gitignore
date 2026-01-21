@@ -27,3 +27,50 @@
 .*.kate-swp
 
 
+# ==============================
+# Archivos temporales comunes en Linux
+# ==============================
+
+# Archivos de respaldo de editores
+*.orig
+*.rej
+
+# Archivos temporales del sistema
+*.temp
+*.cache
+
+# ==============================
+# Directorios de caché comunes
+# ==============================
+
+.cache/
+__pycache__/
+*.pyc
+
+# ==============================
+# Archivos de escritorio (KDE / GNOME)
+# ==============================
+
+.DS_Store
+Thumbs.db
+
+# ==============================
+# Archivos temporales de Vim / Neovim
+# ==============================
+
+*.swo
+*.swn
+*.swx
+
+# ==============================
+# Archivos temporales de Emacs
+# ==============================
+
+#*
+.#*
+
+# ==============================
+# Archivos temporales de KDE / Plasma
+# ==============================
+
+.kde*
