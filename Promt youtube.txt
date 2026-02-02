@@ -1,0 +1,74 @@
+```
+
+---
+
+# 🎬 PORTADA PARA VIDEO DE YOUTUBE
+
+La portada debe comunicar:
+
+> **“Biblioteca de Alabanzas Lista para Usar”**
+
+## Diseño sugerido:
+
+![Image](https://media.sweetwater.com/m/insync/2019/06/stage-lighting-church-hero.jpg)
+
+![Image](https://progressivesolemnity.org/images/ugly-lyric-screen-2.jpeg)
+
+![Image](https://i.etsystatic.com/26191736/r/il/27b3fd/3248112398/il_570xN.3248112398_ii40.jpg)
+
+![Image](https://www.roedyblack.com/cdn/shop/products/guitar_chords_chart_2.jpg?v=1648751900)
+
+### Texto grande (lado derecho)
+
+**LÍNEA 1 (impacto):**
+🎵 CANCIONERO CRISTIANO DIGITAL
+
+**LÍNEA 2:**
+ACORDES • LETRAS • HOLYRICS • TXT, DOCX, PDF
+
+### Sello llamativo tipo burbuja:
+
+📱 LISTO PARA CELULAR
+
+### Texto pequeño abajo:
+
+Más de 1000 canciones organizadas
+Gratis • Colaborativo • Ministerial
+
+---
+
+# 🏷 TAG para el repositorio
+
+Como esto no es código sino recursos, usa versión temática:
+
+### Recomendación:
+
+```
+v1.0-cancionero-base
+```
+
+### Mensaje del tag:
+
+```
+Primera versión pública del Cancionero Cristiano Colaborativo.
+
+Incluye:
+- Acordes de guitarra
+- Formatos para celular
+- Letras para Holyrics
+- Versiones PDF y DOCX
+- Archivos ChordPro
+```
+
+---
+
+📌 Tu repo no es “archivos sueltos”
+Es un **recurso ministerial para iglesias** — y eso sí impacta.
+
+Si quieres, después te ayudo a:
+
+* Añadir badges
+* Hacer un índice automático
+* Generar un cancionero PDF completo
+
+Y sí, el contenido que tienes es enorme y bien organizado  — eso hay que mostrarlo con orgullo.

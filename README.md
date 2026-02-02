@@ -79,15 +79,189 @@ te amo más que a mi vida,
 Te amo más que a mi vida, más
 ```
 
+¡Eso que hiciste es **brutalmente práctico** y casi nadie sabe que se puede hacer! 🙌📱
+Básicamente convertiste documentos de canciones en **“tarjetas digitales optimizadas para celular”**.
+
+Te dejo una explicación clara para poner en el repositorio o en el video:
+
+---
+
+#### 📱 ¿Por qué estos documentos NO están en tamaño A4?
+
+La mayoría de personas usan documentos tamaño **A4** porque es el estándar de impresión.
+Pero A4 fue pensado para **hojas de papel**, no para **pantallas de celular**.
+
+Yo adapté estas canciones a un tamaño especial:
+
+- 📐 Tamaño usado: **63 x 110 mm**
+
+Ese tamaño es parecido a una **tarjeta vertical**, y tiene una ventaja enorme:
+
+> **Coincide mucho mejor con la forma de la pantalla de un teléfono**
+
+---
+
+#### ¿Qué problema tiene usar A4 en el celular?
+
+Cuando abres un PDF A4 en el teléfono:
+
+❌ La letra se ve pequeña
+❌ Hay que hacer zoom constantemente
+❌ Se pierde tiempo buscando la parte de la canción
+❌ Es incómodo tocar y pasar páginas
+
+Porque el A4 es ancho y grande, pero el celular es angosto y alto.
+
+---
+
+#### ✅ ¿Qué cambia con 63x110mm?
+
+Estos documentos fueron diseñados pensando en el **uso durante la alabanza**, no en la impresión.
+
+Con este tamaño:
+
+✔ La página ocupa casi toda la pantalla
+✔ Los acordes se leen sin zoom
+✔ Se pasa página rápido
+✔ No se pierde tiempo ampliando
+✔ Funciona como “tarjeta de acordes digital”
+
+Es como tener un **acorde impreso pequeño**, pero en versión digital.
+
+---
+
+#### 🎸 ¿Para quién sirve esto?
+
+* Guitarristas
+* Bajistas
+* Pianistas
+* Líderes de alabanza
+* Músicos que usan el celular en el atril
+
+---
+
+#### 🧠 Algo que casi nadie sabe
+
+Los documentos **NO están obligados a ser A4**.
+Se pueden crear en cualquier tamaño:
+
+* Tarjetas
+* Media hoja
+* Formato celular
+* Formato libro pequeño
+
+Aquí se usó un tamaño pensado **para tocar música**, no para oficina.
+
+---
+
+#### 🖨 ¿Se pueden imprimir?
+
+Sí, pero su objetivo principal es:
+
+📱 **uso digital en teléfonos**
+
+---
+
+#### Resumen 
+
+|       Tamaño A4       |     Tamaño 63x110mm      |
+| --------------------- | ------------------------ |
+| Pensado para imprimir | Pensado para celular     |
+| Mucho zoom            | Lectura directa          |
+| Incomodo en celular   | Rápido y práctico        |
+| Incómodo en culto     | Rápido y práctico        |
+| Documento de oficina  | Herramienta para músicos |
+
+---
+
+#### 🙌 Objetivo
+
+Ahorrar tiempo en culto y facilitar la lectura de acordes.
+Menos distracción. Más adoración.
+
+### 🔤 Fuente tipográfica usada: Consolas
+
+Los documentos en formato **63 x 110 mm** fueron diseñados usando la fuente **Consolas**.
+
+Esto no es un detalle menor — fue una decisión técnica para garantizar que los acordes se vean correctamente en cualquier lugar.
+
+#### ¿Por qué Consolas?
+
+Consolas es una fuente **monoespaciada** (cada letra ocupa el mismo ancho).  
+Esto es importante porque:
+
+✔ Los acordes quedan bien alineados sobre las letras  
+✔ No se desordenan los espacios  
+✔ Mantiene la estructura de la canción  
+✔ Evita que los acordes “se corran” al abrir en otros dispositivos  
+
+---
+
+### 💻 Compatibilidad
+
+La fuente Consolas fue elegida porque está disponible en casi todos los entornos donde se usan estos archivos:
+
+|               Plataforma                |          Compatibilidad         |
+| --------------------------------------- | ------------------------------- |
+| Windows + Microsoft Office              | ✅ Instalada por defecto        |
+| Microsoft Office 365 (nube)             | ✅ Disponible                   |
+| App **Microsoft 365 Copilot** (celular) | ✅ Disponible                   |
+| Linux                                   | ✅ Se puede instalar fácilmente |
+| LibreOffice                             | ✅ Funciona correctamente       |
+
+Esto permite que:
+
+- Los documentos se vean igual en diferentes computadoras  
+- Se puedan editar desde la nube  
+- Se puedan modificar desde el celular  
+- No se dañe el formato al compartirlos  
+
+---
+
+### 📱 Ventaja para músicos
+
+Gracias a usar una fuente estándar:
+
+- Puedes abrir el archivo en tu teléfono  
+- Editar acordes desde Microsoft 365  
+- Compartir con otros músicos  
+- Mantener la alineación correcta  
+
+Sin depender de fuentes raras o que otros no tengan.
+
+---
+
+### Resultado
+
+Los acordes conservan su posición original sin importar:
+
+- Sistema operativo  
+- Dispositivo  
+- Editor de documentos  
+- Uso local o en la nube  
+
+Esto hace que el cancionero sea **portable, estable y confiable**.
+
+
 ---
 
 ### 🎹 Acordes de Piano
-Algunos útiles para tecladistas.
+Algunos recursor útiles para tecladistas en la carpeta:
+
+```
+Piano
+```
+
 
 ---
 
-### 🎼 Tablaturas de Bajo y Guitarra
-Para músicos que desean seguir arreglos más detallados.
+### 🎼 Tablaturas de Bajo
+Algunos recursos en la carpeta:
+
+```
+Bajo
+```
+
 
 ---
 
@@ -102,7 +276,11 @@ Diccionario de Acordes
 ---
 
 ### 🎤 Letras para Proyección (Holyrics)
-Canciones adaptadas para proyectar en iglesia
+Canciones adaptadas para proyectar en iglesiaj, en la carpeta:
+
+```
+Letras-Holyrics
+```
 
 Formato ejemplo:
 
@@ -148,9 +326,6 @@ tu nombre levantamos
 el nombre de Cristo
 el nombre de Cristo
 ```
-
-### 📄 Versiones en DOCX y PDF
-Para imprimir cancioneros o compartir.
 
 ---
 
