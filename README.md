@@ -34,7 +34,7 @@ Acordes cristianos txt
 ---
 
 ### 🎸📱 Acordes de Guitarra para Celular (formato pequeño)
-Diseñados para verse perfectamente en pantallas de teléfono, estas las he revisado.
+Diseñados para verse perfectamente en pantallas de teléfono:
 
 📁 Carpeta:
 
@@ -78,11 +78,6 @@ te amo más que a mi vida,
                            F
 Te amo más que a mi vida, más
 ```
-
-¡Eso que hiciste es **brutalmente práctico** y casi nadie sabe que se puede hacer! 🙌📱
-Básicamente convertiste documentos de canciones en **“tarjetas digitales optimizadas para celular”**.
-
-Te dejo una explicación clara para poner en el repositorio o en el video:
 
 ---
 
