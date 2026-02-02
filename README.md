@@ -42,7 +42,7 @@ Diseñados para verse perfectamente en pantallas de teléfono:
 Acordes(63x110mm)
 ```
 
-ejemplo:
+ejemplo del formato de los acordes que contienen los archivos allí dentro:
 
 ```
 La niña de tus ojos
@@ -83,12 +83,13 @@ Te amo más que a mi vida, más
 
 #### 📱 ¿Por qué estos documentos NO están en tamaño A4?
 
-La mayoría de personas usan documentos tamaño **A4** porque es el estándar de impresión.
-Pero A4 fue pensado para **hojas de papel**, no para **pantallas de celular**.
+Los achivos dentro de la carpeta "Acordes(63x110mm)" no están en el tamaño A4. La mayoría de personas usan documentos tamaño **A4** porque es el estándar de impresión. Pero A4 fue pensado para **hojas de papel**, no para **pantallas de celular**.
 
 Yo adapté estas canciones a un tamaño especial:
 
-- 📐 Tamaño usado: **63 x 110 mm**
+- 📐 Tamaño usado: **63 x 110 mm** (o lo que es lo mismo 6,3 x 11 cm), como se ve en la siguiente imagen en LibreOffice en una PC:
+
+ ![](Dev/vx_images/Pagina-a-63x110-mm-en-LibreOffice-en-una-PC.png)
 
 Ese tamaño es parecido a una **tarjeta vertical**, y tiene una ventaja enorme:
 
