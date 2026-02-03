@@ -194,13 +194,15 @@ Comparación si se ve un documento A4 PDF en un celular a uno 63x110mm
 
 ### 🔤 Fuente tipográfica usada: Consolas
 
-Los documentos en formato **63 x 110 mm** fueron diseñados usando la fuente **Consolas**.
+Los documentos en formato **63 x 110 mm** fueron diseñados usando la fuente **monoespaciada** de Microsoft **Consolas** que viene preinstalada en los productos Microsoft Office, pero se pueden usar otras fuentes monoespaciadas, como ejemplos:
 
-Esto no es un detalle menor — fue una decisión técnica para garantizar que los acordes se vean correctamente en cualquier lugar.
+- Iosevka
+- 
 
-#### ¿Por qué Consolas?
 
-Consolas es una fuente **monoespaciada** (cada letra ocupa el mismo ancho).  
+#### ¿Por qué fuentes monoespaciada?
+
+En las fuentes **monoespaciadas** cada letra ocupa el mismo ancho.  
 Esto es importante porque:
 
 ✔ Los acordes quedan bien alineados sobre las letras  
@@ -381,6 +383,7 @@ Cualquier editor de texto.
 ## 🔤 Fuentes usadas
 Principalmente **Consolas** para máxima compatibilidad.  
 Algunos archivos antiguos usan **Iosevka** (ver carpeta `Fonts`).
+
 
 ---
 
