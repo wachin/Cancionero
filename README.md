@@ -133,6 +133,7 @@ Es como tener un **acorde impreso pequeño**, pero en versión digital.
 * Pianistas
 * Líderes de alabanza
 * Músicos que usan el celular en el atril
+* Personas que quieren cuidar el medio ambiente y no les gusta imprimir hojas para cuidar los arboles
 
 ---
 
@@ -155,6 +156,8 @@ Aquí se usó un tamaño pensado **para tocar música**, no para oficina.
 Sí, pero su objetivo principal es:
 
 📱 **uso digital en teléfonos**
+
+Si los deseas imprimir así como están diseñados a 63x110mm lo mejor es que copies los arcordes de uno de los archivos DOCX a un documento A4 que tenga dos columnas
 
 ---
 
