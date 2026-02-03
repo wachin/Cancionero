@@ -87,7 +87,9 @@ Los achivos dentro de la carpeta "Acordes(63x110mm)" no están en el tamaño A4.
 
 Yo adapté estas canciones a un tamaño especial:
 
-- 📐 Tamaño usado: **63 x 110 mm** (o lo que es lo mismo 6,3 x 11 cm), como se ve en la siguiente imagen en LibreOffice en una PC:
+- 📐 Tamaño usado: **63 x 110 mm** (o lo que es lo mismo 6,3 x 11 cm), como se ve en la siguiente imagen en LibreOffice en una PC
+
+-> Formato > Estilo de página > Página > Formato de papel > Anchura y Altura
 
  ![](Dev/vx_images/Pagina-a-63x110-mm-en-LibreOffice-en-una-PC.png)
 
@@ -157,7 +159,17 @@ Sí, pero su objetivo principal es:
 
 📱 **uso digital en teléfonos**
 
-Si los deseas imprimir así como están diseñados a 63x110mm lo mejor es que copies los arcordes de uno de los archivos DOCX a un documento A4 que tenga dos columnas
+Si los deseas imprimir así como están diseñados a 63x110mm lo mejor es que copies los arcordes de uno de esos archivos DOCX a un documento A4 que tenga dos columnas, como los ejemplos de la carpeta:
+
+```
+Imprimir A4 2 columnas
+```
+
+y de allí los imprimas como pagina A4:
+
+![](Dev/vx_images/02-Popurri-2-columnas-A4-Pon-aceite.png)
+
+**Nota**: Si deseas lo puedes guardar como PDF, así hago yo cuando los manos a imprimir al Cyber
 
 ---
 
