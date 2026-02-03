@@ -93,9 +93,14 @@ Yo adapté estas canciones a un tamaño especial:
 
  ![](Dev/vx_images/Pagina-a-63x110-mm-en-LibreOffice-en-una-PC.png)
 
+En esta imagen de arriba se ven tres páginas 63 x 110 mm, esto es debido a que esa alabanza es un Mosaico de alabanzas y es muy largo. En LibreOffice para que se vean así hay que dar clic en el botón:
+
+-> Vista de paginas multiples
+
+![](Dev/vx_images/03-LibreOffice-Vista-de-paginas-multiples.png)
 Ese tamaño es parecido a una **tarjeta vertical**, y tiene una ventaja enorme:
 
-> **Coincide mucho mejor con la forma de la pantalla de un teléfono**
+> **Las páginas así coinciden mucho mejor con la forma de la pantalla de un teléfono**
 
 ---
 
