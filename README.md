@@ -180,6 +180,8 @@ y de allí los imprimas como pagina A4:
 
 #### Resumen 
 
+Comparación si se ve un documento A4 PDF en un celular a uno 63x110mm 
+
 |       Tamaño A4       |     Tamaño 63x110mm      |
 | --------------------- | ------------------------ |
 | Pensado para imprimir | Pensado para celular     |
@@ -189,11 +191,6 @@ y de allí los imprimas como pagina A4:
 | Documento de oficina  | Herramienta para músicos |
 
 ---
-
-#### 🙌 Objetivo
-
-Ahorrar tiempo en culto y facilitar la lectura de acordes.
-Menos distracción. Más adoración.
 
 ### 🔤 Fuente tipográfica usada: Consolas
 
