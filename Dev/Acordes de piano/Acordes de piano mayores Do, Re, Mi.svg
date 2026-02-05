@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="274.79816mm"
+   height="62.007908mm"
+   viewBox="0 0 274.79816 62.007908"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Acordes de piano mayores Do, Re, Mi.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.79689014"
+     inkscape:cx="557.16588"
+     inkscape:cy="117.3311"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(36.202282,-76.493081)">
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,52.880619,73.347931)"
+       id="g56">
+      <rect
+         class="panel"
+         x="17.071753"
+         y="13.592451"
+         width="327.51224"
+         height="231.65533"
+         rx="9.2112827"
+         id="rect120"
+         style="fill:#fafafa;stroke:#dddddd;stroke-width:2" />
+      <g
+         transform="translate(40,10)"
+         id="g120">
+        <rect
+           class="white"
+           x="0"
+           y="40"
+           width="40"
+           height="160"
+           id="rect121"
+           style="fill:#ffffff;stroke:#111111;stroke-width:2" />
+        <rect
+           class="white"
+           x="40"
+           y="40"
+           width="40"
+           height="160"
+           id="rect122"
+           style="fill:#ffffff;stroke:#111111;stroke-width:2" />
+        <rect
+           class="white"
+           x="80"
+           y="40"
+           width="40"
+           height="160"
+           id="rect123"
+           style="fill:#ffffff;stroke:#111111;stroke-width:2" />
+        <rect
+           class="white"
+           x="120"
+           y="40"
+           width="40"
+           height="160"
+           id="rect124"
+           style="fill:#ffffff;stroke:#111111;stroke-width:2" />
+        <rect
+           class="white"
+           x="160"
+           y="40"
+           width="40"
+           height="160"
+           id="rect125"
+           style="fill:#ffffff;stroke:#111111;stroke-width:2" />
+        <rect
+           class="white"
+           x="200"
+           y="40"
+           width="40"
+           height="160"
+           id="rect126"
+           style="fill:#ffffff;stroke:#111111;stroke-width:2" />
+        <rect
+           class="white"
+           x="240"
+           y="40"
+           width="40"
+           height="160"
+           id="rect127"
+           style="fill:#ffffff;stroke:#111111;stroke-width:2" />
+        <rect
+           class="black"
+           x="28"
+           y="40"
+           width="24"
+           height="100"
+           id="rect135"
+           style="fill:#111111;stroke:#111111;stroke-width:2" />
+        <rect
+           class="black"
+           x="68"
+           y="40"
+           width="24"
+           height="100"
+           id="rect136"
+           style="fill:#111111;stroke:#111111;stroke-width:2" />
+        <rect
+           class="black"
+           x="148"
+           y="40"
+           width="24"
+           height="100"
+           id="rect137"
+           style="fill:#111111;stroke:#111111;stroke-width:2" />
+        <rect
+           class="black"
+           x="188"
+           y="40"
+           width="24"
+           height="100"
+           id="rect138"
+           style="fill:#111111;stroke:#111111;stroke-width:2" />
+        <rect
+           class="black"
+           x="228"
+           y="40"
+           width="24"
+           height="100"
+           id="rect139"
+           style="fill:#111111;stroke:#111111;stroke-width:2" />
+        <text
+           class="noteW"
+           x="20"
+           y="220"
+           text-anchor="middle"
+           id="text144"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14px;line-height:normal;font-family:sans-serif;opacity:0.85;fill:#333333">Do</text>
+        <text
+           class="noteW"
+           x="60"
+           y="220"
+           text-anchor="middle"
+           id="text145"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14px;line-height:normal;font-family:sans-serif;opacity:0.85;fill:#333333">Re</text>
+        <text
+           class="noteW"
+           x="100"
+           y="220"
+           text-anchor="middle"
+           id="text146"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14px;line-height:normal;font-family:sans-serif;opacity:0.85;fill:#333333">Mi</text>
+        <text
+           class="noteW"
+           x="140"
+           y="220"
+           text-anchor="middle"
+           id="text147"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14px;line-height:normal;font-family:sans-serif;opacity:0.85;fill:#333333">Fa</text>
+        <text
+           class="noteW"
+           x="180"
+           y="220"
+           text-anchor="middle"
+           id="text148"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14px;line-height:normal;font-family:sans-serif;opacity:0.85;fill:#333333">Sol</text>
+        <text
+           class="noteW"
+           x="220"
+           y="220"
+           text-anchor="middle"
+           id="text149"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14px;line-height:normal;font-family:sans-serif;opacity:0.85;fill:#333333">La</text>
+        <text
+           class="noteW"
+           x="260"
+           y="220"
+           text-anchor="middle"
+           id="text150"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14px;line-height:normal;font-family:sans-serif;opacity:0.85;fill:#333333">Si</text>
+        <text
+           class="noteB"
+           x="40"
+           y="115"
+           text-anchor="middle"
+           id="text158"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:13px;line-height:normal;font-family:sans-serif;opacity:0.95;fill:#ffffff">Do#</text>
+        <text
+           class="noteB"
+           x="80"
+           y="115"
+           text-anchor="middle"
+           id="text159"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:13px;line-height:normal;font-family:sans-serif;opacity:0.95;fill:#ffffff">Re#</text>
+        <text
+           class="noteB"
+           x="160"
+           y="115"
+           text-anchor="middle"
+           id="text160"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:13px;line-height:normal;font-family:sans-serif;opacity:0.95;fill:#ffffff">Fa#</text>
+        <text
+           class="noteB"
+           x="200"
+           y="115"
+           text-anchor="middle"
+           id="text161"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:13px;line-height:normal;font-family:sans-serif;opacity:0.95;fill:#ffffff">Sol#</text>
+        <text
+           class="noteB"
+           x="240"
+           y="115"
+           text-anchor="middle"
+           id="text162"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:13px;line-height:normal;font-family:sans-serif;opacity:0.95;fill:#ffffff">La#</text>
+        <text
+           class="noteB"
+           x="520"
+           y="115"
+           text-anchor="middle"
+           id="text166"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:13px;line-height:normal;font-family:sans-serif;opacity:0.95;fill:#ffffff">Sol#</text>
+      </g>
+      <text
+         class="label"
+         x="40"
+         y="40"
+         id="text53"
+         style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:24px;line-height:normal;font-family:sans-serif;fill:#111111">Re Mayor</text>
+      <circle
+         class="dot"
+         cx="100"
+         cy="195"
+         r="14"
+         id="circle54"
+         style="fill:#63b3ed;stroke:#1e4e8c;stroke-width:2" />
+      <!-- Re (40) -->
+      <circle
+         class="dot"
+         cx="200"
+         cy="140.73969"
+         r="14"
+         id="circle55"
+         style="fill:#63b3ed;stroke:#1e4e8c;stroke-width:2" />
+      <!-- Fa# (148 negra) -->
+      <circle
+         class="dot"
+         cx="260"
+         cy="195"
+         r="14"
+         id="circle56"
+         style="fill:#63b3ed;stroke:#1e4e8c;stroke-width:2" />
+      <!-- La (200) -->
+    </g>
+    <g
+       id="g5"
+       transform="matrix(0.26458333,0,0,0.26458333,130.98054,-119.25952)">
+      <g
+         id="use56"
+         transform="translate(60,730)">
+        <rect
+           class="panel"
+           x="14.75231"
+           y="10.843838"
+           width="330.99139"
+           height="231.11618"
+           rx="9.3091326"
+           id="rect168"
+           style="fill:#fafafa;stroke:#dddddd;stroke-width:1.98296" />
+        <g
+           transform="translate(40,10)"
+           id="g168">
+          <rect
+             class="white"
+             x="0"
+             y="40"
+             width="40"
+             height="160"
+             id="rect169"
+             style="fill:#ffffff;stroke:#111111;stroke-width:2" />
+          <rect
+             class="white"
+             x="40"
+             y="40"
+             width="40"
+             height="160"
+             id="rect170"
+             style="fill:#ffffff;stroke:#111111;stroke-width:2" />
+          <rect
+             class="white"
+             x="80"
+             y="40"
+             width="40"
+             height="160"
+             id="rect171"
+             style="fill:#ffffff;stroke:#111111;stroke-width:2" />
+          <rect
+             class="white"
+             x="120"
+             y="40"
+             width="40"
+             height="160"
+             id="rect172"
+             style="fill:#ffffff;stroke:#111111;stroke-width:2" />
+          <rect
+             class="white"
+             x="160"
+             y="40"
+             width="40"
+             height="160"
+             id="rect173"
+             style="fill:#ffffff;stroke:#111111;stroke-width:2" />
+          <rect
+             class="white"
+             x="200"
+             y="40"
+             width="40"
+             height="160"
+             id="rect174"
+             style="fill:#ffffff;stroke:#111111;stroke-width:2" />
+          <rect
+             class="white"
+             x="240"
+             y="40"
+             width="40"
+             height="160"
+             id="rect175"
+             style="fill:#ffffff;stroke:#111111;stroke-width:2" />
+          <rect
+             class="black"
+             x="28"
+             y="40"
+             width="24"
+             height="100"
+             id="rect183"
+             style="fill:#111111;stroke:#111111;stroke-width:2" />
+          <rect
+             class="black"
+             x="68"
+             y="40"
+             width="24"
+             height="100"
+             id="rect184"
+             style="fill:#111111;stroke:#111111;stroke-width:2" />
+          <rect
+             class="black"
+             x="148"
+             y="40"
+             width="24"
+             height="100"
+             id="rect185"
+             style="fill:#111111;stroke:#111111;stroke-width:2" />
+          <rect
+             class="black"
+             x="188"
+             y="40"
+             width="24"
+             height="100"
+             id="rect186"
+             style="fill:#111111;stroke:#111111;stroke-width:2" />
+          <rect
+             class="black"
+             x="228"
+             y="40"
+             width="24"
+             height="100"
+             id="rect187"
+             style="fill:#111111;stroke:#111111;stroke-width:2" />
+          <text
+             class="noteW"
+             x="20"
+             y="220"
+             text-anchor="middle"
+             id="text192"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14px;line-height:normal;font-family:sans-serif;opacity:0.85;fill:#333333">Do</text>
+          <text
+             class="noteW"
+             x="60"
+             y="220"
+             text-anchor="middle"
+             id="text193"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14px;line-height:normal;font-family:sans-serif;opacity:0.85;fill:#333333">Re</text>
+          <text
+             class="noteW"
+             x="100"
+             y="220"
+             text-anchor="middle"
+             id="text194"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14px;line-height:normal;font-family:sans-serif;opacity:0.85;fill:#333333">Mi</text>
+          <text
+             class="noteW"
+             x="140"
+             y="220"
+             text-anchor="middle"
+             id="text195"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14px;line-height:normal;font-family:sans-serif;opacity:0.85;fill:#333333">Fa</text>
+          <text
+             class="noteW"
+             x="180"
+             y="220"
+             text-anchor="middle"
+             id="text196"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14px;line-height:normal;font-family:sans-serif;opacity:0.85;fill:#333333">Sol</text>
+          <text
+             class="noteW"
+             x="220"
+             y="220"
+             text-anchor="middle"
+             id="text197"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14px;line-height:normal;font-family:sans-serif;opacity:0.85;fill:#333333">La</text>
+          <text
+             class="noteW"
+             x="260"
+             y="220"
+             text-anchor="middle"
+             id="text198"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14px;line-height:normal;font-family:sans-serif;opacity:0.85;fill:#333333">Si</text>
+          <text
+             class="noteB"
+             x="40"
+             y="115"
+             text-anchor="middle"
+             id="text206"
+             style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:13px;line-height:normal;font-family:sans-serif;opacity:0.95;fill:#ffffff">Do#</text>
+          <text
+             class="noteB"
+             x="80"
+             y="115"
+             text-anchor="middle"
+             id="text207"
+             style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:13px;line-height:normal;font-family:sans-serif;opacity:0.95;fill:#ffffff">Re#</text>
+          <text
+             class="noteB"
+             x="160"
+             y="115"
+             text-anchor="middle"
+             id="text208"
+             style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:13px;line-height:normal;font-family:sans-serif;opacity:0.95;fill:#ffffff">Fa#</text>
+          <text
+             class="noteB"
+             x="200"
+             y="115"
+             text-anchor="middle"
+             id="text209"
+             style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:13px;line-height:normal;font-family:sans-serif;opacity:0.95;fill:#ffffff">Sol#</text>
+          <text
+             class="noteB"
+             x="240"
+             y="115"
+             text-anchor="middle"
+             id="text210"
+             style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:13px;line-height:normal;font-family:sans-serif;opacity:0.95;fill:#ffffff">La#</text>
+        </g>
+      </g>
+      <text
+         class="label"
+         x="100"
+         y="770"
+         id="text56"
+         style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:24px;line-height:normal;font-family:sans-serif;fill:#111111">Mi Mayor</text>
+      <circle
+         class="dot"
+         cx="200"
+         cy="925"
+         r="14"
+         id="circle57"
+         style="fill:#63b3ed;stroke:#1e4e8c;stroke-width:2" />
+      <circle
+         class="dot"
+         cx="300"
+         cy="871.2605"
+         r="14"
+         id="circle58"
+         style="fill:#63b3ed;stroke:#1e4e8c;stroke-width:2" />
+      <circle
+         class="dot"
+         cx="360"
+         cy="925"
+         r="14"
+         id="circle59"
+         style="fill:#63b3ed;stroke:#1e4e8c;stroke-width:2" />
+    </g>
+    <g
+       id="g3"
+       transform="matrix(0.26458333,0,0,0.26458333,-53.77723,11.445669)">
+      <g
+         id="g2"
+         transform="translate(602.011,-7.3059584)">
+        <rect
+           class="panel"
+           x="-534.586"
+           y="254.37927"
+           width="327.5239"
+           height="230.03212"
+           rx="9.2116108"
+           id="rect71"
+           style="fill:#fafafa;stroke:#dddddd;stroke-width:2" />
+        <g
+           id="g1">
+          <g
+             id="use71"
+             transform="translate(-508.1726,253.11218)">
+            <!-- Teclas blancas (14) -->
+            <g
+               id="g86">
+              <!-- Octava 1: Do Re Mi Fa Sol La Si -->
+              <rect
+                 class="white"
+                 x="0"
+                 y="40"
+                 width="40"
+                 height="160"
+                 id="rect73"
+                 style="fill:#ffffff;stroke:#111111;stroke-width:2" />
+              <!-- Do -->
+              <rect
+                 class="white"
+                 x="40"
+                 y="40"
+                 width="40"
+                 height="160"
+                 id="rect74"
+                 style="fill:#ffffff;stroke:#111111;stroke-width:2" />
+              <!-- Re -->
+              <rect
+                 class="white"
+                 x="80"
+                 y="40"
+                 width="40"
+                 height="160"
+                 id="rect75"
+                 style="fill:#ffffff;stroke:#111111;stroke-width:2" />
+              <!-- Mi -->
+              <rect
+                 class="white"
+                 x="120"
+                 y="40"
+                 width="40"
+                 height="160"
+                 id="rect76"
+                 style="fill:#ffffff;stroke:#111111;stroke-width:2" />
+              <!-- Fa -->
+              <rect
+                 class="white"
+                 x="160"
+                 y="40"
+                 width="40"
+                 height="160"
+                 id="rect77"
+                 style="fill:#ffffff;stroke:#111111;stroke-width:2" />
+              <!-- Sol -->
+              <rect
+                 class="white"
+                 x="200"
+                 y="40"
+                 width="40"
+                 height="160"
+                 id="rect78"
+                 style="fill:#ffffff;stroke:#111111;stroke-width:2" />
+              <!-- La -->
+              <rect
+                 class="white"
+                 x="240"
+                 y="40"
+                 width="40"
+                 height="160"
+                 id="rect79"
+                 style="fill:#ffffff;stroke:#111111;stroke-width:2" />
+              <!-- Si -->
+              <!-- Octava 2 -->
+              <!-- Do -->
+              <!-- Re -->
+              <!-- Mi -->
+              <!-- Fa -->
+              <!-- Sol -->
+              <!-- La -->
+              <!-- Si -->
+            </g>
+            <!-- Teclas negras (10) - NO hay negra sobre Mi ni sobre Si -->
+            <rect
+               class="black"
+               x="28"
+               y="40"
+               width="24"
+               height="100"
+               id="rect87"
+               style="fill:#111111;stroke:#111111;stroke-width:2" />
+            <rect
+               class="black"
+               x="68"
+               y="40"
+               width="24"
+               height="100"
+               id="rect88"
+               style="fill:#111111;stroke:#111111;stroke-width:2" />
+            <rect
+               class="black"
+               x="148"
+               y="40"
+               width="24"
+               height="100"
+               id="rect89"
+               style="fill:#111111;stroke:#111111;stroke-width:2" />
+            <rect
+               class="black"
+               x="188"
+               y="40"
+               width="24"
+               height="100"
+               id="rect90"
+               style="fill:#111111;stroke:#111111;stroke-width:2" />
+            <rect
+               class="black"
+               x="228"
+               y="40"
+               width="24"
+               height="100"
+               id="rect91"
+               style="fill:#111111;stroke:#111111;stroke-width:2" />
+            <!-- Etiquetas de teclas blancas -->
+            <g
+               opacity="0.85"
+               id="g109">
+              <text
+                 class="noteW"
+                 x="20"
+                 y="220"
+                 text-anchor="middle"
+                 id="text96"
+                 style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14px;line-height:normal;font-family:sans-serif;fill:#333333">Do</text>
+              <text
+                 class="noteW"
+                 x="60"
+                 y="220"
+                 text-anchor="middle"
+                 id="text97"
+                 style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14px;line-height:normal;font-family:sans-serif;fill:#333333">Re</text>
+              <text
+                 class="noteW"
+                 x="100"
+                 y="220"
+                 text-anchor="middle"
+                 id="text98"
+                 style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14px;line-height:normal;font-family:sans-serif;fill:#333333">Mi</text>
+              <text
+                 class="noteW"
+                 x="140"
+                 y="220"
+                 text-anchor="middle"
+                 id="text99"
+                 style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14px;line-height:normal;font-family:sans-serif;fill:#333333">Fa</text>
+              <text
+                 class="noteW"
+                 x="180"
+                 y="220"
+                 text-anchor="middle"
+                 id="text100"
+                 style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14px;line-height:normal;font-family:sans-serif;fill:#333333">Sol</text>
+              <text
+                 class="noteW"
+                 x="220"
+                 y="220"
+                 text-anchor="middle"
+                 id="text101"
+                 style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14px;line-height:normal;font-family:sans-serif;fill:#333333">La</text>
+              <text
+                 class="noteW"
+                 x="260"
+                 y="220"
+                 text-anchor="middle"
+                 id="text102"
+                 style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14px;line-height:normal;font-family:sans-serif;fill:#333333">Si</text>
+            </g>
+            <!-- Etiquetas de teclas negras (blancas sobre negro) -->
+            <text
+               class="noteB"
+               x="40"
+               y="115"
+               text-anchor="middle"
+               id="text110"
+               style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:13px;line-height:normal;font-family:sans-serif;opacity:0.95;fill:#ffffff">Do#</text>
+            <text
+               class="noteB"
+               x="80"
+               y="115"
+               text-anchor="middle"
+               id="text111"
+               style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:13px;line-height:normal;font-family:sans-serif;opacity:0.95;fill:#ffffff">Re#</text>
+            <text
+               class="noteB"
+               x="160"
+               y="115"
+               text-anchor="middle"
+               id="text112"
+               style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:13px;line-height:normal;font-family:sans-serif;opacity:0.95;fill:#ffffff">Fa#</text>
+            <text
+               class="noteB"
+               x="200"
+               y="115"
+               text-anchor="middle"
+               id="text113"
+               style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:13px;line-height:normal;font-family:sans-serif;opacity:0.95;fill:#ffffff">Sol#</text>
+            <text
+               class="noteB"
+               x="240"
+               y="115"
+               text-anchor="middle"
+               id="text114"
+               style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:13px;line-height:normal;font-family:sans-serif;opacity:0.95;fill:#ffffff">La#</text>
+            <text
+               class="noteB"
+               x="520"
+               y="115"
+               text-anchor="middle"
+               id="text119"
+               style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:13px;line-height:normal;font-family:sans-serif;opacity:0.95;fill:#ffffff" />
+          </g>
+          <circle
+             class="dot"
+             cx="-487.47134"
+             cy="437.78183"
+             id="circle51"
+             r="14"
+             style="fill:#63b3ed;stroke:#1e4e8c;stroke-width:2" />
+          <circle
+             class="dot"
+             cx="-407.47141"
+             cy="437.78183"
+             id="circle52"
+             r="14"
+             style="fill:#63b3ed;stroke:#1e4e8c;stroke-width:2" />
+          <circle
+             class="dot"
+             cx="-327.47141"
+             cy="437.78183"
+             id="circle53"
+             r="14"
+             style="fill:#63b3ed;stroke:#1e4e8c;stroke-width:2" />
+        </g>
+      </g>
+      <text
+         class="label"
+         x="90.995285"
+         y="274.51053"
+         id="text50-8"
+         style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:24px;line-height:normal;font-family:sans-serif;fill:#111111">Do Mayor</text>
+    </g>
+  </g>
+</svg>
