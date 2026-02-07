@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="Wacho acordes v2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.9147779"
+     inkscape:cx="234.66625"
+     inkscape:cy="219.39922"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g63" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="matrix(0.2612232,0,0,0.24041548,11.561899,37.146639)"
+       id="g43">
+      <g
+         transform="translate(40,10)"
+         id="g25">
+        <g
+           id="use25">
+          <!-- White keys (14) -->
+          <!-- key width = 40, height = 160 -->
+          <!-- Black keys -->
+          <!-- black width = 24, height = 100 -->
+          <!-- Labels C D E F G A B (solo para orientar) -->
+        </g>
+      </g>
+      <!-- C (white x=0 center=60) but panel has keyboard at +40; add: 40+20 = 60 -->
+      <!-- E (white x=80 center=140) -->
+      <!-- G (white x=160 center=220) -->
+      <g
+         id="g63">
+        <rect
+           class="panel"
+           x="-0.57157624"
+           y="-0.57157624"
+           width="274.19119"
+           height="107.10594"
+           rx="7.7116275"
+           id="rect25"
+           style="fill:#fafafa;stroke:#dddddd;stroke-width:0.856848" />
+        <rect
+           class="white"
+           x="16.565374"
+           y="20.849613"
+           width="17.13695"
+           height="68.547798"
+           id="rect26"
+           style="fill:#ffffff;stroke:#111111;stroke-width:0.856848" />
+        <rect
+           class="white"
+           x="33.702324"
+           y="20.849613"
+           width="17.13695"
+           height="68.547798"
+           id="rect27"
+           style="fill:#ffffff;stroke:#111111;stroke-width:0.856848" />
+        <rect
+           class="white"
+           x="50.839275"
+           y="20.849613"
+           width="17.13695"
+           height="68.547798"
+           id="rect28"
+           style="fill:#ffffff;stroke:#111111;stroke-width:0.856848" />
+        <rect
+           class="white"
+           x="67.976227"
+           y="20.849613"
+           width="17.13695"
+           height="68.547798"
+           id="rect29"
+           style="fill:#ffffff;stroke:#111111;stroke-width:0.856848" />
+        <rect
+           class="white"
+           x="85.113174"
+           y="20.849613"
+           width="17.13695"
+           height="68.547798"
+           id="rect30"
+           style="fill:#ffffff;stroke:#111111;stroke-width:0.856848" />
+        <rect
+           class="white"
+           x="102.25013"
+           y="20.849613"
+           width="17.13695"
+           height="68.547798"
+           id="rect31"
+           style="fill:#ffffff;stroke:#111111;stroke-width:0.856848" />
+        <rect
+           class="white"
+           x="119.38708"
+           y="20.849613"
+           width="17.13695"
+           height="68.547798"
+           id="rect32"
+           style="fill:#ffffff;stroke:#111111;stroke-width:0.856848" />
+        <rect
+           class="white"
+           x="136.52403"
+           y="20.849613"
+           width="17.13695"
+           height="68.547798"
+           id="rect33"
+           style="fill:#ffffff;stroke:#111111;stroke-width:0.856848" />
+        <rect
+           class="white"
+           x="153.66098"
+           y="20.849613"
+           width="17.13695"
+           height="68.547798"
+           id="rect34"
+           style="fill:#ffffff;stroke:#111111;stroke-width:0.856848" />
+        <rect
+           class="white"
+           x="170.79793"
+           y="20.849613"
+           width="17.13695"
+           height="68.547798"
+           id="rect35"
+           style="fill:#ffffff;stroke:#111111;stroke-width:0.856848" />
+        <rect
+           class="white"
+           x="187.93488"
+           y="20.849613"
+           width="17.13695"
+           height="68.547798"
+           id="rect36"
+           style="fill:#ffffff;stroke:#111111;stroke-width:0.856848" />
+        <rect
+           class="white"
+           x="205.07182"
+           y="20.849613"
+           width="17.13695"
+           height="68.547798"
+           id="rect37"
+           style="fill:#ffffff;stroke:#111111;stroke-width:0.856848" />
+        <rect
+           class="white"
+           x="222.20879"
+           y="20.849613"
+           width="17.13695"
+           height="68.547798"
+           id="rect38"
+           style="fill:#ffffff;stroke:#111111;stroke-width:0.856848" />
+        <rect
+           class="white"
+           x="239.34573"
+           y="20.849613"
+           width="17.13695"
+           height="68.547798"
+           id="rect39"
+           style="fill:#ffffff;stroke:#111111;stroke-width:0.856848" />
+        <rect
+           class="black"
+           x="28.561239"
+           y="20.849615"
+           width="10.28217"
+           height="42.842377"
+           id="rect40"
+           style="fill:#111111;stroke:#111111;stroke-width:0.856848" />
+        <rect
+           class="black"
+           x="45.698189"
+           y="20.849615"
+           width="10.28217"
+           height="42.842377"
+           id="rect41"
+           style="fill:#111111;stroke:#111111;stroke-width:0.856848" />
+        <rect
+           class="black"
+           x="79.972092"
+           y="20.849615"
+           width="10.28217"
+           height="42.842377"
+           id="rect42"
+           style="fill:#111111;stroke:#111111;stroke-width:0.856848" />
+        <rect
+           class="black"
+           x="97.109039"
+           y="20.849615"
+           width="10.28217"
+           height="42.842377"
+           id="rect43"
+           style="fill:#111111;stroke:#111111;stroke-width:0.856848" />
+        <rect
+           class="black"
+           x="114.24599"
+           y="20.849615"
+           width="10.28217"
+           height="42.842377"
+           id="rect44"
+           style="fill:#111111;stroke:#111111;stroke-width:0.856848" />
+        <rect
+           class="black"
+           x="148.5199"
+           y="20.849615"
+           width="10.28217"
+           height="42.842377"
+           id="rect45"
+           style="fill:#111111;stroke:#111111;stroke-width:0.856848" />
+        <rect
+           class="black"
+           x="165.65686"
+           y="20.849615"
+           width="10.28217"
+           height="42.842377"
+           id="rect46"
+           style="fill:#111111;stroke:#111111;stroke-width:0.856848" />
+        <rect
+           class="black"
+           x="217.06769"
+           y="20.849615"
+           width="10.28217"
+           height="42.842377"
+           id="rect47"
+           style="fill:#111111;stroke:#111111;stroke-width:0.856848" />
+        <rect
+           class="black"
+           x="234.20465"
+           y="20.849615"
+           width="10.28217"
+           height="42.842377"
+           id="rect48"
+           style="fill:#111111;stroke:#111111;stroke-width:0.856848" />
+        <rect
+           class="black"
+           x="200.35095"
+           y="20.849615"
+           width="10.28217"
+           height="42.842377"
+           id="rect49"
+           style="fill:#111111;stroke:#111111;stroke-width:0.856848" />
+        <text
+           class="note"
+           x="25.13385"
+           y="97.965889"
+           text-anchor="middle"
+           id="text49"
+           style="font-size:5.14109px;opacity:0.65;fill:#333333;stroke-width:0.428424">C</text>
+        <text
+           class="note"
+           x="42.270798"
+           y="97.965889"
+           text-anchor="middle"
+           id="text50"
+           style="font-size:5.14109px;opacity:0.65;fill:#333333;stroke-width:0.428424">D</text>
+        <text
+           class="note"
+           x="59.407749"
+           y="97.965889"
+           text-anchor="middle"
+           id="text51"
+           style="font-size:5.14109px;opacity:0.65;fill:#333333;stroke-width:0.428424">E</text>
+        <text
+           class="note"
+           x="76.544701"
+           y="97.965889"
+           text-anchor="middle"
+           id="text52"
+           style="font-size:5.14109px;opacity:0.65;fill:#333333;stroke-width:0.428424">F</text>
+        <text
+           class="note"
+           x="93.681648"
+           y="97.965889"
+           text-anchor="middle"
+           id="text53"
+           style="font-size:5.14109px;opacity:0.65;fill:#333333;stroke-width:0.428424">G</text>
+        <text
+           class="note"
+           x="110.8186"
+           y="97.965889"
+           text-anchor="middle"
+           id="text54"
+           style="font-size:5.14109px;opacity:0.65;fill:#333333;stroke-width:0.428424">A</text>
+        <text
+           class="note"
+           x="127.95555"
+           y="97.965889"
+           text-anchor="middle"
+           id="text55"
+           style="font-size:5.14109px;opacity:0.65;fill:#333333;stroke-width:0.428424">B</text>
+        <text
+           class="note"
+           x="145.0925"
+           y="97.965889"
+           text-anchor="middle"
+           id="text56"
+           style="font-size:5.14109px;opacity:0.65;fill:#333333;stroke-width:0.428424">C</text>
+        <text
+           class="note"
+           x="162.22945"
+           y="97.965889"
+           text-anchor="middle"
+           id="text57"
+           style="font-size:5.14109px;opacity:0.65;fill:#333333;stroke-width:0.428424">D</text>
+        <text
+           class="note"
+           x="179.36641"
+           y="97.965889"
+           text-anchor="middle"
+           id="text58"
+           style="font-size:5.14109px;opacity:0.65;fill:#333333;stroke-width:0.428424">E</text>
+        <text
+           class="note"
+           x="196.50336"
+           y="97.965889"
+           text-anchor="middle"
+           id="text59"
+           style="font-size:5.14109px;opacity:0.65;fill:#333333;stroke-width:0.428424">F</text>
+        <text
+           class="note"
+           x="213.6403"
+           y="97.965889"
+           text-anchor="middle"
+           id="text60"
+           style="font-size:5.14109px;opacity:0.65;fill:#333333;stroke-width:0.428424">G</text>
+        <text
+           class="note"
+           x="230.77725"
+           y="97.965889"
+           text-anchor="middle"
+           id="text61"
+           style="font-size:5.14109px;opacity:0.65;fill:#333333;stroke-width:0.428424">A</text>
+        <text
+           class="note"
+           x="247.9142"
+           y="97.965889"
+           text-anchor="middle"
+           id="text62"
+           style="font-size:5.14109px;opacity:0.65;fill:#333333;stroke-width:0.428424">B</text>
+        <text
+           class="label"
+           x="16.565374"
+           y="16.565374"
+           id="text41"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:10.2822px;line-height:normal;font-family:sans-serif;fill:#111111;stroke-width:0.428424">C Mayor (C)</text>
+        <circle
+           class="dot"
+           cx="25.13385"
+           cy="78.686821"
+           r="5.9979324"
+           id="circle41"
+           style="fill:#80b3ff;stroke:#0f2a45;stroke-width:0.856848" />
+        <circle
+           class="dot"
+           cx="59.407749"
+           cy="78.686821"
+           r="5.9979324"
+           id="circle42"
+           style="fill:#80b3ff;stroke:#0f2a45;stroke-width:0.856848" />
+        <circle
+           class="dot"
+           cx="93.681648"
+           cy="78.686821"
+           r="5.9979324"
+           id="circle43"
+           style="fill:#80b3ff;stroke:#0f2a45;stroke-width:0.856848" />
+      </g>
+    </g>
+  </g>
+</svg>
