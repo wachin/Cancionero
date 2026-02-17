@@ -1,104 +1,100 @@
 Holy Forever - Español 
 Miel San Marcos
 
-Key:
- A
+Key: A#, Colocar capotraste en la 1ra.
  
-[Intro]
-D  F#m E  A/C# F#m E
+INTRO
+F#m D E  A/C# F#m E
  
  
 [Verso 1]
-A                   D            A
+ A                   D            A
 Mil generaciones se postran a adorarle
-   F#m7         Eadd4       D
+    F#m7         E            D
 Le cantan al cordero que venció
-    A
+ A
 Los que nos precedieron
-  D                  A
+   D                 A
 y los que en Él creerán
-   F#m7        Eadd4          D
+    F#m7         E              D
 Le cantarán a Aquel que ya venció
  
- 
 [Pre-Coro]
-   D               
+    D               
 Tu Nombre es más alto
-   E
+    E
 Tu Nombre es más grande
-   F#m               D
-Tu Nombre sobre todo es...
- 
-  D              F#m
-Dominios y tronos
-  E
-Poderes y reinos
-   F#m               Bm7
+    F#m              D
 Tu Nombre sobre todo es
  
+     D
+Dominios y tronos
+   E
+Poderes y reinos
+    F#m7             Bm7
+Tu Nombre sobre todo es
  
 [Coro 1]
-            D          E
-Cantan ángeles: "Sa-an-to"
-              A/C#        F#m
-Clama la creación: "Sa-an-to"
-         Bm          E
-Exaltado Dios, Sa-an-to
+            D      E
+Cantan ángeles Santo
+               A/C#   F#m
+Clama la creación Santo
+           Bm7     E
+Exaltado Dios, Santo
             A     Asus4  A
 Santo por siempre
  
  
-[Verse]
-A                           D                A
-If you've been forgiven and if you've been redeemed
-F#m7             Eadd4       D
-Sing the song forever to the Lamb
-A                          D               A
-If you walk in freedom and if you bear His Name
-F#m7             Eadd4       D
-Sing the song forever to the Lamb
- 
- 
-[Tag]
-      F#m7             Eadd4     D
-We'll sing the song forever and amen
- 
+VERSO 2
+ A                       
+Si te ha perdonado,
+    D           A
+Y tienes salvación
+ F#m           E            D
+Cántale al Cordero que venció
+
+ A  
+Si te ha libertado
+    D                   A
+Su nombre ha puesto en ti
+ F#m           E            D
+Cántale al Cordero que venció
+ F#m        Esus       D
+Cantaremos siempre, ¡Amén!
+
+[Coro 1]
+            D      E
+Cantan ángeles Santo
+               A/C#   F#m
+Clama la creación Santo
+           Bm7     E
+Exaltado Dios, Santo
+            A     Asus4  A
+Santo por siempre
  
 [Coro 1]
-                D      F#m E
-And the angels cry: "Ho-o-ly"
-              A/C#        F#m
-All creation cries: "Ho-o-ly"
-               Bm      F#m E
-You are lifted high, Ho-o-ly
-           A    Asus4  A
-Holy for - ever
- 
- 
-[Coro 2]
-                 D        F#m E
-Hear your people sing: "Ho-o-ly"
-               A/C#         F#m
-To the King of kings: "Ho-o-ly"
-                Bm   F#m E
-You will always be Ho-o-ly
-           A   Asus4  A
-Holy for - ever
- 
- 
+                D      E
+Tu pueblo cantará Santo
+          A/C#  F#m
+Rey de Reyes   Santo
+                  Bm7     E
+Por siempre el será,  Santo
+            A     Asus4  A
+Santo por siempre
+
+
 [Puente]
-   D                 F#m
 Tu Nombre es más alto
    E
 Tu Nombre es más grande
    F#m               D
-Tu Nombre sobre todo es...
+Tu Nombre sobre todo es
  
-  D              F#m
+  D            
 Dominios y tronos
   E
 Poderes y reinos
-   F#m               D
+    F#m              D
 Tu Nombre sobre todo es
  
  
@@ -128,23 +124,3 @@ Exaltado Dios, Sa-an-to
            A     Asus4  A
 Santo por siempre
  
- 
-[Coro 2]
-                 D        F#m E
-Hear your people sing: "Ho-o-ly"
-               A/C#         F#m
-To the King of kings: "Ho-o-ly"
-                Bm   F#m E
-You will always be Ho-o-ly
-           A   Asus4  A
-Holy for - ever
- 
- 
-[Tag]
-              Bm    E
-Tu siempre serás Santo
-            A     Asus4
-Santo por siempre
- 
- 
-[Final]
