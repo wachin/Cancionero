@@ -1,4 +1,4 @@
-﻿Cuan grande es El (D)
+﻿Cuan grande es El (C)
 Renacer
 
 Tono: C
@@ -8,19 +8,19 @@ F G Am G
 [ Verso 1 ]
           C                       F
 Señor mi Dios al contemplar los cielos
-         C      Gsus4    F      C
+         C        G      F      C
 El firmamento, y las estrellas mil
-Dm           C                     F
+Dm    G      C                     F
   Al oír tu voz en los potentes truenos
-           C      Gsus4  F    C  G
+           C      G      F    C  G
 Y ver brillar el sol en su cenit
 
 [Coro 2 ]
-    F   C     F           C  G/B
+    F   C     F           C  G
 Mi corazón entona la canción
 Am               Dm  G                C
   Cuan grande es El,   cuan grande es El
-G     F   C     F           C  G/B
+G     F   C     F           C  G
   Mi corazón entona la canción
 Am               Dm  G                F
   Cuan grande es El,   cuan grande es El
@@ -39,11 +39,11 @@ Dm     G     C                     F
 Y en una cruz, sufrió y por mi murió
 
 [Coro 1 ]
-    F   C     F           C  G/B
+    F   C     F           C  G
 Mi corazón entona la canción
 Am               Dm  G                C
   Cuan grande es El,   cuan grande es El
-G     F   C     F           C  G/B
+G     F   C     F           C  G
   Mi corazón entona la canción
 Am               Dm  G                F
   Cuan grande es El,   cuan grande es El
@@ -57,11 +57,11 @@ Cuan grande es El
 Cuan grande es El
 
 [Coro 1 ]
-        C     F           C  G/B
+        C     F           C  G
 Mi corazón entona la canción
 Am               Dm  G                C
   Cuan grande es El,   cuan grande es El
-G     F   C     F           C  G/B
+G     F   C     F           C  G
   Mi corazón entona la canción
 Am               Dm  G                F
   Cuan grande es El,   cuan grande es El
