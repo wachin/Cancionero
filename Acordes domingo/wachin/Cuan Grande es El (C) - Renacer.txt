@@ -1,11 +1,12 @@
 ﻿Cuan grande es El (C)
 Renacer
-
 Tono: C
+
+[Intro]
 F G Am G
 F G Am G
 
-[ Verso 1 ]
+[Verso 1]
           C                       F
 Señor mi Dios al contemplar los cielos
          C        G      F      C
@@ -15,7 +16,7 @@ Dm    G      C                     F
            C      G      F    C  G
 Y ver brillar el sol en su cenit
 
-[Coro 2 ]
+[Coro 1]
     F   C     F           C  G
 Mi corazón entona la canción
 Am               Dm  G                C
@@ -34,7 +35,7 @@ Cuando recuerdo del  Amor Divino
                C       G    F     C
 Que desde el cielo El Salvador envío
 Dm     G     C                     F
-  A aquel Jesús, que por salvarme vino
+  A aquel Jesús, que por salvarnos vino
            C       G         F    C  G
 Y en una cruz, sufrió y por mi murió
 

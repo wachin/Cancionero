@@ -1,0 +1,8 @@
+
+
+https://github.com/JNKKKK/pianochord.io
+
+About
+A pure frontend Web Application for people to browse through a large collection of piano chords
+
+pianochord.io/
