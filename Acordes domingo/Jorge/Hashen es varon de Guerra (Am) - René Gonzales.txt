@@ -1,4 +1,4 @@
-Hashen es varon de guerra (Am)
+﻿Hashen es varon de guerra (Am)
 Rene Rodriguez
 
 [Intro]
@@ -25,4 +25,5 @@ El es mi Padre y lo enaltecere
 El es mi Dios y yo le alabare
             C       G          Am G F
 Dios es mi Padre y lo enaltecere
+
 
