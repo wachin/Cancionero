@@ -134,6 +134,16 @@ Bm      x24432
 Bm      799777   (versión con cejilla)
 Bm/D    xx4432   (Bm con bajo en D)
 
+ACORDES SEPTIMA MENORES (DE JAZZ/ALTERADOS)
+Cm7     035343
+Cmaj7   x32000
+Dm7     xx0211
+Em7     022030
+Fmaj7   xx3210
+Gm7     353333
+Am7     x02010
+Bm7(b5) x2323x
+
 ACORDES 7MA:
 C7      032310
 C7      353433   (cejilla)
@@ -236,17 +246,6 @@ Faug    xx2112
 Gaug    xx0332
 Aaug    x03221
 Baug    x03221
-
-ACORDES DE JAZZ/ALTERADOS:
-Cm7     035343
-Cmaj7   x32000
-Dm7     xx0211
-Em7     022030
-Fmaj7   xx3210
-Gm7     353333
-Am7     x02010
-Bm7(b5) x2323x
-
 
 
 
