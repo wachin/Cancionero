@@ -1,7 +1,7 @@
 Hay libertad
 Art Aguilera
 
-REFRAN 1
+VERSO 1
 Dm                        Bb
 Hoy puedo danzar con libertad,
                F
@@ -9,7 +9,7 @@ Porque soy su Hijo,
                C
 Porque soy su hijo.
 
-REFRAN 2
+VERSO 2
 Dm                         Bb
 Hoy puedo danzar con libertad,
              F
@@ -18,7 +18,7 @@ Porque soy amado,
 Porque soy amado.
 
 INTRO
-Dm | Bb | F | C |
+Dm Bb F C
 
 VERSO 1 (2x)
            Dm
