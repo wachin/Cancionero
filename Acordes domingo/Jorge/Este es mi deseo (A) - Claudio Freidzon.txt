@@ -22,7 +22,7 @@ Te ala_baré,
  F#m   E  A        G D E
 Mi adoración eres tú
 
-[Coro x2]
+[Coro, 1ra vuelta]
 A                E
 Hoy te rindo mi ser
                Bm
@@ -36,13 +36,31 @@ En cada palpitar
 Mientras haya aliento en mi
       D     E        A
 Dios haz tu obra en mi
+[Coro, 2da vuelta]
+A   E   Bm  D E A
 
-
-
-Nota: Al repetir el coro otra vez al final no va A sino D E
+    E   Bm  D E  D E
 
 [Verso]
+A    F#m
+Bm A E
+F#m  E A
+     G D E
 
-[Coro]
+A    F#m
+Bm A E
+F#m  E A  G D E
+
+[Coro, 1ra vuelta]
+A   E   Bm  D E  A
+
+    E   Bm  D E  A
+
+[Coro, 2da vuelta]
+A   E   Bm  D E  A
+
+    E   Bm  D E  D E
 
 [Intro]
+D E C#m F#m
+D E C#m D
