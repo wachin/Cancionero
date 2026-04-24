@@ -31,7 +31,7 @@ El la muerte venció
 [Intro]
 D A F#m  E
 
-Verso 2
+[Verso 2]
 D              A                F#m
 Aun con mis temores se que me aceptas
 	E
