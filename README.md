@@ -1,6 +1,6 @@
 # 🎶 Cancionero Cristiano Colaborativo
 
-Repositorio de apoyo para **músicos de iglesia**, **líderes de alabanza**, **guitarristas**, **pianistas** y **proyección de letras**.
+Repositorio de apoyo para **músicos de iglesia**, **líderes de alabanza**, **guitarristas**, **pianistas** y **personas encargadas de proyectar letras**.
 
 ![](Dev/vx_images/01-Portada-Cancionero.png)
 
@@ -23,7 +23,7 @@ Este repositorio está pensado para servir al ministerio de alabanza.
 ## 📂 ¿Qué contiene?
 
 ### 🎸 Acordes de Guitarra
-Canciones organizadas por artista con acordes que me dió mi primo Efraín Chilán (para revisar).
+Canciones organizadas por artista con acordes que me dio mi primo Efraín Chilán (para revisar).
 
 📁 Carpeta principal:
 
@@ -54,15 +54,15 @@ C G Am F
 
 VERSO I X2
          C                  G
-Me viste a mi cuando nadie me vio
+Me viste a mí cuando nadie me vio
           Am                 F
-Me amaste a mi cuando nadie me amo
+Me amaste a mí cuando nadie me amó
 
 VERSO II X2
             C                G
 Y me diste nombre yo soy tu niña
                Am                     F
-La niña de tus ojos por que me amaste a mí
+La niña de tus ojos porque me amaste a mí
 
 PRE-CORO X2
           C               G
@@ -83,19 +83,19 @@ Te amo más que a mi vida, más
 
 #### 📱 ¿Por qué estos documentos NO están en tamaño A4?
 
-Los achivos dentro de la carpeta "Acordes(63x110mm)" no están en el tamaño A4. La mayoría de personas usan documentos tamaño **A4** porque es el estándar de impresión. Pero A4 fue pensado para **hojas de papel**, no para **pantallas de celular**.
+Los archivos dentro de la carpeta "Acordes(63x110mm)" no están en tamaño A4. La mayoría de personas usan documentos tamaño **A4** porque es el estándar de impresión. Pero A4 fue pensado para **hojas de papel**, no para **pantallas de celular**.
 
 Yo adapté estas canciones a un tamaño especial:
 
-- 📐 Tamaño usado: **63 x 110 mm** (o lo que es lo mismo 6,3 x 11 cm), como se ve en la siguiente imagen en LibreOffice en una PC
+- 📐 Tamaño usado: **63 x 110 mm** (o lo que es lo mismo, 6,3 x 11 cm), como se ve en la siguiente imagen en LibreOffice en una PC.
 
 -> Formato > Estilo de página > Página > Formato de papel > Anchura y Altura
 
  ![](Dev/vx_images/Pagina-a-63x110-mm-en-LibreOffice-en-una-PC.png)
 
-En esta imagen de arriba se ven tres páginas 63 x 110 mm, esto es debido a que esa alabanza es un Mosaico de alabanzas y es muy largo. En LibreOffice para que se vean así hay que dar clic en el botón:
+En la imagen de arriba se ven tres páginas de 63 x 110 mm. Esto se debe a que esa alabanza es un mosaico de alabanzas y es muy larga. En LibreOffice, para que se vean así, hay que dar clic en el botón:
 
--> Vista de paginas multiples
+-> Vista de páginas múltiples
 
 ![](Dev/vx_images/03-LibreOffice-Vista-de-paginas-multiples.png)
 Ese tamaño es parecido a una **tarjeta vertical**, y tiene una ventaja enorme:
@@ -140,7 +140,7 @@ Es como tener un **acorde impreso pequeño**, pero en versión digital.
 * Pianistas
 * Líderes de alabanza
 * Músicos que usan el celular en el atril
-* Personas que quieren cuidar el medio ambiente y no les gusta imprimir hojas para cuidar los arboles
+* Personas que quieren cuidar el medio ambiente y no les gusta imprimir hojas
 
 ---
 
@@ -164,29 +164,29 @@ Sí, pero su objetivo principal es:
 
 📱 **uso digital en teléfonos**
 
-Si los deseas imprimir así como están diseñados a 63x110mm lo mejor es que copies los arcordes de uno de esos archivos DOCX a un documento A4 que tenga dos columnas, como los ejemplos de la carpeta:
+Si los deseas imprimir así como están diseñados, a 63 x 110 mm, lo mejor es que copies los acordes de uno de esos archivos DOCX a un documento A4 que tenga dos columnas, como los ejemplos de la carpeta:
 
 ```
 Imprimir A4 2 columnas
 ```
 
-y de allí los imprimas como pagina A4:
+y de allí los imprimas como página A4:
 
 ![](Dev/vx_images/02-Popurri-2-columnas-A4-Pon-aceite.png)
 
-**Nota**: Si deseas lo puedes guardar como PDF, así hago yo cuando los manos a imprimir al Cyber
+**Nota**: Si deseas, lo puedes guardar como PDF. Así hago yo cuando los mando a imprimir al ciber.
 
 ---
 
 #### Resumen 
 
-Comparación si se ve un documento A4 PDF en un celular a uno 63x110mm 
+Comparación entre cómo se ve un documento PDF A4 en un celular y uno de 63 x 110 mm.
 
 |       Tamaño A4       |     Tamaño 63x110mm      |
 | --------------------- | ------------------------ |
 | Pensado para imprimir | Pensado para celular     |
 | Mucho zoom            | Lectura directa          |
-| Incomodo en celular   | Rápido y práctico        |
+| Incómodo en celular   | Rápido y práctico        |
 | Incómodo en culto     | Rápido y práctico        |
 | Documento de oficina  | Herramienta para músicos |
 
@@ -194,13 +194,13 @@ Comparación si se ve un documento A4 PDF en un celular a uno 63x110mm
 
 ### 🔤 Fuente tipográfica usada: Consolas
 
-Los documentos en formato **63 x 110 mm** fueron diseñados usando la fuente **monoespaciada** de Microsoft **Consolas** que viene preinstalada en los productos Microsoft Office, pero se pueden usar otras fuentes monoespaciadas, como ejemplos:
+Los documentos en formato **63 x 110 mm** fueron diseñados usando la fuente **monoespaciada** de Microsoft **Consolas**, que viene preinstalada en los productos Microsoft Office. También se pueden usar otras fuentes monoespaciadas, por ejemplo:
 
 - Iosevka
-- 
+- Courier New
 
 
-#### ¿Por qué fuentes monoespaciada?
+#### ¿Por qué fuentes monoespaciadas?
 
 En las fuentes **monoespaciadas** cada letra ocupa el mismo ancho.  
 Esto es importante porque:
@@ -261,7 +261,7 @@ Esto hace que el cancionero sea **portable, estable y confiable**.
 ---
 
 ### 🎹 Acordes de Piano
-Algunos recursor útiles para tecladistas en la carpeta:
+Algunos recursos útiles para tecladistas en la carpeta:
 
 ```
 Piano
@@ -291,7 +291,7 @@ Diccionario de Acordes
 ---
 
 ### 🎤 Letras para Proyección (Holyrics)
-Canciones adaptadas para proyectar en iglesiaj, en la carpeta:
+Canciones adaptadas para proyectar en iglesias, en la carpeta:
 
 ```
 Letras-Holyrics
@@ -307,26 +307,26 @@ Miel San Marcos
 Precioso, precioso Dios
 amado, amado Señor
 te adoramos Rey de verdad
-te exaltamos Principe de paz
+te exaltamos Príncipe de paz
 
 //VERSO (Parte 2)
 Hermoso, hermoso Jesús
 tus ojos llenos de amor
 tu vida diste en la cruz
-moriste pensando en mi
-//Aquí hay un sólo de música
+moriste pensando en mí
+//Aquí hay un solo de música
 
 //VERSO (Parte 1)
 Precioso, precioso Dios
 amado, amado Señor
 te adoramos Rey de verdad
-te exaltamos Principe de paz
+te exaltamos Príncipe de paz
 
 //VERSO (Parte 2)
 Hermoso, hermoso  Jesús
 tus ojos   llenos de amor
 tu vida diste en la cruz
-moriste  pensando en mi
+moriste  pensando en mí
 
 //CORO (Repetir 2 veces)
 Tu nombre exaltamos
