@@ -40,6 +40,7 @@ Bm      224432
 Bm7     x24232
 Bsus2   024400
 Bsus2   x44422
+B7sus4  x24200
 
 👉 **Nota importante:**
 
