@@ -18,6 +18,7 @@ Dm      000231
 Dm7     xx0211
 E       022100
 Em      022000
+Em7     022033
 F       133211
 F7      131211
 Fm      133111
@@ -63,6 +64,7 @@ C/G     x32013   (C con bajo en G)
 D       000232
 D       xx0232
 D/F#    2x0232   (D con bajo en F#)
+D/F#    2x0230   (D con bajo en F#)
 D/A     x00232   (D con bajo en A)
 E       022100
 E       079997   (versión con cejilla)
