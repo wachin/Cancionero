@@ -5,6 +5,7 @@ Acordes
 Cadd9   x32033
 Em7     022033
 G/B     x20033
+D/F#    2x0230
 
 Tono: G
 [Verso I]
