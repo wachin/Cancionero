@@ -12,12 +12,12 @@ Tono: D
 D  Dsus4  D  Dsus2
 D  Dsus4  D  Dsus2
 
-|---2-----3-----------3--2-----0------|
-|-----3------3-------------3----------|
-|-------2------2-------------2--------|
-|-------------------------------------|
-|-------------------------------------|
-|-------------------------------------|
+|-2-----3---------3--2-----0---|
+|---3------3-----------3-------|
+|-----2------2-----------2-----|
+|------------------------------|
+|------------------------------|
+|------------------------------|
 
 [Verso I]
    D                  F#7
@@ -30,11 +30,11 @@ A ti que cargaste en tu vientre
 dolor y cansancio
    G                  A
 A ti que peleaste con uñas y dientes
-    F#m                    Bm
+    F#7                    Bm
 Valiente en tu casa y en cualquier lugar
-   G                   Em
+   E                   E7
 A ti rosa fresca de abril
-   A
+   G             A7
 A ti mi fiel querubin
 
 [Verso II]
@@ -48,52 +48,72 @@ A ti mis respetos Señora,
 Señora, Señora
    G                    A
 A ti, mi guerrera invencible
-   F#m                Bm
+   F#7                Bm
 A ti, luchadora incansable
-   G                A
+   E7               A7
 A ti, mi amiga constante
-            D     A
+              D    G A7
 de todas las horas
+
+[Verso III]
     D                     F#7
 Su nombre es un nombre comun,
-          Bm    Am   D7
+               Bm   Am7 D7
 como las Margaritas
-  G                 A7
+  G                 A
 Siempre mi poca presencia
-        D     Am   D7
+                 D    Am7 D7
 constante en mi mente
    G                    A
 Y para no hacer tanto alarde
-F#m                 Bm
+F#                  Bm
 Esa mujer de quien hablo
-G                   A7
+    G                  A
 Es linda mi amiga, gaviota
-                  D   A7
+                  D    A
 Su nombre es: mi Madre
 
 [Verso I]
+   D                  F#7
+A ti que me diste tu vida,
+                Bm   Am7 D7
+tu amor y tu espacio
+   G                      A
+A ti que cargaste en tu vientre
+            D     Am7 D7
+dolor y cansancio
+   G                  A
+A ti que peleaste con uñas y dientes
+    F#7                    Bm
+Valiente en tu casa y en cualquier lugar
+   G
+A ti rosa fresca de abril
+   G             A7
+A ti mi fiel querubin
 
-D                   F#m
+[Verso II]
+   D                F#7
 A ti te dedico mis versos,
                 Bm    Am7 D7
 mi ser, mis victorias
-G                  A7
+   G                 A
 A ti mis respetos Señora,
-           D   Am7 D7
+         D     Am7 D7
 Señora, Señora
-G                     A7
-Y para no hacer tanto alarde
-F#m                   Bm
-De esa mujer de quien hablo
-G                   A7
-Es linda mi amiga, gaviota
-                  D
-Su nombre es: mi Madre
+   G                    A
+A ti, mi guerrera invencible
+   F#7                Bm
+A ti, luchadora incansable
+   E7               A7
+A ti, mi amiga constante
+              D    G A7
+de todas las horas
+
+|-2-----3-------3--2---0----2-|
+|--3-----3----------3-------3-|
+|---2-----2----------2------2-|
+|---------------------------0-|
+|---------------------------0-|
+|---------------------------0-|
 
 
-E   |---2-----3-------3--2---0----2----------|
-B   |----3-----3----------3-------3----------|
-G   |-----2-----2----------2------2----------|
-D   |-----------------------------0----------|
-A   |-----------------------------0----------|
-E   |-----------------------------0----------|
