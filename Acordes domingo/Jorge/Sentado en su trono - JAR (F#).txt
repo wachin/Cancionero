@@ -5,7 +5,7 @@ Jesús Adrián Romero
 F# D#m B C#
 F# D#m B C#
 
-[Verso I X2]
+[Verso I x2]
 F#                                D#m
  Sentado en su trono, rodeado de luz
 B                  G#m               C#
