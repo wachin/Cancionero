@@ -1,6 +1,5 @@
 Eres Todo Poderoso
 Rojo
-
 [Intro]
 Bm A D G  Bm  A
 Bm A D G  Bm  A
@@ -31,23 +30,29 @@ Eres Todopoderoso
 Eres Grande y Magestuoso
        Bm           G
 Eres Fuerte e Invencible
-          D          F#m
+          D          A
 Y no hay nadie como Tú
 
 [Puente]
 Bm A D G  Bm  A
 Bm A D G  Bm  A
-
 [Verso]
-
-[Coro x2]
-
-[Puente]
-Bm A D G  Bm  A
-Bm A D G  Bm  F#m
+Bm G D A
+Bm G D F#m
 
 Bm G D A
 Bm G D F#m
+
+[Coro x2]
+Bm G D A
+Bm G D A
+
+[Solo]
+Bm G D A
+Bm G D A
+
+Bm G D A
+Bm G D A
 
 [Coro x2]
       C#m    A
@@ -59,6 +64,7 @@ Eres Fuerte e Invencible
           E          B
 Y no hay nadie como Tú
 
+[Final]
 C#m B E A  C#m  B
 C#m B E A  C#m  B
 C#m B E A  C#m  B
