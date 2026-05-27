@@ -1,10 +1,11 @@
-Somos el pueblo de Dios v2
-Marcos Witt
+Somos el pueblo de Dios (G)
+Marcos Herrera
+https://youtu.be/sJ5EfylStk4?si=Ia_L3cuzUgLsCTt5
 
 [INTRO x2]
 G C G C
 
-[VERSO]
+[Verso I]
                     G
 Somos el pueblo de Dios
                      Em
@@ -16,6 +17,7 @@ las virtudes de aquel
                     G
 que nos llamo a su luz
 
+[Verso II]
                     G
 Somos el pueblo de Dios
                      Em
@@ -27,7 +29,7 @@ para darnos poder
                   G  G7
 y ser testigos de el
 
-[CORO]
+[Coro]
                    C  F C
 y llevaremos su gloria
                     Em
@@ -42,16 +44,19 @@ y su amor nos impulsa
 no nos podemos callar
                  D    C
 anunciaremos al mundo
-              G  C  G  C
+              G  C
 de amor y verdad
+
+G C G C
  
-[VERSO I]
+[Verso I]
 
-[VERSO II]
+[Verso II]
 
-[CORO]
+[Coro]
 
-[SOLO]
-G C G C G C G C
+[Final]
+G C G C
+G C G C
 
 
