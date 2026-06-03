@@ -1,14 +1,12 @@
-Te daré alabanza y honor 
-Luis E. Espinosa, Danilo Montero, Marcos Witt
-BMP 100
-
-ACORDES
+Te daré alabanza y honor (F#m)
+Luis EE, Danilo M, Marcos W
+[Acordes]                       BMP 100
 Esus4 022200
 
-INTRO
+[Intro x2]
 F#m C# F#m C# F#m
 
-VERSO I
+[Verso]
 F#m
  Tu sangre me redimió
                A
@@ -17,58 +15,62 @@ para darme la luz y la paz
   tu vida se derramó
                        E Esus4 E
 por mi maldad se entregó
-
-VERSO II
 F#m
  Tu amor incondicional
-                 A 
+                 A
 me abrazo con dolor y pasión
 D                   F#m
   mi vida te ofreceré
                  E
 mi canto levantaré
 
-CORO
+[Coro]
     F#m       A      D      E
 Alabanza y honor, poder y gloria
-       F#m      A       D        E 
+       F#m      A       D        E
 al Cordero de Dios al León de Judá
    F#m             E
 Al unico digno de honra
       F#m              E
 Jesucristo mi Rey y Señor
 
-F#m C#    F#m
+F#m C# F#m
 
-VERSO I
+[Verso]
 
-VERSO II
+[Coro x2]
 
-CORO X2
-
-PUENTE
+[Puente]
     D                 F#m
-Anciano de días, te quiero exaltar
+Anciano de dia, te quiero exaltar
      D                  Esus4 E
 Postrado, te quiero adorar
 
+[Solo]
 F#m A D E
-F#m A D E 
+F#m A D E
 F#m E
-F#m Esus4 E
+F#m E
 
-CORO X2
+[Coro x2]
 
-F#m
+[Intermedio]
+F#m C# F#m
 
-FINAL
- F#m
-Te daré alabanza y honor
-Te daré alabanza y honor
-Te daré alabanza y honor
-Te daré alabanza y honor
-Te daré alabanza y honor
+[Pre-Final 5]
+ F#m         C#
+Te daré, alabanza y honor
+             F#m
+Te daré, alabanza y honor
+             C#
+Te daré, alabanza y honor
+             F#m
+Te daré, alabanza y honor
+             C#
+Te daré, alabanza y honor
+
+[Pre-Final x5]
 D E         F#m
    Jesús Uh Ohhh
 
-     
+

@@ -1,4 +1,4 @@
-Venga tu reino (F)
+Venga tu reino (F#m)
 Jaime Murrell
 [Intro x2]
 F#m    E F#m    E
@@ -35,7 +35,7 @@ Librame de todo mal
 Guardame  en ti Señor
  F#m    E
 Librame  de todo mal
-  F#m    E        C#
+  F#m    E         C#
 Guardame  en ti Señor
             F#m
 Eres mi castillo
@@ -54,6 +54,7 @@ Dame un corazón
 solo para ti
 
 [Intermedio]
+F#m  E
 
 [Verso]
 
@@ -61,10 +62,18 @@ solo para ti
 
 [Coro]
 
-[Pre-Final x N]
-           F#m  E
-solo para ti
-
-[Final]
-           F#m E D E F#m
-solo para ti
+[Pre-Final]
+           F#m  E            F#m  E
+solo para ti      solo para ti
+           F#m  E            F#m  E
+solo para ti      solo para ti
+      F#m         E            F#m
+eres digno, eres Santo, eres bueno
+     E           F#m         E
+poderoso, magestuoso, y glorioso
+       F#m          E
+te alabamos, te adoramos
+           F#m  E            F#m  E
+solo para ti      solo para ti
+           F#m E   D   E      F#m
+solo para ti     Dios   para ti
