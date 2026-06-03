@@ -29,18 +29,19 @@ E
 F#m E D    C#
       F#m  E
 
-[Coro]
+[Pre-Coro]
 F#m    E
 Librame de todo mal
-          F# EF#m    E
-Guardame en ti Señor
-
+  F#m    E
+Guardame  en ti Señor
  F#m    E
-Librame de todo mal
+Librame  de todo mal
   F#m    E        C#
-Guardame en ti Señor
+Guardame  en ti Señor
             F#m
 Eres mi castillo
+
+[Coro]
 F#m E D            E
       Has abierto mis oidos
 F#m
@@ -49,14 +50,15 @@ F#m E D             E
       Muestrame el camino
  F#m   E      D
 donde debo andar
-            E    C#
-Dame un corazon
+             E   C#
+Dame un corazón
           F#  E
 solo para ti
 
 [Intermedio]
-F#m  E
 
 [Verso]
+
+[Pre-Coro]
 
 [Coro]
