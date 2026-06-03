@@ -1,8 +1,7 @@
-Venga tu reino
+Venga tu reino (F)
 Jaime Murrell
-
 [Intro x2]
-F#m E F#m E
+F#m    E F#m    E
 
 [Verso]
 F#m
@@ -40,7 +39,6 @@ Librame  de todo mal
 Guardame  en ti Señor
             F#m
 Eres mi castillo
-
 [Coro]
 F#m E D            E
       Has abierto mis oidos
@@ -52,7 +50,7 @@ F#m E D             E
 donde debo andar
              E   C#
 Dame un corazón
-          F#  E
+           F#m  E
 solo para ti
 
 [Intermedio]
@@ -62,3 +60,11 @@ solo para ti
 [Pre-Coro]
 
 [Coro]
+
+[Pre-Final x N]
+           F#m  E
+solo para ti
+
+[Final]
+           F#m E D E F#m
+solo para ti
