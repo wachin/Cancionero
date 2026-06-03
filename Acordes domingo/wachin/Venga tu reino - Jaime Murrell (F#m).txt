@@ -57,12 +57,25 @@ solo para ti
 F#m  E
 
 [Verso]
+C#      C# C Bm
+E
+F#m E D C#
+F#m E
 
 [Pre-Coro]
+F#m E
+F#m E
+F#m E
+F#m E C#
 
 [Coro]
+F#m E D E
+F#m E D E
+F#m E D
+E C#
+F#m E
 
-[Pre-Final]
+[Final]
            F#m  E            F#m  E
 solo para ti      solo para ti
            F#m  E            F#m  E

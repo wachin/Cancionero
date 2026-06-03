@@ -17,7 +17,7 @@ para darme la luz y la paz
 por mi maldad se entregó
 F#m
  Tu amor incondicional
-                 A
+                 A 
 me abrazo con dolor y pasión
 D                   F#m
   mi vida te ofreceré
@@ -27,7 +27,7 @@ mi canto levantaré
 [Coro]
     F#m       A      D      E
 Alabanza y honor, poder y gloria
-       F#m      A       D        E
+       F#m      A       D        E 
 al Cordero de Dios al León de Judá
    F#m             E
 Al unico digno de honra
@@ -37,8 +37,14 @@ Jesucristo mi Rey y Señor
 F#m C# F#m
 
 [Verso]
+A  D F#m E Esus4 E
+A  D F#m E
 
 [Coro x2]
+F#m A D E
+F#m A D E
+F#m E
+F#m E
 
 [Puente]
     D                 F#m
@@ -48,7 +54,7 @@ Postrado, te quiero adorar
 
 [Solo]
 F#m A D E
-F#m A D E
+F#m A D E 
 F#m E
 F#m E
 
@@ -60,11 +66,11 @@ F#m C# F#m
 [Pre-Final 5]
  F#m         C#
 Te daré, alabanza y honor
-             F#m
+             F#m 
 Te daré, alabanza y honor
              C#
 Te daré, alabanza y honor
-             F#m
+             F#m 
 Te daré, alabanza y honor
              C#
 Te daré, alabanza y honor
@@ -72,5 +78,4 @@ Te daré, alabanza y honor
 [Pre-Final x5]
 D E         F#m
    Jesús Uh Ohhh
-
 
