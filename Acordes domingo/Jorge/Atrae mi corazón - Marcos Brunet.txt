@@ -1,12 +1,13 @@
 Atrae mi corazón
 Marcos Brunet
 
-Intro: F G Am G C
+INTRO x2 (acordes del coro)
+F  Dm  F  G  Am  G C
 
 VERSO X2
  C                   F
 Es a Ti a quien a anhelo
-                   Dm
+                     Dm
 Es por Ti que yo suspiro
               F       G
 Más allá del velo yo voy
@@ -25,7 +26,6 @@ Me muero de amor por Ti
                   G   C
 Me muero de amor por ti
 
-
 VERSO X2
                      F
 Quiero que el mundo sepa
@@ -37,12 +37,12 @@ Que Tú eres mi amado Jesús
 y yo soy tuyo
 
 CORO X2
+F  Dm  F  G  Am  G C
 
-SOLO x2
-F Dm Am
-     G
+SOLO x4
+F Dm Am G
 
-PUENTE x n
+PUENTE xn
  F          Dm         Am
 Yo en Ti y Tu en mí Jesús
             G

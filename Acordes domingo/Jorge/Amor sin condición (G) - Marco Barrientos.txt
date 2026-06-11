@@ -5,7 +5,7 @@ INTRO
 G C  G C  D
 G C  G C  D
 G C  G C  D
-G C  G C 
+G C  G C
 
 VERSO
     G                       D
@@ -43,8 +43,26 @@ Amor sin condición
   Em      C
 amor sin condición
 
+INTERMEDIO
+Em
+
 CORO
+G D Em C D
+G D Em C D
 
 PRE-CORO
+G D Em C D
+G D Em C D
 
 CORO x2
+G   D   Em   C
+
+INTRO
+G C  G C  D
+G C  G C  D
+G C  G C  D
+G C  G C
+
+CORO x2
+G   D   Em   C
+
