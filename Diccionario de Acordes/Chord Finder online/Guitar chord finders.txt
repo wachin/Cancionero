@@ -1,0 +1,56 @@
+
+
+What chord is this
+
+Guitar Chord Analizer
+https://www.oolimo.com/en/guitar-chords/analyze
+https://www.oolimo.com/en/guitar-chords/list
+Nota: Tienen un App pero es de pago
+
+
+Buscador de acordes de guitarra online muy bueno
+
+y los de acá también:
+
+https://tomplay.com/es/piano-chords
+
+https://tomplay.com/es/guitar-chords
+
+
+Chord Finder
+https://www.all-guitar-chords.com/
+
+
+Pro Guitar
+https://www.proguitar.com/tools/chord-finder
+
+H h h h h h h h h h
+
+Se podría hacer que el siguiente programa
+
+
+https://github.com/hybridpicker/fretboard-position-finder
+Position Generator on Guitar-Fretboard for Scales, Arpeggios, Chords in all 12 Keys
+
+
+H h h h h h h h h h
+
+
+
+Generates fretboard position from chord name.
+https://github.com/magecas/GuiterChordGenerator/tree/main
+
+
+Resolving deltas: 100% (966/966), done.
+error: unable to create file Guitar Chord Chart Generator/Chords Database/
+chords-db/
+chords-db.md: Operation not permitted
+Updating files: 100% (827/827), done.
+fatal: unable to checkout working tree
+warning: Clone succeeded, but checkout failed.
+You can inspect what was checked out with 'git status'
+and retry with 'git restore --source=HEAD :/'
+
+.../0/gh $
+
+

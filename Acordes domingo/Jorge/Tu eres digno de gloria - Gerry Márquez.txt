@@ -1,7 +1,7 @@
-Tu eres digno de gloria
+Tu eres digno de gloria (F)
 Gerry Márquez
 
-VERSO I
+[Verso I]
                      F
  Hoy te alabamos Señor
 G                  F               G
@@ -11,7 +11,7 @@ Tú eres el Dios de amor
 G                F           G
  Ya no somos esclavos del temor
 
-VERSO II 
+[Verso II]
                     F
  Hoy te adoramos Señor
 G                    F          G
@@ -23,7 +23,7 @@ G                     F
            G
 Tú eres Señor
 
-CORO X2
+[Coro X2]
                    C    G
 Tú eres digno de gloria
                Am               F
@@ -33,33 +33,41 @@ Tú eres digno de recibir
        G             Am              F
 Toda adoración, todo el honor sea a ti
 
-POST-CORO
-                   F    G  F  G 
-tu eres digno de gloria  
+[Post-Coro]
+                   F    G  F  G
+tu eres digno de gloria
 
-VERSO I
+[Verso I]
+F G F G
+F G F G
 
-VERSO II
+[Verso II]
+F G F G
+F G F G
 
-CORO X2
+[Coro X2]
+C G Am F
+C G Am F
 
-POST-CORO
+[Post-Coro]
 Am F C G
 Am F C G
 
-PUENTE X 4
+[Puente x4]
 Am          F
 Eres digno, eres santo
 C             G
 Eres rey, de toda creación
 
-SOLO
+[Solo]
 Am F C G
 Am F C D F
 
-CORO X 4
+[Coro X4]
+C G Am F
+C G Am F
 
-POST-CORO
+[Post-Coro]
                    C    G
 Tú eres digno de gloria
                Am             F

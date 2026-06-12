@@ -1,8 +1,8 @@
 Un destello de tu gloria (A)
-Jesús Adrian Romero
+Jorge
 
 [Intro x2]
-A E F#m D
+A C#m F#m D
 
 [Verso x2]
 A                      C#m     F#m
@@ -16,7 +16,7 @@ por un minuto nada mas
 
 [Pre-Coro x2]
         A             E
-Todo daria no importaria
+Todo daría no importaría
         Bm
 lo que tenga que pasar
         E               D E
@@ -33,8 +33,17 @@ hambre que duele, que debilita
 que desespera por ti
 
 [Verso x2]
+A C#m F#m   D
+A C#m F#m   D
+
+[Pre-Coro x2]
+A   E
+Bm
+E   D E
 
 [Coro x3]
+A   C#7  F#m D
+A   C#7  F#m D
 
 [Final x3]
                  A    C#7
