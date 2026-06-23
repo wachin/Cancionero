@@ -1,10 +1,10 @@
-Levanto mis manos (D)
+Levanto mis manos
 Samuel Hernandez
 
-INTRO
+[Intro]
 D G A D F#m Bm Em A D
 
-VERSO
+[Verso]
 D              G
   Levanto mis manos
 A                  D
@@ -13,35 +13,34 @@ F#m Bm              Em
        Levanto mis manos
 A                       D    D7
   aunque tenga mil problemas
- 
-CORO
+
+[Coro]
                     G
 Cuando levanto mis manos
-               A 
+               A
 comienzo a sentir
-        F#m                Bm 
+        F#m                Bm
 una unción que me hace cantar
-                    Em  
+                    Em
 Cuando levanto mis manos
-               A  
+               A
 comienzo a sentir
-       D D7 
+       D D7
 el fuego
                     G
 Cuando levanto mis manos
-               A 
+               A
 mis cargas se van,
          F#m          Bm
 nuevas fuerzas Tú me das
-               Em     
-Todo eso es posible, 
-               A 
+               Em
+Todo eso es posible,
+               A
 todo eso es posible,
-                      D 
+                      D
 cuando levanto mis manos
 
-
-VERSO
+[Verso]
 D              G
   Levanto mis manos
 A                  D
@@ -50,64 +49,64 @@ F#m Bm              Em
        Levanto mis manos
 A                       D    D7
   aunque tenga mil problemas
- 
-CORO
+
+[Coro]
                     G
 Cuando levanto mis manos
-               A 
+               A
 comienzo a sentir
-        F#m                Bm 
+        F#m                Bm
 una unción que me hace cantar
-                    Em  
+                    Em
 Cuando levanto mis manos
-               A  
+               A
 comienzo a sentir
-       D D7 
+       D D7
 el fuego
                     G
 Cuando levanto mis manos
-               A 
+               A
 mis cargas se van,
          F#m          Bm
 nuevas fuerzas Tú me das
-               Em     
-Todo eso es posible, 
-               A 
+               Em
+Todo eso es posible,
+               A
 todo eso es posible,
-                      B 
+                      B
 cuando levanto mis manos
- 
+[Subida de tono]
           E         A
 Cuando levanto mis manos
-               B 
+               B
 comienzo a sentir
-        G#m                C#m 
+        G#m                C#m
 una unción que me hace cantar
-                    F#m  
+                    F#m
 Cuando levanto mis manos
-               B  
+               B
 comienzo a sentir
-       E E7 
+       E E7
 el fuego
                     A
 Cuando levanto mis manos
-               B 
+               B
 mis cargas se van,
          G#m          C#m
 nuevas fuerzas Tú me das
-               F#m     
-Todo eso es posible, 
-               B 
+               F#m
+Todo eso es posible,
+               B
 todo eso es posible
                E        B  C#m
 cuando levanto   mis manos
-       B       A     
-Todo eso es posible, 
-               B 
+       B       A
+Todo eso es posible,
+               B
 todo eso es posible,
-                    A                
+                    A
 cuando levanto mis manos
-      E 
+      E
 nara na
 
 F#m  B  E
