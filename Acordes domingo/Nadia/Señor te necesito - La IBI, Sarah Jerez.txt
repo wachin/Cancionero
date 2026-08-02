@@ -1,7 +1,8 @@
 Señor te necesito
 Sarah Jerez / La IBI
 
-E B
+[Intro]
+E A E
 
 [Verso I]
 E              A     E
@@ -52,7 +53,14 @@ A            B  C#m
 Al venir la tentación
         A     E      B       C#m
 Cuando débil soy rendirme a ti
-
+   A            B     E
+Mi esperanza y salvación
+A              Bsus4   C#m7
+Enséñame a cantarte a ti
+A            B  C#m
+Al venir la tentación
+        A     E      B       C#m
+Cuando débil soy rendirme a ti
    A       B          E
 Mi esperanza y salvación
 
@@ -66,4 +74,25 @@ en cada momento
 Mi defensor, mi redentor
       E      B E
 Dios te necesito
+    A   E  B
+te necesito
+C#m   A    E  B
+en cada momento
+    E    A       E    A
+Mi defensor, mi redentor
+      E      B E
+Dios te necesito
+      E       A   E  B
+Oh Señor, te necesito
+C#m   A    E  B
+en cada momento
+    E    A       E    A
+Mi defensor, mi redentor
+      E      B E
+Dios te necesito
+    E    A       E    A
+Mi defensor, mi redentor
+      E      B E
+Dios te necesito
+
 
