@@ -1,5 +1,5 @@
-Un destello de tu gloria (A)
-Jorge
+﻿Un destello de tu gloria (A)
+Jesus A R
 
 [Intro x2]
 A C#m F#m D
@@ -21,6 +21,16 @@ Todo daría no importaría
 lo que tenga que pasar
         E               D E
 lo que tenga que esperar
+
+[Verso x2]
+A                      C#m     F#m
+Por un momento en tu presencia
+                        D
+por un instante de tu amor
+ A                      C#m  F#m
+por un destello de tu gloria
+                    D
+por un minuto nada mas
 
 [Coro x2]
                  A              C#7
