@@ -1,7 +1,7 @@
 Conozco Que Todo Lo Puedes
 Juan Carlos Alvarado
 
-VERSO X2
+[VERSO X2]
      G                C
 Conozco que todo lo puedes
                 D       C
@@ -13,7 +13,7 @@ Hablaba lo que no entendía
         Am              D
 Y de a oídas, te había oído
 
-CORO
+[CORO]
        G      D        Em  D
 Mas ahora mis ojos te ven
                Am
