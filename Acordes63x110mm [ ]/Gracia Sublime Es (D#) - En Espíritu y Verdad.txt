@@ -3,10 +3,10 @@ En Espíritu y Verdad
 Para voz de Seleny por D# | Capotrasto en la 1ra
 Nota: Original por B
 
-INTRO
+[Intro]
 D G D G
 
-VERSO I
+[Verso I]
 D
  Quien rompe el poder del pecado
 G
@@ -14,7 +14,7 @@ su amor es fuerte  y poderoso
 Bm                  A                 G
    El rey de gloria el rey de majestad
 
-VERSO II
+[Verso II]
 D
  Conmueve al mundo con su estruendo
 G
@@ -22,7 +22,7 @@ G
 Bm                  A                 G
    El rey de gloria el rey de majestad
 
-CORO
+[Coro]
                 D                   G
 Gracia sublime es, perfecto es tu amor
               Bm                   A
@@ -32,17 +32,17 @@ Tu vida diste ahí y ahora libre soy
 Bm                 A                     D  G
    Jesús te adoro por lo que hiciste en mí
  
-VERSO III
+[Verso III]
 Pusiste en orden todo el caos
 Nos adoptaste  como tus hijos
 El rey de gloria el rey de majestad
 
-VERSO IV
+[Verso IV]
 El que gobierna con su justicia
 Y resplandece con su belleza
 El rey de gloria el rey de majestad
 
-CORO
+[Coro]
                 D                   G
 Gracia sublime es, perfecto es tu amor
               Bm                   A
@@ -71,4 +71,4 @@ Digno es el cordero de Dios
        G
 Digno digno digno
 
-CORO X 2
+[Coro X 2]

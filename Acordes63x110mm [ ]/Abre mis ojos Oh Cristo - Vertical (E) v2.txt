@@ -11,30 +11,10 @@ A1   577600
 A2   002200
 C#m2 046600
 
-INTRO
+[Intro]
 E1
 
-VERSO x3
-E1
-Abre mis ojos oh Cristo
-B1
-abre mis ojos Señor
-           A1
-yo quiero verte
-           E1
-yo quiero verte
-
-CORO X1
-           B2                   C#m2
-Yo quiero verte enaltecido oh Dios
-    A2                B2
-radiante en toda tu gloria
-    B2            C#m2
-derrama hoy tu poder
-           A2          B2
-sobre tu pueblo Padre Santo
-
-VERSO x2
+[Verso x3]
 E1
 Abre mis ojos oh Cristo
 B1
@@ -44,7 +24,27 @@ yo quiero verte
            E1
 yo quiero verte
 
-CORO X3
+[Coro X1]
+           B2                   C#m2
+Yo quiero verte enaltecido oh Dios
+    A2                B2
+radiante en toda tu gloria
+    B2            C#m2
+derrama hoy tu poder
+           A2          B2
+sobre tu pueblo Padre Santo
+
+[Verso x2]
+E1
+Abre mis ojos oh Cristo
+B1
+abre mis ojos Señor
+           A1
+yo quiero verte
+           E1
+yo quiero verte
+
+[Coro X3]
            B2                   C#m2
 Yo quiero verte enaltecido oh Dios
     A2                B2
@@ -55,7 +55,7 @@ derrama hoy tu poder
 sobre tu pueblo Padre Santo
 
 
-PUENTE X4
+[Puente X4]
  E1
 Santo, Santo, Santo
  B1

@@ -2,12 +2,12 @@ Te Pertenezco (C#)
 Abel Zavala
 Poner el capotraste en la 1ra.
 
-INTRO
+[Intro]
 G
 C G
 C G
 
-VERSO I x2
+[Verso I x2]
   C                        G
 Muéstrame tu camino hoy Señor
       C                            Em
@@ -19,7 +19,7 @@ Con mi forma de vivir
                       D
 Que tu reino venga a mí
 
-CORO
+[Coro]
                    C
 Postrado en mi aposento
                   G
@@ -37,9 +37,9 @@ Encontrado en Ti la razón de mí existir
                  C  G
 Te pertenezco Señor
 
-VERSO I
+[Verso I]
 
-CORO
+[Coro]
                    C
 Postrado en mi aposento
                   G

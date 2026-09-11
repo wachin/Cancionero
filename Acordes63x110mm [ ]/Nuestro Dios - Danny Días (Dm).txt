@@ -1,10 +1,10 @@
 Nuestro Dios
 Danny Días
 
-INTRO X 2
+[Intro X 2]
 Dm  Bb F C
 
-VERSO I
+[Verso I]
      Dm       Bb      F     Dm
 Agua en vino transformo,
 Bb      F
@@ -12,7 +12,7 @@ Los ojos de ciegos abrió
             Gm          C
 Nadie como tú, no, no hay
 
-VERSO II
+[Verso II]
      Dm       Bb      F
 Brillas en la oscuridad
      Dm        Bb      F
@@ -20,7 +20,7 @@ de lo vil nos levantas,
             Gm          C
 Nadie como tú, no lo hay
 
-CORO
+[Coro]
 Dm
 Mi Dios es grande
 Bb
@@ -32,14 +32,14 @@ Nuestro Dios sana, grande en poder
          F       C
 Nuestro Dios, mi Dios
 
-VERSO II
+[Verso II]
 
-CORO X 2
+[Coro X 2]
 
 SOLO X 2
   Dm  Bb  F   C
  
-PUENTE X 2
+[Puente X 2]
   Dm
 Si Dios por nosotros
  Bb
@@ -52,6 +52,6 @@ quien nos podrá parar
   Dm  Bb  F   C
 Quien  nos podrá parar
 
-CORO X 2
+[Coro X 2]
 
-PUENTE X 2
+[Puente X 2]

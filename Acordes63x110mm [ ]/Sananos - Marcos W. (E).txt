@@ -1,13 +1,13 @@
 Sananos
 Marcos Witt
 
-Intro
+[Intro]
 E B A
 E B A
 E B A
 E B A
  
-VERSO
+[Verso]
 E           A     
  Somos tu pueblo,
 E         A                     E
@@ -23,7 +23,7 @@ Nos humillamos,
           B          A
 nuestra Tierra sana hoy
  
-CORO
+[Coro]
    B        C#m
 Sananos! Sananos!
           A            E     
@@ -41,7 +41,7 @@ Sananos, sananos
      A        E
 Sananos, sananos
  
-VERSO II
+[Verso II]
 E           A   
  Somos tus hijos, 
 E      A   
@@ -53,7 +53,7 @@ Somos tus hijos,
 C#m     B            A
   te pedimos hoy perdon
  
-CORO
+[Coro]
    B        C#m
 Sananos! Sananos!
           A            E     
@@ -71,7 +71,7 @@ Sananos, sananos
      A        E
 Sananos, sananos
  
-PUENTE
+[Puente]
    B              C#m   
 Invocamos hoy tu nombre, 
         A        B

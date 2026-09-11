@@ -3,10 +3,10 @@ Verito
 La origina del Julio Melgar y Marcela Gandara
 está por C#m, esta está subida +1 semitono.
 
-INTRO x2
+[Intro x2]
 Dm A# F C 
 
-VERSO x2
+[Verso x2]
    Dm                     A#
 Quiero levantar a Ti mis manos
         F                C
@@ -21,7 +21,7 @@ A los que estamos aquí
 SOLO
 Dm A# F C
 
-PRE-CORO
+[Pre-Coro]
         Dm   C A#
 Creo en Ti, Jesús
              Dm   C  A#
@@ -33,7 +33,7 @@ Y en lo que harás en  mi
     F      C
 En mi, en mi
 
-CORO
+[Coro]
         Dm
 Recibe Toda la gloria, recibe
  A#
@@ -49,31 +49,31 @@ Precioso Hijo de Dios
           Dm A# F C
 Hijo de Dios
 
-VERSO
+[Verso]
 
-PRE-CORO
+[Pre-Coro]
 
-CORO x2
+[Coro x2]
 
 --------------------------
 RESUMEN ACORDES PARA MEMORIZARSE
 
-INTRO x2
+[Intro x2]
 Dm A# F C
 
-VERSO x2
+[Verso x2]
 Dm A# F C
 Dm A# F C
 
 SOLO
 Dm A# F C
 
-PRE-CORO
+[Pre-Coro]
 Dm C A#  Dm C A#
 Dm C A#  Dm C A#
 F C
 
-CORO
+[Coro]
 Dm A# F C
 Dm A# F C
 Dm A# F C

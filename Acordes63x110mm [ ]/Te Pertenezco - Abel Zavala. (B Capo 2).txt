@@ -2,12 +2,12 @@ Te Pertenezco (B Capo 2)
 Abel Zavala
 Poner el capotraste en la 2da.
 
-INTRO
+[Intro]
 E
 A E
 A E
 
-VERSO I x2
+[Verso I x2]
   A                        E
 Muéstrame tu camino hoy Señor
       A                            C#m
@@ -19,7 +19,7 @@ Con mi forma de vivir
                       B
 Que tu reino venga a mí
 
-CORO
+[Coro]
                    A
 Postrado en mi aposento
                   E
@@ -37,9 +37,9 @@ Encontrado en Ti la razón de mí existir
                  A  E
 Te pertenezco Señor
 
-VERSO I
+[Verso I]
 
-CORO
+[Coro]
                    A
 Postrado en mi aposento
                   E

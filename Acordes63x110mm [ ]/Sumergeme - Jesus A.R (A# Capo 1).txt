@@ -2,10 +2,10 @@ Sumergeme (A#)
 Jesus Adrián Romero
 Poner el Capotraste en la 1ra
 
-INTRO
+[Intro]
 A C#m D Bm E
 
-VERSO
+[Verso]
     A
 Cansado del camino,
    E
@@ -28,7 +28,7 @@ mi armadura he desgastado
  E
 vengo a tí
 
-CORO x2
+[Coro x2]
       A
 Sumergeme en el río de tu
    C#m           D
@@ -36,11 +36,11 @@ Espíritu, necesito refrescar este
  Bm             E
 seco corazón sediento de tí
 
-VERSO
+[Verso]
 
-CORO
+[Coro]
 
-FINAL
+[Final]
         F#m 
 Sumergeme, 
                       D

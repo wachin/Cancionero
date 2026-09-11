@@ -1,6 +1,6 @@
 Levantate y Salvame
 Marcos Witt
-VERSO I
+[Verso I]
 Am                F
    Aunque un ejercito
                C         G
@@ -19,7 +19,7 @@ aunque la tierra se estremezca
          F            G
 mi salvacion esta en Ti
 
-CORO x2
+[Coro x2]
         F   G         Am
 Porque Tu eres mis escudo
  F     G    Am
@@ -29,7 +29,7 @@ Tu eres mi gloria
          F     C    G
 quien levanta mi cabeza
 
-VERSO II
+[Verso II]
 Am                   F
   Aunque aflijido este
                 C          G
@@ -49,15 +49,15 @@ Tu eres mi Dios mi fortaleza
 mi salvación esta en Ti
 
 
-CORO x2
+[Coro x2]
 
-PUENTE X6
+[Puente X6]
  Am     F    C    G
 Levantate y salvame
 
-CORO x2
+[Coro x2]
 
-PUENTE X6
+[Puente X6]
 
-CORO x2
+[Coro x2]
 

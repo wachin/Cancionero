@@ -8,11 +8,11 @@ G     320033
 Am    x02210
 Em    022000	
 
-INTRO 
+[Intro]
 
 C F C F 
 
-VERSO
+[Verso]
 C           G    Am  
 La mies es mucha,  hay gran
         Em
@@ -26,7 +26,7 @@ viven sin dirección
 F            C            G
 vagan como ovejas sin pastor
 
-CORO x2
+[Coro x2]
  C      G Am    
 Heme aquí         
            F 
@@ -40,10 +40,10 @@ yo iré por aquellos
                G
 que vagan sin ti
 
-VERSO
+[Verso]
 
-CORO X2
+[Coro X2]
 
-FINAL
+[Final]
            F      C
 envíame a mi yo iré

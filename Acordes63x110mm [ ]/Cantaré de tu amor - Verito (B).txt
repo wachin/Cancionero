@@ -2,11 +2,11 @@ Cantaré de tu amor
 Danilo Montero
 BMP 83
 
-INTRO
+[Intro]
 F# B F# B 
 F# B F# B
  
-VERSO
+[Verso]
 B                     F#
 Por mucho tiempo busque,
 B               F#
@@ -24,7 +24,7 @@ tu reino vino a mi vida
            B       C#
 y ahora vivo para ti
 
-CORO
+[Coro]
       F#         C#
 Cantaré de tu amor
       D#m        C#        B
@@ -34,41 +34,41 @@ tu serás, mi pasión
        D#m           C#          B
 y mis pasos se guiarán con tu voz
 
-PUENTE X1
+[Puente X1]
       G#m       C#
 mi Jesús y mi Rey
         B             C#
 de tu gran amor cantaré
 
-VERSO
+[Verso]
 
-CORO
+[Coro]
 
-PUENTE X1
+[Puente X1]
 
-CORO
+[Coro]
 
-PUENTE X1
+[Puente X1]
 
 
 -------------------------------
 RESUMEN DE ACORDES PARA MEMORIZAR
 
-INTRO
+[Intro]
 F# B F# B
 F# B F# B
 
-VERSOS (2)
+[Verso S (2)]
 B F#
 B F#
 B C# D#m
 B C#
 
-CORO
+[Coro]
 D#m C# B
 F# C#
 D#m C# B
 
-PUENTE
+[Puente]
 G#m C#
 B C#

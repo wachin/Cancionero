@@ -1,11 +1,11 @@
 Dios incomparable
 Marcos Witt
 
-INTRO
+[Intro]
 A  D  F#m  E
 A  D  F#m  E
 
-VERSO
+[Verso]
 A        D    F#m       E
 Eres alabado, eres exaltado
     A        D            F#m      E
@@ -19,7 +19,7 @@ A una sola voz, nos unimos hoy
        D  E  F#m           E
 Te cantamos Dios en adoración
 
-CORO
+[Coro]
           D                  E
 Dios imparable, Dios de imposibles
      A         E        F#m
@@ -44,9 +44,9 @@ No me falta nada  si te tengo a ti
 A D F#m E 
 A D F#m E
 
-VERSO
+[Verso]
 
-CORO
+[Coro]
           D                  E
 Dios imparable, Dios de imposibles
      A         E        F#m
@@ -72,11 +72,11 @@ A Bm
 
 F#m E A C#m Bm
 
-PUENTE x3
+[Puente x3]
       F#m      E     A    C#m    Bm
 Y yo sé quién va conmigo va por mi
         F#m    E   A     C#m   Bm
 Y quien a mis  enemigos hace huir
 
-CORO
+[Coro]
 

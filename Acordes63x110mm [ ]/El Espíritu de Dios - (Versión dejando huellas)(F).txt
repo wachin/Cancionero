@@ -1,10 +1,10 @@
 El Espiritu de Dios (Muévete en mí)(F)
 Banda Huellas
 
-INTRO x2
+[Intro x2]
 F Bb F C
 
-VERSO
+[Verso]
       F                Bb           F
 El Espíritu de Dios esta en este lugar
                          Bb             C
@@ -18,7 +18,7 @@ esta aquí para guiar
       C                     F
 el Espíritu de Dios esta aquí
 
-CORO x2
+[Coro x2]
             Bb C             F
 Muevete en mi,   muevete en mi;
          Bb             C
@@ -30,16 +30,16 @@ Muevete en mi Dios Espíritu,
             F
 muevete en mi
 
-VERSO
+[Verso]
 
-CORO x2
+[Coro x2]
 
-INTRO x2
+[Intro x2]
 F Bb F C
 
-FINAL
+[Final]
 
-CORO x2
+[Coro x2]
             Bb        C                  F
 Muevete en mi Dios Espíritu, muevete en mi
             Bb        C                  F

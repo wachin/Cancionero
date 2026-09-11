@@ -1,10 +1,10 @@
 Eres Todopoderoso 
 Danilo Montero
 
-INTRO
+[Intro]
 Bm
 
-VERSO I
+[Verso I]
    Bm                  G
 La única razón de mi adoración
   D           A
@@ -14,7 +14,7 @@ El único motivo para vivir
   D           A
 Eres tú Mi Señor
 
-VERSO II
+[Verso II]
        Bm          G
 Mi única verdad está en Ti
          D              A
@@ -24,7 +24,7 @@ Mi único amor eres Tu Señor
         D              A
 Y por siempre te alabaré
 
-CORO
+[Coro]
          Bm       G
 Tu Eres Todo poderoso
        D             A
@@ -34,11 +34,11 @@ Eres Fuerte, Invencible
           D          A           
 Y no hay nadie como Tú
 
-VERSO I
+[Verso I]
 
-VERSO II
+[Verso II]
 
-CORO X2
+[Coro X2]
          C#m       A
 Tu Eres Todo poderoso
        E             B
@@ -50,7 +50,7 @@ Y no hay nadie como Tú
 
 SOLO
 
-CORO x4
+[Coro x4]
 
 
 

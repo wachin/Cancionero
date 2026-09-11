@@ -1,11 +1,11 @@
 Creo en ti (Bm)
 Julio Melgar
 
-INTRO x2
+[Intro x2]
 G  A  D  G 
 G  A  Bm
 
-VERSO x2
+[Verso x2]
    Bm                    G
 Quiero levantar a Ti mis  manos
         D                A
@@ -17,7 +17,7 @@ Y haz descender Tu poder
              A
 A los que estamos aquí
 
-PRE-CORO
+[Pre-Coro]
          Bm  A  G
 Creo en Ti, Je sús
                Bm  A   G
@@ -29,7 +29,7 @@ Y en lo que harás  en mi
     D      A
 En mi, en mi
 
-CORO
+[Coro]
         Bm
 Recibe Toda la gloria, recibe
  G
@@ -45,11 +45,11 @@ Precioso Hijo de Dios
           Bm G D A
 Hijo de Dios
 
-VERSO
+[Verso]
 
-PRE-CORO
+[Pre-Coro]
 
-CORO x2
+[Coro x2]
 
 
 

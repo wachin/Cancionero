@@ -1,9 +1,9 @@
 Poema de salvación
 Pablo Olivares
-INTRO
+[Intro]
 D A Bm G D A D
 
-VERSO
+[Verso]
   D               A     Bm
 Cristo moriste en una cruz,
    G   D     A     D
@@ -13,7 +13,7 @@ Perdona mis pecados hoy,
     G    D     A    D
 se mi Señor y Salvador
 
-CORO
+[Coro]
  G             A       Bm
 Cámbiame y hazme otra vez
     G   D    A      D

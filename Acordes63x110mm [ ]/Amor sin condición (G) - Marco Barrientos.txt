@@ -1,13 +1,13 @@
 Amor sin condición
 Marco Barrientos
 
-INTRO
+[Intro]
 G C  G C  D
 G C  G C  D
 G C  G C  D
 G C  G C
 
-VERSO
+[Verso]
     G                       D
 De tal manera al mundo Tu amaste,
                         Em
@@ -21,7 +21,7 @@ que mi corazón limpiaron,
       C              D
 me hiciste un nuevo ser
 
-PRE-CORO
+[Pre-Coro]
   G               D
 Gracias, te doy gracias,
          Em            C
@@ -37,7 +37,7 @@ en esa cruz
 
 
 
-CORO x2
+[Coro x2]
   G       D
 Amor sin condición
   Em      C
@@ -46,23 +46,23 @@ amor sin condición
 INTERMEDIO
 Em
 
-CORO
+[Coro]
 G D Em C D
 G D Em C D
 
-PRE-CORO
+[Pre-Coro]
 G D Em C D
 G D Em C D
 
-CORO x2
+[Coro x2]
 G   D   Em   C
 
-INTRO
+[Intro]
 G C  G C  D
 G C  G C  D
 G C  G C  D
 G C  G C
 
-CORO x2
+[Coro x2]
 G   D   Em   C
 

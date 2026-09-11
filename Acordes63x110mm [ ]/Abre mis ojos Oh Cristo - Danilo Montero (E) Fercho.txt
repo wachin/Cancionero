@@ -10,7 +10,7 @@ Yo quiero verte
               E
 Yo quiero verte
 
-CORO
+[Coro]
            B           C#m
 Y contemplar Tu Majestad
 A                       B
@@ -22,7 +22,7 @@ Cuando cantamos:
         B
 Santo, Santo
 
-PUENTE
+[Puente]
  E
 Santo, Santo, Santo
  B

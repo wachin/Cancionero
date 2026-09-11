@@ -31,7 +31,7 @@ solo una   peticion
   Bm        A     D             E
 y si puede ser a solas mucho mejor
 
-CORO
+[Coro]
       Bm       E            C#m   F#m
 Solo dejame mirarte cara a cara
       D             E            C# F#m

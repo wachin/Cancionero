@@ -2,7 +2,7 @@ El Espiritu de Dios
 Hector Pinilla
 E A B E
 
-VERSO
+[Verso]
       E                A            E
 El Espíritu de Dios esta en este lugar
                          A              B7
@@ -16,7 +16,7 @@ esta aquí para guiar
       B7                    E E7 E
 el Espíritu de Dios esta aquí
 
-CORO X1
+[Coro X1]
             A B            E  
 Muevete en mi, muevete en mi;
          A              B   
@@ -28,9 +28,9 @@ Muevete en mi Dios Espíritu,
             E A B 
 muevete en mi
 
-VERSO
+[Verso]
 
-CORO X2
+[Coro X2]
             A B            E  
 Muevete en mi, muevete en mi;
          A              B   
@@ -53,7 +53,7 @@ Muevete en mi Dios Espíritu,
             E
 muevete en mi
 
-FINAL
+[Final]
             A         B                  E        
 Muevete en mi Dios Espíritu, muevete en mi
             A         B                  E        

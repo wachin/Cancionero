@@ -10,12 +10,12 @@ tu amor me quita todo temor.
 Y si llego a estar en el centro de la tempestad
     E
 no dudaré por que estas aquí
-PRECORO
+[Pre-Coro]
          G#m F#   B                  G#m F#   B
 Y no temeré  del mal,pues mi Dios conmi..go esta
              G#m F#   B              F#               E
 Y si Dios conmi..go esta,de quien temeré?,de quien temeré?
-CORO
+[Coro]
 B
 No,no,no me soltaras,en la calma la tormenta
 G#m
@@ -31,12 +31,12 @@ Gloriosa luz cual otra no hay.
 Y terminarán los problemas mientras llega el fin,
      E
 Viviremos conociéndote a ti.
-PRECORO
+[Pre-Coro]
          G#m F#   B                  G#m F#   B
 Y no temeré  del mal,pues mi Dios conmi..go esta
              G#m F#   B              F#               E
 Y si Dios conmi..go esta,de quien temeré?,de quien temeré?
-CORO
+[Coro]
   B
 //No,no,no me soltaras,en la calma la tormenta
 G#m
@@ -57,7 +57,7 @@ Y puedo ver la luz que se acerca al que busca de ti,
 y terminarán los problemas mientras llega el fin,
 F#              E              B F#
 voy a alabarte, voy a alabarte
-CORO
+[Coro]
 B
 No,no,no me soltaras,en la calma la tormenta
 G#m

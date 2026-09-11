@@ -8,7 +8,7 @@ C#7  446464
 F#m7 242222
 B7   224242
 
-Intro:
+[Intro]
 A 
 E D A
 D A
@@ -38,7 +38,7 @@ Tiemblan pastores al ver la visión
 D                     A
 Desde los cielos se anuncia a gran voz
 D                   A
-Coros celestes dan gloria a Dios
+[Coro s celestes dan gloria a Dios]
 E          C#7        F#7  B7
 Hoy nos nació un salvador
 A          E           A

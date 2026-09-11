@@ -2,7 +2,7 @@ Niña
 Zona 7
 BMP 113
 
-INTRO
+[Intro]
 E G E C
 
 E                            C#m
@@ -23,7 +23,7 @@ alguien que quiera no solo lo suyo
        Asus2              B 
 una persona dispuesta a esperar
 
-CORO
+[Coro]
 E                           B
 Niña el amor verdadero vendra
 E                           B
@@ -46,7 +46,7 @@ un ser humano que nos ea egoista
        Asus2              B     E C
 una persona que entienda el amor
 
-CORO
+[Coro]
 E                           B
 Niña el amor verdadero vendra
 E                           B
@@ -65,5 +65,5 @@ El sera el amor que buscas
  A    Asus2    A     B7
 saciara     tu  corazon
 
-CORO
+[Coro]
 

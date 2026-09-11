@@ -3,7 +3,7 @@ Crea en mi un limpio corazón
 Hector Pinilla
 G Bm Em Bm G D C   D
 
-VERSO
+[Verso]
    G                  Bm     Em
 Crea en mi un limpio corazón
      Bm G                 D                
@@ -18,7 +18,7 @@ Oh Dios,  y renueva tu Espíritu
            C   G7
 dentro de mi
 
-CORO X2
+[Coro X2]
    C     D               Bm
 Y no me heches de tu Presencia 
    Em     C            D     
@@ -47,9 +47,9 @@ dentro de mi
 
 C
 
-VERSO X2
+[Verso X2]
 
-CORO X2
+[Coro X2]
 
 
 

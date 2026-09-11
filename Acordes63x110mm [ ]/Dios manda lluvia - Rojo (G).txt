@@ -2,7 +2,7 @@ Acordes
 C9 = 032033
 G7 = 320001
 
-VERSO
+[Verso]
 G C9                 G    
      Dios manda la lluvia 
                  Em
@@ -22,7 +22,7 @@ envía hoy tu fuego sana mis heridas
 restaurame Señor
   
 
-CORO  
+[Coro]
            C   D    
 Manda la lluvia 
                  Bm  Em
@@ -41,6 +41,6 @@ Visita mi vida
             G
 cámbiame Señor 
 
-VERSO
+[Verso]
 
-CORO
+[Coro]

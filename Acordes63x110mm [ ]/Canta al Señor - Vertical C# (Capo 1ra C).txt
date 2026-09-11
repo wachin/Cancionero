@@ -3,10 +3,10 @@ Vertical
 
 Poner el Capotraste en la 1ra
 
-INTRO x3
+[Intro x3]
 Am  G  F
 
-VERSO
+[Verso]
 C         G         Am       G    F
 Mi Cristo, mi Rey, nadie es como tu
          C                G
@@ -23,7 +23,7 @@ Todo mi ser, lo que soy,
             A#    G
 nunca cese de adorar
 
-CORO I
+[Coro I]
  C          Am       F
 Cante al Señor toda la creación
  C         Am        F
@@ -33,10 +33,10 @@ Incomparables promesas me das
    Am  G  F  Am  G  F
 Señor
 
-VERSO
+[Verso]
 
 
-CORO I y II
+[Coro I y II]
  C          Am       F
 Cante al Señor toda la creación
 C         Am         F
@@ -60,7 +60,7 @@ Todo mi ser, lo que soy,
             A#    G  Am G F  Am G F
 nunca cese de adorar
 
-CORO I y II
+[Coro I y II]
    C          Am       F
 //Cante al Señor toda la creación
  C         Am        F
@@ -75,7 +75,7 @@ Canto con gozo al mirar tu poder
      C          Am    F
 Por siempre yo te amaré y diré
 
-FINAL n
+[Final n]
 Am      G         F
 Incomparables promesas me das
 Am      G         F

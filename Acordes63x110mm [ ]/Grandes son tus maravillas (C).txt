@@ -1,7 +1,7 @@
 Grandes son tus maravillas (D)
 Jaime Murrell
 
-CORO x2
+[Coro x2]
   Am     G     F      C
 Grandes son, grandes son
   Am     G       Dm Em   F  G
@@ -13,7 +13,7 @@ Grandes son, grandes son
 Grandes son tus ma-ra - villas
 
 
-VERSO x2
+[Verso x2]
  C       F       C
 Te alabare oh Señor,
 F         G
@@ -23,8 +23,8 @@ Siempre daré a conocer
          F         G
 en los pueblos tus obras
 
-CORO x2
+[Coro x2]
 
-VERSO x2
+[Verso x2]
 
-CORO x2
+[Coro x2]

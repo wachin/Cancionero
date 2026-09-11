@@ -5,11 +5,11 @@ Original por F, para voz de Verito +6
 semitonos = B y para que se haga facil tocar
 la guitarra poner el Capotraste en el 2do
 
-INTRO
+[Intro]
 E A E A 
 E A E A
  
-VERSO
+[Verso]
 A                     E
 Por mucho tiempo busque,
 A               E
@@ -27,7 +27,7 @@ tu reino vino a mi vida
            A       B
 y ahora vivo para ti
 
-CORO
+[Coro]
       E         B
 Cantaré de tu amor
       C#m        B        A
@@ -37,40 +37,40 @@ tu serás, mi pasión
        C#m           B          A
 y mis pasos se guiarán con tu voz
 
-PUENTE X1
+[Puente X1]
       F#m       B
 mi Jesús y mi Rey
         A             B
 de tu gran amor cantaré
 
-VERSO
+[Verso]
 
-CORO
+[Coro]
 
-PUENTE X1
+[Puente X1]
 
-CORO
+[Coro]
 
-PUENTE X1
+[Puente X1]
 
 -------------------------------
 RESUMEN DE ACORDES PARA MEMORIZAR
 
-INTRO
+[Intro]
 E A E A
 E A E A
 
-VERSOS
+[Verso S]
 A E
 A E
 A B C#m
 A B
 
-CORO
+[Coro]
 C#m B A
 E B
 C#m B A
 
-PUENTE
+[Puente]
 F#m B
 A B

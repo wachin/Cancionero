@@ -1,11 +1,11 @@
 No hay argumento
 Jesús Adrián Romero
 
-INTRO
+[Intro]
 Bm F#m Em
 Bm F#m Em A
 
-VERSO I
+[Verso I]
 Bm                    F#m
 No hay argumento ni juicio contra mi  
 Bm                   F#m
@@ -17,7 +17,7 @@ Ya no soy mas un deudor
                  F#
 El ha pagado la deuda por mi 
 
-VERSO II
+[Verso II]
 Bm                   F#m
 Yo era culpable y me otorgo el perdón
 Bm                   F#m
@@ -29,7 +29,7 @@ Y mi cuenta canceló
                  A           F#
 El ha pagado la deuda por mi
 
-CORO x2
+[Coro x2]
            Bm  G
 Ahora soy libre
     D         A
@@ -39,17 +39,17 @@ Precio de sangre
    D            A
 Jesús por mi pagó
 
-PUENTE
+[Puente]
 Em     A     Em   A
 El marco mi corazón
 Em     A       Em    A Bm
 Propiedad soy del Señooor
 
-VERSO I
+[Verso I]
 
-VERSO II
+[Verso II]
 
-CORO x2
+[Coro x2]
 
-PUENTE
+[Puente]
 

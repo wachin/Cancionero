@@ -1,16 +1,16 @@
 ﻿En los montes, en los valles
 Marcos Witt
  
-INTRO x 4
+[Intro x 4]
 Dm Bb A
 
-CORO de Oh x4 
+[Coro de Oh x4]
 Dm          Bb    A
 Oh Oh Oh Oh Oh Oh Oh
 Dm          Bb    A
 Oh Oh Oh Oh Oh Oh Oh
 
-VERSO I    
+[Verso I]
 Dm                             
   En los montes, en los valles,
 Bb                   C  
@@ -28,11 +28,11 @@ Dm
 Bb                  C               
  Exaltamos al que reina para siempre
 
-CORO de Oh x4 
+[Coro de Oh x4]
 Dm          Bb    A
 Oh Oh Oh Oh Oh Oh Oh
 
-VERSO II
+[Verso II]
   Dm                      Gm
 Subamos a adorar en el monte de Sión,
 Dm                     A
@@ -44,20 +44,20 @@ El llanto es alegría.
     Dm                    A
 Subamos a adorar al gran Rey
 
-VERSO I
+[Verso I]
 Dm  Bb  C  
 Dm  Bb  C
 Dm  Bb  C               
 Dm  Bb  C               
 
-CORO de Oh x4 
+[Coro de Oh x4]
 Dm  Bb  A
 
-VERSO II
+[Verso II]
 Dm Gm Dm A
 Dm Gm Dm A
 
-CORO de Oh x4 
+[Coro de Oh x4]
 Dm  Bb  A
 
 

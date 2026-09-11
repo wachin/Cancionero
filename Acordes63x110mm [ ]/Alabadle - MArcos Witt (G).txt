@@ -1,7 +1,7 @@
 Alabadle (G)
 Marcos Witt
 
-VERSO I
+[Verso I]
     G                           
 Nos hemos congregado en este día 
              C
@@ -19,7 +19,7 @@ con el propósito
        D               C D7
 de su nombre levantar
    
-CORO
+[Coro]
     G                     D
 Alabadle, Alabadle Solo a El
     G                          D
@@ -35,7 +35,7 @@ de su amor y majestad
     G         D              C
 Alabadle, adorad a Jesús el Rey
 
-VERSO II
+[Verso II]
      G                         
 Las manos levantadas corazones 
                     C
@@ -53,9 +53,9 @@ Dejamos que el gobierne
       D            C D7
 obre toda creación
 
-CORO
+[Coro]
 
-FINAL:
+[Final]
       G         D              C
 //Alabadle, Adorad a Jesús el Rey
     G         D              C    D G    

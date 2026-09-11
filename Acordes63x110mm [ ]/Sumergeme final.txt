@@ -1,9 +1,9 @@
 Gracia Sublime Es (G)
 En Espíritu y Verdad
-INTRO
+[Intro]
 G C G C
 
-VERSO I
+[Verso I]
 G
  Quien rompe el poder del pecado
 C
@@ -11,7 +11,7 @@ su amor es fuerte y poderoso
 Em                 D               C
   El rey de gloria el rey de majestad
 
-VERSO II
+[Verso II]
 G
  Conmueve al mundo con su estruendo
 C
@@ -19,7 +19,7 @@ C
 Em                 D                C
   El rey de gloria el rey de majestad
 
-CORO
+[Coro]
                 G                   C
 Gracia sublime es, perfecto es tu amor
               Em                   D
@@ -29,17 +29,17 @@ Tu vida diste ahí y ahora libre soy
 Em               D                     G C
  Jesús te adoro por lo que hiciste en mí
  
-VERSO III
+[Verso III]
 Pusiste en orden todo el caos
 Nos adoptaste  como tus hijos
 El rey de gloria el rey de majestad
 
-VERSO IV
+[Verso IV]
 El que gobierna con su justicia
 Y resplandece con su belleza
 El rey de gloria el rey de majestad
 
-CORO
+[Coro]
                G                    C
 Gracia sublime es, perfecto es tu amor
               Em                   D
@@ -66,7 +66,7 @@ Digno es el rey que la muerte venció
  Em                                C       
 Digno es el cordero de Dios Digno digno
 
-CORO
+[Coro]
                 G                   C
 Gracia sublime es, perfecto es tu amor
               Em                   D

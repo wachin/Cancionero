@@ -1,11 +1,11 @@
 Dios está aquí 
 Cindy Barrera
 
-INTRO x2 
+[Intro x2]
 C G Am C 
 F C F G
 
-VERSO:
+[Verso]
   C 	G    Am7 C7
 Dios está aquí
       F               	G 	C
@@ -33,7 +33,7 @@ Tan cierto que cuando le hablo
              C	G7
 Él me puede oír
 
-CORO:
+[Coro]
          C G/B	Am G
 Estas aquí,	Señor 
          Dm7 F	G
@@ -54,11 +54,11 @@ Siempre estás aquí
 
 F C F G
 
-INTRO x1 
+[Intro x1]
 
-VERSO 
+[Verso]
 
-CORO
+[Coro]
 . . .
 . . .
  F        G     C 

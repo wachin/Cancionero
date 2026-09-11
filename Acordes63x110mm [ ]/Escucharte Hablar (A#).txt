@@ -1,10 +1,10 @@
 Escucharte Hablar
 Marcos Witt
-INTRO
+[Intro]
 A# F D# F
 A# F D# F
 
-VERSO
+[Verso]
 A#                F
 Quiero escuchar tu dulce voz
      D#                       F
@@ -16,7 +16,7 @@ me haría llorar o reír
       D#                F
 y caería rendido ante Ti
 
-CORO
+[Coro]
    A#           F
 Y no podría estar ante Ti
       Cm

@@ -1,10 +1,10 @@
 El es el Rey
 Danilo Montero
 
-INTRO x4
+[Intro x4]
 Em C G D
 
-VERSO I
+[Verso I]
 Em                C
 El es el rey infinito en poder
 Em                   C
@@ -14,7 +14,7 @@ Sere para el siervo fiel
 G                        D
 Pues mi vida compro con su amor
 
-VERSO II
+[Verso II]
 Em                  C
 El es el rey lo confiesa mi ser
 Em                   C
@@ -24,7 +24,7 @@ Mi vida la rindo a sus pies
 G                     D
 El es rey sobre mi corazon
 
-CORO
+[Coro]
 Em            C
 El es el rey, el es el rey
 G            D

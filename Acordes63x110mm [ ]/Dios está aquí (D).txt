@@ -1,7 +1,7 @@
 Dios está aquí
 Música Cristiana
 
-VERSO
+[Verso]
 D       A    D
 Dios está aquí,
       G                   A     D
@@ -15,7 +15,7 @@ tan cierto como yo te hablo
              D
 y me puedes oír.
 
-PRE-CORO
+[Pre-Coro]
  D     A     D
 Santo,Santo,Santo,
     G   A       D
@@ -26,7 +26,7 @@ mi corazón sabe decir,
 Santo eres tu.
 
 
-CORO x2
+[Coro x2]
            G        A
 Bendito aquel que viene
        F#m          Bm
@@ -36,13 +36,13 @@ Hosanna, Hosanna,
     G     A       D
 bendito nuestro Dios
 
-VERSO
+[Verso]
 
-PRE-CORO
+[Pre-Coro]
 
-CORO
+[Coro]
 
-FINAL x2
+[Final x2]
               G
 Lo puedes sentir
     A                   D

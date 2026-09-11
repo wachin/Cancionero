@@ -1,11 +1,11 @@
 Renuévame
 Marcos Witt
 
-INTRO
+[Intro]
 
 D Bm G Em D G A
 
-VERSO
+[Verso]
     D   G A          D
 Renuevame,  Señor Jesús
 G          Em         A
@@ -15,7 +15,7 @@ Renuevame,   Señor Jesús
 G         Em        A  G
   Pon en mi Tu corazón
 
-CORO
+[Coro]
          D           A
 Por que todo lo que hay
  Bm        F#m
@@ -29,7 +29,7 @@ Dentro de mi corazón
 G      A           D  G A  G A
   Necesita mas de Ti
 
-VERSO
+[Verso]
     D   G A          D
 Renuevame,  Señor Jesús
 G          Em         A
@@ -39,7 +39,7 @@ Renuevame,   Señor Jesús
 G         Em        A  G
   Pon en mi Tu corazón
 
-CORO
+[Coro]
          D           A
 Por que todo lo que hay
  Bm        F#m
@@ -66,7 +66,7 @@ Dentro de mi corazón
 G      A           D Bm Em
   Necesita mas de Ti
      
-FINAL
+[Final]
        A           D  Bm
   Necesita mas de Ti
 Em      A           D G A  G A D

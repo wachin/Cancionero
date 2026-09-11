@@ -5,10 +5,10 @@ ACORDES
 G       320033
 Cadd2   032030
 
-INTRO
+[Intro]
 G D C Am7 D   G
 
-VERSO I
+[Verso I]
           G
 Cuando escuchas en el noticiero,
           Am7
@@ -45,7 +45,7 @@ Que no quiere ver más en la calle,
         D
 A los niños sin mamá y papá.
 
-CORO
+[Coro]
             G
 Hay una esperanza para el mundo hoy,
             D
@@ -63,7 +63,7 @@ Es el único que puede dar
          Am7 - D               G
 La esperanza    para el mundo hoy
 
-VERSO II
+[Verso II]
       G
 Él nació en un muy pequeño pueblo,
     Am7
@@ -100,7 +100,7 @@ Nunca cambiaran a este mundo
            D
 Como esta vida a la humanidad.
 
-CORO
+[Coro]
 
 
 

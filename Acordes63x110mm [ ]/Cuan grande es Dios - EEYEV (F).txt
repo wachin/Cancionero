@@ -4,7 +4,7 @@ BPM (72 versos) (144 Coro)
 (+ 5 semitonos de la original por C)
 Para voz de Seleny
 
-VERSO I
+[Verso I]
 F                       C 
 El esplendor de un Rey
     Dm 
@@ -23,7 +23,7 @@ Y tiembla a Su voz
               C 
 Tiembla a Su voz
 
-CORO x2
+[Coro x2]
        F
 Cuán Grande es Dios
       C         Dm 
@@ -33,7 +33,7 @@ Y todos lo verán
        C         F
 Cuán grande es Dios
 
-VERSO II
+[Verso II]
 F                  C 
 Día a día El está
       Dm 
@@ -52,10 +52,10 @@ Cordero y el León
                C 
 Cordero y el León
 
-CORO x2
+[Coro x2]
 B F#G#m E F#B
 
-PUENTE x2
+[Puente x2]
              F
 Y Tu Nombre sobre todo es
          Dm 
@@ -65,5 +65,5 @@ Y mi ser dirá
        C        F
 Cuan grande es Dios
 
-CORO x4
+[Coro x4]
 B F#G#m F#E F#B

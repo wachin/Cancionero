@@ -1,13 +1,13 @@
 A quién iré
 Luis Enrrique Espinosa
 
-INTRO
+[Intro]
 G A Bm F#m
 G A Bm A
 G A Bm F#m
 G A Bm A
 
-VERSO
+[Verso]
 D	                       Bm
 ¿A quién iré en necesidad?
                                G
@@ -28,7 +28,7 @@ y entenderá mi corazón?
             D   A
 si no Tú Jesús?
 
-CORO
+[Coro]
   D               F#m       G
 Cristo, ¿a dónde más podría ir?
 D                    F#m           G

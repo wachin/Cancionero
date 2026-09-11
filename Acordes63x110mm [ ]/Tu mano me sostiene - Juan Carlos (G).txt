@@ -1,14 +1,14 @@
 ﻿Tu mano me sostiene 
 Juan Carlos Alvarado 
 
-Intro
+[Intro]
 G C D G C 
 G C D G C
 
 G Am D G C
 G Am D G
 
-VERSO
+[Verso]
 G                     
 Tu mano me sostiene,
                   Am
@@ -23,7 +23,7 @@ tu Espíritu me alienta,
                D                G
 siempre en victoria tu me llevarás
 
-CORO
+[Coro]
       Dm                       Am
 Vivo solo para Cristo y nadie más,
            F                  D

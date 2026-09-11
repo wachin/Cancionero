@@ -1,10 +1,10 @@
 Océanos (Bm)
 Hillsong United
 
-INTRO
+[Intro]
 Bm A D A G
 
-VERSO I:
+[Verso I]
 Bm              A     D
 Tu voz me llama a las aguas
       A        G
@@ -14,7 +14,7 @@ Y ahí te encuentro en lo incierto
  A             G
 Caminaré sobre el mar
 
-CORO:
+[Coro]
 G       D           A 
 Y a tu nombre clamaré
 G          D       A  
@@ -26,7 +26,7 @@ Descansaré en tu poder
            G        A     Bm A D
 Pues tuyo soy hasta el final
 
-VERSO II:
+[Verso II]
 Bm                   A     D
 Tu gracia abunda en la tormenta
       A             G
@@ -36,7 +36,7 @@ Bm                     A    D
      A                 G
 Tú eres fiel y no cambiarás
 
-CORO:
+[Coro]
 G       D           A 
 Y a tu nombre clamaré
 G          D       A  
@@ -48,7 +48,7 @@ Descansaré en tu poder
            G        A     Bm
 Pues tuyo soy hasta el final
 
-PUENTE x3
+[Puente x3]
 Bm                   G
 Que tu Espíritu me guíe sin fronteras
        D                    A

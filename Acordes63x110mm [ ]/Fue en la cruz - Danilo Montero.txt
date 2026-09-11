@@ -1,11 +1,11 @@
 Fue en la crúz
 Danilo Montero
 
-Intro:
+[Intro]
 C  Am  F
 C  Am  F
 
-VERSO
+[Verso]
 C              G                Am Am7
 Si fue en la cruz que yo encontré
     F
@@ -24,7 +24,7 @@ Lo lejos que me hallaba
     Dm7          G
 De su perfecto amor
 
-CORO x2
+[Coro x2]
                C               Am
 Si fue en la cruz que el Salvador
             F          G
@@ -36,7 +36,7 @@ Todo deber que condenaba mi ser
 
 G
 
-VERSO
+[Verso]
 C G Am Am7
 F
 Em7 Am
@@ -47,7 +47,7 @@ F
 Em7 Am
 Dm7 G
 
-CORO x2
+[Coro x2]
 C Am
 F G
 C Am
@@ -58,13 +58,13 @@ Am F C G
 Am F   G  
 Am F G     
 
-CORO x2
+[Coro x2]
 C Am
 F G
 C Am
 F G
 
-Final:
+[Final]
  Am     F        G
 Fue en la cruz crúz   
  Am     F   G

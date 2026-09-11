@@ -1,10 +1,10 @@
 Sumergeme (F)
 Janani Romero
 
-INTRO
+[Intro]
 F Am A# Gm C
 
-VERSO
+[Verso]
     F
 Cansado del camino,
    Am
@@ -27,7 +27,7 @@ mi armadura he desgastado
  C
 vengo a tí
 
-CORO
+[Coro]
       F
 Sumergeme en el río de tu
    Am          A#

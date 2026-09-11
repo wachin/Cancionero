@@ -1,10 +1,10 @@
 Sumergeme (A# Bajo)
 Jesus Adrián Romero
 
-INTRO
+[Intro]
 A# Dm D# Cm F
 
-VERSO I
+[Verso I]
     A#
 Cansado del camino,
    F
@@ -16,7 +16,7 @@ sin fuerzas he quedado
  F
 vengo a ti
 
-VERSO II
+[Verso II]
     A#
 Luché como soldado,
      F
@@ -28,7 +28,7 @@ mi armadura he desgastado
  F
 vengo a tí
 
-CORO x2
+[Coro x2]
       A#
 Sumergeme en el río de tu
    Dm           D#
@@ -36,13 +36,13 @@ Espíritu, necesito refrescar este
  Cm             F
 seco corazón sediento de tí
 
-VERSO I
+[Verso I]
 
-VERSO II
+[Verso II]
 
-CORO x2
+[Coro x2]
 
-FINAL
+[Final]
         Gm 
 Sumergeme, 
                       D#

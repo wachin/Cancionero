@@ -1,10 +1,10 @@
 Como el siervo busca por las aguas
 Marcos Witt
 
-INTRO
+[Intro]
 G D C D
 
-VERSO
+[Verso]
 G               Em           Bm
 Como el ciervo busca por las aguas,
       C      G         C    D
@@ -14,7 +14,7 @@ Día y noche yo tengo sed de ti
    C              D
 y solo a ti buscaré.
 
-CORO
+[Coro]
   G   D    C       D
 Lléname, lléname, Señor,
  G    D    C          D
@@ -35,9 +35,9 @@ Yo tengo sed, solo de ti,
   C   D     G
 lléname, Señor
 
-VERSO
+[Verso]
 
-CORO
+[Coro]
 
-OUTRO
+[Outro]
 G D C D

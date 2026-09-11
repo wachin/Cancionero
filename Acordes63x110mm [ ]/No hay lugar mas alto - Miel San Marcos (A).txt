@@ -1,7 +1,7 @@
 No hay lugar mas alto (A)
 Miel San Marcos
 
-VERSO
+[Verso]
         A               E
 A tus pies arde mi corazón
         F#m                D
@@ -17,7 +17,7 @@ a tu presencia, me levantaste,
                    E
 hoy me postro a adorarte
 
-CORO x2
+[Coro x2]
                  D           E
 No hay lugar más alto, más grande
                   F#m
@@ -25,11 +25,11 @@ que estar a tus pies,
                    A
 que estar a tus pies
 
-VERSO
+[Verso]
 
-CORO x3
+[Coro x3]
 
-PUENTE x2
+[Puente x2]
      D           E
 Y aquí permaneceré,
 A   E      F#m
@@ -39,11 +39,11 @@ y aquí permaneceré
                 F#m  A
 a los pies de Cristo
 
-CORO x2 (Guitarra  y fondo)
+[Coro x2 (Guitarra  y fondo)]
 
 SOLO
 D E F#m A
 
-CORO x2
+[Coro x2]
 
 

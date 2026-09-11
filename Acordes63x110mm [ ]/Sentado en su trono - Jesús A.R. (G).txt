@@ -15,7 +15,7 @@ con rostro de sol
 cuando abre su boca,
 es trueno su voz//
 
-CORO:
+[Coro]
    G   D   Am              
 //Poderoso   en majestad 
    Em         D
@@ -26,7 +26,7 @@ Poderoso   en potestad
 e imperio, Poderoso//
 
 Un gran arcoiris 
-corona su ser
+[Coro na su ser]
 El es el cordero 
 que pudo vencer
 
@@ -35,9 +35,9 @@ El es el postrer
 Y arrojan coronas 
 delante de El
 
-CORO x2
+[Coro x2]
 
-Final
+[Final]
    C   D Em 
 //Poderoso//
  C   D F D G

@@ -19,7 +19,7 @@ No te dejes vencer sin razón
              Bm        A   G
 busca dentro de tu corazón...
 
-CORO:
+[Coro]
 D             A                Bm
 Sigue, que tu paso no se detenga
               G    A
@@ -35,7 +35,7 @@ todo es mucho mejor
             C          D  A
 y hay alivio para tu dolor
 
-VERSO II
+[Verso II]
 Si te cuesta pensar,
 cómo hallar la respuesta
 si la carga en la espalda te pesa

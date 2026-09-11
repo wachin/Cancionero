@@ -1,10 +1,10 @@
 Perfume a tus pies 
 Jaz Jacob 
 
-INTRO 
+[Intro]
 D E A 
  
-VERSO 
+[Verso]
 A                    E 
 Cuando pienso en tu amor 
                D 
@@ -20,13 +20,13 @@ y hasta donde me has traído
                E 
 Me asombro de Ti 
  
-PRE-CORO 
+[Pre-Coro]
 F#m           E          D  
    Y no me quiero conformar 
 F#m       E             D     E A 
    he probado y quiero más 
  
-CORO 
+[Coro]
                              E 
 Yo quiero enamorarme más de Ti, 
                          F#m 
@@ -44,7 +44,7 @@ Que mi vida sea para ti
                 E       D 
 como un perfume a tus pies 
  
-VERSO II 
+[Verso II]
 A                        E 
    Cuando pienso en tu cruz 
                         D 
@@ -60,7 +60,7 @@ que hasta aquí hemos llegado
               E 
 Por tu fidelidad 
  
-PRE-CORO 
+[Pre-Coro]
 F#m           E          D    F#m 
    Y no me quiero conformar 
        E             D 
@@ -70,4 +70,4 @@ F#m           E          D    F#m
        E             D        E A 
 he probado y quiero más 
  
-CORO 
+[Coro]

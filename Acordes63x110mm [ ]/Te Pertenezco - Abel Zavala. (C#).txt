@@ -1,12 +1,12 @@
 Te Pertenezco
 Abel Zavala
 
-INTRO
+[Intro]
 G#
 C# G#
 C# G#
 
-VERSO I x2
+[Verso I x2]
   C#                       G#
 Muéstrame tu camino hoy Señor
       C#                           Fm
@@ -18,7 +18,7 @@ Con mi forma de vivir
                       D#
 Que tu reino venga a mí
 
-CORO
+[Coro]
                    C#
 Postrado en mi aposento
                   G#
@@ -36,9 +36,9 @@ Encontrado en Ti la razón de mí existir
                  C#  G#
 Te pertenezco Señor
 
-VERSO I
+[Verso I]
 
-CORO
+[Coro]
                    C#
 Postrado en mi aposento
                   G#

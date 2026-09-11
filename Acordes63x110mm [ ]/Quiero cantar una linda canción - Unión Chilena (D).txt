@@ -1,7 +1,7 @@
 Quiero cantar una linda canción
 Unión Chilena
 
-INTRO
+[Intro]
 Bm Em Bm A
 Bm Em Bm A
 
@@ -14,7 +14,7 @@ quiero cantar una linda cancion
       Em                     A
 de aquel que me mi vida cambió
 
-CORO:
+[Coro]
         D      Bm          Em     A
 Es mi amigo Jesús, Es mi amigo Jesús
         D          Bm       Em       A

@@ -1,7 +1,7 @@
 Alabad a Jehová
 Danilo Montero
 
-CORO
+[Coro]
     C           G   
 //Alabad a Jehová
      F             G
@@ -11,7 +11,7 @@ Alabad al Señor
          F          G 
 los que temen a su nombre//
 
-VERSO I
+[Verso I]
     E                     Am  
 Alabadle porque hizo maravillas en el mar,
     E                          Am 

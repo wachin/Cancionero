@@ -1,7 +1,7 @@
 Levantate Señor (Bb)
 Marcos Witt
 
-INTRO = Bbmm Ab----- Cm----- C-----Cm---Ab-Bb-C-Cm
+[Intro = Bbmm Ab----- Cm----- C-----Cm---Ab-Bb-C-Cm]
                            Ab--Bb
 LEVÁNTATE, LEVÁNTATE SEÑOR
 Cm          Eb     Gm   Cm

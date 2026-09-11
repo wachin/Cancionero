@@ -2,7 +2,7 @@ Como el siervo busca (A# Capo 1)
 Marcos Witt
 Poner el capotraste en el 1er traste
 
-VERSO
+[Verso]
 A               F#m           C#m
 Como el ciervo busca por las aguas,
       D      A         D    E
@@ -12,7 +12,7 @@ Día y noche yo tengo sed de ti
    D              E
 y solo a ti buscaré.
 
-CORO
+[Coro]
   A   E    D       E
 Lléname, lléname, Señor,
  A    E    D          E
@@ -24,6 +24,6 @@ lléname, Señor
 
 E D G
 
-VERSO
+[Verso]
 
-CORO
+[Coro]

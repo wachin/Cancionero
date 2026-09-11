@@ -1,11 +1,11 @@
 CON MANOS VACIAS (F)
 Jesús Adrián Romero
 
-INTRO x2
+[Intro x2]
 Dm C A# C F
 Dm C A# C
 
-VERSO
+[Verso]
 F                 A#
 Con manos vacías vengo a Ti
 C                   Dm        
@@ -24,7 +24,7 @@ Recibelo mi buen pastor
 A#         Gm    C
 Tu puedes restaurarlo
 
-CORO
+[Coro]
 A#        C                    Dm
 Pongo mi vida a tu servicio Señor,
 A#       C                     Dm
@@ -38,9 +38,9 @@ Usa mis manos Señor
 
 C A# C
 
-VERSO
+[Verso]
 
-CORO
+[Coro]
 A#        C                    Dm
 Pongo mi vida a tu servicio Señor,
 A#       C                     Dm

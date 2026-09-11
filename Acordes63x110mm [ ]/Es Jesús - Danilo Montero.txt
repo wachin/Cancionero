@@ -1,10 +1,10 @@
 Es Jesús
 Danilo Montero
 
-INTRO x2
+[Intro x2]
 G C   
 
-VERSO x2
+[Verso x2]
      G            Em     
 A aquel que nos amó
           C         D     
@@ -15,7 +15,7 @@ Al que es principio y fin
 Al gran yo soy adoraré
    
 
-CORO
+[Coro]
 G             D      
 A Jesús mi Señor
         Am                   C       
@@ -25,15 +25,15 @@ A Jesús mi gran Rey
             C       D     
 Alabanza y honra daré
      
-VERSO X1
+[Verso X1]
 G Em     C D     
 G Em      C D     
 
-CORO X2
+[Coro X2]
 G D      Am C       
 G D      C D     
 
-PUENTE
+[Puente]
   Em  D  G     C D B7                 
 Siempre te amaré
   Em  D  G       C D B7                 
@@ -47,5 +47,5 @@ INSTRUMENTAL
 Em D G C     
 Em D G C D C D C
 
-CORO  
+[Coro]
 

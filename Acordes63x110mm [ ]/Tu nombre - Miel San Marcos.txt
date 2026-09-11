@@ -3,7 +3,7 @@ Miel San Marcos
 
 D Bm G A
 
-VERSO
+[Verso]
   D
 precioso , precioso Dios
  Bm
@@ -25,9 +25,9 @@ moriste  pensando en mi
 
 D Bm G Em A
 
-VERSO
+[Verso]
 
-CORO x2
+[Coro x2]
     D               F#m
 Tu nombre exaltamos
     Bm
@@ -37,11 +37,11 @@ el nombre de Cristo
                A
 el nombre de Cristo
 
-PUENTE
+[Puente]
 Em Bm D A
 Em Bm D A
 
-CORO x3
+[Coro x3]
 
 
 

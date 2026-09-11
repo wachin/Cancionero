@@ -3,7 +3,7 @@ Samaritan Revival
 Álbum: Nacer de Nuevo (2010)
 BPM 76 
 
-VERSO I
+[Verso I]
 C                      G 
 El esplendor de un Rey
     Am 
@@ -23,7 +23,7 @@ Y tiembla a Su voz
 Tiembla a Su voz
 
 
-CORO x2
+[Coro x2]
        C
 Cuán Grande es Dios
       G         Am 
@@ -35,7 +35,7 @@ Cuán grande es Dios
 
 
 
-VERSO II
+[Verso II]
  C                 G 
 Día a día El está
       Am 
@@ -54,9 +54,9 @@ Cordero y el León
                G 
 Cordero y el León
 
-CORO x2
+[Coro x2]
 
-PUENTE x2
+[Puente x2]
            C
 Tu Nombre sobre todo es
          Am 
@@ -66,4 +66,4 @@ Y mi ser dirá
        G        C
 Cuan grande es Dios
 
-CORO x2
+[Coro x2]

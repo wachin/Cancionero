@@ -3,12 +3,12 @@ Bueno es alabar
 Album: Admirable (1997)
 BPM 119
 
-INTRO
+[Intro]
 A D E  D E
 A D E  D E
 A D E  F#m E
 
-VERSO x2
+[Verso x2]
   A         D           E       D   E
 Bueno es alabar Oh Señor tu nombre
  A             D          E
@@ -20,7 +20,7 @@ Bueno es alabarte Jesús
       F#m            E
 Y gozarme en tu poder
 
-CORO x2
+[Coro x2]
           A    D      E  D E
 Porque grande eres Tú
   A       D      E     D E
@@ -32,6 +32,6 @@ Grande es tu amor
                  E
 Grande es tu gloria
 
-VERSO x2
+[Verso x2]
 
-CORO x2
+[Coro x2]

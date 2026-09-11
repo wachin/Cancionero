@@ -1,10 +1,10 @@
 CON MANOS VACIAS
 
-INTRO x2
+[Intro x2]
 C#m B A B E
 C#m B A B
 
-VERSO
+[Verso]
 E                 A
 Con manos vacías vengo a Ti
 B                   C#m        
@@ -23,7 +23,7 @@ Recibelo mi buen pastor
 A          F#m   B
 Tu puedes restaurarlo
 
-CORO
+[Coro]
 A         B                   C#m
 Pongo mi vida a tu servicio Señor,
 A        B                     C#m
@@ -37,9 +37,9 @@ Usa mis manos Señor
 
 B A B
 
-VERSO
+[Verso]
 
-CORO
+[Coro]
 A         B                   C#m
 Pongo mi vida a tu servicio Señor,
 A        B                     C#m

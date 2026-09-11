@@ -1,7 +1,7 @@
 Música del cielo
 Miel San Marcos
 
-CORO    
+[Coro]
 E
 Vamos a  cantar con la música del cielo     
 C#m
@@ -13,7 +13,7 @@ Toca la Guitarra
 //F#m/A     
 E//
 
-VERSO I
+[Verso I]
 E
    Amamos todo de ti, Tu creación te adora
 C#m                                             Bsus4
@@ -21,7 +21,7 @@ C#m                                             Bsus4
 A             E
 Eres por quien Vivimos hoy
 
-VERSO II
+[Verso II]
 E
   Eres quien nos liberta, eres la luz que brilla
 C#m                                                B
@@ -29,9 +29,9 @@ C#m                                                B
 A             A/C#    B/D#
 Eres por quien,    Vivimos hooy
 
-CORO
+[Coro]
 
-VERSO I
+[Verso I]
 E
    Amamos todo de ti, Tu creación te adora
 C#m                                              B
@@ -39,4 +39,4 @@ C#m                                              B
 A             A/C#    B/D#
 Eres porque,    Vivimos hoy
 
-CORO X3
+[Coro X3]

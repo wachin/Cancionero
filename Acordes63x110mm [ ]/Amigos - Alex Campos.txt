@@ -1,10 +1,10 @@
 
 Amigos - Alex Campos
 
-INTRO x2
+[Intro x2]
 F  C  Dm  A#
 
-VERSO I
+[Verso I]
 F                  C      Dm
 Desde chicos aprendimos
                      C
@@ -23,7 +23,7 @@ Pero aun sigo siendo amigo,
 Del que es como mi hermano.
 
 
-CORO
+[Coro]
       F         C
 Amigo tu, amigo yo
         Dm               A#
@@ -41,9 +41,9 @@ Quiero reir, tal vez llorar,
          Dm  C
 Amigos que...nunca olvidamos. 
 
-INTRO X1
+[Intro X1]
 
-VERSO II
+[Verso II]
 F                  C
 En momentos presentimos
                      Dm
@@ -70,7 +70,7 @@ Necesitan de aquel,
 Que se ha de llamar hermano.
 
 
-CORO
+[Coro]
       F         C
 Amigo tu, amigo yo
        Dm               A#
@@ -88,6 +88,6 @@ Quiero reir, tal vez llorar,
         Dm  C
 Amigos que...nunca olvidamos.
 
-FINAL
+[Final]
 F   C   Dm   C
 C

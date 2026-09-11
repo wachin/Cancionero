@@ -1,6 +1,6 @@
 Grande y fuerte (Am)
 Omar Oropesa
-VERSO
+[Verso]
 Am                       G
 Mi Dios es grande y fuerte,
    F          Em
@@ -22,7 +22,7 @@ Y huyen ante Él
 SOLO n1 x3
 Am G F G
 
-VERSO x2
+[Verso x2]
 Am                       G
 Mi Dios es grande y fuerte,
    F          G
@@ -41,7 +41,7 @@ Sus enemigos tiemblan
    F         G
 Y huyen ante Él
 
-CORO x2
+[Coro x2]
       F    G      E7       Am
 Jesucristo es el Señor mi Rey
     G  F      G
@@ -58,11 +58,11 @@ Hay poder para vencer
 SOLO n1 x1
 Am G F G
 
-VERSO x2
+[Verso x2]
 
-CORO x2
+[Coro x2]
 
 SOLO n1 x2
 Am G F G
 
-CORO x2
+[Coro x2]

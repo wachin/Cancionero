@@ -4,7 +4,7 @@ Marcos Witt
 G Em C Am D
 G Em C Am D
 
-VERSO
+[Verso]
 G       Em       C
 Vengo a Ti, guiame
       D         G
@@ -19,7 +19,7 @@ Mi corazon hoy vuelve a Ti
 Solo a Ti
 
 
-PRE-CORO
+[Pre-Coro]
  G                  Em
 Quiero humillarme, buscar Tu rostro
  C                    Am       D
@@ -29,21 +29,21 @@ Vengo a invocarte, inclina Tu oido
    C                Am      D     
 Escucha y perdona, mi rebelion
 
-CORO
+[Coro]
 Am       Em     D
   Sana nuestra Tierra
 Am       Em     D
   Sana nuestra Tierra
 
-INTERLUDIO
+[Interludio]
 
-VERSO
+[Verso]
 
-PRE-CORO
+[Pre-Coro]
 
-CORO
+[Coro]
 
-PUENTE
+[Puente]
 D#       F          G
 Escucha hoy mi oración
 D#      F           D
@@ -71,7 +71,7 @@ D           G     C
   
 quiero humillarme
 
-PRE-CORO
+[Pre-Coro]
  G                  Em
 Quiero humillarme, buscar Tu rostro
  C                    Am       D
@@ -81,7 +81,7 @@ Vengo a invocarte, inclina Tu oido
    C                Am      D     
 Escucha y perdona, mi rebelion
 
-CORO
+[Coro]
 Am       Em     D
   Sana nuestra Tierra
 Am       Em     D

@@ -1,10 +1,10 @@
 Creo en ti (C#m)
 Julio Melgar y Marcela Gandara
 
-INTRO x2
+[Intro x2]
 C#m A E B 
 
-VERSO x2
+[Verso x2]
    C#m                    A
 Quiero levantar a Ti mis manos
         E                B
@@ -19,7 +19,7 @@ A los que estamos aquí
 SOLO
 C#m A E B
 
-PRE-CORO x2
+[Pre-Coro x2]
          C#m B A
 Creo en Ti, Jesús
                C#m   B   A
@@ -31,7 +31,7 @@ Y en lo que harás    en mi
     E      B
 En mi, en mi
 
-CORO
+[Coro]
         C#m
 Recibe Toda la gloria, recibe
  A
@@ -47,11 +47,11 @@ Precioso Hijo de Dios
           C#m A E B
 Hijo de Dios
 
-VERSO
+[Verso]
 
-PRE-CORO
+[Pre-Coro]
 
-CORO x2
+[Coro x2]
 
 
 

@@ -1,7 +1,7 @@
 Ven Espíritu Ven
 Marcos Barrientos
 
-VERSO X2
+[Verso X2]
  E      B      C#m  
 Ven, Espíritu ven
     B        A           
@@ -9,7 +9,7 @@ Y lléname Señor
      F#m            B        
 Con tu preciosa unción
 
-CORO 
+[Coro]
      E        B          C#m     
 Purifícame y lávame, Renuévame   
     B         A   F#m          B    
@@ -20,6 +20,6 @@ Purifícame y lávame, Renuévame
     B         A         B        E    
 Restáurame Señor, Te quiero conocer
    
-VERSO X 2
+[Verso X 2]
 
-CORO
+[Coro]

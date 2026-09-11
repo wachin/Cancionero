@@ -1,6 +1,6 @@
 Al Que Está Sentado En El Trono
 Marcos Brunet
-INTRO
+[Intro]
 B
 E  G#m  B
 E  G#m  B  F# 
@@ -8,7 +8,7 @@ E  G#m  B
 E  G#m  B  F#
 E  F#   E  F#
 
-VERSO
+[Verso]
    B             
 Quiero conocerte
 F# G#m
@@ -27,7 +27,7 @@ F#    E
    F#
 Jesús
 
-CORO x2
+[Coro x2]
 B                                F#
 Al que está sentado en el trono (en el trono)
 G#m
@@ -41,9 +41,9 @@ E  G#m  B
 E  G#m  B
 E
 
-VERSO
+[Verso]
 
-CORO X2
+[Coro X2]
 
 (después de repetir 2 veces el coro, se añade:)
            C#m           D#m
@@ -68,7 +68,7 @@ Tu eres santo santo, santo santo
 santo eres tu
 
 
-CORO x2 (ahora los acordes cambian algo)
+[Coro x2 (ahora los acordes cambian algo)]
 B                               F#
 Al que está sentado en el trono
 G#m

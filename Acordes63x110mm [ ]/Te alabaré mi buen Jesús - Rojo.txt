@@ -1,10 +1,10 @@
 ﻿Te alabaré mi buen Jesús (E)
 Rojo
 
-INTRO I X4
+[Intro I X4]
 E B A
 
-VERSO
+[Verso]
   E            B 
 Eres Tú la única razón  
         C#m           A 
@@ -14,7 +14,7 @@ Eres Tú la esperanza que
      C#m           A 
 anhelé tener oh Jesús  
  
-PRE-CORO
+[Pre-Coro]
 F#m                     B 
 Confié en Ti me has ayudado 
 D                      B  
@@ -25,31 +25,31 @@ hoy hay gozo en mi corazón,
 con mi canto te alabaré 
  
 
-CORO x2
+[Coro x2]
  F#      C# D#m          B 
 Te alabaré  te glorificaré 
  F#      C#          B  
 Te alabaré mi buen Jesús 
 
-VERSO
+[Verso]
 
-PRE-CORO
+[Pre-Coro]
 
-CORO x2
+[Coro x2]
  
-PUENTE: 
+[Puente]
 E B C#m A B
 
-PUENTE x2
+[Puente x2]
 E                       B
 En todo tiempo te alabaré 
 C#m       A             B 
 En todo tiempo te adoraré 
 
-PUENTE x6 
+[Puente x6]
 E C D B
 
-CORO x3
+[Coro x3]
  G       D
 Te alabaré 
  Em          C
@@ -57,5 +57,5 @@ Te glorificaré
  G       D          C  
 Te alabaré mi buen Jesús 
 
-OUTRO x8
+[Outro x8]
 E C D B

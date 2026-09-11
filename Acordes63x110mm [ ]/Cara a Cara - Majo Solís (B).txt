@@ -3,10 +3,10 @@ Majo Solís
 
 Nota: Los acordes en verde son dificiles de poner en la guitarra, se los puede omitir y no afectan la canción.
 
-INTRO
+[Intro]
 B E B E 
 
-VERSO
+[Verso]
      B
 Solamente una palabra
      G#m
@@ -35,7 +35,7 @@ solo una   peticion
        C#m  B     E             F#
 y si puede ser a solas mucho mejor
 
-CORO
+[Coro]
       C#m      F#           D#m   G#m
 Solo dejame mirarte cara a cara
       E             F#           D# G#m

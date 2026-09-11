@@ -3,10 +3,10 @@
 Esus4 002200
 E5    022xxx
  
-INTRO x2
+[Intro x2]
 A C#m D    
 
-VERSO 1
+[Verso 1]
    A         E         F#m E       
 Quiero expresar mi gratitud 
    Bm7 A              E             
@@ -17,13 +17,13 @@ Una oración no bastaría
 Ni el tiempo de toda una vida 
 A
 
-PRECORO
+[Pre-Coro]
 D              E     Dm F#m D    
  Es más que palabras
                       E5
 Y es más que una canción
 
-CORO
+[Coro]
            A        C#m             
 Quiero vivir agradecido 
       D           E      
@@ -37,17 +37,17 @@ Porque es más que palabras
      E              A                
 Es más que una canción
 
-INTRO 
+[Intro]
 
 A A/C# D    
 
-VERSO 1
+[Verso 1]
 
-PRECORO
+[Pre-Coro]
 
-CORO
+[Coro]
 
-REPETIR 
+[Repetir]
             Bm7       A/C# D            
 Porque es más que palabras
             Bm7       A/C# D            
@@ -55,13 +55,13 @@ Porque es más que palabras
      E                   
 Es más que una canción
 
-INTERLUDIO x2
+[Interludio x2]
 
 D E A/C#    
 
       
 
-VERSO 2
+[Verso 2]
   A        A/C#           D            
 Cerca de Ti yo quiero estar
       A/C#         F#m7       Bm     E                  
@@ -71,7 +71,7 @@ Quiero ser un reflejo de tu amor
      A/C#  F#m7    Bm7    A/C# E                          
 Quiero vivir solo en tu voluntad
 
-CORO 2 x2
+[Coro 2 x2]
     A A/C# F#m7         E                  
 Jesús eres mi buen Pastor
        Bm7 A/C# D E  F#m E/G#                     
@@ -83,7 +83,7 @@ Oh mi Dios me rindo hoy
 
         
 
-CORO 2 x2
+[Coro 2 x2]
     A A/C# F#m7         E                  
 Jesús eres mi buen Pastor
        Bm7 A/C# D E  F#m E/G#                     
@@ -93,7 +93,7 @@ Jesús puedo confiar en Ti
  Bm7       E    A/C#  D A/C#                   
 Oh mi Dios me rindo hoy 
 
-REPETiR 
+[Repetir]
  Bm7       E    A/C#  D                 
 Oh mi Dios me rindo hoy
  Bm7       E    A/C#  A                 
@@ -101,7 +101,7 @@ Oh mi Dios me rindo hoy
 
             
 
-INTERLUDIO x4
+[Interludio x4]
 
 A A/C# D    
 

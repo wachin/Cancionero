@@ -1,7 +1,7 @@
-INTRO (2x)
+[Intro (2x)]
 E | Bm7 | D | A |
 
-VERSO 1 (Danilo Montero)
+[Verso 1 (Danilo Montero)]
 E              Bm7
    Digno es El     Cordero Santo
 D                  A
@@ -11,7 +11,7 @@ E             Bm7
 D                        A
    Al que en el trono esta.
 
-CORO 1
+[Coro 1]
 E
    Santo, santo, santo
 Bm7             A/C#
@@ -25,10 +25,10 @@ Bm7                 A/C#
 D                     A
    Tú eres digno por siempre y siempre.
 
-INTERLUDIO
+[Interludio]
 E | Bm7 | D | A |
 
-VERSO 2 (Kary Jobe)
+[Verso 2 (Kary Jobe)]
 E              Bm7          A/C#
    Digno es El    Cordero Santo
 D                 A
@@ -38,7 +38,7 @@ E             Bm7              A/C#
 D                        A
    Al que en el trono esta.
 
-CORO 2 (2x)
+[Coro 2 (2x)]
 E
    Santo, santo, santo
 Bm7             A/C#
@@ -58,13 +58,13 @@ F#m | E/G# | Cmaj7 | D | E
 INSTRUMENTAL 1
 D/F# | A/C# | Cmaj7 - D - |
 
-VERSO 3 (Kary & Danilo)
+[Verso 3 (Kary & Danilo)]
 E             Bm7              A/C#
    Levantamos    nuestra alabanza
 D                        A
    Al que en el trono esta.
 
-CORO 3 (2x)
+[Coro 3 (2x)]
 E
    Santo, santo, santo
 Bm7               A/C#
@@ -78,4 +78,4 @@ Bm7                 A/C#
 D                     A
    Tú eres digno por siempre y siempre.
 
-FINAL
+[Final]

@@ -6,10 +6,10 @@ Asus2   002200
 Bsus2   024400
 G#sus4  446644 
 
-INTRO
+[Intro]
 E A E A
 
-VERSO
+[Verso]
 E         Asus2      E 
  Traemos hoy ante tu altar 
             Bsus2
@@ -25,7 +25,7 @@ F#m7               C#m
 Asus2               Bsus2
  los sueños que logré alcanzar
 
-CORO
+[Coro]
       C#m     Asus2     E
 Te daré lo mejor de mi vida,
       C#m     Asus2    Bsus2
@@ -36,12 +36,12 @@ G#sus4       G#              C#m
        Asus2           F#m  Bsus2
 mi obediencia es mi mejor adoración
 
-INTRO
+[Intro]
 E A E A
 
-VERSO
+[Verso]
 
-CORO x2
+[Coro x2]
 
 PRELUDIO
 C#m Asus2 C#m Bsus2
@@ -52,9 +52,9 @@ F#m7            C#m
 Asus2              Bsus2
   pues tú mereces lo mejor
 
-CORO x2
+[Coro x2]
 
-FINAL
+[Final]
     E              A      B
 ///  Te daré lo mejor de mi ///
   C#m      Bsus2   Asus2

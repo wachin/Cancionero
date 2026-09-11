@@ -2,10 +2,10 @@ Escucharte Hablar (A# Capo 1)
 Marcos Witt
 Poner el Capotraste en la 1ra
 
-INTRO x2
+[Intro x2]
 A E D E
 
-VERSO
+[Verso]
 A                E
 Quiero escuchar tu dulce voz
      D                       E
@@ -17,7 +17,7 @@ me haría llorar o reír
       D                E
 y caería rendido ante Ti
 
-CORO
+[Coro]
    A           E
 Y no podría estar ante Ti
       Bm

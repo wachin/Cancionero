@@ -4,7 +4,7 @@ Jaz Jacob
  INTRO
 B C# F#
 
-VERSO
+[Verso]
 F#                   C#
 Cuando pienso en tu amor
                B
@@ -20,13 +20,13 @@ y hasta donde me has traído
                C#
 Me asombro de Ti
 
-PRE-CORO
+[Pre-Coro]
 Ebm           C#         B     Ebm
    Y no me quiero conformar
        C#            B         C# F#
 he probado y quiero más
 
-CORO
+[Coro]
                              C#
 Yo quiero enamorarme más de Ti,
                          Ebm
@@ -44,7 +44,7 @@ Que mi vida sea para ti
                 C#      B
 como un perfume a tus pies
 
-VERSO II
+[Verso II]
 F#                       C#
    Cuando pienso en tu cruz
                         B
@@ -60,7 +60,7 @@ que hasta aquí hemos llegado
               C#
 Por tu fidelidad
 
-PRE-CORO
+[Pre-Coro]
 Ebm           C#         B     Ebm
    Y no me quiero conformar
        C#            B
@@ -70,7 +70,7 @@ Ebm           C#         B     Ebm
        C#            B         C# F#
 he probado y quiero más
 
-CORO
+[Coro]
                              C#
 Yo quiero enamorarme más de Ti,
                          Ebm

@@ -1,7 +1,7 @@
 Cuan grande es El
 Rojo 
 
-Intro 
+[Intro]
 D C#m Bm A D
 
          A

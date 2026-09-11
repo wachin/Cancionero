@@ -1,10 +1,10 @@
 Jesús eres mi buen Pastor
 Marcos Witt
 
-INTRO
+[Intro]
 D E D E
 
-VERSO
+[Verso]
 A         C#m            D
 Cerca de Tí yo quiero estar
      C#m          F#m         
@@ -19,7 +19,7 @@ quiero vivir
      Bm          E
 solo en tu voluntad
 
-CORO
+[Coro]
    A  C#m   F#m           E
 Jesús    eres mi buen Pastor
     Bm    C#m D      Esus4 E
@@ -30,10 +30,10 @@ Jesús    puedo confiar en Tí
 Bm       Esus4 E        D  
 oh, mi Dios, me rindo hoy
 
-INTRO
+[Intro]
 D E D E
 
-VERSO
+[Verso]
 A   C#m  D
 C#m F#m         
 Bm  E
@@ -42,7 +42,7 @@ A   C#m D
 C#m F#m     
 Bm  E
 
-CORO x2
+[Coro x2]
 A  C#m F#m E
 Bm C#m D Esus4 E
 

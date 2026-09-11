@@ -5,7 +5,7 @@ F
 Que cantan conmigo pues 
 alabando al señor vamos
 
-VERSO I x2
+[Verso I x2]
               Bb        
 con mis manos y mi vida  
      C               F
@@ -15,7 +15,7 @@ con mis manos y mi vida
    C                F
 te alabo bendito Señor
 
-CORO
+[Coro]
        Bb               F        
 Porque tu has sido precioso para mi    
      Gm               F
@@ -25,13 +25,13 @@ porque tu has sido precioso para mi
       Gm     C      F
 te alabo bendito Señor
 
-VERSO II x4
+[Verso II x4]
       F
 Alabaré (alabaré), alabaré (alabaré)
     C           F
 alabaré a mi Señor
 
-VERSO III
+[Verso III]
     F                  
 Yo tengo un amigo que me ama
    C       F
@@ -41,7 +41,7 @@ yo tengo un amigo que me ama
     C           F
 su nombre es Jesús
 
-VERSO IV x2
+[Verso IV x2]
              Bb
 no hay otro nombre
             F
@@ -53,7 +53,7 @@ solamente en rey
 
 G D7 G
 
-VERSO IV 
+[Verso IV]
 
 Te alabarán Oh Jehová todos los reyes
                        D

@@ -1,10 +1,10 @@
 Danzando cada temporada
 Christine D'clario
 
-Intro
+[Intro]
 Bm G D A Bm G D A 
 
-VERSO I
+[Verso I]
             Bm        G
 Tu palabra dice,
             D            A          
@@ -19,7 +19,7 @@ Aunque haya oscuridad, con fe, caminaré
 Pues Tú siempre vas conmigo
 
 
-VERSO II
+[Verso II]
             Bm        G
 Tu palabra dice
         D            A            Bm   G
@@ -31,13 +31,13 @@ En mi mesa nunca, nunca ha faltado
        D               A
 Tú proves y no has fallado
 
-PRE-CORO
+[Pre-Coro]
 G         F#
 Yo no temeré
 G              F#
 Tu promesa es fiel
 
-CORO
+[Coro]
     Bm      G        D          A
 Tu yugo es fácil, ligera es Tu carga
        Bm      G      D     A
@@ -52,7 +52,7 @@ Danzando en cada temporada
 Danzando en cada temporada
 
 
-VERSO III
+[Verso III]
             Bm  G
 Tu palabra dice
        D           A              Bm  G
@@ -65,7 +65,7 @@ Sobre toda enfermedad, Tú has ganado
 Y mi vida está en Tu mano
 
 
-VERSO VI
+[Verso VI]
             Bm  G
 Tu palabra dice
          D            A              Bm   G
@@ -77,13 +77,13 @@ Y en las nubes, seremos arrebatados
         D          A
 Cara a cara, Te veremos
 
-PRE-CORO
+[Pre-Coro]
  G         F#
 Yo no temeré
  G              F#
 Tu promesa es fiel
 
-CORO
+[Coro]
     Bm      G        D          A
 Tu yugo es fácil, ligera es Tu carga
        Bm      G      D     A

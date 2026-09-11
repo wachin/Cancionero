@@ -1,7 +1,7 @@
 Gracias
 Marcos Witt
 
-VERSO I
+[Verso I]
           Em
 Me has tomado en tus brazos
           D
@@ -17,7 +17,7 @@ lo que has hecho por mi
        Em                      D
 solo puedo darte ahora mi canción
 
-CORO
+[Coro]
             G D     Am       Fm D
 Yo te doy gracias, gracias Señor,
   G          D     C D
@@ -27,7 +27,7 @@ gracias, muchas gracias Señor,
   G          D     C
 gracias mi Señor Jesús,
 
-VERSO II:
+[Verso II]
 En la cruz diste tu vida,
 La entregaste toda allí
 vida eterna regalaste al morir
@@ -35,7 +35,7 @@ por tu sangre tengo entrada
 ante el trono celestial
 puedo entrar confiadamente ante ti
 
-CORO
+[Coro]
 
 
 

@@ -1,7 +1,7 @@
 Nuestro Dios
 Danny Días
 
-INTRO x2 
+[Intro x2]
 G#m E  B F#
 
 ESTROFA
@@ -18,7 +18,7 @@ de lo vil nos levantas,
             C#m         F#
 Nadie como tú, no lo hay
 
-CORO:
+[Coro]
 G#m
 Mi Dios es grande
 E
@@ -33,7 +33,7 @@ Nuestro Dios, mi Dios
 SOLO
   G#m E   B   F#
   
-PUENTE x2
+[Puente x2]
   G#m
 Si Dios por nosotros
  E

@@ -2,7 +2,7 @@ Ven es hora de adorarle (D#)
 Marco Barrientos 
 Poner el capotraste en la 1ra.
 
-VERSO  
+[Verso]
  D                 G   D
 Ven, es hora de Adorarle
  A                Em  G
@@ -12,7 +12,7 @@ Ven, ante su trono estamos
  A                 Em     G    D
 Ven, ante la majestad de Dios, ven
 
-CORO
+[Coro]
  G                  D
 Toda lengua confesará que Él es Dios
  G                    D

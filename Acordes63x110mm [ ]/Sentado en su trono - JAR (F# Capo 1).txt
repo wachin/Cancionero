@@ -2,11 +2,11 @@ Sentado en su trono (F#)
 Jesús Adrián Romero
 Poner el Capotraste en el 1er traste
 
-INTRO
+[Intro]
 F Dm A# C
 F Dm A# C
 
-VERSO I X2
+[Verso I X2]
 F                                Dm
  Sentado en su trono, rodeado de luz
 A#                  Gm               C
@@ -16,25 +16,25 @@ F                                  Dm
 A#               Gm                C
 cuando abre su boca, es trueno su voz.
 
-CORO x n
+[Coro x n]
 F     C  Gm             Dm        C 
 Poderoso    en majestad y reino, Poderoso
 F     C  Gm               Dm        C
 Poderoso    en potestad e imperio, Poderoso
 
-VERSO II
+[Verso II]
 Un gran arcoiris corona su ser.
 El es el cordero que pudo vencer.
 El es el primero, El es el postrer
 y arrojan coronas delante de El.
 
-CORO x n
+[Coro x n]
 F     C  Gm             Dm        C 
 Poderoso    en majestad y reino, Poderoso
 F     C  Gm               Dm        C
 Poderoso    en potestad e imperio, Poderoso
 
-FINAL x n 
+[Final x n]
 Gm  C   Dm  
 Poderoso    
 

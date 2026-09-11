@@ -1,10 +1,10 @@
 Gracia Sublime Es (G)
 3mir Sensini
 
-INTRO
+[Intro]
 F Bb F Bb
 
-VERSO I
+[Verso I]
 F
  Quien rompe el poder del pecado
 Bb
@@ -12,7 +12,7 @@ su amor es fuerte  y poderoso
 Dm                 C                Bb
    El rey de gloria el rey de majestad
 
-VERSO II
+[Verso II]
 F
  Conmueve al mundo con su estruendo
 Bb
@@ -20,7 +20,7 @@ Bb
 Dm                 C                Bb
    El rey de gloria el rey de majestad
 
-CORO
+[Coro]
                F                  Bb
 Gracia sublime es, perfecto es tu amor
               Dm                   C
@@ -32,17 +32,17 @@ Dm               C                     F
 
 Bb
 
-VERSO III
+[Verso III]
 Pusiste en orden todo el caos
 Nos adoptaste  como tus hijos
 El rey de gloria el rey de majestad
 
-VERSO IV
+[Verso IV]
 El que gobierna con su justicia
 Y resplandece con su belleza
 El rey de gloria el rey de majestad
 
-CORO
+[Coro]
                F                  Bb
 Gracia sublime es, perfecto es tu amor
               Dm                   C
@@ -69,7 +69,7 @@ Digno es el cordero de Dios
        Bb
 Digno digno digno
 
-CORO
+[Coro]
 
 Bb F Bb F
 

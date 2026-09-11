@@ -1,9 +1,9 @@
 Grande y Fuerte
 Miel San Marcos
-INTRO x3
+[Intro x3]
 Am F E
 
-VERSO
+[Verso]
   Am       F         E       Am F E
 Grande y fuerte es nuestro Dios
   Am       F         E       Am F E
@@ -13,17 +13,17 @@ Grande y fuerte es nuestro Dios
   Am        F        E       Asus4 A7
 Grande y fuerte es nuestro Dios
 
-CORO
+[Coro]
     Dm           G
 Vestido en majestad
     Dm          Am
-coronado con poder
+[Coro nado con poder]
        F      G         Am G A7
 Digno de toda la adoración
     Dm             G
 Vestido  en majestad
       Dm         Am
-Coronado con poder
+[Coro nado con poder]
        F               G       Am F E
 Toda Gloria y honra sean para ti
 
@@ -31,13 +31,13 @@ Am F E
 
 
 
-VERSO
+[Verso]
 Am F E Am F E
 Am F E Am F E
 Am F E Am F E
 Am F E Asus4 A7
 
-CORO
+[Coro]
 Dm G
 Dm Am
 F G Am G A7
@@ -47,7 +47,7 @@ F G Am F E
 
 Am F E
 
-POST-CORO
+[Post-Coro]
   Am  F E  Am   F     E      Am F E
 Grande    Fuerte es nuestro Dios
   Am  F E  Am   F     E      Am F E
@@ -67,7 +67,7 @@ A B C C#
 
 
 
-CORO
+[Coro]
 Dm G
 Dm Am
 F G Am G A7

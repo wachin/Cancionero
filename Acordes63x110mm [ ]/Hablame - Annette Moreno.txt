@@ -12,7 +12,7 @@ Arrodillada estoy Señor, hablame al Corazón,
                          B7           Em
 necesito entender el misterio de la vida.
 
-CORO
+[Coro]
                              Am7
 //Siento tu voz muy fuerte que me llama,
                      D
@@ -35,10 +35,10 @@ y lo que quieras saber eso tú lo enseñarás.
 
 
 
-CORO: Siento tu voz...
+[Coro : Siento tu voz...]
 
 después viene el instrumental con  Em - Am
 
 luego sube la canción medio tono
 
-CORO: Siento tu voz...  (inicia en Fm)
+[Coro : Siento tu voz...  (inicia en Fm)]

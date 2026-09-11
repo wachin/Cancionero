@@ -2,10 +2,10 @@ Creo en ti (C#m Capo 2)
 Julio Melgar y Marcela Gandara
 Poner el capotraste en la 2da
 
-INTRO x2
+[Intro x2]
 Bm G D A 
 
-VERSO x2
+[Verso x2]
    Bm                    G
 Quiero levantar a Ti mis manos
         D                A
@@ -20,7 +20,7 @@ A los que estamos aquí
 SOLO
 Bm G D A
 
-PRE-CORO x2
+[Pre-Coro x2]
          Bm A G
 Creo en Ti, Jesús
                Bm   A   G
@@ -32,7 +32,7 @@ Y en lo que harás    en mi
     D      A
 En mi, en mi
 
-CORO
+[Coro]
         Bm
 Recibe Toda la gloria, recibe
  G
@@ -48,11 +48,11 @@ Precioso Hijo de Dios
           Bm G D A
 Hijo de Dios
 
-VERSO
+[Verso]
 
-PRE-CORO
+[Pre-Coro]
 
-CORO x2
+[Coro x2]
 
 
 

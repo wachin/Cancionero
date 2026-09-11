@@ -1,10 +1,10 @@
 Tu estás aquí (E)
 Jesús Adrián Romero
 
-INTRO x2
+[Intro x2]
 E  C#m  A  B
 
-VERSO
+[Verso]
            E
 Aunque mis ojos
               C#m              A
@@ -18,7 +18,7 @@ No puedan tocar, tu rostro Señor
                 E    B
 Sé que estás aquí OhuOh
 
-CORO
+[Coro]
         C#m           A
 Mi corazón, puede sentir tu Presencia
 E              B
@@ -54,9 +54,9 @@ No puedan tocar, tu rostro Señor
                 E    B
 Sé que estás aquí OhuOh
 
-CORO X2
+[Coro X2]
 
-FINAL
+[Final]
 C#m            B
 Tú estás aquí, Tú estás aquí
 C#m            B

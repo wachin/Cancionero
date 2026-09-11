@@ -10,10 +10,10 @@ C       032010
 C7      032310
 Gm      355333
 
-INTRO X4
+[Intro X4]
 Dm Bb F
 
-VERSO I
+[Verso I]
 Dm              Bb     F
 Aunque pase el tiempo sé
      Dm         Bb    F
@@ -33,7 +33,7 @@ Cayeron sobre mí
 
 Bb
 
-CORO X2
+[Coro X2]
                       F
 Es tu amor que me sostiene
              Dm                  Am
@@ -41,13 +41,13 @@ El que me levanta, el que me da paz
            Bb
 Me da seguridad
 
-POST-CORO
+[Post-Coro]
                Gm                   Dm
 De lo que vendrá, Tú tienes el control
                   C
 Nunca pierdes el control
 
-VERSO II
+[Verso II]
 Dm           Bb       F
 Escucho el eco de tu voz
  Dm           Bb       F
@@ -66,10 +66,10 @@ Mi fe se está encendiendo hoy
 Dm                 Bb   F
 Y hoy me vuelvo a levantar
 
-CORO
+[Coro]
 
-POST-CORO
+[Post-Coro]
 
-INTRO X4
+[Intro X4]
 
-POST-CORO
+[Post-Coro]

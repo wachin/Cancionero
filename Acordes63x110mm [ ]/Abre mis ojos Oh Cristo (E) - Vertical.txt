@@ -1,9 +1,9 @@
 Abre mis ojos Oh Cristo (E)
 Vertical
-INTRO
+[Intro]
 E
 
-VERSO x3
+[Verso x3]
 E
 Abre mis ojos oh Cristo
 B
@@ -13,7 +13,7 @@ yo quiero verte
            E
 yo quiero verte
 
-CORO X1
+[Coro X1]
            B                    C#m
 Yo quiero verte enaltecido oh Dios
     A                 B
@@ -23,11 +23,11 @@ derrama hoy tu poder
            A           B
 sobre tu pueblo Padre Santo
 
-VERSO x2
+[Verso x2]
 
-CORO X3
+[Coro X3]
 
-PUENTE X4
+[Puente X4]
  E
 Santo, Santo, Santo
  B

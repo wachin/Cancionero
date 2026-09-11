@@ -2,7 +2,7 @@ Yo y mi casa (G# Capo 1)
 Daniel Calveti
 Poner el capotraste en el 1er traste
 
-INTRO  
+[Intro]
 G D Em C
 
 G                       D
@@ -23,7 +23,7 @@ Tus principios, son verdades
 Em           D
 Y has traído alegría.
 
-CORO
+[Coro]
 G                       C     Em
 //Esta casa te canta a ti
                         C   D
@@ -33,11 +33,11 @@ Mi ofrenda es vivir por ti
                       C   D
 Esta casa te canta a ti//
 
-INTRO
+[Intro]
 
-CORO
+[Coro]
 
-FINAL
+[Final]
                Em  D C
 ///Te canta a Ti///
                Em  D   G

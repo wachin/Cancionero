@@ -4,7 +4,7 @@ Abel Zavala
 Abel Zavala Lo único que quiero| Tutorial Guitarra
 https://www.youtube.com/watch?v=gnDAuhWte-U
 
-INTRO X2
+[Intro X2]
 
 E|-----------------|
 B|-----------------|
@@ -15,7 +15,7 @@ E|-----------------|
 
 G GMaj7 Am7 C
 
-VERSO I
+[Verso I]
                 G
 Lo único que quiero
                    GMaj7
@@ -34,7 +34,7 @@ De alguien que cumpla tus sueños
                    Cm
 Quiero ser el primero
 
-CORO
+[Coro]
                  Em
 Dios mío yo quiero corresponder
      D6
@@ -50,7 +50,7 @@ Me encuentres haciendo
          CMaj7  C
 Tu voluntad  
 
-VERSO II
+[Verso II]
                  G
 No dejes que mi vida
                    GMaj7
@@ -69,7 +69,7 @@ En mi forma de pensar
                Cm
 Mi diario caminar
 
-CORO
+[Coro]
                  Em
 Dios mío yo quiero corresponder
      D6
@@ -85,7 +85,7 @@ Me encuentres haciendo
          CMaj7  C
 Tu voluntad  
 
-PUENTE
+[Puente]
        Am7
 La entrega y la pasión en ti
      Em7
@@ -97,4 +97,4 @@ Por tu amor corresponde
         Bm  C
 Soy de ti
 
-CORO
+[Coro]

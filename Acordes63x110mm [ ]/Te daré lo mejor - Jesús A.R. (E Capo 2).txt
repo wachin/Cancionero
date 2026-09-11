@@ -7,10 +7,10 @@ ACORDES
 Asus2   002200
 F#sus4  224422 
 
-INTRO
+[Intro]
 D G D G
 
-VERSO
+[Verso]
 D         G          D 
  Traemos hoy ante tu altar 
             Asus2
@@ -27,7 +27,7 @@ Em                 Bm
 G                   Asus2
  los sueños que logré alcanzar
 
-CORO
+[Coro]
       Bm      G         D
 Te daré lo mejor de mi vida,
       Bm      G        Asus2
@@ -38,12 +38,12 @@ F#sus4       F#              Bm
         G              Em   Asus2
 mi obediencia es mi mejor adoración
 
-INTRO
+[Intro]
 D G D G
 
-VERSO
+[Verso]
 
-CORO x2
+[Coro x2]
 
 PRELUDIO
 Bm Gsus2 Bm Asus2
@@ -54,9 +54,9 @@ Em              Bm
 G                  Asus2
   pues tú mereces lo mejor
 
-CORO x2
+[Coro x2]
 
-FINAL
+[Final]
     D              G      A
 ///  Te daré lo mejor de mi ///
   Bm       Asus2   G

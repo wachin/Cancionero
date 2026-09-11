@@ -5,10 +5,10 @@ Acordes
 A7sus4 = 002030
 A7     = 002020
 
-Intro
+[Intro]
 Dm  C Dm  C
 
-VERSO
+[Verso]
   Dm            C    Dm         C
 Cristo es mi Señor, no me da temor
       Gm                           C     Dm
@@ -23,7 +23,7 @@ Demostrar con mis acciones que El puede reinar
        Gm                          C         A7
 En la vida de cualquiera que se quiera entregar
 
-CORO
+[Coro]
 Dm       C  Dm         C
 Jesucristo, no me detendré
        Gm                  C               F

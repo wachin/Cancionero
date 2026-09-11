@@ -1,7 +1,7 @@
 ﻿Ven es hora de adorarle (E)
 Marco Barrientos
 
-VERSO
+[Verso]
  E                  A  E
 Ven, es hora de Adorarle
  B                F#m  A
@@ -11,7 +11,7 @@ Ven, ante su trono estamos
  B                 F#m     A    E
 Ven, ante la majestad de Dios, ven
 
-CORO
+[Coro]
  A                  E
 Toda lengua confesará que Él es Dios
  A                    E

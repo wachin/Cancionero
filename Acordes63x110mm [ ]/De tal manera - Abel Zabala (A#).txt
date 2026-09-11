@@ -3,10 +3,10 @@ Abel Zabala
 
 Poner el capotraste en el 1er. traste
 
-INTRO (opcional)
+[Intro (opcional)]
 F#m D E A D E
 
-VERSO
+[Verso]
     A              E
 De tal manera me amo
         D         F#m   E
@@ -24,7 +24,7 @@ el precio de su grande amor
       D              E    A
 pero toda mi alma quiero dar
 
-CORO
+[Coro]
          F#m     E   A
 Por su amor yo vivire
         F#m     E    A
@@ -45,7 +45,7 @@ Por que El me murio
        D E       A  E
 por mi  le seguiré
 
-VERSO
+[Verso]
 A E
 D F#m E
 A E
@@ -56,7 +56,7 @@ D F#m E
 A E
 D E  A
 
-CORO
+[Coro]
    F#m E A
    F#m E A
    F#m E D

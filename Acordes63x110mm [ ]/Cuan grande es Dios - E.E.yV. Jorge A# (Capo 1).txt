@@ -3,7 +3,7 @@ En Espíritu y Verdad
 BPM (72 versos) (144 Coro)
 Para voz del Hno Jorge A# poner Capotraste en el 1er traste:
 
-VERSO I
+[Verso I]
 A                       E
 El esplendor de un Rey
     F#m
@@ -23,9 +23,9 @@ Y tiembla a Su voz
 Tiembla a Su voz
 
 
-VERSO I
+[Verso I]
 
-CORO x2
+[Coro x2]
        A
 Cuán Grande es Dios
       E         F#m
@@ -35,7 +35,7 @@ Y todos lo verán
        E         A
 Cuán grande es Dios
 
-VERSO II
+[Verso II]
 A                  E
 Día a día El está
       F#m
@@ -54,10 +54,10 @@ Cordero y el León
                E
 Cordero y el León
 
-CORO x2
+[Coro x2]
 A E F#m D E A
 
-PUENTE x2
+[Puente x2]
              A
 Y Tu Nombre sobre todo es
          F#m
@@ -67,13 +67,13 @@ Y mi ser dirá
        E        A
 Cuan grande es Dios
 
-CORO x4
+[Coro x4]
 A E F#m E D E A
 
 SOLO
 A E F#m E D E A
 
-CORO x1
+[Coro x1]
 
 SOLO
 A E F#m E D E A

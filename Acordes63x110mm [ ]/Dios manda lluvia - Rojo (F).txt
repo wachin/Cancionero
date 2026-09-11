@@ -1,7 +1,7 @@
 Dios manda lluvia (F)
 Rojo
 
-VERSO
+[Verso]
 F Bb                 F
      Dios manda la lluvia
                  Dm
@@ -21,7 +21,7 @@ envía hoy tu fuego sana mis heridas
 restaurame Señor
  
 
-CORO
+[Coro]
            Bb  C
 Manda la lluvia
                  Am  Dm
@@ -40,6 +40,6 @@ Visita mi vida
             F
 cámbiame Señor
 
-VERSO
+[Verso]
 
-CORO
+[Coro]

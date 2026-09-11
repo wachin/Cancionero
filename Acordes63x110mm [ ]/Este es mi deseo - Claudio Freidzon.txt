@@ -1,11 +1,11 @@
 Este es mi deseo
 Claudio Friedson
 
-INTRO
+[Intro]
 C D Bm Em
 C D Bm C
 
-VERSO
+[Verso]
 G             Em
 Este es mi deseo
     Am G    D
@@ -22,7 +22,7 @@ Te ala_baré,
  Em    D/F#  G        F C D
 Mi adora___ción eres tú
 
-CORO x2
+[Coro x2]
 G                D
 Hoy te rindo mi ser
                Am
@@ -39,8 +39,8 @@ Dios haz tu obra en mi
 
 Nota: Al repetir el coro otra vez al final no va G sino C D
 
-VERSO
+[Verso]
 
-CORO
+[Coro]
 
-INTRO
+[Intro]

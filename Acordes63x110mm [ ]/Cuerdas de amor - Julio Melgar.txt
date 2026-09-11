@@ -1,6 +1,6 @@
                            CUERDAS DE AMOR
 
-Intro: Dm - Bb - F
+[Intro : Dm - Bb - F]
 
 Dm                Bb   F
 Aunque pase el tiempo sé
@@ -21,7 +21,7 @@ Tus cuerdas de amor
 Cayeron sobre mí
 
 
-CORO:
+[Coro]
                         F
 //Es tu amor que me sostiene
         Dm             Am
@@ -55,4 +55,4 @@ Y hoy me vuelvo a levantar.
 
 (CORO)
 
-PUENTE: Dm - C - Am - Bb
+[Puente : Dm - C - Am - Bb]

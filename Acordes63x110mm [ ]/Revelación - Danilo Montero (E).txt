@@ -1,7 +1,7 @@
 Revelación (E)
 Danilo Montero
 
-INTRO
+[Intro]
 E Bm D A
 
 VERO
@@ -14,7 +14,7 @@ E          Bm
 D                      A
  al que en el trono está.
 
-CORO
+[Coro]
 E                   Bm
  Santo, Santo, Santo   Dios todopoderoso
 D                                 A
@@ -24,10 +24,10 @@ E                     Bm
 D                    A
  tu eres digno por siempre y siempre
 
-VERSO
+[Verso]
 
-CORO
+[Coro]
 
-VERSO
+[Verso]
 
-CORO
+[Coro]

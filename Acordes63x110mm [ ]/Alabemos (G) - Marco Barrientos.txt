@@ -1,10 +1,10 @@
 Alabemos
 Marco Barrientos
 
-INTRO
+[Intro]
 Em C D Em C D
 
-VERSO x2
+[Verso x2]
   Em        C
 Alabemos, exaltemos
 D           Em        C D
@@ -14,7 +14,7 @@ y honremos, demos gloria,
  D            Em   C D
 digno es de loor
 
-CORO
+[Coro]
     G       D           Em
 Cantad la gloria de su nombre,
      C       D             Em
@@ -24,16 +24,16 @@ Cantad la gloria de su nombre,
     C         D        Em
 adorad al Cordero de Dios
 
-VERSO x2
+[Verso x2]
 
-CORO
+[Coro]
 
-PUENTE
+[Puente]
              C        D        Em
 El Señor es digno de toda la gloria
                  C        D         Em
 nuestro Dios es digno de todo el honor
-PUENTE-FINAL
+[Puente-Final]
      C           D
 Aclamémosle con gozo
    Bm          Em
@@ -43,10 +43,10 @@ Poned gloria en su alabanza,
     C           G
 cantad ante el Rey
 
-VERSO x1
+[Verso x1]
 
-CORO
+[Coro]
 
-PUENTE
+[Puente]
 
-PUENTE-FINAL x3
+[Puente-Final x3]

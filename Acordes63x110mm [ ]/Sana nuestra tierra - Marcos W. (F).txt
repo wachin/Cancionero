@@ -1,10 +1,10 @@
 Sana nuestra tierra
 Marcos Witt
-INTRO
+[Intro]
 F   F Dm Bb Gm C
     F Dm Bb Gm C
 
-VERSO
+[Verso]
 F       Dm       Bb
 Vengo a Ti, guiame
       C         F
@@ -19,7 +19,7 @@ Mi corazon hoy vuelve a Ti
 Solo a Ti
 
 
-PRE-CORO
+[Pre-Coro]
  F                  Dm
 Quiero humillarme, buscar Tu rostro
  Bb                   Gm       C
@@ -29,15 +29,15 @@ Vengo a invocarte, inclina Tu oido
    Bb               Gm      C
 Escucha y perdona, mi rebelion
 
-CORO
+[Coro]
 Gm       Dm     C
   Sana nuestra Tierra
 Gm       Dm     C
   Sana nuestra Tierra
 
-INTRO
+[Intro]
 
-VERSO
+[Verso]
 F       Dm       Bb
 Vengo a Ti, guiame
       C         F
@@ -53,7 +53,7 @@ Solo a Ti
 
 
 
-PRE-CORO
+[Pre-Coro]
  F                  Dm
 Quiero humillarme, buscar Tu rostro
  Bb                   Gm       C
@@ -63,13 +63,13 @@ Vengo a invocarte, inclina Tu oido
    Bb               Gm      C
 Escucha y perdona, mi rebelion
 
-CORO
+[Coro]
 Gm       Dm     C
   Sana nuestra Tierra
 Gm       Dm     C
   Sana nuestra Tierra
 
-PUENTE
+[Puente]
 C#       Eb         F
 Escucha hoy mi oracion
 C#      Eb          C
@@ -81,7 +81,7 @@ Bb C Dm C F
 Bb C Dm C F
 Bb C
 
-PRE-CORO
+[Pre-Coro]
  F                  Dm
 Quiero humillarme, buscar Tu rostro
  Bb                   Gm       C
@@ -92,7 +92,7 @@ Vengo a invocarte, inclina Tu oido
 Escucha y perdona, mi rebelion
 
 
-CORO
+[Coro]
 Gm       Dm     C
   Sana nuestra Tierra
 Gm       Dm     C
