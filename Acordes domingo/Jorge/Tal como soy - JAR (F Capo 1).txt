@@ -1,5 +1,6 @@
 Tal como soy (F Capo 1)
 Jesús Adrián Romero
+Poner el capotraste en la 1ra
 
 [Intro x2]
 E B A
@@ -23,7 +24,7 @@ sin nada que ofrecer
 más que mi canción
                   A
 No tengo más que darte 
-          F#m         B7
+          F#m         B
 pues todo es tuyo Señor
 
 [Verso II]
@@ -33,6 +34,6 @@ Tal como soy Señor, sin nada
 que entregar más que el corazón.
                  A            
 Me rindo todo a Ti,
-          F#m            B7
+          F#m            B
 tomame Señor, tal como soy.
 
