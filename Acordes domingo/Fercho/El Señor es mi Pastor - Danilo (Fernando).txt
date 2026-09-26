@@ -1,6 +1,4 @@
-El Señor es mi Pastor, Salmo 23
-
-Para tocarla por C# poner el capo en la 1ra.
+El Señor es mi Pastor
 
 [VERSO]
       C           Dm
