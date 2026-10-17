@@ -1,16 +1,7 @@
 El espiritu de Dios está en este lugar
 Inspiración
-8.38/10 (42)Inspiración  corregir
-desconocido
-bins0423
-Enviado por Edyn
-Mostrar/Ocultar Menú
-Desfile Automático
-Diagramas de Acordes
-Cambio de Tono
-Cifrado Inglés/Latino
-Formato del Texto
-------------Verso----------------
+
+[Verso]
         E                A            E
 //EL ESPIRITU DE DIOS ESTA EN ESTE LUGAR
       E                  A              B
@@ -19,10 +10,12 @@ EL ESPIRITU DE DIOS SE MUEVE EN ESTE LUGAR
 ESTA AQUI PARA CONSOLAR
         E           A
 ESTA AQUI PARA LIBERAR
-        E                   B                    E   E7
-ESTA AQUI PARA GUIAR, EL ESPIRITU DE DIOS ESTA AQUI //
+        E
+ESTA AQUI PARA GUIAR,
+      B                    E   E7
+EL ESPIRITU DE DIOS ESTA AQUI //
 
-------------Coro----------------
+[Coro]
               A  B
 //MUEVETE EN MI  I
             E
@@ -36,38 +29,3 @@ MUEVETE EN MI, DIOS ESPIRITU
             E
 MUEVETE EN MI //
 
-------------Verso----------------
-        E                A            E
-//EL ESPIRITU DE DIOS ESTA EN ESTE LUGAR
-      E                  A              B
-EL ESPIRITU DE DIOS SE MUEVE EN ESTE LUGAR
-        E            A
-ESTA AQUI PARA CONSOLAR
-        E           A
-ESTA AQUI PARA LIBERAR
-        E                   B                    E   E7
-ESTA AQUI PARA GUIAR, EL ESPIRITU DE DIOS ESTA AQUI //
-
-------------Coro----------------
-             A   B
-//MUEVETE EN MI  I
-            E
-MUEVETE EN MI
-         A             B
-TOCA MI MENTE, MI CORAZON
-          G#m        C#m7
-LLENA MI VIDA DE TU AMOR
-           F#m7       B
-MUEVETE EN MI, DIOS ESPIRITU
-            E
-MUEVETE EN MI ///
-
------------Conclusión----------
-
-           F#m7       B
-MUEVETE EN MI, DIOS ESPIRITU
-            E    A
-MUEVETE EN MI ///
-
-¡Oh, sí!
-¡Gracias, Espíritu Santo!
