@@ -14,8 +14,10 @@ Sólo a Él alabaré, Sólo a Él exaltaré//
 //De ti será mi alabanza,
    Bb     C     F
 En la congregación,
- Bb   C      Dm  C  Bb      Gm  C    F
-Cantaré, y ala  ba ré,  Tu nombre Señor//
+ Bb   C      Dm  C  Bb
+Cantaré, y ala  ba ré,
+    Gm  C    F
+Tu nombre Señor//
 
 [Verso x2]
 F    Dm   Bb C   F
@@ -23,7 +25,8 @@ F    Dm   Bb C   F
 [Coro]
 Bb    C     F
 Bb    C     F
-Bb    C     Dm  C  Bb   Gm  C    F
+Bb    C     Dm  C  Bb
+Gm  C    F
 
 [Final]
       Bb  C    F
