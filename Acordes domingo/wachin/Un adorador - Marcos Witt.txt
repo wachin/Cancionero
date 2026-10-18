@@ -1,9 +1,11 @@
 Un Adorador
 Marcos Witt
 
+Intro
+B
 
-F#/A#  B               E                     F#
-      Tú le diste al hombre un lenguaje muy bello
+ B              E                     F#
+Tú le diste al hombre un lenguaje muy bello
 B                 E              F#
   Tú le diste la música para adorarte
 G#m             D#m  E             B
@@ -11,9 +13,9 @@ G#m             D#m  E             B
 G#m             D#m  E            F#
     Estoy agradecido, y quiero adorarte
 
-B           B/D#         E   F#
+B                        E   F#
   Yo quiero ser un adorado-ooor
-B           B/D#         E   F#
+B                        E   F#
   Yo quiero ser un adorado-ooor
        G#m                 D#m
 Contemplar la hermosura de tu santidad
@@ -23,9 +25,9 @@ G#m           F# E   F#
 Yo quiero ser seño-ooor
          B
 Un adorador
-B           B/D#         E   F#
+B                        E   F#
   Yo quiero ser un adorado-ooor
-B           B/D#         E   F#
+B                        E   F#
   Yo quiero ser un adorado-ooor
        G#m                 D#m
 Contemplar la hermosura de tu santidad
