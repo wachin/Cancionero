@@ -1,4 +1,4 @@
-Al que me ciñe
+Al que me ciñe (F)
 Jesús Adrián Romero
 
 [Verso]
@@ -21,13 +21,10 @@ Cantaré, y ala  ba ré,  Tu nombre Señor//
 F    Dm   Bb C   F
 
 [Coro]
-     Bb    C        F
-////De ti será mi alabanza,
-   Bb     C     F
-En la congregación,
-Bb    C     F Em Dm    Bb   C    F
-Cantaré, y alabaré, Tu nombre Señor////
+Bb    C     F
+Bb    C     F
+Bb    C     Dm  C  Bb   Gm  C    F
 
 [Final]
-     Bb   C    F
+      Bb  C    F
 //Tu nombre Señor//
