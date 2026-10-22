@@ -12,7 +12,7 @@ G       G/B  C9        D4  D
   Tu volun__tad haz en e_llos
 Em7       G/B  C9           G/B
     Mi cora___zón te lo entrego
-Em7  Bm  C     D4  D/F#  G
+Em7  Bm  C     D      G
 Ena_mórame de ti
 
 [Verso II]
@@ -22,18 +22,17 @@ G         G/B  C9          D4   D
   Quiero sa___ber que es amarte
 Em7        G/B  C9        G/B
     De tu ver__dad yo saciarme
-Em7  Bm  C     D4    G      G7
+Em7  Bm  C     D     G      G7
 Ena_mórame de ti, Señor
 
 [Chorus]
 
-  G      G/B        C9         Bm7  Em7
-Que          tu presencia me inun__de
- Am7  G  D/F#  F        G      G/B
-Haz  de mi un  odre   nue_____vo
- C9             Bm7  Em7  Am7     G/B  C9
-Cambiame, renueva___me,       enamora_me
+  G  G/B    C9         Bm Em7
+Que  tu presencia me inunde
+ Am7  G/B  D    F      G G/B
+Haz  de   mi un odre nuevo
+ C9           Bm  Em7 Am7    G/B  C9
+Cambiame, renuevame,     enamora_me
 G/B  Am7     G/B  C9    D     G Em7 C9 D
          Enamora_me de ti, Señor
 
-[First Part]
