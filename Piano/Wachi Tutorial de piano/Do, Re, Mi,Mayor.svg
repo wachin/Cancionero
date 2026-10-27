@@ -2,13 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="274.79816mm"
-   height="62.007908mm"
-   viewBox="0 0 274.79816 62.007908"
+   width="245.44836mm"
+   height="61.821312mm"
+   viewBox="0 0 245.44837 61.821312"
    version="1.1"
    id="svg1"
-   sodipodi:docname="Acordes de piano mayores Do, Re, Mi.svg"
-   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="Do, Re, Mi,Mayor.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:export-filename="Do, Re, Mi,Mayor.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,34 +26,34 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.79689014"
-     inkscape:cx="557.16588"
-     inkscape:cy="117.3311"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.92611222"
+     inkscape:cx="495.62028"
+     inkscape:cy="129.03404"
+     inkscape:window-width="1360"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="use56" />
   <defs
      id="defs1" />
   <g
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(36.202282,-76.493081)">
+     transform="translate(22.423457,-76.679681)">
     <g
        transform="matrix(0.26458333,0,0,0.26458333,52.880619,73.347931)"
        id="g56">
       <rect
          class="panel"
-         x="17.071753"
-         y="13.592451"
-         width="327.51224"
-         height="231.65533"
-         rx="9.2112827"
+         x="23.262703"
+         y="13.57207"
+         width="314.24301"
+         height="231.69611"
+         rx="8.8380852"
          id="rect120"
-         style="fill:#fafafa;stroke:#dddddd;stroke-width:2" />
+         style="fill:#fafafa;stroke:#dddddd;stroke-width:1.95924" />
       <g
          transform="translate(40,10)"
          id="g120">
@@ -275,19 +278,19 @@
     </g>
     <g
        id="g5"
-       transform="matrix(0.26458333,0,0,0.26458333,130.98054,-119.25952)">
+       transform="matrix(0.26458333,0,0,0.26458333,120.3398,-119.07292)">
       <g
          id="use56"
          transform="translate(60,730)">
         <rect
            class="panel"
-           x="14.75231"
-           y="10.843838"
-           width="330.99139"
-           height="231.11618"
-           rx="9.3091326"
+           x="24.469801"
+           y="10.800669"
+           width="302.68311"
+           height="231.20251"
+           rx="8.5129614"
            id="rect168"
-           style="fill:#fafafa;stroke:#dddddd;stroke-width:1.98296" />
+           style="fill:#fafafa;stroke:#dddddd;stroke-width:1.89662" />
         <g
            transform="translate(40,10)"
            id="g168">
@@ -503,19 +506,19 @@
     </g>
     <g
        id="g3"
-       transform="matrix(0.26458333,0,0,0.26458333,-53.77723,11.445669)">
+       transform="matrix(0.26458333,0,0,0.26458333,-44.811254,11.572785)">
       <g
          id="g2"
          transform="translate(602.011,-7.3059584)">
         <rect
            class="panel"
-           x="-534.586"
-           y="254.37927"
-           width="327.5239"
-           height="230.03212"
-           rx="9.2116108"
+           x="-516.4306"
+           y="254.34438"
+           width="304.96674"
+           height="230.10193"
+           rx="8.5771904"
            id="rect71"
-           style="fill:#fafafa;stroke:#dddddd;stroke-width:2" />
+           style="fill:#fafafa;stroke:#dddddd;stroke-width:1.9302" />
         <g
            id="g1">
           <g

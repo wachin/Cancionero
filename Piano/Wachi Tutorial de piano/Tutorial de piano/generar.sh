@@ -48,6 +48,10 @@ for name in ("Figure", "FigureCaption"):
 # FigureCaption hereda de Caption y no trae propiedades propias: se las agregamos
 st = re.sub(r'(<style:style[^>]*style:name="FigureCaption"[^>]*>)\s*</style:style>',
             r'\1<style:paragraph-properties fo:text-align="center"/></style:style>', st)
+# Las tablas son cortas: se evita que una fila quede sola en la página siguiente
+for name in ("Table_20_Contents", "Table_20_Heading"):
+    st = re.sub(r'(<style:style[^>]*style:name="%s"[^>]*>\s*<style:paragraph-properties)' % name,
+                r'\1 fo:keep-with-next="always"', st)
 open(spath, "w", encoding="utf-8").write(st)
 
 with zipfile.ZipFile(src, "w", zipfile.ZIP_DEFLATED) as z:

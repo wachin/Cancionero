@@ -2,7 +2,7 @@
 
 Por: Washington Indacochea Delgado  
 [wachin.id@gmail.com](wachin.id@gmail.com)  
-2026 Febrero  
+2026 Octure  | Jipijapa
 
 Saludos alumnos, Dios les bendiga. Aquí les presento este tutorial de clases iniciales de piano.
 
@@ -62,14 +62,6 @@ En el piano los dedos no tienen nombre para nosotros: tienen **número**. Y es i
 
 ![](Dedos-mano-derecha.png){width=8cm}
 
-| Número | Dedo |
-| ------ | ---- |
-| 1 | Pulgar |
-| 2 | Índice |
-| 3 | Medio |
-| 4 | Anular |
-| 5 | Meñique |
-
 Cuando en una partitura o en un ejercicio veas un número encima de una nota, ese número te dice **con qué dedo tocarla**.
 
 ✋ **Ejercicio de la araña:** apoya los cinco dedos sobre Do, Re, Mi, Fa y Sol (uno por tecla, el pulgar en Do). Ahora levanta y baja un dedo a la vez, sin mover los otros. Primero 1, después 2, después 3, 4 y 5. Luego al revés.
@@ -92,7 +84,7 @@ Do#, Re#, Fa#, Sol#, La#
 
 Los sostenidos (#) son la misma nota, pero un poco más aguda.
 
-### Notas con sostenidos (#)
+## Notas con sostenidos (#)
 
 Notas con su tecla negra al lado (sostenido):
 
@@ -142,19 +134,42 @@ En las siguientes imágenes podrán ver la disposición de las notas en un tecla
 
 ## El truco de "toca una y salta una"
 
-Para los acordes de **Do, Fa y Sol** hay un truco muy fácil:
+Este truco sirve para armar **tres acordes distintos**, mirando solo las **teclas blancas**:
 
-1. Toca una tecla blanca.
-2. Salta la siguiente tecla blanca.
-3. Toca.
-4. Salta otra.
-5. Toca.
+- **Do mayor** = Do – Mi – Sol
+- **Fa mayor** = Fa – La – Do
+- **Sol mayor** = Sol – Si – Re
 
-Do (salto Re) Mi (salto Fa) Sol → **Do mayor**.  
-Fa (salto Sol) La (salto Si) Do → **Fa mayor**.  
-Sol (salto La) Si (salto Do) Re → **Sol mayor**.
+Son tres acordes separados, no uno. Los tres se arman con el mismo truco.
 
-⭐ **Reto:** tocar Do, Fa y Sol mayores sin mirar las imágenes.
+La regla es una sola:
+
+> **De las teclas blancas que siguen, tocas la 1ª, la 3ª y la 5ª. La 2ª y la 4ª no se tocan.**
+
+"Saltar" quiere decir **no tocarla**: el dedo pasa por encima y sigue. Y las teclas negras **no se cuentan**, como si no existieran.
+
+
+### Paso a paso con Do
+
+Las instrucciones están en la siguiente imagen:
+
+![](Truco-toca-y-salta.png)
+
+### Los tres acordes con el mismo truco
+
+Lo único que cambia es la tecla donde empiezas:
+
+| Acorde | 1ª (toco) | 2ª (salto) | 3ª (toco) | 4ª (salto) | 5ª (toco) |
+| ------ | --------- | ---------- | --------- | ---------- | --------- |
+| **Do mayor** | Do | Re | Mi | Fa | Sol |
+| **Fa mayor** | Fa | Sol | La | Si | Do |
+| **Sol mayor** | Sol | La | Si | Do | Re |
+
+> 🧠 En Fa y en Sol el truco se pasa al **Do siguiente**, el de la octava de arriba. No te detengas en el Si: sigue contando hacia la derecha.
+
+> 🧠 Este truco funciona solo cuando las tres notas son blancas. Cuando el acorde lleva teclas negras (Do#, Re#, Fa#...), se usa el truco de la clase 15.
+
+⭐ **Reto:** tocar Do, Fa y Sol mayores sin mirar las imágenes, diciendo en voz alta "toca, salto, toca, salto, toca".
 
 ---
 
@@ -716,22 +731,4 @@ Cinco días a la semana es mejor que un solo día de dos horas.
 4. **Grábate con el celular.** Escucharte te enseña más que cualquier explicación.
 5. **No pares en el error.** Si te equivocas, sigue. Detenerse en cada error enseña a detenerse.
 
-## 🧠 Meta del alumno
-
-Después de este curso deben poder:
-
-- ✅ Reconocer las notas en el teclado
-- ✅ Sentarse y usar los dedos correctamente
-- ✅ Formar acordes mayores y menores
-- ✅ Tocar la escala de Do con la digitación correcta
-- ✅ Cambiar entre C – G – Am – F sin saltar
-- ✅ Tocar acordes y arpegios con la mano derecha
-- ✅ Agregar el bajo con la mano izquierda
-- ✅ Leer acordes en español y en inglés, con sostenidos y bemoles
-- ✅ Acompañar dos alabanzas completas
-
-## Una última palabra
-
-Aprender piano es como aprender a andar en bicicleta: al principio parece imposible y después ya no te acuerdas de cómo era no saber. Lo único que se necesita es **volver al teclado**. Los días que no tengas ganas, toca cinco minutos. Cinco minutos también cuentan.
-
-Dios les bendiga, y nos vemos en la próxima clase.
+*Dios les bendiga*

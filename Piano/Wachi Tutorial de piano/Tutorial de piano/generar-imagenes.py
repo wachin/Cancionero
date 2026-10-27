@@ -4,7 +4,7 @@ Salida: el mismo dibujo en .svg (vectorial) y .png (para el tutorial)."""
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
-from matplotlib.patches import Rectangle, FancyBboxPatch, Circle
+from matplotlib.patches import Rectangle, FancyBboxPatch, Circle, Ellipse
 
 OUT = "/home/wachin/Dev/Cancionero/Piano/Wachi Tutorial de piano/Tutorial de piano"
 BLUE = "#6FA8DC"
@@ -169,3 +169,107 @@ def root_map():
 
 
 root_map()
+
+
+# --- truco: toca una tecla blanca y salta la siguiente ---
+def truco_salta():
+    WM, HM = 7.60, 6.55
+    fig, ax = plt.subplots(figsize=(WM * 0.62, HM * 0.62))
+    ax.set_xlim(0, WM); ax.set_ylim(0, HM); ax.axis("off"); ax.set_aspect("equal")
+    ax.add_patch(FancyBboxPatch((0.05, 0.05), WM - 0.10, HM - 0.10,
+                                boxstyle="round,pad=0.02,rounding_size=0.22",
+                                facecolor="white", edgecolor="#C9C9C9", lw=2.2, zorder=1))
+    ax.text(0.30, HM - 0.30, "Toca una y salta una", fontsize=18, fontweight="bold",
+            va="top", ha="left", color=INK, zorder=6)
+    ax.text(0.30, HM - 0.88, "Así se arma Do mayor (y también Fa y Sol)", fontsize=11,
+            va="top", ha="left", color=GREY, zorder=6)
+
+    KW2, KH2 = 1.06, 2.55
+    X0_2 = (WM - 5 * KW2) / 2
+    y0 = 1.30
+    top = y0 + KH2
+
+    for i in range(5):
+        ax.add_patch(Rectangle((X0_2 + i * KW2, y0), KW2, KH2, facecolor="white",
+                               edgecolor=INK, lw=1.6, zorder=2))
+    for i in (0, 1, 3):
+        cx = X0_2 + (i + 1) * KW2
+        bw, bh = KW2 * 0.58, KH2 * 0.60
+        ax.add_patch(Rectangle((cx - bw / 2, top - bh), bw, bh,
+                               facecolor="black", edgecolor="black", lw=1.0, zorder=3))
+
+    toca = [True, False, True, False, True]
+    verde, gris = "#59A14F", "#D9D9D9"
+    for i in range(5):
+        cx = X0_2 + (i + 0.5) * KW2
+        if toca[i]:
+            ax.add_patch(FancyBboxPatch((cx - 0.48, top + 0.62), 0.96, 0.44,
+                                        boxstyle="round,pad=0.0,rounding_size=0.22",
+                                        facecolor=verde, edgecolor="black", lw=1.2, zorder=5))
+            ax.text(cx, top + 0.84, "TOCA", ha="center", va="center", fontsize=10,
+                    fontweight="bold", color="white", zorder=6)
+            ax.add_patch(Circle((cx, y0 + 0.55), 0.20, facecolor=verde,
+                                edgecolor="black", lw=1.3, zorder=6))
+        else:
+            ax.add_patch(FancyBboxPatch((cx - 0.48, top + 0.62), 0.96, 0.44,
+                                        boxstyle="round,pad=0.0,rounding_size=0.22",
+                                        facecolor=gris, edgecolor="#9A9A9A", lw=1.2, zorder=5))
+            ax.text(cx, top + 0.84, "salta", ha="center", va="center", fontsize=10,
+                    fontweight="bold", color="#4A4A4A", zorder=6)
+        ax.text(cx, top + 1.34, str(i + 1), ha="center", va="center", fontsize=11,
+                fontweight="bold", color="#8A8A8A", zorder=6)
+        ax.text(cx, y0 - 0.42, WHITE[i], ha="center", va="center", fontsize=12.5,
+                fontweight="bold", color=GREY, zorder=4)
+
+    ax.text(WM / 2, 0.45,
+            "Las teclas negras no se cuentan: solo se miran las blancas.",
+            ha="center", va="center", fontsize=8.6, fontweight="bold", color=GREY)
+
+    for ext in ("png", "svg"):
+        fig.savefig(f"{OUT}/Truco-toca-y-salta.{ext}", dpi=200,
+                    bbox_inches="tight", facecolor="white", format=ext)
+    plt.close(fig)
+    print("ok Truco-toca-y-salta")
+
+
+truco_salta()
+
+
+# --- mano derecha con los numeros de los dedos ---
+def mano_derecha():
+    fig, ax = plt.subplots(figsize=(7.9, 5.2))
+    ax.set_xlim(-3.1, 4.0); ax.set_ylim(-2.3, 2.8)
+    ax.axis("off"); ax.set_aspect("equal")
+
+    skin, edge = "#F4CBA4", "#B98A63"
+    ax.add_patch(Ellipse((0, -0.15), 2.6, 2.0, facecolor=skin, edgecolor=edge, lw=2.2, zorder=2))
+    for fx, flen, fw, num in [(-0.85, 1.45, 0.42, "2"), (-0.30, 1.62, 0.44, "3"),
+                              (0.26, 1.50, 0.43, "4"), (0.80, 1.15, 0.38, "5")]:
+        ax.add_patch(FancyBboxPatch((fx - fw / 2, 0.45), fw, flen,
+                                    boxstyle="round,pad=0.0,rounding_size=0.2",
+                                    facecolor=skin, edgecolor=edge, lw=2.2, zorder=3))
+        ax.add_patch(Circle((fx, 0.45 + flen + 0.30), 0.26, facecolor=BLUE,
+                            edgecolor="black", lw=1.5, zorder=5))
+        ax.text(fx, 0.45 + flen + 0.30, num, ha="center", va="center", fontsize=14,
+                fontweight="bold", color="white", zorder=6)
+
+    ax.add_patch(FancyBboxPatch((-2.35, -0.35), 1.35, 0.62,
+                                boxstyle="round,pad=0.0,rounding_size=0.28",
+                                facecolor=skin, edgecolor=edge, lw=2.2, zorder=3))
+    ax.add_patch(Circle((-2.35, 0.05), 0.26, facecolor=BLUE, edgecolor="black", lw=1.5, zorder=5))
+    ax.text(-2.35, 0.05, "1", ha="center", va="center", fontsize=14,
+            fontweight="bold", color="white", zorder=6)
+
+    ax.text(-1.30, -1.95, "Mano derecha", ha="center", fontsize=15,
+            fontweight="bold", color=INK)
+    ax.text(1.60, -1.15, "1 = pulgar\n2 = índice\n3 = medio\n4 = anular\n5 = meñique",
+            ha="left", va="center", fontsize=11.5, color=GREY, linespacing=1.75)
+
+    for ext in ("png", "svg"):
+        fig.savefig(f"{OUT}/Dedos-mano-derecha.{ext}", dpi=200, bbox_inches="tight",
+                    facecolor="white", format=ext)
+    plt.close(fig)
+    print("ok Dedos-mano-derecha")
+
+
+mano_derecha()
