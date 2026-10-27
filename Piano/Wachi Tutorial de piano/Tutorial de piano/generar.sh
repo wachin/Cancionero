@@ -1,0 +1,55 @@
+#!/usr/bin/env bash
+# Regenera tutorial-piano.odt y tutorial-piano.pdf a partir de tutorial-piano.md
+# Uso: ./generar.sh
+set -euo pipefail
+cd "$(dirname "$0")"
+
+if command -v rsvg-convert >/dev/null 2>&1; then
+  echo "0/4  SVG -> PNG"
+  for f in *.svg; do
+    [ -e "$f" ] || continue
+    rsvg-convert -w 1900 "$f" -o "${f%.svg}.png"
+  done
+else
+  echo "0/4  rsvg-convert no está instalado: se usan los PNG existentes"
+fi
+
+echo "1/4  Markdown -> ODT"
+pandoc tutorial-piano.md -o tutorial-piano.odt
+
+echo "2/4  Aplicando bordes a las tablas"
+python3 - <<'PY'
+import os, tempfile, zipfile
+
+src = "tutorial-piano.odt"
+tmp = tempfile.mkdtemp()
+with zipfile.ZipFile(src) as z:
+    z.extractall(tmp)
+
+path = os.path.join(tmp, "content.xml")
+s = open(path, encoding="utf-8").read()
+
+# Pandoc genera las celdas sin borde: se los agregamos para que las tablas se lean mejor
+s = s.replace('fo:border="none"', 'fo:border="0.5pt solid #BFBFBF" fo:padding="0.05in"')
+
+# Fila de encabezado con fondo gris claro
+s = s.replace(
+    '<style:style style:name="TableHeaderRowCell" style:family="table-cell">\n      <style:table-cell-properties',
+    '<style:style style:name="TableHeaderRowCell" style:family="table-cell">\n      <style:table-cell-properties fo:background-color="#EDEDED"')
+
+open(path, "w", encoding="utf-8").write(s)
+
+with zipfile.ZipFile(src, "w", zipfile.ZIP_DEFLATED) as z:
+    z.write(os.path.join(tmp, "mimetype"), "mimetype", compress_type=zipfile.ZIP_STORED)
+    for root, _, files in os.walk(tmp):
+        for f in files:
+            p = os.path.join(root, f)
+            arc = os.path.relpath(p, tmp)
+            if arc != "mimetype":
+                z.write(p, arc)
+PY
+
+echo "3/4  ODT -> PDF"
+soffice --headless --convert-to pdf --outdir . tutorial-piano.odt >/dev/null 2>&1
+
+echo "Listo: tutorial-piano.odt y tutorial-piano.pdf"
