@@ -586,9 +586,11 @@ Y aquí viene lo importante: cada uno de estos acordes **también tiene un nombr
 
 Fíjate en algo: cuando el acorde se llama con sostenido, la nota del medio casi siempre es una **tecla blanca** (Fa, Sol, Do, Re). La única excepción es **Fa#**, que se toca con **tres teclas negras**.
 
-![](Acordes-Sostenidos-Mayores-Do-Re.png){width=16cm}
+![](Sostenidos/Acordes-Sostenidos-Mayores-Do-Re.png){width=16cm}
 
-![](Acordes-Sostenidos-Mayores-Fa-Sol-La.png){width=16cm}
+![](Sostenidos/Acordes-Sostenidos-Mayores-Fa-Sol.png){width=16cm}
+
+![El La# mayor se toca exactamente igual que el Sib mayor](Sostenidos/Acorde-Sostenido-Mayor-La.png){width=10cm}
 
 > 🎵 El **La# mayor** es el mismo acorde de **Sib** que ya tocas en "Hay libertad". En esa canción aparece como Sib porque está escrita con bemoles.
 

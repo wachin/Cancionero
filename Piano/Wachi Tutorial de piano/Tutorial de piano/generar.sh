@@ -6,8 +6,8 @@ cd "$(dirname "$0")"
 
 if command -v rsvg-convert >/dev/null 2>&1; then
   echo "0/4  SVG -> PNG"
-  for f in *.svg; do
-    [ -e "$f" ] || continue
+  shopt -s nullglob
+  for f in *.svg */*.svg; do
     rsvg-convert -w 1900 "$f" -o "${f%.svg}.png"
   done
 else
@@ -19,7 +19,7 @@ pandoc tutorial-piano.md -o tutorial-piano.odt
 
 echo "2/4  Aplicando bordes a las tablas"
 python3 - <<'PY'
-import os, tempfile, zipfile
+import os, re, tempfile, zipfile
 
 src = "tutorial-piano.odt"
 tmp = tempfile.mkdtemp()
@@ -38,6 +38,17 @@ s = s.replace(
     '<style:style style:name="TableHeaderRowCell" style:family="table-cell">\n      <style:table-cell-properties fo:background-color="#EDEDED"')
 
 open(path, "w", encoding="utf-8").write(s)
+
+# Las figuras con leyenda se centran (pandoc las deja alineadas a la izquierda)
+spath = os.path.join(tmp, "styles.xml")
+st = open(spath, encoding="utf-8").read()
+for name in ("Figure", "FigureCaption"):
+    st = re.sub(r'(<style:style[^>]*style:name="%s"[^>]*>\s*<style:paragraph-properties)' % name,
+                r'\1 fo:text-align="center"', st)
+# FigureCaption hereda de Caption y no trae propiedades propias: se las agregamos
+st = re.sub(r'(<style:style[^>]*style:name="FigureCaption"[^>]*>)\s*</style:style>',
+            r'\1<style:paragraph-properties fo:text-align="center"/></style:style>', st)
+open(spath, "w", encoding="utf-8").write(st)
 
 with zipfile.ZipFile(src, "w", zipfile.ZIP_DEFLATED) as z:
     z.write(os.path.join(tmp, "mimetype"), "mimetype", compress_type=zipfile.ZIP_STORED)
