@@ -1,69 +1,65 @@
-﻿Está cayendo (G)
+﻿Está cayendo (C)
 Jose Luis Reyes
 
-[Acordes]
-Cadd9  x32033
-Am7    x02010
-
 [Intro]
-G Em C D
-G Em C D
+C Am F G
+C Am F G
 
 [Verso]
-G                    Am
+C                    Dm
 Algo está cayendo aquí
-C          D           G
+F          G           C
   es tan fuerte sobre mí
-Em                   Am
+Am                   Dm
    mis manos levantaré
-C        D         G  Cadd9 G
+F        G         C 
   y su gloria tocaré
 
-                     Am
+                     Dm
 Algo está cayendo aquí
-C          D           G
+F          G           C
   es tan fuerte sobre mí
-Em                   Am
+Am                   Dm
    mis manos levantaré
-C        D         G  Cadd9 G
+F        G         C  F C
   y su gloria tocaré
 
-D
+G
 
 
 [Coro]
-        G   Cadd9 G
+        C   Fadd9 C
 Está cayendo
-                 D
+                 G
 su gloria sobre mí
-           Am
+           Dm
 sanando heridas
-               Am7  C
+               Dm   F
 levantando al ca----ído
-                  D
+                  G
 su gloria está aquí
 
-        G   Cadd9 G
+        C   F   C
 Está cayendo
-                 D
+                 G
 su gloria sobre mí
-           Am
+           Dm
 sanando heridas
-               Am7  C
+               Dm   F
 levantando al ca----ído
-                  D
+                  G
 su gloria está aquí
 
-Em C Em C D
+Am F Am F G
 
 [Verso]
 
 [Coro]
 
 [Final]
-                  Em  D C
+                  Am  G F
 su gloria está aquí
-     D            Em  D C
+     G            Am  G F
 su gloria está aquí
-     D            G
+     G            C
 su gloria está aquí
