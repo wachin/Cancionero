@@ -206,6 +206,7 @@ Gsus4   330013
 Asus2   x02200
 Asus4   x02230
 Bsus2   x24422
+Bsus4   x24422
 Bsus4   x24442
 
 👉 Muy usados para adornar progresiones.
