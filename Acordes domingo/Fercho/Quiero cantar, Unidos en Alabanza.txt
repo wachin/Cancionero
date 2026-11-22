@@ -1,5 +1,8 @@
 Quiero cantar / unidos en alabanza
 
+[Intro x2]
+D Bm G A
+
 [Verso 1]
    D               Bm
 Quiero cantar una linda cancion,
@@ -20,6 +23,11 @@ Solo en él, encontre, esa paz que busque
         D          Bm       G   A
 Solo en él, encontré, la felicidad
 
+[Puente]
+   D Bm G   A
+G# G A  F#m Bm
+   G A  D   A
+
 [Unidos]
     D       Bm           G       A
 //unidos, unidos, en tu nombre unidos//
@@ -35,9 +43,9 @@ Iremos por este mundo cantando al Señor
 //la gloria de Jesús
     D              Bm
 Al fin resplandecera
-      G          A               D
+      G          A               D D7
 Y el mundo llenara de amor y de paz//
 
 [Final]
-G          A          G - D
+      G          A                    G D
 Y el mundo llenara de amor y de paz//
