@@ -1,30 +1,31 @@
-Gracias
+Gracias (Gm Capo 1)
 Marcos Witt
+Poner el capo en la 1ra
 
 [Verso I]
-          Gm
+          F#m
 Me has tomado en tus brazos
-          F
+          E
 y me has dado salvación
-        Gm
+        F#m
 de tu amor has derramado
-           F
+           E
 en mi corazón
-       Gm
-No sabre agradecerte
-            F
+       F#m
+No sabré agradecerte
+            E
 lo que has hecho por mi
-       Gm                      F
+       F#m                     E
 solo puedo darte ahora mi canción
 
 [Coro]
-            A# F     Cm       G#m F
+            A  E     Bm       Gm E
 Yo te doy gracias, gracias Señor,
-  A#          F     D# F
+  A           E     D E
 gracias mi Señor Jesús
-  A# F            Cm       G#m
+  A  E            Bm       Gm
 gracias, muchas gracias Señor,
-  A#          F     D#
+  A           E     D
 gracias mi Señor Jesús,
 
 [Verso II]
@@ -35,4 +36,4 @@ por tu sangre tengo entrada
 ante el trono celestial
 puedo entrar confiadamente ante ti
 
-[Coro]
+[Coro x2]
