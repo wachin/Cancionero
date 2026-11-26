@@ -1,5 +1,12 @@
 Grande y fuerte (Am)
 Omar Oropesa
+[Acordes]
+G       320033
+G6      320000
+E       022100
+E7      020100
+
+
 [Verso]
 Am                       G
 Mi Dios es grande y fuerte,
@@ -19,19 +26,10 @@ Sus enemigos tiemblan
    F         G
 Y huyen ante Él
 
-SOLO n1 x3
-Am G F G
+[Solo x4]
+Am G Em Am G6 Am
 
 [Verso x2]
-Am                       G
-Mi Dios es grande y fuerte,
-   F          G
-y su palabra vence,
-    Am         G
-Sus enemigos tiemblan
-   F         G
-Y huyen ante Él
-
 Am                       G
 Mi Dios es grande y fuerte,
    F          G
@@ -44,25 +42,31 @@ Y huyen ante Él
 [Coro x2]
       F    G      E7       Am
 Jesucristo es el Señor mi Rey
-    G  F      G
+Am  G6 F      G
 En su nombre hay,
        E7          Am
 Hay poder para vencer
-   G  F    G      E7       Am
-Jesucristo es el Señor mi Rey
-    G  F      G
+ Am G6 F    G        E7     Am
+Je-sucristo es el Señor mi Rey
+    G6 F      G
 En su nombre hay,
-       E7          Am G F G
+       E7          Am G Em Am G6 Am
 Hay poder para vencer
 
-SOLO n1 x1
-Am G F G
+[Solo x1]
+Am G Em Am G6 Am
 
 [Verso x2]
-
-[Coro x2]
-
-SOLO n1 x2
+Am G F G
 Am G F G
 
 [Coro x2]
+   F  G  E7 Am   G6 F G   E7 Am
+G6 F  G  E7 Am   G6 F G   E7 Am
+
+[Solo x2]
+Am G Em Am G6 Am
+
+[Coro x2]
+   F  G  E7 Am   G6 F G   E7 Am
+G6 F  G  E7 Am   G6 F G   E7 Am
